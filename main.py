@@ -9,7 +9,8 @@ jobs = scrape_jobs(
     location="India",
     results_wanted=100,
     hours_old=1,
-    linkedin_fetch_description=True 
+    linkedin_fetch_description=True ,
+    proxies=None
 )
 print(f"Found {len(jobs)} jobs")
 print(jobs.head())
