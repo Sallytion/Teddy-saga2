@@ -19,7 +19,8 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install jobspy
+        pip install python-jobspy
+        pip list | grep -i job
         
     - name: Run job scraper
       run: python main.py
