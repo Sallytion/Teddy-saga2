@@ -2,6 +2,11 @@ name: Job Scraper
 
 on:
   workflow_dispatch:  # Allows manual triggering from GitHub UI
+    inputs:
+      resumeUrl:
+        description: 'n8n webhook URL to call when workflow completes'
+        required: false
+        type: string
 
 permissions:
   contents: write  # Allows the action to commit and push changes
@@ -25,7 +30,12 @@ jobs:
         pip install -r requirements.txt
         
     - name: Run job scraper
-      run: python main.py
+      run: |
+        python main.py
+        # Extract job count from the CSV for the webhook
+        JOBS_COUNT=$(wc -l < jobs.csv)
+        JOBS_COUNT=$((JOBS_COUNT - 1))  # Subtract header row
+        echo "JOBS_COUNT=$JOBS_COUNT" >> $GITHUB_ENV
       
     - name: Commit and push job results
       run: |
@@ -41,3 +51,17 @@ jobs:
         name: job-results
         path: jobs.csv
         retention-days: 30
+        
+    - name: Notify n8n webhook (if provided)
+      if: ${{ github.event.inputs.resumeUrl != '' }}
+      run: |
+        curl -X POST "${{ github.event.inputs.resumeUrl }}" \
+          -H "Content-Type: application/json" \
+          -d '{
+            "status": "completed",
+            "workflow": "Job Scraper",
+            "jobsFound": "${{ env.JOBS_COUNT }}",
+            "timestamp": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'",
+            "artifactUrl": "${{ steps.upload-artifact.outputs.artifact-url }}",
+            "repositoryUrl": "${{ github.server_url }}/${{ github.repository }}"
+          }'
