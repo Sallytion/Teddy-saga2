@@ -1,1151 +1,190 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4316165169","linkedin","https://www.linkedin.com/jobs/view/4316165169","https://jobs.lever.co/safe/3ebaee75-8c43-490a-9711-a1f580d2a2f1&urlHash=sHIP","Software Development Engineer III - Data","Safe Security","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering","","","We’re looking for a seasoned Senior Software Development Engineer (SDE III) – Data Engineering with deep expertise in building large\\-scale data ingestion, processing, and analytics platforms. In this role, you’ll collaborate closely with Product, Design, and cross\\-functional stakeholders to design and implement high\\-throughput data pipelines and lakehouse solutions that power analytics, AI, and real\\-time decision\\-making for predicting and preventing cyber breaches.
- 
-
-
-
-  
-
-
-
-
-
-**What You’ll Do:** 
-
-
-
-* Technical Leadership: Lead and mentor developers, fostering a culture of innovation, quality, and continuous improvement
-* Design and Develop: Architect and implement high\\-scale data pipelines leveraging Apache Spark, Flink, and Airflow to process streaming and batch data efficiently.
-* Data Lakehouse and Storage Optimization: Build and maintain data lakes and ingestion frameworks using Snowflake, Apache Iceberg, and Parquet, ensuring scalability, cost efficiency, and optimal query performance.
-* Data Modeling and System Design: Design robust, maintainable data models to handle structured and semi\\-structured datasets for analytical and operational use cases.
-* Real\\-time and Batch Processing: Develop low\\-latency pipelines using Kafka and Spark Structured Streaming, supporting billions of events per day.
-* Workflow Orchestration: Automate and orchestrate end\\-to\\-end ELT processes with Airflow, ensuring reliability, observability, and recovery from failures.
-* Cloud Infrastructure: Build scalable, secure, and cost\\-effective data solutions leveraging AWS native services (S3, Lambda, ECS, etc.).
-* Mentorship: Lead by example, guide junior engineers, conduct reviews, and drive adoption of best practices for data engineering excellence.
-* Monitoring and Optimization: Implement strong observability, data quality checks, and performance tuning to maintain high data reliability and pipeline efficiency.
-
-
-
-  
-
-
-
-
-
-**What We’re Looking For:** 
-
-
-
-* Bachelor’s or Master's degree in Computer Science, Engineering, or a related field
-* 6\\+ years of experience in data engineering with a proven track record of designing large\\-scale, distributed data systems.
-* Strong expertise in Snowflake and other distributed analytical data stores.
-* Hands\\-on experience with Apache Spark, Flink, Airflow, and modern data lakehouse formats (Iceberg, Parquet).
-* Deep understanding of data modeling, schema design, query optimization, and partitioning strategies at scale.
-* Proficiency in Python, SQL, Scala, Go/Nodejs with strong debugging and performance\\-tuning skills.
-* Experience in streaming architectures, CDC pipelines, and data observability frameworks.
-* Ability to mentor engineers, review designs, and lead technical discussions.
-* Familiarity with using AI Coding assistants like Cursor, Claude Code, or GitHub Copilot.
-
-
-
-  
-
-
-
-
-
-**Preferred Qualifications:** 
-
-
-
-* Exposure to CI/CD pipelines, automated testing, and infrastructure\\-as\\-code for data workflows.
-* Familiarity with streaming platforms (Kafka, Kinesis, Pulsar) and real\\-time analytics engines (Druid, Pinot, Rockset).
-* Understanding of data governance, lineage tracking, and compliance requirements in a multi\\-tenant SaaS platform.
-
-
-
-  
-
-
-
-
-
- If you’re passionate about cyber risk, thrive in a fast\\-paced environment, and want to be part of a team that’s redefining security—
- **we want to hear from you!** 
- 🚀","Software Development","https://www.linkedin.com/company/safe-ccrm","https://media.licdn.com/dms/image/v2/D560BAQGKWjgaXHeWlQ/company-logo_100_100/company-logo_100_100/0/1732705412461/safecrq_logo?e=2147483647&v=beta&t=jp58K09FNr3gLDvTX3dVNXwsjE2I8yUDgog82o_9PIc","","","","","","","","","","",""
-"li-4313862790","linkedin","https://www.linkedin.com/jobs/view/4313862790","","Technical Solutions Engineer","Hireginie","Goa, India","","fulltime","","","","","",False,"associate","Information Technology and Engineering","","","**Job Description: Technical Solutions Engineer \\- 1** 
-
-
-
-
-**Location: Goa** 
-
-
-
-
-**Experience: 1\\-3 Years of entry\\-level experience in a similar role.** 
-
-
-
-
-**Qualification: A Bachelor's degree in engineering or a related field is required.** 
-
-
-
-
-  
-
-
-
-
-
-**About the role:** 
- We're hiring a Technical Solutions Engineer to build and lead this function from the ground up. In this high\\-impact role, you'll act as a tech evangelist driving product adoption through demos, walkthroughs, and technical support. You'll work closely with sales, product, and engineering teams to craft and deliver solutions that meet customer needs. Strong problem\\-solving skills, clear communication, and the ability to simplify complex tech for diverse audiences are key. This is a unique opportunity to shape product direction and create meaningful customer value.
- 
-
-
-
-  
-
-
-
-
-
-**Responsibilities:** 
-
-
-
-* Collaborate with customers and internal stakeholders to gather detailed integration requirements.
-* Understand business use cases and identify all necessary integration touchpoints (e.g., event triggers, data flows).
-* Maintain API documentation, including monitoring integrations APIs and reporting APIs health
-* Participate in customer calls to gain clarity on operational needs and calling script dependencies.
-* Define and document the data required to support both business logic and operational execution.
-* Set up integration configurations as per the agreed\\-upon use cases.
-* Conduct thorough testing and validation to ensure seamless end\\-to\\-end integration.
-* Communicate blockers, risks, and dependencies clearly across internal and external teams.
-* Maintain clear and comprehensive documentation, including well\\-written Minutes of Meetings (MoMs).
-* Actively contribute to product development by getting involved in feature\\-building discussions and independently owning feature implementations where appropriate.
-
-
-
-  
-
-
-
-
-
-**Requirements:** 
-
-
-
-* Strong understanding of RESTful APIs and webhooks.
-* Proficient in Python — capable of reading and debugging codebases to resolve integration issues.
-* Able to write SQL queries for debugging and data validation.
-* Solid understanding of data security practices — including encryption, secure credential storage, and API\\-level access controls.
-* Excellent communication skills — confident in leading client discussions and driving clarity. You'll be communicating with both technical \\& non\\-technical people as part of your role.
-* Assertive and pragmatic — comfortable pushing back or saying “no” when needed to ensure business alignment.
-* Strong documentation skills — consistently produces clear, structured technical and meeting documentation.
-* Problem\\-Solving: Strong analytical and troubleshooting skills to diagnose and resolve technical issues effectively.
-* Adaptability: Quick learner with the ability to adapt to evolving technologies, products, and client needs.
-* Time Management: Able to operate under pressure and manage high\\-stakes, time\\-sensitive situations effectively.","Technology, Information and Media, IT Services and IT Consulting, and IT System Training and Support","https://in.linkedin.com/company/hireginie-pvt-ltd","https://media.licdn.com/dms/image/v2/C560BAQFpnrewVq5D0A/company-logo_100_100/company-logo_100_100/0/1651922850031/hireginie_pvt_ltd_logo?e=2147483647&v=beta&t=9hq37VHb8wwZCq465jjMYcBnifj3BAflP0DhyGdcU9c","","","","","","","","","","",""
-"li-4316820133","linkedin","https://www.linkedin.com/jobs/view/4316820133","https://aexp.eightfold.ai/careers/job/38511921?hl=en&utm_source=linkedin&domain=aexp.com&urlHash=SD49","Software Engineer III","American Express","Bengaluru South, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Other","","","At American Express, our culture is built on a 175\\-year history of innovation, shared
- 
-
- values
- 
-
- and Leadership Behaviors, and an unwavering commitment to back our customers, communities, and colleagues. As part of Team Amex, you'll experience this powerful backing with comprehensive support for your holistic well\\-being and many opportunities to learn new skills, develop as a leader, and grow your career.
+"li-4316804485","linkedin","https://www.linkedin.com/jobs/view/4316804485","","Software Engineer","Microsoft","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","Microsoft Silicon, Cloud Hardware, and Infrastructure Engineering (SCHIE) is the team behind Microsoft’s expanding Cloud Infrastructure and responsible for powering Microsoft’s “Intelligent Cloud” mission. SCHIE delivers the core infrastructure and foundational technologies for Microsoft's over 200 online businesses including Bing, MSN, Office 365, Xbox Live, Teams, OneDrive, and the Microsoft Azure platform globally with our server and data center infrastructure, security and compliance, operations, globalization, and manageability solutions. Our focus is on smart growth, high efficiency, and delivering a trusted experience to customers and partners worldwide and we are looking for passionate, high\\-energy engineers to help achieve that mission.
    
 
   
 
-
-
- Here, your voice and ideas matter, your work makes an impact, and together, you will help us define the future of American Express.
+ The Azure Data Processing Unit (DPU) team brings together state\\-of\\-the\\-art software and hardware expertise to create a highly programmable and high\\-performance chip with the capability to efficiently handle large data volumes. Thanks to its integrated design, this solution empowers Azure to develop solutions for solving the next generation problems with increased agility and performance leveraging the DPU’s compute, storage, and networking capabilities.
    
 
   
 
-
-
-**As an Engineer, you will:**
-
-
- Function as a member of an agile team and helps drive consistent development and test practices with respect to tools, common components, and documentation.
-   
-
-
-
- Have primary focus (80%\\+) on writing quality code, perform unit testing and test automation in ongoing sprints.
-   
-
-
-
- Build new micro\\-services and web services that help run fraud risk assessment for customer transactions.
-   
-
-
-
- Improve efficiency, reliability, and scalability of our data pipelines.
-   
-
-
-
- Work on multi\\-functional initiatives and collaborate with Engineers across organizations.
-   
-
-
-
- Build CICD pipelines for continuous integration and delivery.
-   
-
-
-
- Build automation for application changes and deployment for faster time to market.
-   
-
-
-
- Develops deep understanding of tie\\-ins with other systems and platforms within the supported domains.
-   
-
-
-
- Perform ongoing refactoring of code, quality assurance and testing, applying best\\-in\\-class methodologies and processes.
-   
-
-
-
- Find opportunities to adopt innovative technologies \\& ideas in development / test area.
-   
-
-
-
- Provide continuous support for ongoing application availability.
-   
-
-
-
- Collaborate/influence within and across teams to create successes with an innovative attitude and challenge the status quo. 
+ As a Software Engineer in the DPU Networking software team, you will design, develop, deploy and support networking packet forwarding that enable high performant data processing within various network endpoints in Azure data centers. You will work as part of a dynamic, multi\\-talented team of engineers from across the world. This opportunity will allow you to develop new solutions for the Azure fleet, participate in the design of cutting\\-edge networking solutions and hone your design and performance optimization skills.
    
 
   
 
-
-
-**Minimum Qualifications:**
-
-
- Hold a bachelor’s degree in computer science, Information Systems, or other related field (or has equivalent work
-   
-
-
-
- experience).
-   
-
-
-
- 3\\+ years of confirmed experience in software development and quality assurance. 
-   
-
-
-
- 1 year of demonstrated ability in Java development and building large scale distributed applications. 
-   
-
-
-
- 1 year of experience with relational and NoSQL database technologies like Oracle, Cassandra, and Postgres. 
-   
-
-
-
- Experience with automated release management using Gradle, Git, Jenkins. 
-   
-
-
-
- Looks proactively beyond the obvious for continuous improvement opportunities. 
-   
-
-
-
- Willingness to learn new technologies and use them to their optimal potential. 
-   
-
-
-
- Excellent leadership and communication skills, with the ability to influence at all levels across functions, from both technical and practical views.
+ As Microsoft's cloud business continues to grow the ability to deploy new offerings and hardware infrastructure on time, in high volume with high quality and lowest cost is of paramount importance. To achieve this goal, the DPU Networking Software team is instrumental in defining and delivering operational measures of success for quality, delivery, scale and sustainability related to Microsoft cloud software. We are looking for engineers with a dedicated passion for customer focused solutions, insight and industry knowledge to envision and implement future technical solutions that will manage and optimize the Cloud infrastructure.
    
 
   
 
-
-
-**Preferred Qualifications:**
-
-
- Building APIs using techniques and frameworks like REST, RPC (gRPC and similar), SpringBoot
-   
-
-
-
- Experience or exposure to Java reactive programming
-   
-
-
-
- Hands\\-on experience on writing and understanding medium to complex SQL queries and query optimization
-   
-
-
-
- Hands\\-on experience with CI/CD tools like Jenkins, GitHub Actions
+ \\#azurehwjobs
    
 
   
 
+**Responsibilities**
+* Collaborates with appropriate stakeholders to determine user requirements for a scenario.
+* Drives identification of dependencies and the development of design documents for a product, application, service, or platform.
+* Creates, implements, optimizes, debugs, refactors, and reuses code to establish and improve performance and maintainability, effectiveness, and return on investment (ROI).
+* Acts as a Designated Responsible Individual (DRI), working on call to monitor system/product/service for degradation, downtime, or interruptions, alerting stakeholders about status and initiates actions to restore system/product/service for simple and complex problems when appropriate.
+* Proactively seeks new knowledge and adapts to new trends, technical solutions, and patterns that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
 
 
- We back you with benefits that support your holistic well\\-being so you can be and deliver your best. This means caring for you and your loved ones' physical, financial, and mental health, as well as providing the flexibility you need to thrive personally and professionally:
- 
-* Competitive base salaries
-* Bonus incentives
-* Support for financial\\-well\\-being and retirement
-* Comprehensive medical, dental, vision, life insurance, and disability benefits (depending on location)
-* Flexible working model with hybrid, onsite or virtual arrangements depending on role and business need
-* Generous paid parental leave policies (depending on your location)
-* Free access to global on\\-site wellness centers staffed with nurses and doctors (depending on location)
-* Free and confidential counseling support through our Healthy Minds program
-* Career development and training opportunities
+**Qualifications**
+**Required**
+* Experience in software design and coding of Layer2/L3/L4 ethernet/IP networking packet forwarding functions.
+* Minimum 2 years of programming experience in C or C\\+\\+
+* Bachelor's degree in computer science or computer engineering, or related technical discipline AND 2\\+ years software development engineering experience
+* OR equivalent experience.
 
 
+**Preferred**
+* Experience in developing packet forwarding features within SDN \\- Software Defined Networking – data path
+* CI/CD Experience: Knowledge of Continuous Integration and Continuous Deployment (CI/CD) practices for streamlined software development and deployment processes.
+* Scripting for Developer Tools: Proficiency in scripting languages to build and enhance developer tools, automating repetitive tasks and improving workflow efficiency.
 
- American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, age, or any other status protected by law.  
+
+**Other**
+ Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
    
 
   
 
+ Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.","Software Development","https://www.linkedin.com/company/microsoft","https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY","","","","","","","","","","",""
+"li-4316161398","linkedin","https://www.linkedin.com/jobs/view/4316161398","","Java Developer Intern","Centre for Computational Technologies (CCTech)","Pune, Maharashtra, India","","internship","","","","","",False,"internship","Engineering and Information Technology","","","* load\\_list\\_page(event)""\\> Job listing
+* Job details
 
 
- Offer of employment with American Express is conditioned upon the successful completion of a background verification check, subject to applicable laws and regulations.","Financial Services","https://www.linkedin.com/company/american-express","https://media.licdn.com/dms/image/v2/C4D0BAQGRhsociEn4gQ/company-logo_100_100/company-logo_100_100/0/1631367875582?e=2147483647&v=beta&t=bk_i8KnJwZyUrbBXvWK0NMb6W3nPq64rupEGTrKvxYU","","","","","","","","","","",""
-"li-4302723132","linkedin","https://www.linkedin.com/jobs/view/4302723132","","Software Development Engineer II - Data","Safe Security","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"associate","Engineering","","","*At SAFE Security, our mission is bold and ambitious:* 
-***We Will Build CyberAGI***
-*— a super\\-specialized system of intelligence that autonomously predicts, detects, and remediates threats. This isn’t just a vision—it’s the future we’re building every day, with the best minds in AI, cybersecurity, and risk. At SAFE, we empower individuals and teams with the freedom and responsibility to align their goals, ensuring we all move towards this goal together.* 
-
-
-
-
-  
-
-
-
-
-
-*We operate with radical transparency, autonomy, and accountability—there’s no room for brilliant jerks. We embrace a culture\\-first approach, offering an unlimited vacation policy, a high\\-trust work environment, and a commitment to continuous learning. For us, Culture is Our Strategy—check out our Culture Memo to dive deeper into what makes SAFE unique.* 
-
-
-
-
-  
-
-
-
-
-
- We’re looking for a seasoned Software Development Engineer (SDE II) – Data Engineering with deep expertise in building large\\-scale data ingestion, processing, and analytics platforms. In this role, you’ll collaborate closely with Product, Design, and cross\\-functional stakeholders to design and implement high\\-throughput data pipelines and lakehouse solutions that power analytics, AI, and real\\-time decision\\-making for predicting and preventing cyber breaches.
- 
-
-
-
-  
-
-
-
-
-
-**What You’ll Do:** 
-
-
-
-* Design and Develop: Architect and implement high\\-scale data pipelines leveraging Apache Spark, Flink, and Airflow to process streaming and batch data efficiently.
-* Data Lakehouse and Storage Optimization: Build and maintain data lakes and ingestion frameworks using Snowflake, Apache Iceberg, and Parquet, ensuring scalability, cost efficiency, and optimal query performance.
-* Data Modeling and System Design: Design robust, maintainable data models to handle structured and semi\\-structured datasets for analytical and operational use cases.
-* Real\\-time and Batch Processing: Develop low\\-latency pipelines using Kafka and Spark Structured Streaming, supporting billions of events per day.
-* Workflow Orchestration: Automate and orchestrate end\\-to\\-end ELT processes with Airflow, ensuring reliability, observability, and recovery from failures.
-* Cloud Infrastructure: Build scalable, secure, and cost\\-effective data solutions leveraging AWS native services (S3, Lambda, ECS, etc.).
-* Monitoring and Optimization: Implement strong observability, data quality checks, and performance tuning to maintain high data reliability and pipeline efficiency.
-
-
-
-  
-
-
-
-
-
-**What We’re Looking For:** 
-
-
-
-* Bachelor’s or Master's degree in Computer Science, Engineering, or a related field
-* 3\\+ years of experience in data engineering with a proven track record of designing large\\-scale, distributed data systems.
-* Strong expertise in Snowflake and other distributed analytical data stores.
-* Hands\\-on experience with Apache Spark, Flink, Airflow, and modern data lakehouse formats (Iceberg, Parquet).
-* Deep understanding of data modeling, schema design, query optimization, and partitioning strategies at scale.
-* Proficiency in Python, SQL, Scala, Go/Nodejs with strong debugging and performance\\-tuning skills.
-* Experience in streaming architectures, CDC pipelines, and data observability frameworks.
-* Proficient in deploying containerized applications (Docker, Kubernetes, ECS).
-* Familiarity with using AI Coding assistants like Cursor, Claude Code, or GitHub Copilot
-
-
-
-  
-
-
-
-
-
-**Preferred Qualifications:** 
-
-
-
-* Exposure to CI/CD pipelines, automated testing, and infrastructure\\-as\\-code for data workflows.
-* Familiarity with streaming platforms (Kafka, Kinesis, Pulsar) and real\\-time analytics engines (Druid, Pinot, Rockset).
-* Understanding of data governance, lineage tracking, and compliance requirements in a multi\\-tenant SaaS platform.
-
-
-
-  
-
-
-
-
-
- If you’re passionate about cyber risk, thrive in a fast\\-paced environment, and want to be part of a team that’s redefining security—
- **we want to hear from you!** 
- 🚀","Software Development","https://www.linkedin.com/company/safe-ccrm","https://media.licdn.com/dms/image/v2/D560BAQGKWjgaXHeWlQ/company-logo_100_100/company-logo_100_100/0/1732705412461/safecrq_logo?e=2147483647&v=beta&t=jp58K09FNr3gLDvTX3dVNXwsjE2I8yUDgog82o_9PIc","","","","","","","","","","",""
-"li-4316146808","linkedin","https://www.linkedin.com/jobs/view/4316146808","https://qualys.wd5.myworkdayjobs.com/Careers/job/Pune/Site-Reliability-Engineer\\u002d\\u002d-DevOps_R0003579?source=LinkedIn&urlHash=ko76","Site Reliability Engineer - DevOps","Qualys","Pune, Maharashtra, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Come work at a place where innovation and teamwork come together to support the most exciting missions in the world!
+ Job Information
    
 
   
 
- As a Junior DevOps Engineer at Qualys, you will play a supporting yet impactful role in maintaining and enhancing our DevOps ecosystem. This position is ideal for someone with a strong foundation in scripting, a curiosity for automation and orchestration, and a desire to gain hands\\-on experience in a fast\\-paced and technically challenging environment.
+* Date Opened 10/18/2025
+* Industry IT Services
+* Job Type Full time
+* Work Experience 0\\-1 year
+* City Pune City
+* State/Province Maharashtra
+* Country India
+* Zip/Postal Code 411001
+
+
+**About Us**
+**CCTech** 
+ 's mission is to transform human life by the democratization of technology. We are a well established digital transformation company building the applications in the areas of CAD, CFD, Artificial Intelligence, Machine Learning, 3D Webapps, Augmented Reality, Digital Twin, and other enterprise applications.
    
 
   
 
- You will work closely with experienced engineers, gaining exposure to a wide range of tools and practices used in real\\-world production environments — from orchestration platforms and CI/CD pipelines to observability and monitoring systems.
+ We have two business divisions: product and consulting.
    
 
   
 
-**Key Responsibilities**
-* Assist in the automation of deployment pipelines and infrastructure setup using DevOps best practices.
-* Support orchestration processes and tools (e.g., Kubernetes, Jenkins, Ansible) to improve reliability and operational efficiency.
-* Collaborate on troubleshooting issues in our staging and production environments.
-* Participate in maintaining the health of monitoring systems such as Prometheus, ELK, ClickHouse, and OpenTelemetry (OTel).
-* Document processes, configurations, and troubleshooting steps to support team knowledge sharing.
-* Continuously learn and stay updated with new technologies and industry trends related to DevOps and site reliability.
-
-
-**Must\\-Have Skills \\& Knowledge**
-* Scripting: Proficient in at least one scripting language (e.g., Python, Shell, Bash, or Perl) for automation and operational tasks.
-* Orchestration Fundamentals: Understanding of how orchestration tools work and are used to manage infrastructure and deployments.
-* DevOps Tools: Familiarity with CI/CD tools (e.g., Jenkins, GitLab CI), version control systems (e.g., Git), and containerization technologies (e.g., Docker).
-* Monitoring Concepts: Basic understanding of how monitoring systems track and visualize system health, performance, and reliability.
-
-
-**Preferred Qualifications (Nice To Have)**
-* Exposure to cloud platforms like AWS, GCP, or Azure.
-* Hands\\-on experience with Linux or Unix\\-based systems.
-* Basic knowledge of observability tools (e.g., Prometheus, Grafana, ELK stack, or OpenTelemetry).
-* Interest in learning about Kubernetes and large\\-scale production environments.
-
-
-**Who Should Apply?**
- This role is perfect for:
+ simulationHub is our flagship product and the manifestation of our vision. Currently, thousands of users use our CFD app in their upfront design process.
    
 
   
 
-* Recent graduates from Computer Science, Information Technology, or similar disciplines.
-* Entry\\-level professionals with up to 2 years of experience in DevOps, SRE, or system administration roles.
-* Curious minds with a passion for automation, infrastructure, and building reliable systems.","Computer and Network Security","https://www.linkedin.com/company/qualys","https://media.licdn.com/dms/image/v2/D560BAQFKcnPoxiR6bQ/company-logo_100_100/B56Zk1CVpCHUAQ-/0/1757531429819/qualys_logo?e=2147483647&v=beta&t=B--oHuDscFnpQq0paunYPnaoAW8weFwdaxGA6j9PTiM","","","","","","","","","","",""
-"li-4316159256","linkedin","https://www.linkedin.com/jobs/view/4316159256","","Software Development Engineer II","Safe Security","New Delhi, Delhi, India","","fulltime","","","","","",False,"associate","Engineering and Information Technology","","","Our vision is to be the
- **Champions of a Safer Digital Future** 
- and the
- **Champions of Change** 
- . We believe in empowering individuals and teams with freedom and responsibility to align their goals such that we all row in the same direction. We are uncomfortably transparent, autonomous \\& accountable; we have zero tolerance for brilliant jerks; we have an unlimited vacation policy and more. For us, our
- **Culture Is Our Strategy** 
- \\- check out our
- 
- Culture Memo
- 
- for more details and surprises.
- 
-
-
+ Our consulting division, with its partners such as Autodesk Forge, AWS and Azure, is helping the world's leading engineering organizations, many of which are Fortune 500 list of companies, in achieving digital supremacy.
+   
 
   
 
+**Job Description**
+**Role \\& Responsibilities**
+* Assist in the design, development, testing and maintenance of Java\\-based applications.
+* Write clean, efficient and well\\-documented code under the guidance of senior developers.
+* Participate in code reviews, follow coding standards and best practices.
+* Collaborate with cross\\-functional teams (e.g., QA, Product, UX) to deliver features.
+* Debug, troubleshoot and resolve basic technical issues.
+* Learn and adapt to new technologies, frameworks and tools.
+* Contribute to documentation and help maintain technical specifications.
 
 
+**Requirements**
+**Preferred / Nice to Have**
+* Knowledge of frameworks like Spring or Hibernate.
+* Experience with RESTful APIs.
+* Familiarity with build tools (Maven/Gradle).
+* Understanding of agile/scrum methodologies.
+* Any personal project or coursework in Java development.
 
 
-**Job Overview:** 
+**Benefits**
+* Opportunity to work with a dynamic and innovative IT organization
+* Collaborative and supportive work environment
+* Professional growth and development opportunities
 
 
-
-
- We are seeking an experienced and passionate Engineer to join our engineering team. As a senior engineer, you will lead a high\\-performing engineering team working closely with our Design, Product, and other stakeholders to develop and deliver core product features that help in predicting and preventing cyber breaches.
- 
-
-
-
-  
-
-
-
-
-
-**Location:** 
- Delhi or Bangalore
- 
-
-
-
-  
-
-
-
-
-
-**Core Responsibilities:** 
-
-
-
+ check(event) ; career\\-website\\-detail\\-template\\-2 \\=\\> apply(record.id,meta)"" mousedown\\=""lyte\\-button \\=\\> check(event)"" final\\-style\\=""background\\-color:\\#2185D0;border\\-color:\\#2185D0;color:white;"" final\\-class\\=""lyte\\-button lyteBackgroundColorBtn lyteSuccess"" lyte\\-rendered\\=""""\\>","Software Development","https://in.linkedin.com/company/centre-for-compuational-technologies-cctech","https://media.licdn.com/dms/image/v2/C4D0BAQGoI_LXo-K5VA/company-logo_100_100/company-logo_100_100/0/1631340699759?e=2147483647&v=beta&t=TFRK4PnvY-Cl4IM9jnb_059U6eIrRTIAk2ywXxIBVEM","","","","","","","","","","",""
+"li-4316814023","linkedin","https://www.linkedin.com/jobs/view/4316814023","","Software Engineer II (Full Stack Engineer)","Microsoft","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","Interested in being part of a team that helps our customers be more productive and thrive with data\\-driven, privacy\\-protected insights and recommendations? Come join us! Viva Insights aims to create cultures where people and businesses thrive by improving how people and organizations work with data and insights. We are here to help employees be better at work, and organizations achieve important business outcomes. Learn more about Viva Insights: Introduction to Viva Insights.
+   
 
   
 
-
-
-
-* **Code Mastery:** 
- Take charge of feature development, writing clean, efficient, and maintainable code that drives our product forward.
-* **Technical Contribution:** 
- Engage actively in architectural discussions, lending your expertise to implement scalable, secure, and high\\-performance solutions.
-* **Code Review:** 
- Conduct thorough code reviews to maintain code quality, identify opportunities for improvement, and share constructive feedback with team members.
-* **Cloud Integration:** 
- Leverage AWS services, including but not limited to AWS Lambda, API Gateway, EC2, S3, and RDS, to deploy and optimize cloud\\-based solutions.
-* **Problem Solving** 
- : Troubleshoot and resolve complex technical issues, identifying root causes and implementing effective solutions.
-* **Collaboration:** 
- Collaborate closely with product managers, designers, and other stakeholders to ensure alignment between technical solutions and business objectives.
-* **Project Execution** 
- : Play a key role in project planning, execution, and timely delivery of features, ensuring adherence to project timelines and scope.
-
-
+ We will only achieve our mission if we live our culture. We start with becoming learners in all things and apply that mindset to learning about our customers, being diverse and inclusive, working together as one, and—ultimately—making a difference in the world.
+   
 
   
 
-
-
-
-
-**Essential Skills/ Experience/ Qualifications:** 
-
-
-
+ Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+   
 
   
 
+**Responsibilities**
+* Works with stakeholders to determine service and user requirements for a set of features, including but not limited to analytics, reporting and big data systems
+* Contributes to the identification of dependencies, and the development of design documents for a product area with little oversight.
+* Contributes to efforts to break down larger work items into smaller work items and provides estimation.
+* Acts as a Designated Responsible Individual (DRI) working on\\-call to monitor system/product feature/service for degradation, downtime, or interruptions and gains approval to restore system/product/service for simple problems.
+* Remains current in skills by investing time and effort into staying abreast of current developments that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
+* Embody our culture and values. Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
 
 
-
-* Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
-* Minimum of 2 years of experience in software development roles, with a strong command of server\\-side languages such as Node.js, Python, or Go.
-* Hands\\-on experience in API development using Typescript and frameworks such as Express is preferred.
-* Experience with modern web development technologies (e.g., React, Angular, Vue.js) is a plus.
-* Good understanding of SQL and NoSQL databasesUnderstanding of cloud computing concepts and experience using any major cloud service provider (AWS/GCP/Azure).
-* Ability to build and deploy the application in a containerized environment
-* Proven track record of delivering high\\-performance and scalable platforms in a fast\\-paced agile environment and drive to take end\\-to\\-end ownership.
-* Strong problem\\-solving and critical\\-thinking abilities.
-* Knowledge of DevOps practices and infrastructure as code (e.g.: AWS CloudFormation) is advantageous.","Computer and Network Security","https://www.linkedin.com/company/safe-ccrm","https://media.licdn.com/dms/image/v2/D560BAQGKWjgaXHeWlQ/company-logo_100_100/company-logo_100_100/0/1732705412461/safecrq_logo?e=2147483647&v=beta&t=jp58K09FNr3gLDvTX3dVNXwsjE2I8yUDgog82o_9PIc","","","","","","","","","","",""
-"li-4313854928","linkedin","https://www.linkedin.com/jobs/view/4313854928","","Full-Stack Developer (Next.js + NestJS)","Transportvibes","","","contract","","","","","",False,"mid-senior level","Engineering and Information Technology","","","We are looking for an experienced 
- **Full\\-Stack Developer** 
-  with strong expertise in 
- **Next.js, NestJS, Docker, and CI/CD pipelines** 
-  to join our team. You will take over from a previous developer and 
- **finalize mission\\-critical tasks** 
-  across four auto transport websites: Safeeds Auto Transport, Trustline Carriers, Broadway Auto Transport, and Verified Carriers.
- 
+**Qualifications**
+**Required Qualifications:**
+* Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages OR equivalent experience.
+* 4\\+ years of hands\\-on software design and coding experience.
 
 
-
- This is a hands\\-on role where you will deliver secure, scalable, and production\\-ready features while collaborating with our digital marketing and CRM teams.
- 
-
-
- Responsibilities
- 
- You will be responsible for completing and enhancing the following areas:
- 
+**Preferred Qualifications**
+* Good technical fullstack engineering experience with coding in languages including, but not limited to C\\#, Java, JavaScript, or Python or equivalent experience.
+* Experience building backend systems in Java for customer\\-facing web applications, including API design and implementation
+* Experience developing full stack applications using Web technologies like HTML, JavaScript, React, CSS, Typescript on the front end.
+* Building extensible and maintainable services that last the test of time.
+* Customer\\-focused innovation.
 
 
- Core Development Tasks
- * **Finalize GTM Server\\-Side Tagging**
-* Complete Nginx reverse proxy setup for sGTM container (currently 80% done).
-* Ensure GA4 events are routed correctly through server\\-side tagging.
-* **Replicate Get\\-Quote Widget**
-* Deploy and theme the existing Safeeds quote widget across Trustline, Broadway, and Verified.
-* Integrate backend proxy with TransportVibe API.
-* Ensure CRM (MessagePlane) sync with idempotency.
-* **Implement Thank\\-You Pages Across Brands**
-* Build responsive Thank\\-You pages (quote, contact, booking, newsletter).
-* Add dynamic reference IDs, confirmation messages, CTAs, and GA4 thankyou\\_view events.
-* **Safeeds Email Assets**
-* Design professional HTML email signature (responsive, tested).
-* Create 5 branded MessagePlane templates: Welcome, Quote, Booking, Follow\\-up, Review Request.
-
-
- Infrastructure \\& Quality
- * Harden 
- **CI/CD pipelines** 
-  with staging \\+ production auto\\-deployments (GitHub Actions → Hostinger VPS).
-* Add automated 
- **quality gates** 
-  (linting, typecheck, unit/e2e tests, Lighthouse CI, accessibility checks).
-* Implement 
- **unit \\& e2e tests** 
-  (Jest/Playwright) for quote flows and CRM sync.
-* Ensure 
- **security best practices** 
- : Helmet, CORS, rate limiting, secrets management.
-* Optimize performance (LCP \\< 2\\.5s, CLS \\< 0\\.1\\) and accessibility (axe clean).
-
-
- Documentation \\& Handover
- * Update repo READMEs with setup, environment variables, and deployment steps.
-* Maintain Swagger API docs.
-* Provide runbook (alerts, rollback, troubleshooting).
-
-
- Requirements
- * Strong experience in 
- **Next.js (React, SSR, performance optimization)** 
- .
-* Strong backend skills in 
- **Node.js/NestJS** 
-  (API proxying, validation, error handling).
-* Solid knowledge of 
- **Docker, Nginx, and VPS deployments** 
- .
-* Proficiency with 
- **GitHub Actions CI/CD pipelines** 
- .
-* Familiarity with 
- **Google Analytics 4, GTM (including server\\-side tagging)** 
- .
-* CRM/third\\-party API integration experience.
-* Strong testing culture: 
- **Jest, Playwright, supertest** 
- .
-* Excellent knowledge of 
- **security practices** 
-  and 
- **web accessibility** 
- .
-
-
- Nice to Have
- * Experience with 
- **MessagePlane CRM** 
- .
-* Prior work in 
- **auto transport / logistics / lead generation** 
-  platforms.
-* Familiarity with 
- **Sentry** 
-  or similar observability tools.","Transportation, Logistics, Supply Chain and Storage","https://www.linkedin.com/company/transportvibes","https://media.licdn.com/dms/image/v2/D560BAQFWMzu3dJqXcw/company-logo_100_100/B56ZYFIYXSGUAQ-/0/1743842805806/transportvibes_logo?e=2147483647&v=beta&t=iJbVWfyaYBU0ryoS-0lkW8M54-Vd6N53ouHg9-cMsy0","","","","","","","","","","",""
-"li-4316163193","linkedin","https://www.linkedin.com/jobs/view/4316163193","","Software Development Engineer I","Safe Security","New Delhi, Delhi, India","","fulltime","","","","","",False,"entry level","Engineering","","","**Years of Experience:** 
- 1\\-3 years
- 
-
-
+ \\#DPG
+   
 
   
 
-
-
-
-
-**Core Responsibilities:** 
-
-
-
-
-  
-
-
-
-
-* **Code Mastery:** 
- Writing clean, efficient, and maintainable code that drives our product forward.
-* **Technical Contribution:** 
- Engage actively in architectural discussions, lending your expertise to implement scalable, secure, and high\\-performance solutions.
-* **Code Review:** 
- Conduct thorough code reviews to maintain code quality, identify opportunities for improvement, and share constructive feedback with team members.
-* **Cloud Integration:** 
- Leverage AWS services, including but not limited to AWS Lambda, API Gateway, EC2, S3, and RDS, to deploy and optimize cloud\\-based solutions.
-* **Problem Solving** 
- : Troubleshoot and resolve complex technical issues, identifying root causes and implementing effective solutions.
-* **Collaboration:** 
- Collaborate closely with product managers, designers, and other stakeholders to ensure alignment between technical solutions and business objectives.
-* **Project Execution** 
- : Play a key role in project planning, execution, and timely delivery of features, ensuring adherence to project timelines and scope.
-
-
-
-  
-
-
-
-
-
-**Qualifications/ Experience/ Essential Skills:** 
-
-
-
-
-  
-
-
-
-
-* Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.
-* Hands\\-on experience in API development using Typescript and frameworks such as Express is preferred.
-* Experience with modern web development technologies (e.g., React, Angular, Vue.js) is a plus.
-* Good understanding of SQL and NoSQL databasesUnderstanding of cloud computing concepts and experience using any major cloud service provider (AWS/GCP/Azure).
-* Ability to build and deploy the application in a containerized environment
-* Proven track record of delivering high\\-performance and scalable platforms in a fast\\-paced agile environment and drive to take end\\-to\\-end ownership.
-* Strong problem\\-solving and critical\\-thinking abilities.
-* Knowledge of DevOps practices and infrastructure as code (e.g.: AWS CloudFormation) is advantageous.","Internet Marketplace Platforms","https://www.linkedin.com/company/safe-ccrm","https://media.licdn.com/dms/image/v2/D560BAQGKWjgaXHeWlQ/company-logo_100_100/company-logo_100_100/0/1732705412461/safecrq_logo?e=2147483647&v=beta&t=jp58K09FNr3gLDvTX3dVNXwsjE2I8yUDgog82o_9PIc","","","","","","","","","","",""
-"li-4316155624","linkedin","https://www.linkedin.com/jobs/view/4316155624","","Senior Java Developer / Architect(API Java Backend Engineer)","RM Technologies","Pune, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","hr@rmtech.co.in","Position: Senior Java Developer / Architect(API Java Backend Engineer)
+ Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.","Software Development","https://www.linkedin.com/company/microsoft","https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY","","","","","","","","","","",""
+"li-4316168072","linkedin","https://www.linkedin.com/jobs/view/4316168072","","React Developer","Cozzera","","","fulltime","","","","","",True,"mid-senior level","Information Technology","","","**Job Title:** 
+ React Developer
  
 
 
 
-
-
- Experience: 8 to 15 Years (Profiles with less than 8 years’ experience will not be considered)
- 
-
-
-
-
-
-
-
-
-
-
-
- Budget: ₹35–40 LPA
- 
-
-
-
-
-
- Work Mode: Hybrid (3 days work from office)
- 
-
-
-
-
-
- Locations: Pune/Bangalore
- 
-
-
-
-
-
- Mandatory Technical Skills
- 
-
-
-
-
-
- Java 8 or above
- 
-
-
-
-
-
- GraphQL
- 
-
-
-
-
-
- REST API Development
- 
-
-
-
-
-
- Kafka or equivalent messaging platform (e.g., RabbitMQ, Azure Service Bus)
- 
-
-
-
-
-
- Spring Boot
- 
-
-
-
-
-
- OAuth 2\\.0
- 
-
-
-
-
-
- Entra ID (Azure AD)
- 
-
-
-
-
-
- Optional / Nice\\-to\\-Have Skills
- 
-
-
-
-
-
- Spring Batch
- 
-
-
-
-
-
- Spring Cloud
- 
-
-
-
-
-
- Spring AI
- 
-
-
-
-
-
- Azure Services
- 
-
-
-
-
-
- Azure Cosmos DB (NoSQL)
- 
-
-
-
-
-
- Important Screening Note:
- 
-
-
-
-
-
- Experience in GraphQL, REST API, Java, Spring Boot, and Kafka is mandatory and non\\-negotiable for initial screening. Please ensure no duplicate profiles and no candidates below 8 years of experience are shared.
- 
-
-
-
-
-  
-
-
-
-
-
-
- Interested people please share cv to
- 
- hr@rmtech.co.in","IT Services and IT Consulting","https://in.linkedin.com/company/rm-techno-logies","https://media.licdn.com/dms/image/v2/D4D0BAQHMQslY435Sow/company-logo_100_100/B4DZhrR2kqGgAY-/0/1754146499573/rm_techno_logies_logo?e=2147483647&v=beta&t=gxYYLVjz_MdI37woEF1FezkLLJ1x-Nc3ztmtColygp4","","","","","","","","","","",""
-"li-4316152638","linkedin","https://www.linkedin.com/jobs/view/4316152638","https://jobs.lever.co/safe/9510407e-70d3-44d6-83f3-feecf7bd729c&urlHash=YSdA","Software Development Engineer II","Safe Security","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"associate","Engineering and Information Technology","","","Our vision is to be the
- **Champions of a Safer Digital Future** 
- and the
- **Champions of Change** 
- . We believe in empowering individuals and teams with freedom and responsibility to align their goals such that we all row in the same direction. We are uncomfortably transparent, autonomous \\& accountable; we have zero tolerance for brilliant jerks; we have an unlimited vacation policy and more. For us, our
- **Culture Is Our Strategy** 
- \\- check out our
- 
- Culture Memo
- 
- for more details and surprises.
- 
-
-
-
-  
-
-
-
-
-
-**Job Overview:** 
-
-
-
-
- We are seeking an experienced and passionate Engineer to join our engineering team. As a senior engineer, you will lead a high\\-performing engineering team working closely with our Design, Product, and other stakeholders to develop and deliver core product features that help in predicting and preventing cyber breaches.
- 
-
-
-
-  
-
-
-
-
-
-**Location:** 
- Bengaluru
- 
-
-
-
-  
-
-
-
-
-
-**Core Responsibilities:** 
-
-
-
-
-  
-
-
-
-
-* **Code Mastery:** 
- Take charge of feature development, writing clean, efficient, and maintainable code that drives our product forward.
-* **Technical Contribution:** 
- Engage actively in architectural discussions, lending your expertise to implement scalable, secure, and high\\-performance solutions.
-* **Code Review:** 
- Conduct thorough code reviews to maintain code quality, identify opportunities for improvement, and share constructive feedback with team members.
-* **Cloud Integration:** 
- Leverage AWS services, including but not limited to AWS Lambda, API Gateway, EC2, S3, and RDS, to deploy and optimize cloud\\-based solutions.
-* **Problem Solving** 
- : Troubleshoot and resolve complex technical issues, identifying root causes and implementing effective solutions.
-* **Collaboration:** 
- Collaborate closely with product managers, designers, and other stakeholders to ensure alignment between technical solutions and business objectives.
-* **Project Execution** 
- : Play a key role in project planning, execution, and timely delivery of features, ensuring adherence to project timelines and scope.
-
-
-
-  
-
-
-
-
-
-**Essential Skills/ Experience/ Qualifications:** 
-
-
-
-
-  
-
-
-
-
-* Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
-* Minimum of 2 years of experience in software development roles, with a strong command of server\\-side languages such as Node.js, Python, or Go.
-* Hands\\-on experience in API development using Typescript and frameworks such as Express is preferred.
-* Experience with modern web development technologies (e.g., React, Angular, Vue.js) is a plus.
-* Good understanding of SQL and NoSQL databasesUnderstanding of cloud computing concepts and experience using any major cloud service provider (AWS/GCP/Azure).
-* Ability to build and deploy the application in a containerized environment
-* Proven track record of delivering high\\-performance and scalable platforms in a fast\\-paced agile environment and drive to take end\\-to\\-end ownership.
-* Strong problem\\-solving and critical\\-thinking abilities.
-* Knowledge of DevOps practices and infrastructure as code (e.g.: AWS CloudFormation) is advantageous.","Computer and Network Security","https://www.linkedin.com/company/safe-ccrm","https://media.licdn.com/dms/image/v2/D560BAQGKWjgaXHeWlQ/company-logo_100_100/company-logo_100_100/0/1732705412461/safecrq_logo?e=2147483647&v=beta&t=jp58K09FNr3gLDvTX3dVNXwsjE2I8yUDgog82o_9PIc","","","","","","","","","","",""
-"li-4313855913","linkedin","https://www.linkedin.com/jobs/view/4313855913","https://goodspace.ai/jobs/Software-Engineer?id=29621&applySource=LinkedIn_Jobs&source=campaign_LinkedIn_Jobs-linkedln_yash_se-29621&urlHash=57cI","Software Engineer","GoodSpace AI","","","fulltime","","","","","",True,"entry level","Information Technology","","","**Job Description: Software Engineer** 
-
-
-
-
-**Position:** 
- Software Engineer
- 
-
-
-
-**Experience:** 
- 1–3 years
- 
-
-
-
-**Compensation:** 
- ₹12–18 LPA (based on skills \\& experience)
+**Experience Required:** 
+ 5\\+ years
  
 
 
 
 **Location:** 
- Remote (PAN India Hiring)
+ Remote
  
 
 
 
 **Employment Type:** 
- Full\\-time
- 
-
-
-
-**Role Overview** 
-
-
-
-
- We are looking for a passionate and skilled
- **Software Engineer** 
- to join our remote technology team. The ideal candidate will design, develop, and deploy scalable and efficient software solutions, ensuring high performance, reliability, and maintainability.
- 
-
-
-
- This role requires strong problem\\-solving skills, solid coding practices, and the ability to collaborate effectively in a fast\\-paced, agile environment.
- 
-
-
-
-**Key Responsibilities** 
-
-
-
-* Design, develop, and maintain
- **high\\-quality software applications** 
- .
-* Write
- **clean, efficient, and reusable code** 
- following best engineering practices.
-* Collaborate with
- **cross\\-functional teams** 
- including product, design, and QA to deliver robust solutions.
-* Implement and integrate APIs and third\\-party services.
-* Optimize applications for
- **speed, scalability, and performance** 
- .
-* Debug and resolve software defects and performance issues.
-* Participate in
- **code reviews, testing, and continuous integration** 
- processes.
-* Stay updated with the latest technologies, frameworks, and industry trends.
-
-
-
-**Required Skills \\& Qualifications** 
-
-
-
-* Bachelor’s degree in Computer Science, Engineering, or a related field.
-* **1–3 years** 
- of hands\\-on experience in
- **software development** 
- .
-* Proficiency in at least one
- **backend language** 
- —
- **Python, Java, Go, Node.js** 
- , or similar.
-* Experience with
- **frontend technologies** 
- such as
- **React.js, Angular, or Vue.js** 
- is a plus.
-* Strong understanding of
- **data structures, algorithms, and OOP concepts** 
- .
-* Experience with
- **databases** 
- (MySQL, PostgreSQL, or MongoDB).
-* Familiarity with
- **cloud environments** 
- (AWS, Azure, or GCP).
-* Proficiency with
- **Git** 
- , CI/CD pipelines, and Agile methodologies.
-* Strong analytical and problem\\-solving abilities.
-
-
-
-**Good to Have** 
-
-
-
-* Experience with
- **microservices architecture** 
- and
- **containerization (Docker, Kubernetes)** 
- .
-* Exposure to
- **DevOps practices and automated testing** 
- .
-* Knowledge of
- **RESTful and GraphQL APIs** 
- .
-* Familiarity with
- **performance tuning, scalability, and distributed systems** 
- .
-* Open\\-source contributions or personal coding projects.
-
-
-
-**What We Offer** 
-
-
-
-* Competitive salary:
- **₹12–18 LPA** 
- .
-* 100%
- **remote opportunity** 
- – work from anywhere in India.
-* Opportunity to work on
- **cutting\\-edge technologies** 
- and innovative projects.
-* Collaborative, fast\\-paced, and growth\\-driven work culture.
-* Continuous learning, mentorship, and career advancement opportunities.","Technology, Information and Internet","https://in.linkedin.com/company/goodspaceai","https://media.licdn.com/dms/image/v2/D560BAQGpVbJwZuVWXg/company-logo_100_100/company-logo_100_100/0/1708322685570/goodspaceclub_logo?e=2147483647&v=beta&t=y8_JPcUUViL8ZKCAKDYe1uoHTGzECXGdyaxIeY_w-40","","","","","","","","","","",""
-"li-4302713231","linkedin","https://www.linkedin.com/jobs/view/4302713231","","Software Development Engineer II - Platform","Safe Security","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"associate","Engineering","","","We are seeking a highly motivated and skilled Back\\-End Engineer to join our growing platform engineering team at Safe. In this role, you will play a key part in designing, developing, and implementing features which are horizontal for all of Safe Multi\\-tenant architecture, including Scaling, Cost Optimization, Resiliency as objectives and ownership of verticals like Authentication, Authorization (Access Control), Developer Experience, Infrastructure as Code and many more. You will be involved in the entire software development lifecycle, from collaborating with stakeholders on initial concepts to deploying and monitoring production code.
+ Full\\-Time
  
 
 
@@ -1156,333 +195,16 @@
 
 
 
-**Location:** 
- Bengaluru
- 
+**About the Role:** 
 
 
 
-  
 
-
-
-
-
-**Core Responsibilities:** 
-
-
-
-* Drive software development end to end.
-* Work with Product Management and Business Stakeholders to gather and clarify requirements.
-* Build high\\-quality design documentation outlining alternative solutions.
-* Work with peers to improve their designs, collaborate in a timely manner, improve support, engineering excellence items, participate in on\\-call sessions
-* Build solutions, write test cases, monitor solutions, and recommend solution improvements.
-
-
-
-  
-
-
-
-
-
-**Experience/ Qualifications/ Education:** 
-
-
-
-* Bachelor’s degree or equivalent in Computer Science, Engineering, Mathematics, or a related field.
-* 2\\-4 years of backend software engineering experience. Experience with AWS (Or Other Cloud Providers) will be very helpful as well.
-* Experience with end\\-to\\-end delivery of production\\-grade web services at scale, starting from planning, developing, testing and deploying, which solves critical business functionality.
-* Fluent Proficiency in programming languages such as Go, TypeScript, and Python. Experience in storage systems like MySQL, Postgres, DynamoDB and Redis. Experience with event brokers like RabbitMQ and Kafka is an added bonus for developing event\\-driven systems.
-* Advanced English language skills are also important since this team will be working with other engineers and stakeholders from different regions around the world.
-* Algorithm \\& Data Structure fundamentals are expected for this position, including hash tables, trees, stacks, queues, linked lists, DFS, and BFS.
-
-
-
-  
-
-
-
-
-
-**Preferred Qualifications** 
-
-
-
-* Experience in building B2B Systems and integrations with external systems.
-* Experience working in event\\-driven systems, a little bit of Big Data and Datalake exposure also help with platform engineering.
-
-
-
-  
-
-
-
-
-
- If you’re passionate about cyber risk, thrive in a fast\\-paced environment, and want to be part of a team that’s redefining security—
- **we want to hear from you!** 
- 🚀","IT Services and IT Consulting and Software Development","https://www.linkedin.com/company/safe-ccrm","https://media.licdn.com/dms/image/v2/D560BAQGKWjgaXHeWlQ/company-logo_100_100/company-logo_100_100/0/1732705412461/safecrq_logo?e=2147483647&v=beta&t=jp58K09FNr3gLDvTX3dVNXwsjE2I8yUDgog82o_9PIc","","","","","","","","","","",""
-"li-4316156573","linkedin","https://www.linkedin.com/jobs/view/4316156573","","Software Engineer","Confidential","","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**About Us** 
-
- We are a company where the ‘HOW’ of building software is just as important as the ‘WHAT.’ We partner with large organizations to modernize legacy codebases and collaborate with startups to launch MVPs, scale, or act as extensions of their teams. Guided by 
- **Software Craftsmanship** 
-  values and 
- **eXtreme Programming Practices** 
- , we deliver high\\-quality, reliable software solutions tailored to our clients' needs.
- 
-
-
-
-  
-
-
-
-
-
- We thrive to: 
- 
-
-
-
-  
-
-
-
-
-* **Bring our clients' dreams to life** 
-  by being their trusted engineering partners, crafting innovative software solutions.
-* **Challenge offshore development stereotypes** 
-  by delivering exceptional quality, and proving the value of craftsmanship.
-* **Empower clients to deliver value quickly and frequently** 
-  to their end users.
-* **Ensure long\\-term success** 
-  for our clients by building reliable, sustainable, and impactful solutions.
-* **Raise the bar of software craft** 
-  by setting a new standard for the community.
-
-
-**About Us** 
-
- We are a company where the 
- **‘HOW’** 
-  of building software is just as important as the 
- **‘WHAT.’** 
-  We partner with large organizations to modernize legacy codebases and collaborate with startups to launch MVPs, scale, or act as extensions of their teams. Guided by 
- **Software Craftsmanship** 
-  values and 
- **eXtreme Programming** 
-  practices, we deliver high\\-quality, reliable software solutions tailored to our clients' needs.
- 
-
-
-
- We thrive to:
- 
-
-
-* Bring our clients' dreams to life by being their trusted engineering partners, crafting innovative software solutions.
-* Challenge offshore development stereotypes by delivering exceptional quality and proving the value of craftsmanship.
-* Empower clients to deliver value quickly and frequently to their end users.
-* Ensure long\\-term success for our clients by building reliable, sustainable, and impactful solutions.
-* Raise the bar of software craft by setting a new standard for the community.
-
-
-
-  
-
-
-
-
-
-  
- 
-
-
-**Our Core Values** 
-* **Quality with Pragmatism:** 
-  We aim for excellence with a focus on practical solutions.
-* **Extreme Ownership:** 
-  We own our work and its outcomes fully.
-* **Proactive Collaboration:** 
-  Teamwork elevates us all.
-* **Pursuit of Mastery:** 
-  Continuous growth drives us.
-* **Effective Feedback:** 
-  Honest, constructive feedback fosters improvement.
-* **Client Success:** 
-  Our clients’ success is our success.
-
-
-
-  
- 
-
-
-**Experience Level** 
-
- This role is ideal for engineers with 
- **3\\+ years of hands\\-on software development experience** 
- , particularly in 
- **Java (Spring/Micronaut) and Angular** 
-  at scale.
- 
-
-
-
-  
- 
-
-
-**Role Overview** 
-
- If you’re a 
- **Software Craftsperson** 
-  who takes pride in clean, test\\-driven code and believes in 
- **Extreme Programming** 
-  principles, we’d love to meet you.
- 
-
-
-
- At Incubyte, we’re a 
- **DevOps organization** 
-  where developers own the entire release cycle—meaning you’ll get hands\\-on experience across programming, cloud infrastructure, client communication, and everything in between.
- 
-
-
-
-  
-
-
-
-
-**What You'll Do** 
-* **Write Tests First:** 
-  Start by writing tests to ensure code quality.
-* **Clean Code:** 
-  Produce self\\-explanatory, clean code with predictable results.
-* **Frequent Releases:** 
-  Make frequent, small releases.
-* **Pair Programming:** 
-  Work in pairs for better results.
-* **Peer Reviews:** 
-  Conduct peer code reviews for continuous improvement.
-* **Product Team Collaboration:** 
-  Build and rapidly roll out new features and fixes.
-* **Full Stack Ownership:** 
-  Work across front\\-end and back\\-end, including CI/CD pipelines and infrastructure.
-* **Never Stop Learning:** 
-  Commit to continuous learning and improvement.
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-**Requirements** 
-**Must\\-Have Skills** 
-**Backend – Java** 
-* Frameworks: 
- **Micronaut / Spring**
-* ORM: 
- **Hibernate**
-* Strong Java fundamentals:
-* 
-* Design principles \\& patterns
-* Collections framework
-* Multithreading
-* Build Tools: 
- **Gradle / Maven**
-* Testing: 
- **JUnit**
-
-
-**Frontend – Angular** 
-* Strong fundamentals with 
- **TypeScript**
-* State management, Components \\& Data binding
-* Routing, Directives, and Pipes
-* Strong debugging skills
-
-
-**Database \\& DevOps** 
-* Debugging and performance tuning
-* CI/CD: Experience with 
- **continuous integration and deployment practices**
-
-
-**Good\\-to\\-Have Skills** 
-* Aspect\\-Oriented Programming: Familiarity with aspect\\-oriented frameworks
-* RxJS for reactive programming in Angular
-* Fundamental SQL knowledge
-* Cloud/Platform: 
- **Azure**
-* Observability \\& Monitoring best practices
-
-
-
-  
- 
-
-
-**AI\\-First Development Focus** 
-* Leverage AI tools like GitHub Copilot, Cursor, Augment, Claude Code, etc., to accelerate development and automate repetitive tasks.
-* Use AI to detect potential bugs, code smells, and performance bottlenecks early in the development process.
-* Apply prompt engineering techniques to get the best results from AI coding assistants.
-* Evaluate AI\\-generated code/tools for correctness, performance, and security before merging.
-* Continuously explore and integrate emerging AI\\-powered tools and workflows.
-
-
-
-  
- 
-
-
-**Requirements** 
-* 3\\+ years of 
- **Java development** 
-  with strong fundamentals and experience in Micronaut or Spring.
-* Hands\\-on experience with 
- **Angular** 
-  and 
- **TypeScript** 
-  in building scalable front\\-end applications.
-* Experience working with 
- **relational databases** 
-  and debugging performance issues.
-* Familiarity with 
- **Git** 
-  and working in collaborative software teams.
-* Experience with 
- **CI/CD pipelines** 
-  and modern DevOps practices.","Advertising Services","https://www.linkedin.com/company/confidential-company-page12","https://media.licdn.com/dms/image/v2/D4E0BAQHRS2rPVv9Obg/company-logo_100_100/B4EZfZYEx1HIAY-/0/1751698659371/confidential_company_page12_logo?e=2147483647&v=beta&t=lOyovIHcHm-AeCV-pR0FWRaB0s0Mo51NkMF82ProyjE","","","","","","","","","","",""
-"li-4316147762","linkedin","https://www.linkedin.com/jobs/view/4316147762","","Sr Quality Assurance Engineer","Payfederate","","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","**About us:** 
- Payfederate is a Silicon Valley\\-based startup founded by serial entrepreneurs dedicated to building innovative products in HR technology. We're seeking a talented and experienced Lead QA Engineer to join our team and help us create, improve and protect the quality of our software.
- 
-
-
-
-  
-
-
-
-
-
-**Role Description:** 
-
-
-
-
- We're looking for a highly skilled and proactive Lead Quality Assurance Engineer to create and drive our testing and quality processes, build a culture of quality, and lead our QA team to ensure the smooth and reliable operation of our software products.
+ We are seeking a highly skilled
+ **React Developer** 
+ with 5\\+ years of professional experience in building scalable, high\\-performance, and responsive web applications. The ideal candidate will have deep expertise in
+ **React.js, TypeScript, JavaScript (ES6\\+), Redux, and modern front\\-end architecture patterns** 
+ , and should be comfortable working in an agile, remote\\-first environment.
  
 
 
@@ -1497,13 +219,441 @@
 
 
 
-1. Create frameworks from the stretch.
-2. Develop and implement QA plans, testing scripts, and testing methodologies to ensure adherence to quality standards.
-3. Collaborate closely with software developers to identify, reproduce, and document bugs and defects.
-4. Define and track quality assurance metrics such as defects, defect counts, test results, and test status.
-5. Conduct root cause analysis of defects and implement continuous improvement processes.
-6. Manage all aspects of QA including establishing metrics, applying industry best practices, and developing new tools and processes to ensure quality goals are met.
-7. Act as a key point of contact for all QA aspects of releases, providing QA services and coordinating QA resources internally and externally.
+* Develop, test, and deploy
+ **responsive front\\-end applications** 
+ using React.js and related libraries.
+* Build reusable and modular UI components with
+ **React Hooks, Context API, and TypeScript** 
+ .
+* Integrate front\\-end applications with
+ **RESTful APIs and GraphQL** 
+ backends.
+* Collaborate closely with designers, backend developers, and product owners to deliver seamless user experiences.
+* Optimize applications for
+ **maximum performance and scalability** 
+ .
+* Implement best practices for
+ **code quality, maintainability, and testing** 
+ (Jest, React Testing Library).
+* Participate in
+ **code reviews, sprint planning, and agile ceremonies** 
+ .
+* Stay updated with emerging trends in frontend technologies and suggest improvements.
+
+
+
+  
+
+
+
+
+
+**Required Skills:** 
+
+
+
+* **Core Expertise:** 
+ React.js, Redux/RTK, JavaScript (ES6\\+), TypeScript, HTML5, CSS3, SCSS, TailwindCSS or Styled Components.
+* **Architecture:** 
+ Experience with component\\-based design, lazy loading, code splitting, and frontend performance optimization.
+* **APIs:** 
+ RESTful \\& GraphQL API integration.
+* **Build Tools:** 
+ Webpack, Babel, Vite, or similar.
+* **Version Control:** 
+ Git, GitHub/GitLab/Bitbucket.
+* **Testing:** 
+ Jest, React Testing Library, Cypress (nice to have).
+* **CI/CD:** 
+ Experience with build/deployment pipelines (GitHub Actions, Jenkins, GitLab CI).
+* **Cloud/Hosting:** 
+ Familiarity with AWS Amplify, Netlify, or Vercel.
+* **Agile:** 
+ Experience working in Agile/Scrum environments.
+
+
+
+  
+
+
+
+
+
+**Nice to Have:** 
+
+
+
+* Experience with
+ **Next.js** 
+ or
+ **React Native** 
+ .
+* Understanding of
+ **Docker** 
+ ,
+ **Kubernetes** 
+ , or
+ **containerized front\\-end builds** 
+ .
+* Familiarity with
+ **UX principles** 
+ and
+ **design tools** 
+ (Figma, Zeplin).
+* Exposure to
+ **micro\\-frontend architecture** 
+ or
+ **monorepo management** 
+ (Nx, Turborepo).","Software Development","https://www.linkedin.com/company/cozzera","https://media.licdn.com/dms/image/v2/D560BAQFKQwS5Ds-SMQ/company-logo_100_100/company-logo_100_100/0/1724658536427?e=2147483647&v=beta&t=6qq6-T9MpNMO7ba6Q21sq__CbYiR7M8eoXBZgdDdBcc","","","","","","","","","","",""
+"li-4316595793","linkedin","https://www.linkedin.com/jobs/view/4316595793","https://careers.microsoft.com/us/en/job/1883139/Software-Engineer-2?jobsource=linkedin&utm_source=Job+Board&utm_campaign=linkedin-feed&mode=apply&iis=LinkedIn&urlHash=buzE","Software Engineer 2","Microsoft","Hyderabad, Telangana, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","The AI Platform organization at Microsoft builds the end\\-to\\-end Azure AI stack/PaaS and is core to Azure’s innovation and differentiation, as well as all of Microsoft’s flagship products, from Office to Teams, to Xbox. We are the team building Azure OpenAI, Azure ML, Cognitive Services, and the global Azure AI infrastructure for running the largest AI workloads on the planet.
+   
+
+  
+
+ Within AI Platform, the AI Foundry team enables data scientists and developers to quickly and easily build, train, deploy, manage, and consume machine learning model. Our AI Foundry OSS Model Customization Team is at the forefront of this mission, working on groundbreaking projects for customizing of OSS models. We collaborate closely with research institutions, industry leaders, and organizations worldwide to create innovative solutions that impact millions of users
+   
+
+  
+
+**Responsibilities**
+**Responsibilities**
+ As a Software Engineer 2 in our team, you will:
+   
+
+  
+
+* Write clean and concise code with unit tests
+* As a contributor in a customer\\-obsessed team, you will collaborate with data scientists and other developers on the team to create the necessary abstractions, infrastructure, interfaces and implement features to train, test, validate for machine learning algorithms including but not limited to data cleaning, model training, hyper parameter tuning at massive, distributed scale. You will also be working on scaling these features for big data using distributed systems. You will drive the incorporation of these customer\\-inspired innovations into our software. You will take holistic ownership of your features.
+* Your responsibilities will include contributing to and/or backend stateful services written in C\\# hosted on Kubernetes clusters and Docker containers to provide meaningful features to the customers. You will also be working on improving Python SDK's existing features, designing new features, implementing them in our distributed, multi\\-component SDK, and owning the full lifecycle of the features including testing and release.
+
+
+**Qualifications**
+**Qualifications:**
+* 4\\+ years of experience writing production code in building internet scale services and distributed systems.  Ability to debug, read code and work on a large and increasing codebase.
+* Engineering knowledge of machine learning systems and data pipelines.
+* Experience mentoring other developers, working partners and being a team player.
+* Excellent communication and presentation skills
+
+
+ \\#AzureAIPlatform, \\#AzureAIFoundry,
+   
+
+  
+
+ Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+   
+
+  
+
+ Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.","Software Development","https://www.linkedin.com/company/microsoft","https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY","","","","","","","","","","",""
+"li-4316164359","linkedin","https://www.linkedin.com/jobs/view/4316164359","https://forms.gle/rRj2S5k6BDuKFmcz8&urlHash=pfa1","Front-End Developer Intern","WEBBOOST SOLUTION IT SERVICES","","","internship","","","","","",True,"internship","Analyst, Training, and Information Technology","","","**Front\\-End Developer Intern** 
+
+
+
+
+**Company:** 
+ Unified Mentor
+ 
+
+
+
+**Location:** 
+ Remote
+ 
+
+
+
+**Duration:** 
+ 3 months
+ 
+
+
+
+**Opportunity:** 
+ Full\\-time based on performance, with Certificate of Internship
+ 
+
+
+
+**Application Deadline:** 
+ 20
+ **th October 2025** 
+
+
+
+
+**About Unified Mentor** 
+
+
+
+
+ Unified Mentor offers
+ **students and graduates** 
+ practical experience in
+ **front\\-end development** 
+ , preparing them for
+ **successful careers** 
+ .
+ 
+
+
+
+**Responsibilities** 
+
+
+
+
+ ✅
+ **Design, code, and modify** 
+ websites.
+ 
+
+
+
+ ✅ Implement
+ **responsive and interactive web features** 
+ .
+ 
+
+
+
+ ✅ Develop
+ **user\\-friendly interfaces and experiences** 
+ .
+ 
+
+
+
+ ✅
+ **Test and debug** 
+ code to ensure seamless functionality.
+ 
+
+
+
+ ✅ Use
+ **front\\-end tools and frameworks** 
+ .
+ 
+
+
+
+**Requirements** 
+
+
+
+
+ 🎓
+ **Enrolled in or recent graduate** 
+ of a relevant program.
+ 
+
+
+
+ 💻
+ **Skilled in HTML, CSS, and JavaScript** 
+ .
+ 
+
+
+
+ ⚛ Familiarity with
+ **frameworks like React, Angular, or Vue.js** 
+ (preferred).
+ 
+
+
+
+ 🗣
+ **Strong communication and teamwork skills** 
+ .
+ 
+
+
+
+**Benefits** 
+
+
+
+
+ 💰
+ **Stipend:** 
+ ₹7,500 \\- ₹15,000 (Performance\\-Based) (Paid)
+ 
+
+
+
+ ✔
+ **Real\\-world front\\-end development experience** 
+ .
+ 
+
+
+
+ ✔
+ **Certificate of Internship** 
+ and
+ **Letter of Recommendation** 
+ .
+ 
+
+
+
+ ✔
+ **Build your portfolio** 
+ with impactful projects.
+ 
+
+
+
+  
+
+
+
+
+
+**Equal Opportunity:** 
+ Unified Mentor Pvt. Ltd. welcomes applicants from all backgrounds.","IT Services and IT Consulting, IT System Training and Support, and E-Learning Providers","https://in.linkedin.com/company/webboostsolutionait","https://media.licdn.com/dms/image/v2/D560BAQGBZdrDEklUwg/company-logo_100_100/B56ZlqvboHKMAQ-/0/1758432443379/webboostsolutionait_logo?e=2147483647&v=beta&t=F7Q3QJ5FLMhjA76_Cm1fW4woT6NWVdHqX4ruytfAr5Q","","","","","","","","","","",""
+"li-4316814414","linkedin","https://www.linkedin.com/jobs/view/4316814414","","Front-End Developer Intern","UM IT Solutions","","","internship","","","","","",True,"internship","Analyst, Training, and Information Technology","","","***Front\\-End Developer Intern* 
+ (Paid)** 
+
+
+
+
+**Company:** 
+ WebBoost Solutions by UM
+ 
+
+
+
+**Location:** 
+ Remote
+ 
+
+
+
+**Duration:** 
+ 3 months
+ 
+
+
+
+**Application Deadline:** 
+ 20th October
+ 
+ 2025
+ 
+
+
+
+**Opportunity:** 
+ Full\\-time role based on performance \\+ Internship Certificate
+ 
+
+
+
+**About WebBoost Solutions by UM** 
+
+
+
+
+ WebBoost Solutions by UM provides students and graduates with hands\\-on experience in front\\-end development, equipping them with the skills needed for a successful career.
+ 
+
+
+
+**Responsibilities** 
+
+
+
+* Design, code, and modify websites
+* Implement responsive and interactive web features
+* Develop user\\-friendly interfaces and experiences
+* Test and debug code to ensure seamless functionality
+* Use front\\-end tools and frameworks
+
+
+
+**Requirements** 
+
+
+
+* Enrolled in or a recent graduate of a relevant program
+* Skilled in HTML, CSS, and JavaScript
+* Familiarity with frameworks like React, Angular, or Vue.js (preferred)
+* Strong communication and teamwork skills
+
+
+
+**Stipend \\& Benefits** 
+
+
+
+* **Stipend:** 
+ ₹7,500 \\- ₹15,000 (Performance\\-Based) (Paid)
+* Real\\-world front\\-end development experience
+* Certificate of Internship \\& Letter of Recommendation
+* Opportunity to build a strong portfolio with impactful projects
+
+
+
+**How to Apply** 
+
+
+
+
+ Submit your application with the subject line s applicants from all backgrounds.","IT Services and IT Consulting, IT System Training and Support, and E-Learning Providers","https://www.linkedin.com/company/um-it-solutions","https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u","","","","","","","","","","",""
+"li-4316160556","linkedin","https://www.linkedin.com/jobs/view/4316160556","","Frontend Developer","Zetheta Algorithms Private Limited","","","internship","","","","","",True,"internship","Information Technology, Consulting, and Analyst","","","**About the Company:** 
+
+
+
+
+ ZeTheta Algorithms Private Limited is a FinTech start\\-up which has been recently set up and is developing innovative AI tools.
+ 
+
+
+
+ https://www.instagram.com/zetheta.official
+ 
+
+
+
+  
+
+
+
+
+
+**About the Role:** 
+
+
+
+
+ The Front\\-End Web Developer Intern will be responsible for creating responsive and interactive user interfaces for our web applications. This includes wire framing, building the website's home page, user dashboards, and integrating AI features with an engaging and intuitive design.
+ 
+
+
+
+  
+
+
+
+
+
+**Responsibilities:** 
+
+
+
+* Develop responsive web interfaces using HTML, CSS, and JavaScript
+* Create interactive UI components using React.js \\+ Tailwind CSS (or Vue.js, Angular)
+* Design user interfaces for multiple AI features and data visualization
+* Utilize UI libraries like Bootstrap or Material UI for consistent styling
+* Implement front\\-end form validation and user input handling
+* Ensure cross\\-browser compatibility and responsive design for mobile devices
+* Connect front\\-end components with RESTful APIs using Axios/Fetch
+* Collaborate with back\\-end developers to integrate UI components with server\\-side logic
+* Optimize web applications for maximum speed and scalability
+* Participate in code reviews and implement feedback from senior developers
 
 
 
@@ -1517,12 +667,14 @@
 
 
 
-1. Minimum 4\\+ years of experience in a quality assurance role, including manual and automation
-2. Proven experience in QA methodology and tools, with a track record in implementing QA standards, tools, metrics, and practices.
-3. Excellent understanding of development and project methodologies, particularly Agile and DevOps.
-4. Solid knowledge of Java, selenium, SQL, and scripting.
-5. Exceptional attention to detail, problem\\-solving skills, and strong leadership abilities.
-6. Understanding and experience test AI models is a plus.
+* Student or Fresh Graduate. No experience required.
+* Srong programming skills in HTML, CSS, and JavaScript
+* Basic proficiency in React.js and Tailwind CSS
+* Understanding of responsive design principles
+* Familiarity with API integration (Axios/Fetch)
+* Knowledge of UI/UX best practices
+* Basic understanding of browser rendering and performance
+* Ability to work independently in a remote setting
 
 
 
@@ -1532,26 +684,14 @@
 
 
 
-**What we offer:** 
+**Benefits:** 
 
 
 
-1. Competitive salary package.
-2. Flexible work schedule with remote work.
-3. Opportunity to work with founders and clients.
-4. An inclusive, flexible, and respectful work environment.
-
-
-
-  
-
-
-
-
-
- If you are passionate about software quality and keen to drive innovation, please apply today!","Technology, Information and Internet","https://www.linkedin.com/company/payfederate","https://media.licdn.com/dms/image/v2/D4D0BAQFm_Ko-4HV_3A/company-logo_100_100/company-logo_100_100/0/1718616351695/payfederate_logo?e=2147483647&v=beta&t=ZDjYO2CAB8KqX5FXHylxMTKTFKaX28Vvom5LBo8ZCLI","","","","","","","","","","",""
-"li-4313863755","linkedin","https://www.linkedin.com/jobs/view/4313863755","","AI Software Developer","Modi Innovations Pvt. Ltd.","Aurangabad, Maharashtra, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","**Role Description
- 
+* Opportunity to build practical skills with modern front\\-end technologies
+* Enhance your professional portfolio with real\\-world projects
+* Exposure to FinTech industry and AI applications
+* Remote work flexibility
 
 
 
@@ -1561,127 +701,1024 @@
 
 
 
- Camera Vision and Image processing knowledge mandatory**
+**Internship Details:** 
 
 
 
-
-
- This is a full\\-time, on\\-site role located in Aurangabad for an AI Software Developer. The AI Software Developer will be responsible for developing and implementing software solutions using pattern recognition, neural networks, and natural language processing (NLP). Daily tasks include coding, debugging, optimizing algorithms, collaborating with cross\\-functional teams, and conducting research to enhance AI capabilities.
+* Duration: Self Paced with options of 1, 2, 3, 4 or 6 months.
+* Type: Unpaid","Information Services and Technology, Information and Media","https://in.linkedin.com/company/zetheta","https://media.licdn.com/dms/image/v2/D560BAQEdFezujOhF9Q/company-logo_100_100/company-logo_100_100/0/1697033054187?e=2147483647&v=beta&t=BhWnaINBCfZUlwJKCl-ZrmmUqD9OHGIPfvCayYDFhkU","","","","","","","","","","",""
+"li-4316152953","linkedin","https://www.linkedin.com/jobs/view/4316152953","","Python Developer","Cozzera","","","fulltime","","","","","",True,"mid-senior level","Information Technology","","","**Job Title:** 
+ Senior Python Developer
  
 
 
 
-  
-
-
-
-
-
- \\* Model development: Train, deploy, and manage computer vision and machine learning models for specific tasks.
- 
-
-
-
- \\* Software and hardware integration: Integrate AI models with camera hardware and other software, using tools like the NVIDIA Jetson Nano, Qualcomm QCS610, or Microsoft Azure platforms.
- 
-
-
-
- \\* System optimization: Fine\\-tune imaging systems, from the lens to the processor, to maximize AI model performance and accuracy.
- 
-
-
-
- \\* Data management: Develop pipelines for data annotation, model training, and continuous learning from new data. 
- 
-
-
-
- \\* Computer vision: Understanding of core concepts like object detection, image segmentation, and feature extraction.
- 
-
-
-
- \\* Machine learning: Proficiency in deep learning frameworks like TensorFlow and PyTorch.
- 
-
-
-
- \\* Programming: Skills in languages commonly used in AI, such as Python.
- 
-
-
-
- \\* Hardware: Familiarity with AI camera modules, development kits, and the impact of hardware components (like sensors and ISPs) on performance. 
- 
-
-
-
-  
-
-
-
-
-
-**Qualifications** 
-
-
-
-
-
-
-
-* Experience in Pattern Recognition and Neural Networks
-* Strong background in Computer Science and Software Development
-* Proficiency in Natural Language Processing (NLP)
-* Excellent problem\\-solving skills and attention to detail
-* Ability to work collaboratively in a team environment as well as independently
-* Previous experience in industrial automation or relevant industries is a plus
-* Bachelor's or Master's degree in Computer Science, Engineering, or related field","Software Development","https://in.linkedin.com/company/modi-innovations-pvt.-ltd.","https://media.licdn.com/dms/image/v2/C4E0BAQEv-wV3axXqkQ/company-logo_100_100/company-logo_100_100/0/1631307118736?e=2147483647&v=beta&t=Nij0YQI8OFMojDxEXc1JbDqEbMbX8P0dPymF3-O-DAk","","","","","","","","","","",""
-"li-4313853953","linkedin","https://www.linkedin.com/jobs/view/4313853953","","Artificial Intelligence Engineer","GoodSpace AI","","","fulltime","","","","","",True,"entry level","Information Technology","","","**Job Description: AI Engineer** 
-
-
-
-
-**Position:** 
- AI Engineer
- 
-
-
-
-**Experience:** 
- 1–3 years
- 
-
-
-
-**Compensation:** 
- ₹12–18 LPA (based on skills \\& experience)
+**Experience Required:** 
+ 5\\+ Years
  
 
 
 
 **Location:** 
-**Remote (Work From Anywhere)** 
-
-
-
-
-**Employment Type:** 
- Full\\-time
+ Remote
  
 
 
 
-**About Us** 
+**Employment Type:** 
+ Full\\-Time
+ 
+
+
+
+  
 
 
 
 
- We are a forward\\-thinking \\[company/startup name] leveraging Artificial Intelligence and Machine Learning to build intelligent solutions that transform \\[industry/domain]. We are looking for a passionate
- **AI Engineer** 
- to join our remote\\-first team, where you will work on real\\-world problems, develop innovative models, and deploy AI\\-driven applications at scale.
+
+**About the Role:** 
+
+
+
+
+ We are seeking an experienced
+ **Senior Python Developer** 
+ to join our distributed engineering team. The ideal candidate will have strong hands\\-on experience with
+ **Python (3\\.x)** 
+ ,
+ **API development** 
+ , and
+ **cloud\\-based microservices** 
+ , along with a deep understanding of
+ **software engineering best practices** 
+ . This is a fully remote role requiring close collaboration with cross\\-functional global teams.
+ 
+
+
+
+  
+
+
+
+
+
+**Key Responsibilities:** 
+
+
+
+* Design, develop, and maintain
+ **robust, scalable, and efficient backend systems** 
+ using Python.
+* Build
+ **RESTful and GraphQL APIs** 
+ for web and mobile applications.
+* Work with
+ **databases** 
+ (SQL \\& NoSQL) to design efficient schemas and optimize performance.
+* Implement
+ **unit tests, integration tests, and CI/CD pipelines** 
+ for high\\-quality code delivery.
+* Collaborate with frontend engineers, data teams, and DevOps for seamless integration.
+* Participate in
+ **code reviews** 
+ , design discussions, and architecture planning.
+* Ensure security, scalability, and maintainability across backend systems.
+* Debug, profile, and optimize existing Python applications for performance.
+
+
+
+  
+
+
+
+
+
+**Required Technical Skills:** 
+
+
+
+* **Core:** 
+ Python 3\\.x (OOP, asynchronous programming, decorators, generators).
+* **Frameworks:** 
+ Django / Flask / FastAPI (any one mandatory, multiple preferred).
+* **APIs:** 
+ RESTful API and GraphQL API design and development.
+* **Databases:**
+* **SQL:** 
+ PostgreSQL, MySQL, or SQLite
+* **NoSQL:** 
+ MongoDB, Redis, DynamoDB (any one)
+* **Testing:** 
+ Pytest, unittest, or Nose2\\.
+* **CI/CD:** 
+ GitHub Actions, Jenkins, or GitLab CI.
+* **Cloud Platforms:** 
+ AWS, Azure, or GCP (Lambda, S3, EC2, or App Engine).
+* **Containerization:** 
+ Docker, Docker Compose (Kubernetes is a plus).
+* **Version Control:** 
+ Git, GitHub/GitLab/Bitbucket.
+* **Design Patterns:** 
+ Familiarity with SOLID principles, DRY, and clean architecture.
+
+
+
+  
+
+
+
+
+
+**Nice to Have:** 
+
+
+
+* Experience with
+ **async frameworks** 
+ (e.g., FastAPI, aiohttp).
+* Familiarity with
+ **serverless architecture** 
+ (AWS Lambda / Azure Functions).
+* Experience with
+ **message queues** 
+ (RabbitMQ, Kafka, or Celery).
+* Exposure to
+ **ETL/data pipeline frameworks** 
+ (Airflow, DBT).
+* Experience integrating with
+ **third\\-party APIs** 
+ (Stripe, Twilio, etc.).
+* Knowledge of
+ **DevOps tools** 
+ : Terraform, Ansible, or Helm.
+* Familiarity with
+ **microservices** 
+ and distributed systems architecture.","Software Development","https://www.linkedin.com/company/cozzera","https://media.licdn.com/dms/image/v2/D560BAQFKQwS5Ds-SMQ/company-logo_100_100/company-logo_100_100/0/1724658536427?e=2147483647&v=beta&t=6qq6-T9MpNMO7ba6Q21sq__CbYiR7M8eoXBZgdDdBcc","","","","","","","","","","",""
+"li-4316169149","linkedin","https://www.linkedin.com/jobs/view/4316169149","https://forms.gle/rRj2S5k6BDuKFmcz8&urlHash=pfa1","Front-End Developer Intern","UM IT Solutions","","","internship","","","","","",True,"internship","Analyst, Training, and Information Technology","","","**Front\\-End Developer Intern** 
+
+
+
+
+**Company:** 
+ Unified Mentor
+ 
+
+
+
+**Location:** 
+ Remote
+ 
+
+
+
+**Duration:** 
+ 3 months
+ 
+
+
+
+**Opportunity:** 
+ Full\\-time based on performance, with Certificate of Internship
+ 
+
+
+
+**Application Deadline:** 
+ 20t
+ **h October 2025** 
+
+
+
+
+**About Unified Mentor** 
+
+
+
+
+ Unified Mentor offers
+ **students and graduates** 
+ practical experience in
+ **front\\-end development** 
+ , preparing them for
+ **successful careers** 
+ .
+ 
+
+
+
+**Responsibilities** 
+
+
+
+
+ ✅
+ **Design, code, and modify** 
+ websites.
+ 
+
+
+
+ ✅ Implement
+ **responsive and interactive web features** 
+ .
+ 
+
+
+
+ ✅ Develop
+ **user\\-friendly interfaces and experiences** 
+ .
+ 
+
+
+
+ ✅
+ **Test and debug** 
+ code to ensure seamless functionality.
+ 
+
+
+
+ ✅ Use
+ **front\\-end tools and frameworks** 
+ .
+ 
+
+
+
+**Requirements** 
+
+
+
+
+ 🎓
+ **Enrolled in or recent graduate** 
+ of a relevant program.
+ 
+
+
+
+ 💻
+ **Skilled in HTML, CSS, and JavaScript** 
+ .
+ 
+
+
+
+ ⚛ Familiarity with
+ **frameworks like React, Angular, or Vue.js** 
+ (preferred).
+ 
+
+
+
+ 🗣
+ **Strong communication and teamwork skills** 
+ .
+ 
+
+
+
+**Benefits** 
+
+
+
+
+ 💰
+ **Stipend:** 
+ ₹7,500 \\- ₹15,000 (Performance\\-Based) (Paid)
+ 
+
+
+
+ ✔
+ **Real\\-world front\\-end development experience** 
+ .
+ 
+
+
+
+ ✔
+ **Certificate of Internship** 
+ and
+ **Letter of Recommendation** 
+ .
+ 
+
+
+
+ ✔
+ **Build your portfolio** 
+ with impactful projects.
+ 
+
+
+
+  
+
+
+
+
+
+**Equal Opportunity:** 
+ Unified Mentor Pvt. Ltd. welcomes applicants from all backgrounds.","IT Services and IT Consulting, IT System Training and Support, and E-Learning Providers","https://www.linkedin.com/company/um-it-solutions","https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u","","","","","","","","","","",""
+"li-4316157841","linkedin","https://www.linkedin.com/jobs/view/4316157841","","Back End Developer","Zetheta Algorithms Private Limited","","","internship","","","","","",True,"internship","Information Technology, Consulting, and Analyst","","","**About the Company:** 
+
+
+
+
+ ZeTheta Algorithms Private Limited is a FinTech start\\-up which has been recently set up and is developing innovative AI tools.
+ 
+
+
+
+ https://www.instagram.com/zetheta.official
+ 
+
+
+
+  
+
+
+
+
+
+**About the Role:** 
+
+
+
+
+ The Back\\-End Web Developer Intern will be responsible for server\\-side application logic, database design, and building secure and efficient APIs. This includes password authentication systems, data processing logic, and integration with AI features.
+ 
+
+
+
+  
+
+
+
+
+
+**Responsibilities:** 
+
+
+
+* Design, build and implement secure RESTful APIs using Node.js \\+ Express.js
+* Develop and maintain server\\-side applications using frameworks such as Django, Flask, Express (Node.js), or Laravel (PHP)
+* Implement authentication and authorization systems (Firebase free tier/ PostgreSQL)
+* Design and manage database schemas using MongoDB Atlas (free tier) or other databases with PostGRE SQL (Supabase) essential skill requirement.
+* Create efficient data models and database queries
+* Develop blockchain\\-based certificate verification system
+* Implement server\\-side validation and security measures
+* Troubleshoot and optimize backend performance
+* Integrate third\\-party services and external APIs when needed
+* Document API endpoints and backend functionality for front\\-end developers
+
+
+
+  
+
+
+
+
+
+**Qualifications:** 
+
+
+
+* Student or Fresh Graduate \\- No experience required.
+* Basic proficiency in one or more backend frameworks (Node.js/Express, Django, Flask, Laravel)
+* Programming skills in JavaScript, Python, PHP, or Ruby
+* Familiarity with MongoDB, PostgreSQL (Supabase), SQLite, or NoSQL databases
+* Understanding of RESTful API design principles
+* Basic knowledge of authentication and authorization mechanisms
+* Awareness of security concerns and best practices
+* Ability to work independently in a remote setting
+
+
+
+  
+
+
+
+
+
+**Benefits:** 
+
+
+
+* Opportunity to build practical skills with modern backend technologies
+* Experience working with databases and API design
+* Exposure to blockchain technology applications
+* Enhance your professional portfolio with real\\-world projects
+* Remote work flexibility
+
+
+
+  
+
+
+
+
+
+**Internship Details:** 
+
+
+
+* Duration: Self paced with options of 1, 2, 3, 4 or 6 months.
+* Type: Unpaid","Information Services and Technology, Information and Media","https://in.linkedin.com/company/zetheta","https://media.licdn.com/dms/image/v2/D560BAQEdFezujOhF9Q/company-logo_100_100/company-logo_100_100/0/1697033054187?e=2147483647&v=beta&t=BhWnaINBCfZUlwJKCl-ZrmmUqD9OHGIPfvCayYDFhkU","","","","","","","","","","",""
+"li-4313862807","linkedin","https://www.linkedin.com/jobs/view/4313862807","","Software Engineer in Test","Xperteez Technology","Bengaluru South, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","jobs@xperteez.co.in","**Automation Test Engineer (SDET/ QA Automation)** 
+
+
+
+
+  
+
+
+
+
+
+ At
+ **Xperteez Technology** 
+ , we engineer reliability through automation, precision, and innovation.
+ 
+
+
+
+ We’re expanding our
+ **Quality Engineering division** 
+ in Hyderabad and hiring professionals who can bridge coding and testing — building frameworks that ensure performance, scalability, and trust.
+ 
+
+
+
+  
+
+
+
+
+
+**Role Overview:** 
+
+
+
+
+ We are seeking an
+ **Automation Test Engineer (SDET / QA Automation)** 
+ to design, develop, and maintain automation frameworks for enterprise\\-scale applications.
+ 
+
+
+
+ You’ll work closely with developers, DevOps, and product teams to integrate quality into every stage of delivery.
+ 
+
+
+
+**Location:** 
+ Hyderabad (Hybrid)
+ 
+
+
+
+**Experience:** 
+ 3 – 8 years
+ 
+
+
+
+**Salary Range:** 
+ ₹10 – ₹22 LPA (based on experience and capability)
+ 
+
+
+
+  
+
+
+
+
+
+**Key Responsibilities:** 
+
+
+
+* Develop and maintain automation test scripts using
+ **Selenium, Playwright, or Cypress**
+* Automate
+ **API and regression testing** 
+ using
+ **Postman / RestAssured / Karate**
+* Integrate automation into
+ **CI/CD pipelines** 
+ (Jenkins / GitLab / GitHub Actions)
+* Collaborate with development and SRE teams to ensure end\\-to\\-end system reliability
+* Analyze test results, debug failures, and improve automation coverage
+* Contribute to
+ **framework design, scalability, and maintainability**
+
+
+
+  
+
+
+
+
+
+**Required Skills:** 
+
+
+
+* Strong programming skills in
+ **Java or Python**
+* Experience with
+ **Selenium / Playwright / Cypress** 
+ frameworks
+* Hands\\-on with
+ **API automation** 
+ and
+ **CI/CD integration**
+* Strong understanding of SDLC, STLC, and Agile testing practices
+* Experience with
+ **Git, Jenkins, or Docker** 
+ preferred
+
+
+
+  
+
+
+
+
+
+**Good To Have:** 
+
+
+
+* Experience in
+ **Cloud\\-based testing** 
+ (AWS / GCP)
+* Knowledge of
+ **Performance Testing** 
+ using
+ **JMeter**
+* Exposure to
+ **containerized test environments**
+
+
+
+  
+
+
+
+
+
+**Why Join Xperteez Technology:** 
+
+
+
+* Work on live enterprise projects with measurable impact
+* **Hybrid work culture** 
+ with strong technical mentorship
+* Opportunity to be part of
+ **India’s first profit\\-sharing model** 
+ in IT services
+* Rapid career growth and exposure to
+ **SRE \\& Automation ecosystems**
+
+
+
+**﻿**
+
+
+
+
+ 📩
+ **Apply Now:** 
+ jobs@xperteez.co.in","Business Consulting and Services","https://in.linkedin.com/company/xperteeztechnology","https://media.licdn.com/dms/image/v2/C4D0BAQEXAd2LWBuheg/company-logo_100_100/company-logo_100_100/0/1663094150320/xperteeztechnology_logo?e=2147483647&v=beta&t=8ADLduFyJYc8uTGk-2gbPhGkXLQJwwZKdepFnnHbDJ4","","","","","","","","","","",""
+"li-4316595791","linkedin","https://www.linkedin.com/jobs/view/4316595791","https://careers.microsoft.com/us/en/job/1883126/Senior-Software-Engineer?jobsource=linkedin&utm_source=Job+Board&utm_campaign=linkedin-feed&mode=apply&iis=LinkedIn&urlHash=DPlu","Senior Software Engineer","Microsoft","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","The AI Platform organization at Microsoft builds the end\\- to\\-end Azure AI stack/PaaS and is core to Azure’s innovation and differentiation, as well as all of Microsoft’s flagship products, from Office to Teams, to Xbox. We are the team building Azure OpenAI, Azure ML, Cognitive Services, and the global Azure AI infrastructure for running the largest AI workloads on the planet.
+   
+
+  
+
+ Within AI Platform, the AI Foundry team enables data scientists and developers to quickly and easily build, train, deploy, manage, and consume machine learning model. Our AI Foundry OSS Model Customization Team is at the forefront of this mission working on groundbreaking projects for customizing of OSS models. We collaborate closely with research institutions, industry leaders, and organizations worldwide to create innovative solutions that impact millions of users.
+   
+
+  
+
+**Responsibilities**
+**Responsibilities:**
+ As a Senior Software Engineer in our team, you will:
+   
+
+  
+
+* Write clean and concise code with unit tests
+* Collaborate with researchers and data scientists to implement model customization techniques, including Finetuning, Reinforcement Finetuning, Distillation.
+* Optimize model performance, scalability, and efficiency.
+* Conduct experiments to evaluate model performance, robustness, and generalization.
+* Explore novel techniques and approaches to enhance model capabilities
+
+
+**Qualifications**
+**Qualifications (Required and Preferred)**
+* 5\\+ years of experience writing production code in building internet scale services and distributed systems.
+* Experience with cloud platforms (e.g., Azure, AWS) and distributed computing (Kubernetes).
+* Proficiency in Python and relevant ML libraries (e.g.PyTorch).
+* Experience with transformer\\-based and diffuser\\-based models preferred(e.g. GPT, Llama, Stable diffusion).
+* Excellent problem\\-solving skills and the ability to work independently and collaboratively.
+
+
+ \\#AzureAIPlatform, \\#AzureAIFoundry
+   
+
+  
+
+ Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+   
+
+  
+
+ Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.","Software Development","https://www.linkedin.com/company/microsoft","https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY","","","","","","","","","","",""
+"li-4316159479","linkedin","https://www.linkedin.com/jobs/view/4316159479","","React Native Developer","RR.T","Kochi, Kerala, India","","contract","","","","","",True,"mid-senior level","Engineering and Information Technology","","","**About Right Remote Team** 
+
+**Right Remote Team** 
+ is a managed remote solutions provider specializing in AI, Creative, and Marketing services. We enable global businesses and agencies to scale remotely through our
+ **Remote Talent as a Service (TaaS)** 
+ model — delivering world\\-class professionals in Data, Creative, Tech, and Marketing.
+ 
+
+
+
+ We are expanding our tech team and are looking for a skilled
+ **React Native Developer** 
+ to build modern, high\\-performing mobile applications for our international clients across diverse industries.
+ 
+
+
+**About the Role** 
+
+ As a
+ **React Native Developer** 
+ at Right Remote Team, you will be responsible for building cross\\-platform mobile applications that are fast, scalable, and user\\-friendly. You’ll collaborate closely with designers, backend engineers, and project managers across different time zones to deliver best\\-in\\-class digital solutions.
+ 
+
+
+
+ This role is ideal for a self\\-driven developer who thrives in remote collaboration environments and enjoys solving technical challenges in mobile development.
+ 
+
+
+**Key Responsibilities** 
+* Develop, maintain, and enhance mobile applications using
+ **React Native** 
+ for iOS and Android.
+* Collaborate with cross\\-functional teams to define, design, and deliver new features.
+* Write clean, reusable, and efficient code while following best coding practices.
+* Integrate RESTful APIs, GraphQL endpoints, and third\\-party services.
+* Ensure app performance, stability, and responsiveness across platforms.
+* Participate in sprint planning, daily stand\\-ups, and code reviews.
+* Troubleshoot and debug issues to improve performance and reliability.
+* Stay current with emerging mobile trends, tools, and technologies.
+
+
+**Requirements** 
+* Bachelor’s degree in Computer Science, Information Technology, or related field.
+* 2–5 years of experience in mobile app development, with at least 2 years using
+ **React Native** 
+ .
+* Strong command of
+ **JavaScript (ES6\\+)** 
+ and
+ **TypeScript** 
+ .
+* Familiarity with state management libraries such as
+ **Redux** 
+ ,
+ **MobX** 
+ , or
+ **Recoil** 
+ .
+* Experience integrating APIs, Firebase, and native modules.
+* Proficiency with
+ **Android Studio** 
+ ,
+ **Xcode** 
+ , and Git version control.
+* Understanding of mobile UI/UX best practices and responsive design.
+* Experience deploying apps to the
+ **Apple App Store** 
+ and
+ **Google Play Store** 
+ .
+* Excellent communication and collaboration skills for working in distributed teams.
+
+
+**Preferred Qualifications** 
+* Experience with
+ **React.js** 
+ ,
+ **Node.js** 
+ , or backend APIs.
+* Familiarity with
+ **GraphQL** 
+ ,
+ **CI/CD pipelines** 
+ , or
+ **Jest/Detox testing frameworks** 
+ .
+* Exposure to Agile/Scrum development environments.
+* Prior experience working with global clients or in a remote\\-first company.","Technology, Information and Media","https://in.linkedin.com/company/right-remote-team","https://media.licdn.com/dms/image/v2/D560BAQGoZXMHQouR9w/company-logo_100_100/company-logo_100_100/0/1692176166631/right_remote_team_logo?e=2147483647&v=beta&t=W-hHiN2ZZvq_O4741wbKgIkCMAqijjP4fhTPzvHY-fM","","","","","","","","","","",""
+"li-4316815037","linkedin","https://www.linkedin.com/jobs/view/4316815037","","Senior Software Engineer","Microsoft","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","Microsoft Silicon, Cloud Hardware, and Infrastructure Engineering (SCHIE) is the team behind Microsoft’s expanding Cloud Infrastructure and responsible for powering Microsoft’s “Intelligent Cloud” mission. SCHIE delivers the core infrastructure and foundational technologies for Microsoft's over 200 online businesses including Bing, MSN, Office 365, Xbox Live, Teams, OneDrive, and the Microsoft Azure platform globally with our server and data center infrastructure, security and compliance, operations, globalization, and manageability solutions. Our focus is on smart growth, high efficiency, and delivering a trusted experience to customers and partners worldwide and we are looking for passionate, high\\-energy engineers to help achieve that mission.
+   
+
+  
+
+ The DPU team, within the Azure Hardware Systems \\& Infrastructure group, brings together state\\-of\\-the\\-art software and hardware expertise to create a highly programmable and high\\-performance chip with the capability to efficiently handle large data volumes. Thanks to its integrated design, this solution empowers teams to operate with increased agility and deliver significantly superior performance compared to CPU\\-based alternatives.
+   
+
+  
+
+ As a Senior Software Engineer in the DPU Operational Excellence team, you will be involved in designing, building, testing and deploying the tools and agents needed for operational readiness of control and data plane software that runs on DPU’s custom\\-built silicon in a variety of new platforms targeted at Azure compute and networking use\\-cases. This would entail building a deep understanding of the DPU architecture and the systems built using the DPU, understanding the end\\-to\\-end customer workflows, and building the debugging skills required to troubleshoot field issues. You will be responsible for managing the field incidents, maintaining dashboards for active/dormant cases, tracking software/firmware releases, and the fixes being carried in each, and collaborating cross\\-functionally in the pursuit of case resolution. This is an opportunity to build, test, and support innovative products that will be deployed on a planet scale.
+   
+
+  
+
+ Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+   
+
+  
+
+**Responsibilities**
+* Build, test and deploy innovative tools, and AI agents to reduce time to mitigate production issues.
+* Acts as a Designated Responsible Individual (DRI) and guides other engineers by developing and following the playbook, working on call to monitor system/product/service for degradation, downtime, or interruptions,
+* Alerting stakeholders about status and initiating actions to restore system/product/service for simple and complex problems when appropriate.
+* Guide and help debug field issues. Collaborate cross\\-functionally and drive debug sessions to arrive at root cause.
+* Maintain dashboards of live/dormant cases and KPIs.
+* Feedback learnings from field issues back into the engineering dev/test process.
+* Embody our culture and values.
+
+
+**Qualifications**
+ Required/Minimum Qualifications (RQs/MQs)
+   
+
+  
+
+* Bachelor's Degree in Computer Science, or related technical discipline AND 5\\+ years technical engineering experience with coding in languages including, but not limited to, C, SQL and / or Python
+* OR equivalent experience
+* 5\\+ Years of previous experience in diagnosing and troubleshooting large scale cloud compute or networking platform features/products.
+
+
+**Additional or Preferred Qualifications (PQs)**
+* Experience with Azure control plane, telemetry, monitoring, diagnostics, reporting infrastructure
+* Experience with complex debug/troubleshooting in both lab and live site situations.
+* Experience with dealing with large\\-scale data analysis to identify themes and root causes of issues
+* Experience with AI agents to do live site tool automation and analysis
+
+
+ Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+   
+
+  
+
+ Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.","Software Development","https://www.linkedin.com/company/microsoft","https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY","","","","","","","","","","",""
+"li-4316157802","linkedin","https://www.linkedin.com/jobs/view/4316157802","","Angular Developer","Cozzera","","","fulltime","","","","","",True,"mid-senior level","Information Technology","","","**Job Title:** 
+ Senior Angular Developer
+ 
+
+
+
+**Experience Required:** 
+ 5\\+ years
+ 
+
+
+
+**Location:** 
+ Remote
+ 
+
+
+
+**Employment Type:** 
+ Full\\-Time
+ 
+
+
+
+  
+
+
+
+
+
+**About the Role:** 
+
+
+
+
+ We are looking for a
+ **Senior Angular Developer** 
+ with 5\\+ years of experience in designing, developing, and deploying high\\-quality, scalable web applications. The ideal candidate will have strong expertise in
+ **Angular 11\\+** 
+ ,
+ **TypeScript** 
+ , and
+ **RxJS** 
+ , along with a passion for clean code, performance optimization, and UI/UX best practices. This is a fully remote role working with global teams in an agile environment.
+ 
+
+
+
+  
+
+
+
+
+
+**Key Responsibilities:** 
+
+
+
+* Develop and maintain
+ **dynamic, responsive, and user\\-friendly front\\-end applications** 
+ using Angular 11\\+.
+* Build
+ **reusable, modular, and maintainable components** 
+ with clean architecture and best practices.
+* Integrate the frontend with
+ **RESTful APIs** 
+ and third\\-party services.
+* Implement
+ **Reactive Forms, Custom Directives, Pipes, and Services** 
+ .
+* Optimize applications for
+ **speed, accessibility (WCAG/ADA)** 
+ , and scalability.
+* Ensure
+ **cross\\-browser compatibility** 
+ and mobile responsiveness.
+* Participate in
+ **code reviews** 
+ ,
+ **unit testing** 
+ , and
+ **continuous integration** 
+ workflows.
+* Collaborate with backend engineers, designers, and product managers to deliver robust solutions.
+* Stay current with
+ **Angular ecosystem updates** 
+ and emerging front\\-end trends.
+
+
+
+  
+
+
+
+
+
+**Required Skills:** 
+
+
+
+* **Core:** 
+ Angular 11\\+ (preferably 14 or higher), TypeScript, JavaScript (ES6\\+), HTML5, SCSS/CSS3\\.
+* **State Management:** 
+ NgRx, Signals, or BehaviorSubjects for reactive state handling.
+* **Architecture:** 
+ Component\\-based design, lazy loading, dynamic module loading, and routing strategies.
+* **Reactive Programming:** 
+ RxJS operators and Observables.
+* **API Integration:** 
+ RESTful APIs and GraphQL.
+* **Testing:** 
+ Jasmine, Karma, Jest, or Cypress.
+* **Build Tools:** 
+ Webpack, Angular CLI, Nx Monorepo tools.
+* **Version Control:** 
+ Git, GitHub/GitLab/Bitbucket.
+* **CI/CD:** 
+ Familiarity with Jenkins, GitHub Actions, or Azure DevOps pipelines.
+
+
+
+  
+
+
+
+
+
+**Nice to Have:** 
+
+
+
+* Experience with
+ **Angular Universal (SSR)** 
+ or
+ **Progressive Web Apps (PWAs)** 
+ .
+* Knowledge of
+ **Docker, Kubernetes** 
+ , or
+ **cloud deployment (AWS/Azure/GCP)** 
+ .
+* Familiarity with
+ **UX/UI design tools** 
+ like Figma or Adobe XD.
+* Exposure to
+ **micro\\-frontend architecture** 
+ .
+* Experience migrating legacy AngularJS or older Angular apps to the latest version.","Software Development","https://www.linkedin.com/company/cozzera","https://media.licdn.com/dms/image/v2/D560BAQFKQwS5Ds-SMQ/company-logo_100_100/company-logo_100_100/0/1724658536427?e=2147483647&v=beta&t=6qq6-T9MpNMO7ba6Q21sq__CbYiR7M8eoXBZgdDdBcc","","","","","","","","","","",""
+"li-4316170134","linkedin","https://www.linkedin.com/jobs/view/4316170134","","Software Developer – Agentic AI","Tryndbuy Fashion","Bengaluru, Karnataka, India","","internship","","","","","",False,"entry level","Engineering and Information Technology","","","We’re looking for a hands\\-on developer who’s excited about Agentic AI and Large Language Models (LLMs) to join our fast\\-moving team. You’ll build intelligent agent workflows, experiment with cutting\\-edge frameworks, and help shape the next generation of AI systems.
+   
+
+  
+
+ What You’ll Work On:
+   
+
+ \\- Building agentic workflows using LangChain, LangGraph, LangFlow, CrewAI, etc.
+   
+
+ \\- Designing MCP\\-based (Model Context Protocol) client/server architectures.
+   
+
+ \\- Experimenting with voice\\-enabled chatbots and AI tool integrations.
+   
+
+ \\- (Bonus) Playing with Computer Vision, Graphics, ASR, or TTS systems.
+   
+
+  
+
+ What We’re Looking For:
+   
+
+ \\- BTech / MTech / PhD in EECS or related field
+   
+
+ \\- 2–3 years of hands\\-on experience with AI/LLM projects
+   
+
+ \\- A curious, experimental, and builder\\-first mindset
+   
+
+  
+
+***Role Type: 3\\-month internship, with potential to convert to full\\-time
+   
+
+ Start Date: Immediate***
+  
+
+  
+
+ If you love tinkering with AI agents, workflows, and frameworks that make machines truly think and act — we’d love to meet you!
+   
+
+  
+
+  
+
+ Apply now or DM us to know more.","Software Development","https://in.linkedin.com/company/try-buy-fashion","https://media.licdn.com/dms/image/v2/C560BAQEgjR6YdpyBnw/company-logo_100_100/company-logo_100_100/0/1631432959186/try_buy_fashions_logo?e=2147483647&v=beta&t=sjL6HcFXoZwZ8Fkyn-5iYbPW5ebUb1cJFKuIJOsoWL0","","","","","","","","","","",""
+"li-4313870788","linkedin","https://www.linkedin.com/jobs/view/4313870788","","AI DevOps Engineer (Freelance | WFH)","BeGig","","","parttime","","","","","",True,"associate","Information Technology","","","**About BeGig** 
+
+
+
+
+ BeGig is the leading tech freelancing marketplace. We empower innovative, early\\-stage, non\\-tech founders to bring their visions to life by connecting them with top\\-tier freelance talent. By joining BeGig, you’re not just taking on one role—you’re signing up for a platform that will continuously match you with high\\-impact opportunities tailored to your expertise.
+ 
+
+
+
+  
+
+
+
+
+
+**Your Opportunity** 
+
+
+
+
+ Join our network as an
+ **AI DevOps Engineer** 
+ and play a critical role in automating, deploying, and scaling infrastructure that powers cutting\\-edge AI systems. From model lifecycle automation to infrastructure\\-as\\-code and real\\-time monitoring, you’ll be the backbone of reliable and efficient AI delivery.
+ 
+
+
+
+  
+
+
+
+
+
+ Engage with startups and scaleups on a flexible, remote\\-first basis—hourly or project\\-based.
  
 
 
@@ -1691,90 +1728,22 @@
 
 
 
- As an
- **AI Engineer** 
- , you will design, build, and optimize machine learning models and AI systems. You will collaborate with data scientists, software engineers, and product teams to integrate AI capabilities into production systems.
+ As an AI DevOps Engineer, you will:
  
 
 
-
-**Key Responsibilities** 
-
-
-
-* Design, develop, and deploy machine learning/AI models for production use.
-* Work with structured and unstructured data (text, images, audio, etc.).
-* Implement NLP, computer vision, or recommendation systems based on business needs.
-* Optimize models for scalability, performance, and low latency.
-* Build pipelines for data preprocessing, feature engineering, and model training.
-* Deploy models using TensorFlow Serving, TorchServe, or cloud AI services.
-* Collaborate with global teams in a
- **remote\\-first environment** 
- using Agile tools.
-* Stay updated with the latest AI/ML research, frameworks, and best practices.
-
-
-
-**Required Skills \\& Qualifications** 
-
-
-
-* Bachelor’s/Master’s in Computer Science, AI/ML, Data Science, or related field.
-* **1–3 years** 
- of experience in AI/ML engineering or related roles.
-* Strong proficiency in
- **Python** 
- and ML libraries (TensorFlow, PyTorch, scikit\\-learn).
-* Experience with
- **deep learning architectures** 
- (CNNs, RNNs, Transformers).
-* Hands\\-on experience in
- **NLP, computer vision, or recommendation systems** 
- .
-* Familiarity with
- **SQL/NoSQL databases** 
- .
-* Experience with
- **cloud platforms (AWS, GCP, Azure)** 
- and ML Ops practices.
-* Strong problem\\-solving and communication skills (remote collaboration ready).
-
-
-
-**Good to Have** 
-
-
-
-* Exposure to
- **Generative AI / LLMs** 
- (OpenAI, Hugging Face, LangChain).
-* Knowledge of
- **MLOps pipelines** 
- and deployment (Docker, Kubernetes, CI/CD).
-* Familiarity with
- **big data frameworks** 
- (Spark, Hadoop).
-* Experience in
- **API development** 
- for serving AI models.
-
-
-
-**What We Offer** 
-
-
-
-* Competitive compensation:
- **₹12–18 LPA** 
- .
-* 100%
- **Remote\\-first work model** 
- – flexible hours and global collaboration.
-* Exciting projects at the intersection of AI and real\\-world applications.
-* Learning \\& growth with mentorship from senior AI/ML experts.
-* Supportive and innovative work culture with access to cutting\\-edge tools","Technology, Information and Internet and Information Services","https://in.linkedin.com/company/goodspaceai","https://media.licdn.com/dms/image/v2/D560BAQGpVbJwZuVWXg/company-logo_100_100/company-logo_100_100/0/1708322685570/goodspaceclub_logo?e=2147483647&v=beta&t=y8_JPcUUViL8ZKCAKDYe1uoHTGzECXGdyaxIeY_w-40","","","","","","","","","","",""
-"li-4316146807","linkedin","https://www.linkedin.com/jobs/view/4316146807","https://jobs.lever.co/safe/7d447182-98e0-4758-9fa8-bdc10a1415b9?source=6&urlHash=__nc","Software Development Engineer III","Safe Security","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Overview:** 
-
+* **Automate ML Workflows** 
+ : Build CI/CD pipelines tailored for AI/ML projects including model training, validation, deployment, and rollback.
+* **Deploy AI Infrastructure** 
+ : Manage containerized AI services (LLMs, inference endpoints, pipelines) on Kubernetes or other orchestration platforms.
+* **Optimize Compute Resources** 
+ : Design cost\\-efficient GPU/CPU allocation strategies and autoscaling policies across cloud infrastructure.
+* **Monitor AI Systems** 
+ : Implement logging and monitoring for AI workloads using Prometheus, Grafana, ELK, or similar stacks.
+* **Model Ops \\& Versioning** 
+ : Enable robust model tracking, registry management, and reproducible pipelines using tools like MLflow, DVC, or SageMaker.
+* **Secure and Scale** 
+ : Apply best practices in access control, environment isolation, and infrastructure scaling for multi\\-tenant AI products.
 
 
 
@@ -1784,19 +1753,324 @@
 
 
 
- We are seeking an experienced and passionate Engineer to join our engineering team. As a senior engineer, you will lead a high\\-performing engineering team working closely with our Design, Product, and other stakeholders to develop and deliver core product features that help in predicting and preventing cyber breaches.
- 
+**Technical Requirements \\& Skills** 
+
+
+
+* **Experience** 
+ : Minimum 2\\+ years in DevOps or MLOps with direct exposure to AI/ML systems.
+* **CI/CD** 
+ : Hands\\-on experience with GitHub Actions, GitLab CI, Jenkins, or similar tools to automate AI model and app deployment.
+* **Cloud \\& Containers** 
+ : Proficient in AWS, GCP, or Azure with containerization (Docker) and orchestration (Kubernetes).
+* **Monitoring** 
+ : Familiarity with Prometheus, Grafana, ELK, or similar monitoring/logging solutions.
+* **MLOps Tools** 
+ : Experience with MLflow, Weights \\& Biases, DVC, or SageMaker for model lifecycle management.
+* **Scripting \\& Automation** 
+ : Strong scripting skills in Python, Bash, or Go for infrastructure automation and custom tooling.
 
 
 
   
 
 
+
+
+
+**What We’re Looking For** 
+
+
+
+* A systems and automation expert who understands the specific needs of AI\\-driven environments.
+* A freelancer who thrives on performance, reproducibility, and operational resilience.
+* A DevOps mindset builder who brings structure to the often chaotic world of experimental AI development.
+
+
+
+  
+
+
+
+
+
+**Why Join Us?** 
+
+
+
+* **Immediate Impact** 
+ : Help early\\-stage and growth\\-stage startups deploy, monitor, and scale their AI systems effectively.
+* **Remote \\& Flexible** 
+ : Choose your working model—hourly or project\\-based—from anywhere.
+* **Future Opportunities** 
+ : Be continuously matched with MLOps, AI tooling, and infrastructure engineering roles.
+
+
+
+  
+
+
+
+
+
+**Growth \\& Recognition** 
+ : Join a vetted network that values automation, reliability, and your contribution to operational excellence.","Technology, Information and Internet","https://in.linkedin.com/company/begig","https://media.licdn.com/dms/image/v2/C4E0BAQFRIr8EBWsQhQ/company-logo_100_100/company-logo_100_100/0/1630629420568/begig_logo?e=2147483647&v=beta&t=KlDKSSYmNWzJxlxJ3A4FgVDZpem9RApDztRqwJK85nU","","","","","","","","","","",""
+"li-4316168230","linkedin","https://www.linkedin.com/jobs/view/4316168230","","Web Developer Intern","UM IT Solutions","","","internship","","","","","",True,"internship","Analyst, Training, and Information Technology","","","**Web Developer Intern (Paid)** 
+
+
+
+
+**Company:** 
+ Unified Mentor
+ 
 
 
 
 **Location:** 
- Bengaluru or Delhi
+ Remote
+ 
+
+
+
+**Duration:** 
+ 3 months
+ 
+
+
+
+**Application Deadline: 20th October 2025** 
+
+
+
+
+**Opportunity:** 
+ Full\\-time role based on performance \\+ Internship Certificate
+ 
+
+
+
+**About Unified Mentor** 
+
+
+
+
+ Unified Mentor provides students and graduates with hands\\-on experience in web development, helping them build skills and portfolios through real\\-world projects.
+ 
+
+
+
+**Responsibilities** 
+
+
+
+* Assist in designing and coding responsive websites
+* Work on front\\-end and back\\-end frameworks for project development
+* Test and debug code to enhance user experience
+
+
+
+**Requirements** 
+
+
+
+* Proficiency in HTML, CSS, and JavaScript
+* Familiarity with frameworks like React, Angular, or Node.js (preferred)
+* Strong communication and time management skills
+
+
+
+**Stipend \\& Benefits** 
+
+
+
+* **Stipend:** 
+ ₹7,500 \\- ₹15,000 (Performance\\-Based) (Paid)
+* Hands\\-on web development experience
+* Certificate of Internship \\& Letter of Recommendation
+* Opportunity to build a portfolio with real\\-world projects
+
+
+
+**How to Apply** 
+
+
+
+
+ Submit your application with the subject line
+ **""Web Developer Intern Application.""** 
+
+
+
+
+**Equal Opportunity:** 
+ Unified Mentor welcomes applicants from all backgrounds.","IT Services and IT Consulting, IT System Training and Support, and E-Learning Providers","https://www.linkedin.com/company/um-it-solutions","https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u","","","","","","","","","","",""
+"li-4316594847","linkedin","https://www.linkedin.com/jobs/view/4316594847","","AI Architect/Developer","Microsoft","","","fulltime","","","","","",False,"not applicable","Design, Art/Creative, and Information Technology","","","We are seeking a highly motivated, passionate, and customer centric
+ **Senior AI Architect** 
+ to join the
+ **Office of the CTO** 
+ . This is a hands\\-on, customer facing, technical role that requires deep expertise in AI and Machine Learning, specifically leveraging
+ **Python** 
+ for end\\-to\\-end solution design, development, and deployment. Experience with
+ **JavaScript and/or .NET and Agent development frameworks like Semantic Kernel, LangChain, LangGraph** 
+ is strongly preferred. You'll collaborate closely with enterprise customers to solve critical business challenges by leveraging Azure's cutting\\-edge AI capabilities, design and build AI solutions, implement robust data pipelines including Azure OpenAI, Azure ML, and other Large/Small Language Model (LLM/SLM) platforms.
+   
+
+  
+
+ Our diverse, inclusive, and mission\\-driven team prioritizes innovation, collaboration, and continuous learning, focused on solving complex, real\\-world business challenges for enterprise customers.
+   
+
+  
+
+**Responsibilities**
+* Lead hands\\-on design and development efforts primarily using Python, building robust, scalable, and customer\\-focused AI/ML solutions.
+* Engage directly with key enterprise customers to strategize, architect and implement AI driven, Agentic AI solutions leveraging Azure AI services including Azure OpenAI, Azure ML.
+* Translate complex requirements into practical, well\\-architected technical solutions.
+* Develop end\\-to\\-end, rapid prototypes, involving data ingestion, validation, processing, and model deployment using Azure platform components.
+* Build, customize, and optimize AI models and related components for customer\\-specific use cases.
+* Integrate AI solutions with full\\-stack architectures, preferably leveraging experience with JavaScript frameworks (e.g., Node.js, React) and/or .NET ecosystems.
+* Establish and maintain robust CI/CD and ML Ops pipelines, leveraging Azure DevOps, Github for automated deployments.
+* Proactively explore diverse datasets to engineer novel features and signals that significantly enhance ML performance.
+* Participate actively in every phase of the model lifecycle from conceptualization, training, fine tuning, validation, and deployment, to continuous monitoring and improvement.
+
+
+**Qualifications**
+* Master’s degree (or higher), preferably with a specialization in Machine Learning, Data Science, or AI.
+* Minimum 10\\+ years as a technical solution architect or consultant with proven expertise in AI/ML development.
+* Mandatory hands\\-on experience in Python development, with extensive practical experience building and deploying production\\-grade AI solutions.
+* Proven track record of successful delivery of cloud\\-native AI projects, ideally on the Azure platform.
+* Demonstrated expertise in deep\\-learning and Agentic AI frameworks (Semantic Kernel, LangChain, LangGraph etc.) and model optimization.
+
+
+**Preferred Qualifications**
+* Additional, hands\\-on software development experience in JavaScript and/or .NET, providing full\\-stack solution design capability.
+* Deep understanding and practical experience with Azure OpenAI (e.g., ChatGPT, DALL·E 2\\), Azure ML, and AI Agent development frameworks.
+* Expertise in implementing automated deployments using Azure DevOps, GitHub (CI/CD pipelines) and comprehensive understanding of MLOps practices.
+* Excellent communication skills (written and verbal) with the ability to articulate complex technical solutions clearly to diverse audiences, including senior executives.
+* Strong analytical and problem\\-solving skills, with a passion for customer empathy and user\\-centric solution design.
+
+
+**Culture And Values**
+ At Microsoft, our mission is to empower every individual and organization on the planet to achieve more. We embrace a growth mindset, champion innovation, and value collaboration. Respect, integrity, accountability, and inclusiveness are foundational to our culture, and we seek professionals who align with and further these core values.
+   
+
+  
+
+ Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.","Software Development","https://www.linkedin.com/company/microsoft","https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY","","","","","","","","","","",""
+"li-4316178036","linkedin","https://www.linkedin.com/jobs/view/4316178036","","Full Stack Web Developer Intern","UM IT PRIVATE LIMITED","","","internship","","","","","",True,"internship","Analyst, Training, and Information Technology","","","**Full Stack Web Developer Intern (Paid)** 
+
+
+
+
+**Company:** 
+ Unified Mentor
+ 
+
+
+
+**Location:** 
+ Remote
+ 
+
+
+
+**Duration:** 
+ 3 months
+ 
+
+
+
+**Application Deadline: 20th October 2025** 
+
+
+
+
+**Opportunity:** 
+ Potential full\\-time role based on performance \\+ Internship Certificate
+ 
+
+
+
+**About Unified Mentor** 
+
+
+
+
+ Unified Mentor provides students and graduates with practical learning opportunities and career growth in web development through real\\-world projects.
+ 
+
+
+
+**Role Overview** 
+
+
+
+
+ As a Web Developer Intern, you will work on real\\-world projects, gaining hands\\-on experience in front\\-end and back\\-end development while enhancing your technical skills.
+ 
+
+
+
+**Responsibilities** 
+
+
+
+* Design, code, and modify websites for functionality and visual appeal
+* Develop responsive and dynamic web pages
+* Test and debug websites for a seamless user experience
+* Work with modern web development tools and frameworks
+
+
+
+**Requirements** 
+
+
+
+* Currently enrolled in or recently graduated from a relevant program
+* Proficiency in HTML, CSS, and JavaScript
+* Familiarity with frameworks such as React, Angular, or Node.js (preferred)
+* Strong communication and teamwork skills
+
+
+
+**Benefits** 
+
+
+
+* **Stipend:** 
+ ₹7,500 \\- ₹15,000 (Performance\\-Based)
+* Hands\\-on web development experience
+* Certificate of Internship \\& Letter of Recommendation
+* Opportunity to build a strong portfolio with real\\-world projects
+
+
+
+  
+
+
+
+
+
+**Equal Opportunity:** 
+ Unified Mentor encourages applications from candidates of all backgrounds.","IT Services and IT Consulting, IT System Training and Support, and E-Learning Providers","https://www.linkedin.com/company/jobunifiedmentor","https://media.licdn.com/dms/image/v2/D560BAQGhlj1GGxdGhA/company-logo_100_100/B56ZiNCzQQHcAQ-/0/1754712978926/jobunifiedmentor_logo?e=2147483647&v=beta&t=omGJg0wPd0RgseQJE0EFdehNYnMfqFz0AlaXvLEBMvI","","","","","","","","","","",""
+"li-4316160361","linkedin","https://www.linkedin.com/jobs/view/4316160361","","ServiceNow Developer","Tata Consultancy Services","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Business Development","","","Required Skill set
+ 
+
+
+
+ ITOM, Integration, Virtual Agent, Portal, CMDB, Asset","IT Services and IT Consulting and Software Development","https://in.linkedin.com/company/tata-consultancy-services","https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4","","","","","","","","","","",""
+"li-4316156889","linkedin","https://www.linkedin.com/jobs/view/4316156889","","Software Engineer III - (Python/C#)","techjays","","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","**What makes Techjays an inspiring place to work** 
+
+
+
+
+  
+
+
+
+
+
+ At Techjays, we are driving the future of artificial intelligence with a bold mission to empower businesses worldwide by helping them build AI solutions that transform industries. As an established leader in the AI space, we combine deep expertise with a collaborative, agile approach to deliver impactful technology that drives meaningful change.
  
 
 
@@ -1807,23 +2081,8 @@
 
 
 
-**Core Responsibilities:** 
-
-
-
-
-  
-
-
-
-
-* Technical Leadership: Provide technical leadership and mentorship to a team of developers, promoting best practices, code quality, and continuous improvement.
-* Architecture and Design: Collaborate with cross\\-functional teams to design and architect scalable, secure, high\\-performance multi\\-tenant microservices.
-* Code Review: Conduct thorough code reviews to maintain code quality, identify opportunities for improvement, and share constructive feedback with team members.
-* Cloud Expertise: Leverage AWS services, including but not limited to AWS Lambda, API Gateway, EC2, S3, and RDS, to architect and optimize cloud\\-based solutions.
-* Problem Solving: Troubleshoot and resolve complex technical issues, identifying root causes and implementing effective solutions.
-* Collaboration: Collaborate closely with product managers, designers, and other stakeholders to ensure alignment between technical solutions and business objectives.
-* Project Management: Lead the planning, execution, and successful delivery of features, ensuring they are completed on time and within scope.
+ Our global team consists of professionals who have honed their skills at leading companies such as Google, Akamai, NetApp, ADP, Cognizant Consulting, and Capgemini. With engineering teams across the globe, we deliver tailored AI software and services to clients ranging from startups to large\\-scale enterprises.
+ 
 
 
 
@@ -1833,29 +2092,8 @@
 
 
 
-**Experience/ Qualifications/ Education:** 
-
-
-
-
-  
-
-
-
-
-* Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
-* Proven experience as a Lead Engineer or Senior Engineer of 5\\+ years with strong expertise in any server\\-side language such as NodeJs / Python / Go.
-* Hands\\-on experience in API development using Typescript and frameworks such as Express is preferred.
-* Experience with modern web development technologies (e.g., React, Angular, Vue.js) is a plus.
-* Good understanding of SQL and NoSQL databases
-* Understanding of cloud computing concepts and experience using any major cloud service provider (AWS/GCP/Azure).
-* Ability to build and deploy the application in a containerized environment
-* Proven track record of delivering high\\-performance and scalable platforms in a fast\\-paced agile environment
-* Good leadership and communication skills
-* Zeal and drive to take end\\-to\\-end ownership.
-* Ability to lead and mentor a team of developers to achieve technical excellence.
-* Strong problem\\-solving and critical\\-thinking abilities.
-* Knowledge of DevOps practices and infrastructure as code (e.g.: AWS CloudFormation) is advantageous.
+ Be part of a company that’s pushing the boundaries of digital transformation. At Techjays, you’ll work on exciting projects that redefine industries, innovate with the latest technologies, and contribute to solutions that make a real\\-world impact. Join us on our journey to shape the future with AI.
+ 
 
 
 
@@ -1865,7 +2103,275 @@
 
 
 
- Join our rocket ship if you want to learn, make your mark, and work with incredible talent!","Computer and Network Security","https://www.linkedin.com/company/safe-ccrm","https://media.licdn.com/dms/image/v2/D560BAQGKWjgaXHeWlQ/company-logo_100_100/company-logo_100_100/0/1732705412461/safecrq_logo?e=2147483647&v=beta&t=jp58K09FNr3gLDvTX3dVNXwsjE2I8yUDgog82o_9PIc","","","","","","","","","","",""
+ We are looking for an accomplished Software Development Engineer III who will act as a senior individual contributor and emerging technical leader within our teams. You will own complex system designs, drive impactful technical solutions, and mentor junior engineers. At Techjays, you will elevate engineering standards, influence cross\\-team projects, and contribute to building scalable, AI\\-first systems that advance our technology vision.
+ 
+
+
+
+  
+
+
+
+
+
+**Location** 
+ : Remote
+ 
+
+
+
+  
+
+
+
+
+
+**What You’ll Do** 
+
+
+
+
+  
+
+
+
+
+* Design and build scalable backend services using Python (FastAPI) or C\\#
+* Lead feature development and end\\-to\\-end implementation of APIs and systems
+* Optimize performance and scalability across data\\-intensive applications
+* Contribute to architecture reviews, tech design, and best practices
+* Collaborate with cross\\-functional teams (Product, Data, UX) to deliver business value
+* Leverage AI tools (e.g., GitHub Copilot, ChatGPT) to boost development velocity
+
+
+
+  
+
+
+
+
+
+**What You’ll Bring** 
+
+
+
+
+  
+
+
+
+
+* 3–7 years of backend development experience with strong design and problem\\-solving skills
+* Advanced skills in Python or C\\#, REST APIs, and distributed systems
+* Hands\\-on experience with Kafka, PostgreSQL, Redis, and Snowflake or similar platforms
+* Proficiency in writing integration tests and using observability tools (e.g., Datadog)
+* Strong communication across time zones and functions (written \\+ spoken English)
+
+
+
+  
+
+
+
+
+
+**Nice\\-to\\-Have** 
+
+
+
+
+  
+
+
+
+
+* Experience with modern data stacks: dbt, AWS Glue, S3, Dagster, Starburst
+* Competency in frontend development with React and TypeScript
+* Exposure to web scraping tools (Selenium, Playwright, etc.)
+
+
+
+  
+
+
+
+
+
+**What we offer** 
+
+
+
+
+  
+
+
+
+
+* Best\\-in\\-class packages
+* Paid holidays and flexible time off
+* Casual dress code \\& flexible working environment
+* Work in an engaging, fast\\-paced environment with ample opportunities for professional growth
+* Medical insurance covering self \\& family up to 4 lakhs per person
+* Diverse and multicultural work environment
+* Be part of an innovation\\-driven culture with the support and resources needed to succeed","Software Development","https://www.linkedin.com/company/techjays","https://media.licdn.com/dms/image/v2/D4E0BAQEspfwsd_ejBA/company-logo_100_100/company-logo_100_100/0/1715229536436/techjays_logo?e=2147483647&v=beta&t=XYeeBGAvAfCHZe7tLUtDyhZYOlhQTkBXrCBlhMHB99Q","","","","","","","","","","",""
+"li-4316595784","linkedin","https://www.linkedin.com/jobs/view/4316595784","","Senior Software Engineer - Machine Learning","Microsoft","Hyderabad, Telangana, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","The Microsoft CoreAI Post\\-Training team is dedicated to advancing post\\-training methods for both OpenAI and open\\-source models. Their work encompasses continual pre\\-training, large\\-scale deep reinforcement learning running on extensive GPU resources, and significant efforts to curate and synthesize training data. In addition, the team employs various fine\\-tuning approaches to support both research and product development.
+   
+
+  
+
+ The team also develops advanced AI technologies that integrate language and multi\\-modality for a range of Microsoft products. The team is particularly active in developing code\\-specific models, including those used in Github Copilot and Visual Studio Code, such as code completion model and the software engineering (SWE) agent models. The team has also produced publications as by\\-products, including work such as LoRA, DeBerTa, Oscar, Rho\\-1, Florence, and the open\\-source Phi models.
+   
+
+  
+
+ We are looking for a Software Engineer 2 \\- Machine Learning with significant experience in large\\-scale model training, data curation, and hands\\-on coding. You will help in developing LLMs, SLMs, multimodal, and coding models using both proprietary and open\\-source frameworks. Key responsibilities include improving model quality and training efficiency through advanced techniques and data strategies, and managing the full pipeline from data ingestion, evaluation, to inference.
+   
+
+  
+
+ Our team values startup\\-style efficiency and practical problem\\-solving. We are seeking a curious, adaptable problem\\-solver who thrives on continuous learning, embraces changing priorities, and is motivated by creating meaningful impact. Candidates must be self\\-driven, able to write high\\-quality code and debug complex systems, document their work clearly, and demonstrate solid experience in shipping ML systems.
+   
+
+  
+
+**Responsibilities**
+**Responsibilities**
+* Collaborate with senior engineers and researchers to build and optimize training and inference pipelines for LLMs, SLMs, multimodal, and code\\-specific models.
+* Contribute to the deployment and monitoring of models in production environments.
+* Write clean, efficient, and maintainable code for ML systems.
+* Help improve inference performance, reliability, and scalability.
+* Participate in rapid experimentation cycles and support integration with Microsoft products.
+
+
+**Qualifications**
+**Required Qualifications**
+* Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience.
+* 5\\+ years of experience with Python and ML frameworks such as PyTorch or TensorFlow.
+* Hands\\-on experience with training or fine\\-tuning LLMs or multimodal models.
+* Familiarity with production ML systems and concepts like model serving, caching, batching, and monitoring.
+* Understanding of distributed systems and cloud\\-based infrastructure.
+
+
+**Preferred Qualifications**
+* Experience with containerization tools (e.g., Docker, Kubernetes).
+* Exposure to MLOps or DevOps practices (CI/CD, automated testing, deployment).
+* Interest in generative AI and open\\-source model ecosystems.
+* Ability to work in a fast\\-paced, collaborative environment with a growth mindset.
+* Strong communication and documentation skills.
+
+
+ \\#AI Platform Hiring\\#
+   
+
+  
+
+ Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+   
+
+  
+
+ Microsoft is an equal opportunity employer. Consistent with applicable law, all qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.","Software Development","https://www.linkedin.com/company/microsoft","https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY","","","","","","","","","","",""
+"li-4313872708","linkedin","https://www.linkedin.com/jobs/view/4313872708","","Data Products Specialist","Falcon Informatics","","","fulltime","","","","","",False,"internship","Sales and Business Development","","","**Company Description**
+ Falcon Informatics is a Global Digital Transformation firm specialized in reinventing and optimizing business models. We achieve this by implementing ERP, Data Science, Intelligent systems, and managing digital operations. Our innovative approach ensures businesses stay ahead in a digitally evolving world, providing them with the tools they need to thrive and maintain a competitive edge.
+   
+
+  
+
+ Key Responsibilities
+   
+
+ Contribute to data product development — assisting in frontend, backend, and data pipeline modules.
+   
+
+ Work with engineering teams on Python\\-based microservices and API integrations.
+   
+
+ Support database design, optimization, and data model management (SQL / NoSQL).
+   
+
+ Participate in data analytics, visualization, and dashboard creation using tools like Power BI, Plotly, or Dash.
+   
+
+ Implement and maintain ETL workflows, ensuring clean, structured, and accessible data.
+   
+
+ Assist in developing and integrating machine learning models for Falcon platforms.
+   
+
+ Support cloud deployment and monitoring (Azure / AWS / GCP).
+   
+
+ Generate data reports, performance dashboards, and analytical insights.
+   
+
+ Document data schemas, APIs, and analytics logic for cross\\-team collaboration.
+   
+
+  
+
+  
+
+ Preferred Skills
+   
+
+ Programming: Python (Flask / FastAPI / Django preferred)
+   
+
+ Frontend: Basic React / HTML / CSS / JavaScript
+   
+
+ Databases: MySQL, PostgreSQL, MongoDB
+   
+
+ ML Tools: Scikit\\-learn, TensorFlow, Pandas, NumPy
+   
+
+ Visualization: Power BI, Dash, Plotly, Matplotlib
+   
+
+ Cloud: AWS, Azure, or GCP basics (deployment, storage, compute)
+   
+
+ Version Control: Git / GitHub
+   
+
+ Strong problem\\-solving and debugging skills
+   
+
+  
+
+ Qualifications
+   
+
+ Pursuing or recently completed a Bachelor’s / Master’s in Computer Science, Data Science, AI/ML, Information Systems, or related field.
+   
+
+ Knowledge of data pipelines, APIs, and analytics workflows.
+   
+
+ Passion for learning and working across multiple tech stacks.
+   
+
+ Ability to handle structured/unstructured datasets and collaborate in agile environments.
+   
+
+  
+
+  
+
+ What You’ll Gain
+   
+
+ Practical experience in end\\-to\\-end data product engineering.
+   
+
+ Opportunity to contribute to real Falcon Informatics platforms used in analytics and AI.
+   
+
+ Mentorship from experienced engineers and data scientists.
+   
+
+ Pathway to full\\-time opportunity based on performance.","Data Infrastructure and Analytics","https://in.linkedin.com/company/falconinformatics","https://media.licdn.com/dms/image/v2/D4D0BAQFjKAfMbDAOAQ/company-logo_100_100/company-logo_100_100/0/1705501656396/falconinformatics_logo?e=2147483647&v=beta&t=F-B8eIN2P-nt9ML03pv3RK9imqg3Q9KxWnatA9KpVMQ","","","","","","","","","","",""
 "li-4316822045","linkedin","https://www.linkedin.com/jobs/view/4316822045","","Principal  Engineer (ERP | AWS)","Xenonlabs.ai","","","contract","","","","","",True,"mid-senior level","Information Technology","","","**About XenonLabs.ai** 
 
  XenonLabs.ai is pioneering the next generation of AI\\-powered ERP platforms that enable autonomous business operations. We are transforming traditional ERP systems into intelligent, self\\-optimizing ecosystems using Generative AI, automation, and real\\-time decision intelligence. As a Principal Engineer, you will play a defining role in architecting this future.
@@ -1995,358 +2501,93 @@
 * 🤖 Opportunity to lead AI\\-driven transformation in ERP industry
 * 🌍 Remote\\-first, innovation\\-led culture
 * 📈 Career path towards CTO or Head of Engineering as we scale","Technology, Information and Internet","https://au.linkedin.com/company/xenonlabs-ai","https://media.licdn.com/dms/image/v2/D560BAQEADyQC_6BsRQ/company-logo_100_100/B56Zjf.P1PH8AQ-/0/1756104294358/xenonlabs_ai_logo?e=2147483647&v=beta&t=ohSe313fNtEBQOK3W1C2siOQCqGFiNjj5FLqFtWcZbY","","","","","","","","","","",""
-"li-4316157520","linkedin","https://www.linkedin.com/jobs/view/4316157520","https://jobs.lever.co/safe/7d447182-98e0-4758-9fa8-bdc10a1415b9&urlHash=zlmT","Software Development Engineer III","Safe Security","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Overview:** 
+"li-4316161554","linkedin","https://www.linkedin.com/jobs/view/4316161554","","Lead Full Stack (Angular and Java Spring Boot)","Pattem Digital Technologies","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","","","sanchari.sa@pattemdigital.com","🚀
+ **We’re Hiring – Lead Full Stack Developer (Java \\+ AngularJS \\+ Spring Boot \\+ MongoDB)** 
 
 
 
 
-  
-
-
-
-
-
- We are seeking an experienced and passionate Engineer to join our engineering team. As a senior engineer, you will lead a high\\-performing engineering team working closely with our Design, Product, and other stakeholders to develop and deliver core product features that help in predicting and preventing cyber breaches.
+**📍 Location:** 
+ Whitefield, Bangalore (Work from Office)
  
 
 
 
-  
-
-
-
-
-
-**Location:** 
- Bengaluru
+ 🕒
+ **Experience:** 
+ 5\\+ Years
  
 
 
 
-  
-
-
-
-
-
-**Core Responsibilities:** 
-
-
-
-
-  
-
-
-
-
-* Technical Leadership: Provide technical leadership and mentorship to a team of developers, promoting best practices, code quality, and continuous improvement.
-* Architecture and Design: Collaborate with cross\\-functional teams to design and architect scalable, secure, high\\-performance multi\\-tenant microservices.
-* Code Review: Conduct thorough code reviews to maintain code quality, identify opportunities for improvement, and share constructive feedback with team members.
-* Cloud Expertise: Leverage AWS services, including but not limited to AWS Lambda, API Gateway, EC2, S3, and RDS, to architect and optimize cloud\\-based solutions.
-* Problem Solving: Troubleshoot and resolve complex technical issues, identifying root causes and implementing effective solutions.
-* Collaboration: Collaborate closely with product managers, designers, and other stakeholders to ensure alignment between technical solutions and business objectives.
-* Project Management: Lead the planning, execution, and successful delivery of features, ensuring they are completed on time and within scope.
-
-
-
-  
-
-
-
-
-
-**Experience/ Qualifications/ Education:** 
-
-
-
-
-  
-
-
-
-
-* Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
-* Proven experience as a Lead Engineer or Senior Engineer of 5\\+ years with strong expertise in any server\\-side language such as NodeJs / Python / Go.
-* Hands\\-on experience in API development using Typescript and frameworks such as Express is preferred.
-* Experience with modern web development technologies (e.g., React, Angular, Vue.js) is a plus.
-* Good understanding of SQL and NoSQL databases
-* Understanding of cloud computing concepts and experience using any major cloud service provider (AWS/GCP/Azure).
-* Ability to build and deploy the application in a containerized environment
-* Proven track record of delivering high\\-performance and scalable platforms in a fast\\-paced agile environment
-* Good leadership and communication skills
-* Zeal and drive to take end\\-to\\-end ownership.
-* Ability to lead and mentor a team of developers to achieve technical excellence.
-* Strong problem\\-solving and critical\\-thinking abilities.
-* Knowledge of DevOps practices and infrastructure as code (e.g.: AWS CloudFormation) is advantageous.
-
-
-
-  
-
-
-
-
-
- Join our rocket ship if you want to learn, make your mark, and work with incredible talent!","Computer and Network Security","https://www.linkedin.com/company/safe-ccrm","https://media.licdn.com/dms/image/v2/D560BAQGKWjgaXHeWlQ/company-logo_100_100/company-logo_100_100/0/1732705412461/safecrq_logo?e=2147483647&v=beta&t=jp58K09FNr3gLDvTX3dVNXwsjE2I8yUDgog82o_9PIc","","","","","","","","","","",""
-"li-4316160361","linkedin","https://www.linkedin.com/jobs/view/4316160361","","ServiceNow Developer","Tata Consultancy Services","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Business Development","","","Required Skill set
+ ⚡
+ **Joining:** 
+ Immediate Joiners Preferred
  
 
 
 
- ITOM, Integration, Virtual Agent, Portal, CMDB, Asset","IT Services and IT Consulting and Software Development","https://in.linkedin.com/company/tata-consultancy-services","https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4","","","","","","","","","","",""
-"li-4302706936","linkedin","https://www.linkedin.com/jobs/view/4302706936","","Staff Engineer","Safe Security","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering","","","*At SAFE Security, our mission is bold and ambitious:* 
-***We Will Build CyberAGI***
-*— a super\\-specialized system of intelligence that autonomously predicts, detects, and remediates threats. This isn’t just a vision—it’s the future we’re building every day, with the best minds in AI, cybersecurity, and risk. At SAFE, we empower individuals and teams with the freedom and responsibility to align their goals, ensuring we all move towards this goal together.* 
-
-
-
-
-  
-
-
-
-
-
-*We operate with radical transparency, autonomy, and accountability—there’s no room for brilliant jerks. We embrace a culture\\-first approach, offering an unlimited vacation policy, a high\\-trust work environment, and a commitment to continuous learning. For us, Culture is Our Strategy—check out our Culture Memo to dive deeper into what makes SAFE unique.* 
-
-
-
-
-  
-
-
-
-
-
- 🚀
- **The Role: Staff Engineer** 
-
-
-
-
- We’re looking for a Staff Engineer who lives for solving
- *the hard stuff* 
- . You’ll be the technical force multiplier—leading architecture, scaling systems, and guiding engineers to build products that help predict and prevent cyber breaches
- **before** 
- they happen.
+ Are you a passionate
+ **Full Stack Developer** 
+ ready to take the lead?
  
 
 
 
- If you’ve been waiting for a role where you can lead bold ideas, shape product direction, and create real\\-world impact at global scale—this is it.
- 
-
-
-
-  
-
-
-
-
-
-**🧩 What You’ll Do:** 
-
-
-
-* **Be the Tech Leader:** 
- Mentor engineers, champion clean code, and drive a culture of technical excellence.
-* **Architect at Scale:** 
- Design secure, high\\-performance multi\\-tenant microservices that can handle serious load—without breaking a sweat.
-* **Code Like a Pro:** 
- Conduct deep\\-dive code reviews and stay hands\\-on when it matters most.
-* **Master the Cloud:** 
- Architect smart solutions using AWS (Lambda, API Gateway, EC2, S3, RDS—you name it).
-* **Solve Complex Problems:** 
- Debug, diagnose, and dismantle architectural challenges with finesse.
-* **Collaborate \\& Influence:** 
- Work closely with Product, Design, and GTM teams to align tech with business.
-* **Drive Delivery:** 
- Own the roadmap, lead execution, and ensure on\\-time, high\\-quality releases.
-* **Innovate Constantly:** 
- Introduce and champion new tools, patterns, and practices that elevate our engineering game.
-
-
-
-  
-
-
-
-
-
-**💡 What We’re Looking For:** 
-
-
-
-* 8\\+ years of experience as a Staff/Senior Engineer or equivalent.
-* Strong backend chops in
- **Node.js
- 
- , Python, Go** 
- , or similar.
-* Hands\\-on experience building APIs in
- **TypeScript** 
- (Express is a plus).
-* Bonus points if you’ve played with modern frontends (React, Angular, Vue).
-* Deep database expertise (SQL \\& NoSQL), with performance tuning skills.
-* Proven success building on the cloud (AWS/GCP/Azure).
-* Containerization know\\-how—Kubernetes or Docker is your playground.
-* You’ve built and scaled platforms that handle real\\-world load.
-* Strong leadership, mentoring, and cross\\-functional collaboration skills.
-* You love tackling tough architecture challenges head\\-on.
-* Familiarity with DevOps and IaC (CloudFormation is a plus).
-
-
-
-  
-
-
-
-
-
- If you’re passionate about cyber risk, thrive in a fast\\-paced environment, and want to be part of a team that’s redefining security—
- **we want to hear from you!** 
- 🚀","Software Development","https://www.linkedin.com/company/safe-ccrm","https://media.licdn.com/dms/image/v2/D560BAQGKWjgaXHeWlQ/company-logo_100_100/company-logo_100_100/0/1732705412461/safecrq_logo?e=2147483647&v=beta&t=jp58K09FNr3gLDvTX3dVNXwsjE2I8yUDgog82o_9PIc","","","","","","","","","","",""
-"li-4316148710","linkedin","https://www.linkedin.com/jobs/view/4316148710","https://jobs.lever.co/safe/efeaf7c3-6104-4868-abd6-6e85db3ebf89&urlHash=rYNn","Software Development Engineer III - AI and Analytics","Safe Security","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering","","","At
- **SAFE Security** 
- , our vision is to be the
- **Champions of a Safer Digital Future and the Catalysts of Change** 
- . We believe in empowering individuals and teams with the freedom and responsibility to align their goals, ensuring we all move forward together.
- 
-
-
-
-  
-
-
-
-
-
- We operate with
- **radical transparency, autonomy, and accountability** 
- —there’s no room for brilliant jerks. We embrace a
- **culture\\-first approach** 
- , offering an
- **unlimited vacation policy** 
- , a high\\-trust work environment, and a commitment to continuous learning. For us,
- **Culture is Our Strategy** 
- —check out our
- **Culture Memo** 
- to dive deeper into what makes SAFE unique.
- 
-
-
-
-  
-
-
-
-
-
- We’re looking for a seasoned
- **Senior Software Development Engineer (SDE III)** 
- with deep expertise in
- **Analytics and AI** 
- to join our high\\-impact engineering team. In this role, you’ll collaborate closely with Design, Product, and cross\\-functional stakeholders to build innovative analytics and AI\\-driven solutions that help
- **predict and prevent cyber breaches** 
+ We’re looking for a
+ **Lead Developer** 
+ who can build scalable, high\\-performance applications using
+ **Java, AngularJS, Spring Boot, and MongoDB** 
+ — and drive innovation with a fast\\-growing tech team at
+ **Pattem Digital** 
  .
  
 
 
-
-  
-
-
-
-
-
-**Core Responsibilities:** 
-
-
-
-
-  
+ 🔧 What You’ll Do
+ * Develop \\& maintain responsive UIs using
+ **AngularJS**
+* **Build and optimize robust backend services with Spring Boot**
+* **Design efficient schemas \\& write complex queries in MongoDB**
+* **Collaborate with Product, UI/UX \\& QA teams for seamless delivery**
+* **Write clean, secure, and scalable code**
+* **Manage deployments with CI/CD** 
+ , Git \\& DevOps tools
 
 
+ 💡 What You Bring
+ * Strong hands\\-on experience in
+ **Java, Spring Boot, AngularJS, MongoDB**
+* **Proficiency in JavaScript, TypeScript, HTML5, CSS3**
+* **Good understanding of REST APIs** 
+ \\& Agile development
+* Experience with
+ **Postman, Maven, Git**
 
 
-* **Technical Leadership:** 
- Lead and mentor developers, fostering a culture of innovation, quality, and continuous improvement.
-* **AI \\& Analytics Development:** 
- Design, build, and deploy scalable AI\\-driven analytics solutions, leveraging advanced AI techniques, including Retrieval\\-Augmented Generation (RAG), AI agents, and foundational models.
-* **Architecture:** 
- Collaborate with cross\\-functional teams to architect scalable, secure, and performant AI\\-driven microservices.
-* **Cloud and AI Integration:** 
- Utilize cloud services (primarily AWS Bedrock, Lambda, EC2, S3, RDS) to develop efficient, robust, and scalable solutions.
-* **Model Evaluation:** 
- Implement and evaluate various AI models (e.g., OpenAI, Anthropic Claude, Amazon Titan), understanding trade\\-offs such as latency, cost, accuracy, and scalability.
-* **Code Quality:** 
- Ensure high\\-quality code through rigorous code reviews and continuous improvement processes.
-* **Problem Solving:** 
- Address complex technical challenges, identify root causes, and provide effective solutions.
-* **Cross\\-team Collaboration:** 
- Work closely with product managers, designers, and stakeholders to align technical solutions with business goals.
+ 🌟 Why Pattem Digital?
+ * Work on cutting\\-edge technologies and impactful projects
+* Collaborative, innovation\\-driven culture
+* Great growth opportunities with a passionate team
 
 
 
-  
-
-
-
-
-
-**Essential Skills/ Qualifications/ Experience:** 
-
-
-
-
-  
-
-
-
-
-* Bachelor’s or Master's degree in Computer Science, Engineering, or a related field.
-* 5\\+ years of experience as a Senior or Lead Engineer with expertise in Python, NodeJS, or Go.
-* Strong hands\\-on experience with AI/ML, including Retrieval\\-Augmented Generation (RAG), AI Agents, and deploying these technologies into production environments.
-* Familiarity with AWS Bedrock and its AI model hosting ecosystem is highly advantageous.
-* Experience with TypeScript and API frameworks (Express) preferred.
-* Good understanding of SQL and NoSQL databases.
-* Demonstrable experience deploying scalable solutions in cloud environments (AWS preferred).
-* Proficient in deploying containerized applications (Docker, Kubernetes, ECS).
-* Knowledge of DevOps best practices and Infrastructure as Code (e.g., AWS CloudFormation) is beneficial.
-* Exceptional leadership, communication, and mentoring skills.
-* Proven capability to own features end\\-to\\-end in an agile, fast\\-paced environment.
-
-
-
-  
-
-
-
-
-
- If you’re passionate about cyber risk, thrive in a fast\\-paced environment, and want to be part of a team that’s redefining security,
- **we want to hear from you!** 
- 🚀","Internet Marketplace Platforms and Technology, Information and Media","https://www.linkedin.com/company/safe-ccrm","https://media.licdn.com/dms/image/v2/D560BAQGKWjgaXHeWlQ/company-logo_100_100/company-logo_100_100/0/1732705412461/safecrq_logo?e=2147483647&v=beta&t=jp58K09FNr3gLDvTX3dVNXwsjE2I8yUDgog82o_9PIc","","","","","","","","","","",""
-"li-4313854947","linkedin","https://www.linkedin.com/jobs/view/4313854947","https://docs.google.com/forms/d/e/1FAIpQLSd5Olc1uMs3Hc_yD1e3szC_wMxaQ4cVLYp0I_X8kh6fy79hfg/viewform?usp=sharing&ouid=105605903507076607908&urlHash=HWT7","Senior Software Engineer (JAVA)","VitalEdge Technologies","Mumbai, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Job description
- 
- The ideal candidate is a self\\-motivated, multi\\-tasker, and demonstrated team\\-player. You will be a lead developer responsible for the development of new software products and enhancements to existing products. You should excel in working with large\\-scale applications and frameworks and have outstanding communication and leadership skills.
+ 📩
+ **Apply Now:** 
+ sanchari.sa@pattemdigital.com
  
 
 
 
+  
 
 
 
 
- Responsibilities
- 
+* **📞 Contact:** 
+ \\+91 90084 93567","IT Services and IT Consulting","https://in.linkedin.com/company/pattem-digital-technologies","https://media.licdn.com/dms/image/v2/D560BAQGJADxEZBFSvg/company-logo_100_100/company-logo_100_100/0/1719569161602/pattem_digital_technologies_private_limited_logo?e=2147483647&v=beta&t=XmrxZGZwsxDNVw9OyEgaAxF1u1rCCnXfnIEmi-tLs18","","","","","","","","","","",""
+"li-4316155981","linkedin","https://www.linkedin.com/jobs/view/4316155981","","Senior Software Engineer - Python","techjays","","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","**What makes Techjays an inspiring place to work** 
 
-
-* Writing clean, high\\-quality, high\\-performance, maintainable code
-* Develop and support software including applications, database integration, interfaces, and new functionality enhancements
-* Coordinate cross\\-functionally to insure project meets business objectives and compliance standards
-* Support test and deployment of new products and features
-* Participate in code reviews
 
 
 
@@ -2356,12 +2597,289 @@
 
 
 
- Qualifications
+ At Techjays, we are driving the future of artificial intelligence with a bold mission to empower businesses worldwide by helping them build AI solutions that transform industries. As an established leader in the AI space, we combine deep expertise with a collaborative, agile approach to deliver impactful technology that drives meaningful change.
  
 
 
-* Bachelor's degree in Computer Science (or related field)
-* 5\\+ years of relevant work experience
-* Expertise in Object Oriented Design, Database Design, and XML Schema
-* Experience with Agile or Scrum software development methodologies
-* Ability to multi\\-task, organize, and prioritize work","Software Development","https://www.linkedin.com/company/vitaledge-technologies","https://media.licdn.com/dms/image/v2/D4E0BAQFDS7ZcqeFJwA/img-crop_100/B4EZklOqeFKYAQ-/0/1757266225641?e=2147483647&v=beta&t=fzOprOkPQsdMBnZyNEf4ZkayJEqoylHAOelw1Ib6s_Q","","","","","","","","","","",""
+
+  
+
+
+
+
+
+ Our global team consists of professionals who have honed their skills at leading companies such as Google, Akamai, NetApp, ADP, Cognizant Consulting, and Capgemini. With engineering teams across the globe, we deliver tailored AI software and services to clients ranging from startups to large\\-scale enterprises.
+ 
+
+
+
+  
+
+
+
+
+
+ Be part of a company that’s pushing the boundaries of digital transformation. At Techjays, you’ll work on exciting projects that redefine industries, innovate with the latest technologies, and contribute to solutions that make a real\\-world impact. Join us on our journey to shape the future with AI.
+ 
+
+
+
+  
+
+
+
+
+
+ We are looking for an experienced Senior Software Engineer who will act as a cross\\-team technical leader and subject matter expert. You will design scalable systems and APIs, own delivery of complex projects, and drive engineering excellence by setting high standards for quality and performance. In this role, you will mentor engineers, influence architecture decisions, and champion automation and AI\\-driven tooling to accelerate delivery and raise the technical bar across teams.
+ 
+
+
+
+  
+
+
+
+
+
+**Location** 
+ : Remote
+ 
+
+
+
+  
+
+
+
+
+
+**What You’ll Do** 
+
+
+
+* Design systems and APIs that serve multiple teams and scale with business needs
+* Own end\\-to\\-end delivery of complex projects in ecommerce, supply chain, or data platforms
+* Lead architecture reviews, define design patterns, and tackle performance bottlenecks
+* Drive technical quality and observability across teams and systems
+* Mentor engineers across levels, helping others grow and deliver at a higher bar
+* Champion AI tooling, automation, and developer efficiency initiatives
+
+
+
+  
+
+
+
+
+
+**What You’ll Bring** 
+
+
+
+* 5–12 years of professional software engineering experience
+* Expertise in Python or C\\#, FastAPI, Kafka, PostgreSQL, Redis, and microservices
+* Experience designing distributed systems and scaling backend infrastructure
+* Strong knowledge of modern data stacks (e.g., DBT, Snowflake, AWS Glue)
+* Excellent English communication—written, verbal, and async collaboration
+
+
+
+  
+
+
+
+
+
+**Nice\\-to\\-Have** 
+
+
+
+* Strong frontend development experience (React, TypeScript)
+* Experience with observability platforms (Datadog, Prometheus, etc.)
+* Proven impact through mentorship, tech standards, and cross\\-team influence
+
+
+
+  
+
+
+
+
+
+**What we offer** 
+
+
+
+* Best\\-in\\-class packages
+* Paid holidays and flexible time off
+* Casual dress code \\& flexible working environment
+* Work in an engaging, fast\\-paced environment with ample opportunities for professional growth
+* Medical insurance covering self \\& family up to 4 lakhs per person
+* Diverse and multicultural work environment
+* Be part of an innovation\\-driven culture with the support and resources needed to succeed","Software Development","https://www.linkedin.com/company/techjays","https://media.licdn.com/dms/image/v2/D4E0BAQEspfwsd_ejBA/company-logo_100_100/company-logo_100_100/0/1715229536436/techjays_logo?e=2147483647&v=beta&t=XYeeBGAvAfCHZe7tLUtDyhZYOlhQTkBXrCBlhMHB99Q","","","","","","","","","","",""
+"li-4316146808","linkedin","https://www.linkedin.com/jobs/view/4316146808","https://qualys.wd5.myworkdayjobs.com/Careers/job/Pune/Site-Reliability-Engineer\\u002d\\u002d-DevOps_R0003579?source=LinkedIn&urlHash=ko76","Site Reliability Engineer - DevOps","Qualys","Pune, Maharashtra, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Come work at a place where innovation and teamwork come together to support the most exciting missions in the world!
+   
+
+  
+
+ As a Junior DevOps Engineer at Qualys, you will play a supporting yet impactful role in maintaining and enhancing our DevOps ecosystem. This position is ideal for someone with a strong foundation in scripting, a curiosity for automation and orchestration, and a desire to gain hands\\-on experience in a fast\\-paced and technically challenging environment.
+   
+
+  
+
+ You will work closely with experienced engineers, gaining exposure to a wide range of tools and practices used in real\\-world production environments — from orchestration platforms and CI/CD pipelines to observability and monitoring systems.
+   
+
+  
+
+**Key Responsibilities**
+* Assist in the automation of deployment pipelines and infrastructure setup using DevOps best practices.
+* Support orchestration processes and tools (e.g., Kubernetes, Jenkins, Ansible) to improve reliability and operational efficiency.
+* Collaborate on troubleshooting issues in our staging and production environments.
+* Participate in maintaining the health of monitoring systems such as Prometheus, ELK, ClickHouse, and OpenTelemetry (OTel).
+* Document processes, configurations, and troubleshooting steps to support team knowledge sharing.
+* Continuously learn and stay updated with new technologies and industry trends related to DevOps and site reliability.
+
+
+**Must\\-Have Skills \\& Knowledge**
+* Scripting: Proficient in at least one scripting language (e.g., Python, Shell, Bash, or Perl) for automation and operational tasks.
+* Orchestration Fundamentals: Understanding of how orchestration tools work and are used to manage infrastructure and deployments.
+* DevOps Tools: Familiarity with CI/CD tools (e.g., Jenkins, GitLab CI), version control systems (e.g., Git), and containerization technologies (e.g., Docker).
+* Monitoring Concepts: Basic understanding of how monitoring systems track and visualize system health, performance, and reliability.
+
+
+**Preferred Qualifications (Nice To Have)**
+* Exposure to cloud platforms like AWS, GCP, or Azure.
+* Hands\\-on experience with Linux or Unix\\-based systems.
+* Basic knowledge of observability tools (e.g., Prometheus, Grafana, ELK stack, or OpenTelemetry).
+* Interest in learning about Kubernetes and large\\-scale production environments.
+
+
+**Who Should Apply?**
+ This role is perfect for:
+   
+
+  
+
+* Recent graduates from Computer Science, Information Technology, or similar disciplines.
+* Entry\\-level professionals with up to 2 years of experience in DevOps, SRE, or system administration roles.
+* Curious minds with a passion for automation, infrastructure, and building reliable systems.","Computer and Network Security","https://www.linkedin.com/company/qualys","https://media.licdn.com/dms/image/v2/D560BAQFKcnPoxiR6bQ/company-logo_100_100/B56Zk1CVpCHUAQ-/0/1757531429819/qualys_logo?e=2147483647&v=beta&t=B--oHuDscFnpQq0paunYPnaoAW8weFwdaxGA6j9PTiM","","","","","","","","","","",""
+"li-4316163283","linkedin","https://www.linkedin.com/jobs/view/4316163283","","WordPress Developer","GrowCraze","","","internship","","","","","",True,"internship","Engineering and Information Technology","","","**Immediate Hiring** 
+
+
+
+
+ 💼
+ **Stipend:** 
+ ₹5,000 – ₹7,000 (can go upto ₹10,000 if have some experience)
+ 
+
+
+
+ 📍
+ **Location:** 
+ Remote (with occasional calls/meetings)
+ 
+
+
+
+ 🕒
+ **Type:** 
+ Internship (3 months, extendable)
+ 
+
+
+
+  
+
+
+
+
+**About the Role** 
+
+ We are looking for a motivated
+ **WordPress Intern** 
+ who can assist with website\\-related tasks such as updates, simple design work, content uploads, and landing page edits. You’ll work directly with me (a WordPress developer \\& digital marketer) and get hands\\-on experience in building real\\-world client websites.
+ 
+
+
+
+ This role can be
+ **converted into a full\\-time job** 
+ , and the pay can be
+ **increased even before the 3\\-month internship ends** 
+ if you turn out to be great.
+ 
+
+
+
+  
+
+
+
+
+**Responsibilities** 
+* Update website content (images, text, blog posts, landing page sections).
+* Work on
+ **basic page layouts** 
+ using page builders (Elementor, Gutenberg, Divi, etc.).
+* Upload and format content into pre\\-made landing page templates.
+* Make small design tweaks (spacing, alignment, typography fixes).
+* Perform basic responsive checks and adjustments.
+* Assist in preparing client deliverables and organizing project files.
+
+
+
+  
+
+
+
+
+**Not Needed** 
+* No complex coding or advanced design work (I’ll take care of that).
+
+
+
+  
+
+
+
+
+**Requirements** 
+* Basic knowledge of
+ **WordPress \\& page builders** 
+ (Elementor experience preferred).
+* Understanding of layouts, spacing, and simple design principles.
+* Willingness to learn and follow instructions.
+* Attention to detail and ability to complete tasks on time.
+* Good communication in English/Hindi.
+
+
+
+  
+
+
+
+
+**Nice to Have (Bonus)** 
+* Familiarity with Canva, Figma, or Photoshop for simple image edits.
+* Knowledge of SEO basics (meta tags, alt text, etc.).
+* **Basics of working with AI tools** 
+ like ChatGPT for copywriting/brainstorming or AI image\\-generation tools for creative assets.
+
+
+
+  
+
+
+
+
+**Perks** 
+* Work directly under mentorship, learning real\\-world client project management.
+* Opportunity to work on multiple projects and build your portfolio.
+* Flexible working hours (as long as deadlines are met).
+* Potential for an
+ **early salary hike** 
+ and
+ **conversion into a full\\-time role** 
+ .","Marketing Services","https://www.linkedin.com/company/growcraze","https://media.licdn.com/dms/image/v2/D4D0BAQEk-4oHvYlXGg/company-logo_100_100/company-logo_100_100/0/1695128155440?e=2147483647&v=beta&t=GH5gdyGbkvstMeRsXXz7ie_Zk7bkBCQ5LjEBbwO2D3s","","","","","","","","","","",""
