@@ -5,7 +5,7 @@ from jobspy import scrape_jobs
 jobs = scrape_jobs(
     site_name=["linkedin"], # "glassdoor", "bayt", "naukri", "bdjobs"
     search_term="software engineer",
-    google_search_term="software engineer jobs near San Francisco, CA since yesterday",
+    google_search_term="software engineer jobs in India",
     location="India",
     results_wanted=150,
     hours_old=1,
