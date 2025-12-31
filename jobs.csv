@@ -1,137 +1,232 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4346726933","linkedin","https://www.linkedin.com/jobs/view/4346726933","","Software Engineer","Microsoft","","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Overview**
- Blazing fast performance with incredibly high scale, availability and security to enable the most cutting\\-edge products on the web. Billions of requests per second and terabytes of bandwidth usage. Hundreds of millions of users. Are you up for a challenge? We are part of the Azure networking team responsible for designing, building and operating network connectivity, application load balancing and security. These services include Application Gateway, Web Application Firewall and Azure Firewall. Our team's innovations are well recognized in the cloud and networking industry.
+"li-4346659368","linkedin","https://www.linkedin.com/jobs/view/4346659368","","Software Development Engineer in Test ( MABL , Selenium/Cypress )","Evertz","Bengaluru, Karnataka, India","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","privacy@evertz.com, privacy@evertz.com","We are seeking a
+ **Software Development Engineer in Test (SDET)** 
+ with strong automation and quality engineering skills. In this role, you will design, develop, and maintain automated test solutions, while also contributing to manual testing efforts when needed. You will collaborate closely with developers, DevOps, and product teams to ensure we deliver high\\-quality, reliable, and well\\-tested software.
    
 
   
 
- Firewall is cloud native construct in Azure that provides L4\\-L4 filtering capabilities with support for URL filtering, threat Intel based protection from malicious sources, malware protection and viruses. While it is predominantly used as a perimeter control to guard off attack from Internet, it is also widely used for East\\-West communication between the VNets or subnets where deep introspection is needed. Premium SKU of firewall supports IDS (Intrusion Detection) and IPS (Intrusion Prevention). We embrace Open Source (both using and contributing) and write code (C/C\\+\\+/C\\#/GoLang/RUST) in both Windows and Linux platforms. The developer will participate in architecture, design of various components, and ensure a timely execution of the features with high quality. The developer will own the component end\\-to\\-end, including testing, managing cross team dependencies as well as monitoring and alerting for the deployed component. The position will involve extensive internal and external collaborations with other Azure/Microsoft teams.
+**So, who are we?**
+ Evertz India is the subsidy of Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on\\-demand services, WebTV, IPTV, and mobile devices. Evertz has expertise in delivering complete end\\-to\\-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery.
    
 
   
 
- We are looking for engineering talent (at all levels) to design, build and operate hyper\\-scale product – Azure Firewall. Our team is looking for software engineers who are searching for a challenge to design, implement, and operate large\\-scale distributed systems in an agile environment.
+ Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz’ customer base also includes telcos, satellite, cable TV, and IPTV providers.
    
 
   
 
- Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+ With over 2,000 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz has manufacturing locations in Burlington, Ontario, Canada, and within the United States in Indiana, Pennsylvania and Chandler, Arizona. Evertz was named one of Canada's 50 Best Managed Companies, which recognizes excellence in Canadian\\-owned and Canadian\\-managed companies. Canada's 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.
    
 
   
 
-**Responsibilities**
-* Works with appropriate stakeholders to determine user requirements for a set of features.
-* Contributes to the identification of dependencies, and the development of design documents for a product area with little oversight.
-* Leverages subject\\-matter expertise of product features and partners with appropriate stakeholders (e.g., project managers) to drive a workgroup's project plans, release plans, and work items.
-* Acts as a Designated Responsible Individual (DRI) and guides other engineers by developing and following the playbook, working on call to monitor system/product/service for degradation, downtime, or interruptions, alerting stakeholders about status and initiates actions to restore system/product/service for simple and complex problems when appropriate.
-* Proactively seeks new knowledge and adapts to new trends, technical solutions, and patterns that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
+**What You’ll Do**
+* Quality Strategy \\& Testing: Collaborate early with product and engineering teams to define requirements, acceptance criteria, and testing strategy, combining exploratory testing, AI\\-driven insights, and risk\\-based prioritization to prevent defects early
+* Automation \\& Framework Development: Design, build, and maintain scalable automation frameworks using MABL, Playwright/Cypress/Selenium, including Python\\-based test suites, complex selectors, and integrations with AWS via APIs and WebSocket’s
+* CI/CD \\& Mentorship: Embed automated testing into CI/CD pipelines (Jenkins, GitHub Actions), maintain pipeline\\-as\\-code, and mentor junior engineers while defining organization\\-wide best practices and the Testing Pyramid
 
 
-**Qualifications**
- Required Qualifications:
+**What you'll need for this role?**
+**Key Qualification Requirements**
+* 3\\-4 years of experience as an QA Automation Engineer in automating testcases and building framework using:
++ 
+- MABL
+- Cypress/Selenium
+- Python/Playwright
+
+* Experience with Mabl or similar low\\-code/no\\-code test automation platforms (e.g., Testim, TestProject, Katalon, etc.)
+* Strong proficiency in JavaScript and Typescript / Python for test automation and scripting
+* Experience with CI/CD tools such as Jenkins and GitHub Actions
+* Exposure to testing microservices, APIs, or distributed systems
+* Expertise in writing robust XPath for UI element identification
+* Strong understanding of QA methodologies and STLC, with hands\\-on experience in functional, regression, smoke, sanity, and integration testing
+* Experience with manual and automation testing, using tools like Jira, TestRail, or similar test management systems
+* Hands\\-on experience with Git and version control best practices
+
+
+**Additional Skills and Experience That Will Be A Plus**
+* Familiarity with video technologies, including:
++ 
+- ffmpeg, mediainfo, ffprobe
+- Video formats, streaming protocols, codecs, and ancillary data
+
+* Knowledge of cloud platforms such as AWS, Azure, or GCP
+* ISTQB certification (Nice to have)
+
+
+**Who we’re looking for?**
+* A quality\\-first mindset – you care deeply about the reliability and user experience of the product
+* A collaborative attitude – working across engineering, DevOps, and product teams to deliver the best outcome
+* Curiosity and initiative – continuously learning and bringing forward ideas to improve automation, processes, and tooling
+
+
+**Your Growth**
+ At Evertz, we believe your career should be more than just a job it should be a path to growth and achievement. If you see an opportunity, we encourage you to seize it. Push boundaries, challenge your own limits, and pursue the goals you’ve always dreamed of.
    
 
   
 
-* Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C\\+\\+, C\\#, Java, JavaScript, or Python OR equivalent experience.
-
-
-**Other Requirements**
-* Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:
-+ Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
-
-
-**Preferred Qualifications**
-* Bachelor's Degree in Computer Science
-+ OR related technical field AND 1\\+ year(s) technical engineering experience with coding in languages including, but not limited to, C, C\\+\\+, C\\#, Java, JavaScript, OR Python
-+ OR Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C\\+\\+, C\\#, Java, JavaScript, or Python
-+ OR equivalent experience.
-
-* Proficient computer science fundamentals, fluent in concepts like multi\\-threading and asynchronous programming, good grasp of system design, data structures and algorithms, and experience in one of C\\#, C\\+\\+, Golang, JAVA, RUST
-* Proficient skills in Distributed systems and building cloud services
-* Experience with creating and operating distributed services in Azure/AWS/GCP and/or competitive offerings
-* Familiarity with Application (HTTP, HTTPS), transport \\& security (TCP/UDP, TLS) protocols
-
-
- Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+ We’ll equip you with the resources, learning programs, and mentorship you need to accelerate your success both internally and externally. Our commitment is to support you every step of the way.
    
 
   
 
- \\#azurecorejobs \\#AzNetIDC
+ The possibilities are endless because we’re aiming high. With ambitious plans to expand globally, drive revenue growth, and deliver the world’s most advanced broadcasting experiences, we’re looking for passionate individuals to join us on this exciting journey.
    
 
   
 
-**Hiring for locations – Bangalore, Hyderabad, Noida**
- This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+**The perks** 
+ It really is more than a job. We’ll recognize your talent and make sure that you can still have a life at work, and outside of it.
    
 
   
 
- Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about
- **requesting accommodations.**","Software Development","https://www.linkedin.com/company/microsoft","https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY","","","","","","","","","","",""
-"li-4346659129","linkedin","https://www.linkedin.com/jobs/view/4346659129","https://apply.careers.microsoft.com/careers/job/1970393556631441?utm_source=linkedin&domain=microsoft.com&src=LinkedIn&urlHash=9LI0","Senior Software Engineer","Microsoft","","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Overview**
- The Azure Storage Data Processing Unit (DPU) organization is looking for a talented and highly motivated Senior Software Engineer to design and develop the next generation of our storage backend. We are building the next generation of Microsoft’s cloud storage solution \\- Microsoft Azure Storage, which is a massively scalable, highly distributed, ubiquitously accessible storage system, designed to scale out and serve the entire world. Drive innovation with the latest hardware and software technology for hyperscale cloud storage. Our team is building next generation storage solutions using Fungible DPUs with focus on security, reliability, performance, and efficiency.
+* Flexible working hours and work\\-from\\-home opportunities
+* Inhouse knowledge and product training
+* Exposure to global broadcast platforms
+* Performance related bonuses
+* Insurance and medical plans
+* Employee friendly leave policy
+
+
+ We offer a hybrid and remote work model that balances flexibility with meaningful collaboration, supporting our commitment to innovation, adaptability, diversity, and strong connections.
    
 
   
 
- As a Senior Software Engineer on the Azure Storage DPU Infrastructure team, you will help enable Azure’s infrastructure to support, deploy, and integrate with DPU\\-based storage nodes. You will help drive integration efforts with existing and forward\\-looking datacenter control plane software. You will be involved in all phases of the software lifecycle: design, implementation, test, deployment, and support. This is a great opportunity to work on exciting new technology, grow your career, and sharpen your technical skills.
+ At Evertz, you’ll be part of a dynamic and inclusive team that values creativity, fresh ideas, and collaboration. We believe diverse perspectives strengthen our work and fuel innovation, and we are united by a shared vision to grow and succeed together.
    
 
   
 
- Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+**Office Timing:** 
+ 1pm to 9pm IST
    
 
   
 
-**Responsibilities**
-* Collaborates with appropriate stakeholders to determine user requirements for a scenario.
-* Drives identification of dependencies and the development of design documents for a product, application, service, or platform.
-* Creates, implements, optimizes, debugs, refactors, and reuses code to establish and improve performance and maintainability, effectiveness, and return on investment (ROI).
-* Leverages subject\\-matter expertise of product features and partners with appropriate stakeholders (e.g., project managers) to drive a workgroup's project plans, release plans, and work items.
-* Proactively seeks new knowledge and adapts to new trends, technical solutions, and patterns that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale.
-* Acts as a Designated Responsible Individual (DRI) and guides other engineers by developing and following the playbook, working on call to monitor system/product/service for degradation, downtime, or interruptions, alerting stakeholders about status and initiates actions to restore system/product/service for simple and complex problems when appropriate.
-
-
-**Qualifications**
- Required Qualifications:
+**Office Location** 
+ : Manyata Tech Park, Bangalore, India
    
 
   
 
-* Bachelor's Degree in Computer Science, or related technical discipline AND 8\\+ years technical engineering experience with coding in languages including, but not limited to, C, C\\+\\+, C\\#, Java, JavaScript, or Python OR equivalent experience.
-
-
-**Other Requirements**
-* Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:
-+ Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
-
-
-**Preferred Qualifications**
-* Master's Degree in Computer Science or related technical field AND 8\\+ years technical engineering experience with coding in languages including, but not limited to, C, C\\+\\+, C\\#, Java, JavaScript, or Python OR equivalent experience.
-
-
- Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+**Work Model:** 
+ Hybrid / Remote
    
 
   
 
- \\#Azurecorejobs
+**Join us for this exciting journey. Apply now!**
+**Please note, this email address will only respond to requests regarding privacy concerns. This inbox will not respond to job applications, resumes, or questions regarding an application.** 
+ When you apply to a job on this site, the personal data contained in your application will be collected by Evertz Microsystems Ltd (“Controller”), which is located at 5292 John Lucas Drive, Burlington, Ontario, Canada and can be contacted by emailing privacy@evertz.com. Controller’s data protection officer is Nadiera Toolsieram, who can be contacted at privacy@evertz.com. Your personal data will be processed for the purposes of managing Controller’s and its' subsidiaries' and affiliates' recruitment related activities, which include setting up and conducting interviews and tests for applicants, evaluating and assessing the results thereto, and as is otherwise needed in the recruitment and hiring processes. Such processing is legally permissible under Art. 6(1\\)(f) of Regulation (EU) 2016/679 (General Data Protection Regulation) as necessary for the purposes of the legitimate interests pursued by the Controller, which are the solicitation, evaluation, and selection of applicants for employment.
    
 
   
 
- This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+ A complete privacy policy can be found at https://evertz.com/contact/privacy/
    
 
   
 
- Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about
- **requesting accommodations.**","Software Development","https://www.linkedin.com/company/microsoft","https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY","","","","","","","","","","",""
+ Your personal data will be retained by Controller as long as Controller determines it is necessary to evaluate your application for employment. Under the GDPR, you have the right to request access to your personal data, to request that your personal data be rectified or erased, and to request that processing of your personal data be restricted. You also have to right to data portability. In addition, you may lodge a complaint with an EU supervisory authority.
+   
+
+  
+
+ Powered by JazzHR
+   
+
+  
+
+ XywCUbhleu","Internet Publishing","https://ca.linkedin.com/company/evertz","https://media.licdn.com/dms/image/v2/C560BAQGOPISDv847Gw/company-logo_100_100/company-logo_100_100/0/1631342565370?e=2147483647&v=beta&t=se5KGD28nC9WSI3_QaR0sZaFyUP3lZK-AiFrzZ21Sc0","","","","","","","","","","",""
+"li-4329599957","linkedin","https://www.linkedin.com/jobs/view/4329599957","https://forms.gle/rRj2S5k6BDuKFmcz8&urlHash=pfa1","Full Stack Web Developer Intern","Dexter's Tech","","","internship","","","","","",True,"internship","Analyst, Training, and Information Technology","","","**Full Stack Web Developer Intern (Paid)** 
+
+
+
+
+**Company:** 
+ Dexter's Tech
+ **Location:** 
+ Remote
+ **Duration:** 
+ 3 Months
+ **Application Deadline:** 
+ 02nd January
+ **2026 Opportunity:** 
+ Potential full\\-time role based on performance \\+ Internship Certificate
+ 
+
+
+
+**About Dexter's Tech** 
+ Dexter's Tech provides students and graduates with practical learning opportunities, hands\\-on experience, and career growth in
+ **full\\-stack web development** 
+ through real\\-world, industry\\-oriented projects.
+ 
+
+
+
+**Role Overview** 
+ As a
+ **Full Stack Web Developer Intern** 
+ , you'll work on live projects while gaining hands\\-on experience in both
+ **front\\-end** 
+ and
+ **back\\-end** 
+ development. This internship will enhance your technical skills and prepare you for a professional career in web development.
+ 
+
+
+
+**Responsibilities** 
+
+
+
+* Design, code, and modify websites for functionality, performance, and visual appeal.
+* Develop responsive and dynamic web pages and applications.
+* Test, debug, and optimize code to ensure a seamless user experience.
+* Work with modern full\\-stack development tools and frameworks.
+* Collaborate with senior developers and teams on real\\-world assignments.
+
+
+
+**Requirements** 
+
+
+
+* Currently enrolled in or recently graduated from a relevant degree/program.
+* Proficiency in
+ **HTML, CSS, and JavaScript** 
+ .
+* Familiarity with frameworks such as
+ **React, Angular, Node.js, or Express.js** 
+ (preferred).
+* Strong communication, problem\\-solving, and teamwork skills.
+* Passion for full\\-stack development and a desire to learn new technologies.
+
+
+
+**Benefits** 
+
+
+
+* **Stipend:** 
+ ₹7,500 \\- ₹15,000 (Performance\\-Based) (Paid)
+* Hands\\-on experience working on real\\-world full\\-stack development projects.
+* **Certificate of Internship** 
+ \\&
+ **Letter of Recommendation** 
+ upon completion.
+* Build a strong professional portfolio through practical project work.
+
+
+
+**Equal Opportunity Statement** 
+ Dexter's Tech is an equal\\-opportunity employer and encourages applicants from all backgrounds to apply.","IT Services and IT Consulting, IT System Training and Support, and E-Learning Providers","https://in.linkedin.com/company/dexter-s-tech","https://media.licdn.com/dms/image/v2/D4D0BAQGs2lgBvEuXcA/company-logo_100_100/B4DZq5RtCpGgAQ-/0/1764045018381?e=2147483647&v=beta&t=PVzrdJSaHuDfb87Re4qYePZmdrTXR5ySOgSNxtPdkNM","","","","","","","","","","",""
 "li-4329785531","linkedin","https://www.linkedin.com/jobs/view/4329785531","","Web Developer Intern","Zenithbyte","","","internship","","","","","",True,"internship","Analyst, Training, and Information Technology","","","Web Developer Intern (Paid)
  
 
@@ -294,6 +389,217 @@
 
 
  ZenithByte is an equal\\-opportunity employer. We welcome applicants from all backgrounds and are committed to creating a diverse and inclusive work environment.","IT Services and IT Consulting, IT System Training and Support, and E-Learning Providers","https://in.linkedin.com/company/zenith-byte","https://media.licdn.com/dms/image/v2/D4D0BAQEVnNEJ5I3rJQ/company-logo_100_100/B4DZq5VBvhH4AQ-/0/1764045889855?e=2147483647&v=beta&t=yKvyWuxLAGzrFREWSJAZg_Tw18B_UfOB_Yfga9-cqDw","","","","","","","","","","",""
+"li-4350920004","linkedin","https://www.linkedin.com/jobs/view/4350920004","https://www.amrita.edu/job/web-developer-at-amritapuri/&urlHash=tYlR","Web Developer at Amritapuri","Amrita Vishwa Vidyapeetham","Kollam, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Job Title Web Developer
+   
+
+  
+
+ Location Kollam, Kerala Required Number 3 Qualification A bachelor's degree in computer science or a related field is a plus 1\\+ years of experience as a Frontend Developer Proficiency in HTML, CSS, and JavaScript Experience with responsive design and cross\\-browser compatibility Familiarity with version control systems (e.g. Git) Strong problem\\-solving and communication skills Job description
+   
+
+  
+
+* Develop and maintain the frontend of our web applications using HTML, CSS, React, Python, PHP/Laravel
+* Collaborate with the design team to translate wireframes and mockups into working user interfaces
+* Write clean, efficient, and maintainable code that follows best practices and standards
+* Implement responsive design to ensure that our applications work across all devices and screen sizes
+* Test and debug code to ensure that it is working as expected
+* Stay up\\-to\\-date with the latest frontend technologies and best practices
+
+
+ Job category Non\\-Teaching Last date to apply January 31, 2026","Higher Education","https://in.linkedin.com/school/amrita-vishwa-vidyapeetham-official/","https://media.licdn.com/dms/image/v2/C510BAQGE9_7cyJ8-7g/company-logo_100_100/company-logo_100_100/0/1630595173751/amrita_vishwa_vidyapeetham_official_logo?e=2147483647&v=beta&t=jdaStdLf1kHRo0XogUOEriIrw9cIr2P7v2lRUz_kbtg","","","","","","","","","","",""
+"li-4329719538","linkedin","https://www.linkedin.com/jobs/view/4329719538","","Programmer (Dev) - India","Persistent Systems","Pune, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**About Persistent**
+ We are an AI\\-led, platform\\-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what?s next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry\\-leading organizations across the world, including 20 Fortune 50 companies and 4 of the 5 top banks in both the US and India, and numerous innovators across the healthcare ecosystem.
+   
+
+  
+
+ Our disruptor?s mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum. Persistent has been recognized across top industry platforms for innovation, leadership, and inclusion. We have delivered 22 sequential quarters of growth with $406\\.2M in Q2 FY26 revenue, up 4\\.2% Q\\-o\\-Q and 17\\.6% Y\\-o\\-Y growth. Our 26,000\\+ global team members, located in 18 countries, have been instrumental in helping the market leaders transform their industries. We have been named the fastest\\-growing Indian IT services brand in the ?Brand Finance India 100? 2025 report . We were also cited as a Leader in the ISG Provider Lens? 2025 for Digital Engineering Services 2025 and the Everest Group Talent Readiness for Next\\-generation Application Services PEAK Matrix � Assessment 2025
+   
+
+  
+
+**About Position**
+ We are seeking for Backup/Disaster Recovery (DR) in a multi\\-cloud environment (AWS,GCP\\&Azure). This role covers hands\\-on technical delivery, solution governance, and project orchestration.
+   
+
+  
+
+* Role: DevOps Lead
+* Location: All Persistent Locations
+* Experience: 9 \\+ years
+* Job Type: Full Time Employment
+
+
+**What You'll Do**
+* End\\-to\\-End Delivery Participation: Work on all phases Discovery \\& Planning, Design, Build, Test, Handover.
+* Provision and configure Kubernetes clusters (EKS, GKE, AKS) and register to Anthos or approved alternatives.
+* Implement multi\\-cloud governance: RBAC, NetworkPolicies, Quotas, image policy, drift detection.
+* Build GitOps\\-based onboarding templates (Helm/Kustomize) and integrate with CI/CD pipelines.
+* Deploy and configure observability stack (Prometheus, Grafana) and FinOps dashboards.
+* Implement Velero for Kubernetes backup/restore, AWS Backup for RDS/EFS, and cross\\-cloud transfers to GCP.
+* Configure AWS DMS CDC replication for DR scenarios.
+* Maintain technical documentation and contribute to knowledge transfer sessions
+
+
+**Expertise You'll Bring**
+* Primary Client Liaison ? Act as the single point of contact for all technical matters with client stakeholders.
+* Governance Oversight ? Ensure all deliverables meet SOW\\-defined acceptance criteria and scope boundaries.
+* Change Management ? Facilitate design reviews, scope clarifications, and formal change requests.
+* Risk \\& Escalation Management ? Identify delivery risks early and engage with management for mitigation.
+* Sprint Leadership ? Drive daily stand\\-ups, sprint reviews, and retrospectives with onsite/offshore team members.
+* Quality Assurance ? Review offshore deliverables before client submission to ensure technical accuracy.
+* Stakeholder Communication ? Provide concise but detailed status updates to client and internal leadership.
+* Dependency Management ? Coordinate with client IT, networking, and security teams for prerequisites (IAM, firewall rules, namespaces, etc.).
+* Roadmap Shaping ? Capture client feedback during delivery to define a follow\\-on roadmap (e.g., AKS onboarding, advanced DR).
+
+
+**Benefits**
+* Competitive salary and benefits package
+* Culture focused on talent development with quarterly growth opportunities and company\\-sponsored higher education and certifications
+* Opportunity to work with cutting\\-edge technologies
+* Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards
+* Annual health check\\-ups
+* Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents
+
+
+**Values\\-Driven, People\\-Centric \\& Inclusive Work Environment**
+ Persistent Ltd. is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds.
+   
+
+  
+
+* We support hybrid work and flexible hours to fit diverse lifestyles.
+* Our office is accessibility\\-friendly, with ergonomic setups and assistive technologies to support employees with physical disabilities.
+* If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment
+
+
+**Let's unleash your full potential at Persistent \\-** 
+ persistent.com/careers
+   
+
+  
+
+**""Persistent is an Equal Opportunity Employer and prohibits discrimination and harassment of any kind.""**","IT Services and IT Consulting","https://in.linkedin.com/company/persistent-systems","https://media.licdn.com/dms/image/v2/D4D0BAQH5EcH5fkKmSg/company-logo_100_100/company-logo_100_100/0/1731934962856/persistent_systems_logo?e=2147483647&v=beta&t=EaMnGvDBW-8ZF9a2WqIAXV-r8h_oz20Szfv66cn0AGg","","","","","","","","","","",""
+"li-4350669928","linkedin","https://www.linkedin.com/jobs/view/4350669928","","Software Engineer 1 at Spleen.ai","Jack & Jill","","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","This is a job that Jill, our AI Recruiter, is recruiting for on behalf of one of our customers.
+   
+
+  
+
+ She will pick the best candidates from Jack's network.
+   
+
+  
+
+ The next step is to speak to Jack.
+   
+
+  
+
+ Software Engineer 1
+   
+
+  
+
+**Company Description:** 
+ Spleen.ai \\- Fast\\-growing AI startup
+   
+
+  
+
+**Job Description:**
+ Join Spleen.ai as a Backend Software Engineer to design and scale critical services in a high\\-traffic environment. You will collaborate with cross\\-functional teams to build robust components using Java and Python, ensuring high reliability and performance. This is an impactful role for an engineer looking to solve complex technical challenges.
+   
+
+  
+
+**Location:** 
+ Bangalore, India
+   
+
+  
+
+**Why this role is remarkable:**
+* High\\-impact opportunity to build and scale backend services for a cutting\\-edge AI platform used by global clients.
+* Join a fast\\-paced innovation hub in Bangalore where technical excellence and creative problem\\-solving are prioritized.
+* Direct mentorship from industry leaders and Tech Leads to accelerate your career growth in modern software engineering.
+
+
+**What you will do:**
+* Develop and maintain robust backend components and APIs using Java and Python to support scalable product features.
+* Optimize service performance and resource utilization to handle high\\-traffic demands while maintaining system reliability.
+* Conduct rigorous unit testing and participate in peer code reviews to ensure the highest standards of code quality.
+
+
+**The ideal candidate:**
+* 1\\-3 years of professional experience in backend development with a strong proficiency in Java and Python.
+* Solid understanding of backend architectures, database interactions, and version control systems like Git.
+* Proven problem\\-solving abilities with a track record of delivering reliable solutions in a fast\\-paced environment.
+
+
+**Who are Jack \\& Jill?**
+ Ok, I'll go first. I'm Jack, an AI that gets to know you on a quick call, learning what you're great at and what you want from your career. Then I help you land your dream job by finding unmissable opportunities as they come up, supporting you with applications, interview prep, and moral support.
+   
+
+  
+
+ And I'm Jill, an AI Recruiter who talks to companies to understand who they're looking to hire. Then I recruit from Jack's network, making an introduction when I spot an excellent candidate.
+   
+
+  
+
+**Next steps**
+ Step 1\\. Visit
+ **our website** 
+ .
+   
+
+  
+
+ Step 2\\. Click
+ **'Talk to Jack'** 
+ .
+   
+
+  
+
+ Step 3\\. Talk to Jack so he can understand your experience and ambitions.
+   
+
+  
+
+ Step 4\\. Jack will make sure Jill (the AI agent working for the company) considers you for this role.
+   
+
+  
+
+ Step 5\\. If Jill thinks you're a great fit and her client wants to meet you, they will make the introduction.
+   
+
+  
+
+ Step 6\\. If not, Jack will find you excellent alternatives. All for free.
+   
+
+  
+
+**We never post fake jobs**
+ This isn't a trick. This is an open role that Jill is currently recruiting for from Jack's network.
+   
+
+  
+
+ Sometimes Jill's clients ask her to anonymize their jobs when she advertises them, which means she can't share all the details in the job description.
+   
+
+  
+
+ We appreciate this can make them look a bit suspect, but there isn't much we can do about it.
+   
+
+  
+
+ Give Jack a spin! You could land this role. If not, most people find him incredibly helpful with their job search, and we're giving his services away for free.","Technology, Information and Internet","https://www.linkedin.com/company/jackandjillai","https://media.licdn.com/dms/image/v2/D4E0BAQHpkjLSnrBsZQ/company-logo_100_100/B4EZme9iNtIwAQ-/0/1759308555479/jackjill_logo?e=2147483647&v=beta&t=fTtFR78cPwHzl-J8kEotEphWT8XfHVQJkBcyqrmkfQE","","","","","","","","","","",""
 "li-4337239197","linkedin","https://www.linkedin.com/jobs/view/4337239197","","Software Developer II (AI/ML)","myKaarma","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","At myKaarma, we’re not just leading the way in fixed ops solutions for the automotive industry—we’re redefining what’s possible for dealership service centers. Headquartered in Long Beach, California, and powered by a global team, our industry\\-leading SaaS platform combines communication, scheduling, and payment tools in one seamless solution that keeps dealerships and vehicle owners connected. With myKaarma, every service interaction flows effortlessly, bringing good karma to customers and service teams.
    
 
@@ -427,98 +733,63 @@
 
 ****Our Commitment to Inclusion****
  At myKaarma, diverse perspectives drive innovation and success. We are committed to creating a safe, welcoming, and inclusive workplace where every employee feels valued and empowered and can do meaningful work. Our mission to deliver exceptional solutions to our clients is strengthened by the unique contributions and perspectives of our team members from all backgrounds.","Software Development","https://www.linkedin.com/company/mykaarma","https://media.licdn.com/dms/image/v2/C560BAQEGsxlokyOp5A/company-logo_100_100/company-logo_100_100/0/1630672826064/kaarya_kaarma_mykaarma_logo?e=2147483647&v=beta&t=uv5XS1NSqTbb1PqthdZutF1TyvhL2TPKOeaWVMKLnXI","","","","","","","","","","",""
-"li-4346698083","linkedin","https://www.linkedin.com/jobs/view/4346698083","","Senior Software Engineer","Microsoft","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Overview**
- The Fundamentals platform team is seeking software engineers to help build large scale systems that are high\\-throughput, low\\-latency and can be shipped multiple times a day. Fundamentals engineers are the best customer\\-advocates, experienced in multiple technologies, and are skilled in the fundamentals of highly scalable systems. If you take joy in improving performance by a millisecond or dream about scaling a service instance to hundreds of thousands of RPS, you should apply.
-   
-
-  
-
- As an engineer on the Fundamentals team, you will work on building our next\\-generation platform that powers all the online experiences for Search. You will work with engineers across different parts of the organization to make their services more reliable and performant. Apart from learning through technical challenges on our team, you will get to contribute to complex systems that power some of the biggest online services for search, maps, and advertising on the planet.
-   
-
-  
-
- Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
-   
-
-  
-
- Starting January 26, 2026, Microsoft AI (MAI) employees who live within a 50\\- mile commute of a designated Microsoft office in the U.S. or 25\\-mile commute of a non\\-U.S., country\\-specific location are expected to work from the office at least four days per week. This expectation is subject to local law and may vary by jurisdiction.
-   
-
-  
-
-**Responsibilities**
-* Building highly scalable, highly available services that get deployed across the world
-* Working with partner teams that deliver experiences like search, advertising, enterprise search and deliver platform\\-level features across all of them
-* Design, write and implement services with performance, efficiency, re\\-usability, and maintainability as core focus
-* Leverage AI to build tools that help improve productivity
-* Develop systems and toolsets that work across multiple orchestrators, source control, and build systems (ADO and GitHub)
-* Mentor engineers in the team by providing hands\\-on assistance, best practices, and promoting an inclusive learning environment
-
-
-**Qualifications**
-**Required Qualifications:**
-* Bachelor's Degree in Computer Science or related technical field AND 8\\+ years technical engineering experience with coding in languages including, but not limited to, C, C\\+\\+, C\\#, Java, JavaScript, or Python OR equivalent experience.
-* Familiarity with Web technology and Search engines and large scalable systems.
-* System level design and architectural understanding.
-
-
-**Preferred Qualifications**
-* Experience working on large scalable, high performant systems will be an advantage.
-* Experience with ASP.NET.
-* Good understanding HTTP protocol and Networking basics.
-* Experience with CI/CD pipelines like Azure DevOps, GitHub Workflow etc.
-* Ability to deal with ambiguity to prioritize issues.
-
-
- \\#MicrosoftAI \\#BING
-   
-
-  
-
- This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
-   
-
-  
-
- Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about
- **requesting accommodations.**","Software Development","https://www.linkedin.com/company/microsoft","https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY","","","","","","","","","","",""
-"li-4329599957","linkedin","https://www.linkedin.com/jobs/view/4329599957","https://forms.gle/rRj2S5k6BDuKFmcz8&urlHash=pfa1","Full Stack Web Developer Intern","Dexter's Tech","","","internship","","","","","",True,"internship","Analyst, Training, and Information Technology","","","**Full Stack Web Developer Intern (Paid)** 
-
-
-
-
-**Company:** 
- Dexter's Tech
- **Location:** 
- Remote
- **Duration:** 
- 3 Months
- **Application Deadline:** 
- 02nd January
- **2026 Opportunity:** 
- Potential full\\-time role based on performance \\+ Internship Certificate
+"li-4346805961","linkedin","https://www.linkedin.com/jobs/view/4346805961","","Web Developer Intern","Zenithbyte","","","internship","","","","","",True,"internship","Analyst, Training, and Information Technology","","","Web Developer Intern (Paid)
  
 
 
 
-**About Dexter's Tech** 
- Dexter's Tech provides students and graduates with practical learning opportunities, hands\\-on experience, and career growth in
- **full\\-stack web development** 
- through real\\-world, industry\\-oriented projects.
+**Company:** 
+ UM IT Solutions
+ 
+
+
+
+**Location:** 
+ Remote
+ 
+
+
+
+**Duration:** 
+ 3 Months
+ 
+
+
+
+**Employment Opportunity:** 
+ Potential full\\-time role based on performance \\+ Certificate of Internship
+ 
+
+
+
+**Application Deadline:** 
+ 02nd January 2026
+ 
+
+
+
+**About UM IT Solutions** 
+
+
+
+
+ UM IT Solutions provides students and graduates with
+ **practical learning opportunities in web development** 
+ , helping them gain real\\-world experience, build technical expertise, and enhance their career prospects through live projects.
  
 
 
 
 **Role Overview** 
+
+
+
+
  As a
- **Full Stack Web Developer Intern** 
- , you'll work on live projects while gaining hands\\-on experience in both
- **front\\-end** 
- and
- **back\\-end** 
- development. This internship will enhance your technical skills and prepare you for a professional career in web development.
+ **Web Developer Intern** 
+ , you will work on live projects, gaining hands\\-on experience in both
+ **front\\-end and back\\-end development** 
+ , while improving your coding, debugging, and technical skills.
  
 
 
@@ -527,11 +798,19 @@
 
 
 
-* Design, code, and modify websites for functionality, performance, and visual appeal.
-* Develop responsive and dynamic web pages and applications.
-* Test, debug, and optimize code to ensure a seamless user experience.
-* Work with modern full\\-stack development tools and frameworks.
-* Collaborate with senior developers and teams on real\\-world assignments.
+* ✅ Design, code, and modify websites for
+ **functionality and visual appeal** 
+ .
+* ✅ Develop
+ **responsive and dynamic web pages** 
+ .
+* ✅ Test and debug websites to ensure a
+ **seamless user experience** 
+ .
+* ✅ Utilize modern
+ **web development tools and frameworks** 
+ .
+* ✅ Collaborate with team members to deliver high\\-quality projects.
 
 
 
@@ -539,154 +818,209 @@
 
 
 
-* Currently enrolled in or recently graduated from a relevant degree/program.
-* Proficiency in
+* 🎓 Currently enrolled in or recently graduated from a relevant program (Computer Science, IT, Web Development, or related fields).
+* 💻 Proficiency in
  **HTML, CSS, and JavaScript** 
  .
-* Familiarity with frameworks such as
- **React, Angular, Node.js, or Express.js** 
+* 🌐 Familiarity with frameworks such as
+ **React, Angular, or Node.js** 
  (preferred).
-* Strong communication, problem\\-solving, and teamwork skills.
-* Passion for full\\-stack development and a desire to learn new technologies.
+* 🗣 Strong
+ **communication** 
+ and
+ **teamwork skills** 
+ .
+* Passion for
+ **learning** 
+ and developing practical web solutions.
 
 
 
-**Benefits** 
+**Stipend \\& Benefits** 
 
 
 
-* **Stipend:** 
- ₹7,500 \\- ₹15,000 (Performance\\-Based) (Paid)
-* Hands\\-on experience working on real\\-world full\\-stack development projects.
-* **Certificate of Internship** 
- \\&
- **Letter of Recommendation** 
- upon completion.
-* Build a strong professional portfolio through practical project work.
+* 💰
+ **Stipend:** 
+ ₹7,500 \\- ₹15,000 (Performance\\-Based)
+* 🧠 Hands\\-on
+ **web development experience** 
+ with real\\-world projects.
+* 📜
+ **Certificate of Internship \\& Letter of Recommendation** 
+ .
+* 💼 Opportunity to
+ **build a professional portfolio** 
+ showcasing your work.
+
+
+
+**How to Apply** 
+
+
+
+
+ 📩 Submit your application by
+ **02nd January 2026** 
+ with the subject line:
+ **“Full Stack Web Developer Intern Application”** 
+ . Include your
+ **resume** 
+ and
+ **GitHub/portfolio links** 
+ .
+ 
 
 
 
 **Equal Opportunity Statement** 
- Dexter's Tech is an equal\\-opportunity employer and encourages applicants from all backgrounds to apply.","IT Services and IT Consulting, IT System Training and Support, and E-Learning Providers","https://in.linkedin.com/company/dexter-s-tech","https://media.licdn.com/dms/image/v2/D4D0BAQGs2lgBvEuXcA/company-logo_100_100/B4DZq5RtCpGgAQ-/0/1764045018381?e=2147483647&v=beta&t=PVzrdJSaHuDfb87Re4qYePZmdrTXR5ySOgSNxtPdkNM","","","","","","","","","","",""
-"li-4350669928","linkedin","https://www.linkedin.com/jobs/view/4350669928","","Software Engineer 1 at Spleen.ai","Jack & Jill","","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","This is a job that Jill, our AI Recruiter, is recruiting for on behalf of one of our customers.
-   
 
-  
 
- She will pick the best candidates from Jack's network.
-   
 
-  
 
- The next step is to speak to Jack.
-   
+ UM IT Solutions is an
+ **equal opportunity employer** 
+ , welcoming applicants from all backgrounds and fostering a diverse and inclusive work environment.","IT Services and IT Consulting, IT System Training and Support, and E-Learning Providers","https://in.linkedin.com/company/zenith-byte","https://media.licdn.com/dms/image/v2/D4D0BAQEVnNEJ5I3rJQ/company-logo_100_100/B4DZq5VBvhH4AQ-/0/1764045889855?e=2147483647&v=beta&t=yKvyWuxLAGzrFREWSJAZg_Tw18B_UfOB_Yfga9-cqDw","","","","","","","","","","",""
+"li-4346806051","linkedin","https://www.linkedin.com/jobs/view/4346806051","https://forms.gle/Wq8vUBi2ELe2oEFi9&urlHash=qXta","Web Developer Intern","Webs IT Solution","","","internship","","","","","",True,"internship","Analyst, Training, and Information Technology","","","**Web Developer Intern (Paid)** 
 
-  
 
- Software Engineer 1
-   
 
-  
 
-**Company Description:** 
- Spleen.ai \\- Fast\\-growing AI startup
-   
+**Company:** 
+ Webs IT Solution
+ 
 
-  
 
-**Job Description:**
- Join Spleen.ai as a Backend Software Engineer to design and scale critical services in a high\\-traffic environment. You will collaborate with cross\\-functional teams to build robust components using Java and Python, ensuring high reliability and performance. This is an impactful role for an engineer looking to solve complex technical challenges.
-   
-
-  
 
 **Location:** 
- Bangalore, India
-   
-
-  
-
-**Why this role is remarkable:**
-* High\\-impact opportunity to build and scale backend services for a cutting\\-edge AI platform used by global clients.
-* Join a fast\\-paced innovation hub in Bangalore where technical excellence and creative problem\\-solving are prioritized.
-* Direct mentorship from industry leaders and Tech Leads to accelerate your career growth in modern software engineering.
+ Remote
+ 
 
 
-**What you will do:**
-* Develop and maintain robust backend components and APIs using Java and Python to support scalable product features.
-* Optimize service performance and resource utilization to handle high\\-traffic demands while maintaining system reliability.
-* Conduct rigorous unit testing and participate in peer code reviews to ensure the highest standards of code quality.
+
+**Duration:** 
+ 3 Months
+ 
 
 
-**The ideal candidate:**
-* 1\\-3 years of professional experience in backend development with a strong proficiency in Java and Python.
-* Solid understanding of backend architectures, database interactions, and version control systems like Git.
-* Proven problem\\-solving abilities with a track record of delivering reliable solutions in a fast\\-paced environment.
+
+**Employment Opportunity:** 
+ Potential full\\-time role based on performance, with a Certificate of Internship.
+ 
 
 
-**Who are Jack \\& Jill?**
- Ok, I'll go first. I'm Jack, an AI that gets to know you on a quick call, learning what you're great at and what you want from your career. Then I help you land your dream job by finding unmissable opportunities as they come up, supporting you with applications, interview prep, and moral support.
-   
 
-  
+**About Webs IT Solution** 
 
- And I'm Jill, an AI Recruiter who talks to companies to understand who they're looking to hire. Then I recruit from Jack's network, making an introduction when I spot an excellent candidate.
-   
 
-  
 
-**Next steps**
- Step 1\\. Visit
- **our website** 
+
+ Webs IT Solution is a technology and innovation company offering hands\\-on training and project\\-based internships in software development, web technologies, AI, data, and cybersecurity. We focus on bridging the gap between academic learning and industry requirements through live projects and expert mentorship.
+ 
+
+
+
+**Role Overview** 
+
+
+
+
+ As a
+ **Web Developer Intern** 
+ , you will work on designing, developing, and maintaining dynamic websites and web applications. This internship is ideal for students or graduates passionate about coding, UI design, and building responsive web solutions from concept to deployment.
+ 
+
+
+
+**Key Responsibilities** 
+
+
+
+* Develop and maintain
+ **responsive websites** 
+ using
+ **HTML** 
+ ,
+ **CSS** 
+ ,
+ **JavaScript** 
+ , and
+ **frameworks** 
+ such as
+ **React.js** 
+ ,
+ **Bootstrap** 
+ , or
+ **Tailwind CSS** 
  .
-   
-
-  
-
- Step 2\\. Click
- **'Talk to Jack'** 
+* Work with backend technologies like
+ **Node.js** 
+ ,
+ **Django** 
+ , or
+ **PHP** 
+ for full\\-stack web solutions.
+* Collaborate with designers to create clean, user\\-friendly web layouts.
+* Integrate APIs and handle client–server communication efficiently.
+* Optimize websites for
+ **speed** 
+ ,
+ **performance** 
+ , and
+ **SEO best practices** 
  .
-   
+* Debug and resolve technical issues to ensure smooth user experience.
 
-  
 
- Step 3\\. Talk to Jack so he can understand your experience and ambitions.
-   
 
-  
+**Requirements** 
 
- Step 4\\. Jack will make sure Jill (the AI agent working for the company) considers you for this role.
-   
 
-  
 
- Step 5\\. If Jill thinks you're a great fit and her client wants to meet you, they will make the introduction.
-   
+* Pursuing/completed Bachelor’s or Master’s in
+ **Computer Science** 
+ ,
+ **IT** 
+ , or related fields.
+* Proficiency in
+ **HTML5** 
+ ,
+ **CSS3** 
+ ,
+ **JavaScript** 
+ , and basic understanding of
+ **frontend frameworks** 
+ .
+* Familiarity with
+ **backend technologies** 
+ (Node.js, Python Flask/Django, or PHP).
+* Understanding of
+ **databases** 
+ (MySQL, MongoDB) and
+ **Git version control** 
+ .
+* Strong problem\\-solving skills and creativity in design implementation.
 
-  
 
- Step 6\\. If not, Jack will find you excellent alternatives. All for free.
-   
 
-  
+**Perks \\& Benefits** 
 
-**We never post fake jobs**
- This isn't a trick. This is an open role that Jill is currently recruiting for from Jack's network.
-   
 
-  
 
- Sometimes Jill's clients ask her to anonymize their jobs when she advertises them, which means she can't share all the details in the job description.
-   
+* Certificate of Internship from Webs IT Solution.
+* Work on
+ **real\\-world web projects** 
+ with live deployment.
+* Mentorship from experienced developers and designers.
+* Opportunity to build a strong professional portfolio.
+* Placement and networking assistance post\\-internship.
 
-  
 
- We appreciate this can make them look a bit suspect, but there isn't much we can do about it.
-   
 
-  
-
- Give Jack a spin! You could land this role. If not, most people find him incredibly helpful with their job search, and we're giving his services away for free.","Technology, Information and Internet","https://www.linkedin.com/company/jackandjillai","https://media.licdn.com/dms/image/v2/D4E0BAQHpkjLSnrBsZQ/company-logo_100_100/B4EZme9iNtIwAQ-/0/1759308555479/jackjill_logo?e=2147483647&v=beta&t=fTtFR78cPwHzl-J8kEotEphWT8XfHVQJkBcyqrmkfQE","","","","","","","","","","",""
+ 💰
+ **Stipend:** 
+ ₹7,500 – ₹15,000
+ *(Performance\\-Based)*","IT Services and IT Consulting, IT System Training and Support, and E-Learning Providers","https://www.linkedin.com/company/webs-it-solution","https://media.licdn.com/dms/image/v2/D4D0BAQGCDRNIjRhu1w/company-logo_100_100/B4DZmK1daJIcAU-/0/1758970895082/webboost_solutions_it_consultants_logo?e=2147483647&v=beta&t=Y70pLXAhwyD-sABPEeIqd5fKe7uUr2apK0-7kkR53zA","","","","","","","","","","",""
 "li-4329689633","linkedin","https://www.linkedin.com/jobs/view/4329689633","","QA Engineer","Progile Tech","","","fulltime","","","","","",True,"mid-senior level","Quality Assurance and Information Technology","","ahmed@progiletech.com","**Tittle:** 
  Senior QA Engineer
  
@@ -753,213 +1087,496 @@
 
 
  📩 Email: ahmed@progiletech.com","IT Services and IT Consulting and Retail","https://www.linkedin.com/company/progiletech","https://media.licdn.com/dms/image/v2/D4D0BAQEB11CDvagv8w/company-logo_100_100/company-logo_100_100/0/1738258722388/progiletech_logo?e=2147483647&v=beta&t=vlR1dKuVencosMdEhBux4SPveIK-5V0E4lSMxSNfBmw","","","","","","","","","","",""
-"li-4350789682","linkedin","https://www.linkedin.com/jobs/view/4350789682","","Engineer Software","Empower India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Our vision for the future is based on the idea that transforming financial lives starts by giving our people the freedom to transform their own. We have a flexible work environment, and fluid career paths. We not only encourage but celebrate internal mobility. We also recognize the importance of purpose, well\\-being, and work\\-life balance. Within Empower and our communities, we work hard to create a welcoming and inclusive environment, and our associates dedicate thousands of hours to volunteering for causes that matter most to them.
+"li-4346776871","linkedin","https://www.linkedin.com/jobs/view/4346776871","","Full-Stack Development Intern","Webs IT Solution","","","internship","","","","","",True,"internship","Analyst, Training, and Information Technology","","","**Full\\-Stack Development Intern (Paid)** 
+
+
+
+
+**Company:** 
+ Webs IT Solution
+ 
+
+
+
+**Location:** 
+ Remote
+ 
+
+
+
+**Duration:** 
+ 3 Months
+ 
+
+
+
+**Employment Opportunity:** 
+ Potential full\\-time role based on performance, with a Certificate of Internship.
+ 
+
+
+
+**About Webs IT Solution** 
+
+
+
+
+ Webs IT Solution is dedicated to nurturing future\\-ready developers through live projects, hands\\-on learning, and mentorship programs that focus on both front\\-end and back\\-end development.
+ 
+
+
+
+**Role Overview** 
+
+
+
+
+ As a
+ **Full\\-Stack Development Intern** 
+ , you’ll work across all layers of the web development process — from crafting engaging interfaces to developing robust backend systems.
+ 
+
+
+
+**Key Responsibilities** 
+
+
+
+* Design and develop full\\-stack web applications using
+ **React.js** 
+ ,
+ **Node.js** 
+ , and
+ **MongoDB/MySQL** 
+ .
+* Integrate APIs and ensure seamless data flow between front\\-end and back\\-end.
+* Optimize performance and scalability of applications.
+* Debug and maintain code repositories.
+* Work collaboratively in an agile team environment.
+
+
+
+**Requirements** 
+
+
+
+* Proficiency in
+ **HTML** 
+ ,
+ **CSS** 
+ ,
+ **JavaScript** 
+ ,
+ **React.js** 
+ , and
+ **Node.js** 
+ .
+* Understanding of
+ **databases** 
+ (MongoDB, MySQL).
+* Familiarity with
+ **REST APIs** 
+ and
+ **Git/GitHub** 
+ .
+* Strong logical thinking and teamwork skills.
+
+
+
+**Perks \\& Benefits** 
+
+
+
+* Internship Certificate from Webs IT Solution.
+* End\\-to\\-end exposure to software development.
+* Mentorship from industry experts.
+* Opportunity for full\\-time placement.
+
+
+
+ 💰
+ **Stipend:** 
+ ₹7,500 – ₹15,000
+ *(Performance\\-Based)*","IT Services and IT Consulting, IT System Training and Support, and E-Learning Providers","https://www.linkedin.com/company/webs-it-solution","https://media.licdn.com/dms/image/v2/D4D0BAQGCDRNIjRhu1w/company-logo_100_100/B4DZmK1daJIcAU-/0/1758970895082/webboost_solutions_it_consultants_logo?e=2147483647&v=beta&t=Y70pLXAhwyD-sABPEeIqd5fKe7uUr2apK0-7kkR53zA","","","","","","","","","","",""
+"li-4346796150","linkedin","https://www.linkedin.com/jobs/view/4346796150","","Web Developer Intern","WEBBOOST SOLUTION IT SERVICES","","","internship","","","","","",True,"internship","Training, Information Technology, and Analyst","","","Web Developer Intern (Paid)
+ 
+
+
+
+**Company:** 
+ UM IT Solutions
+ 
+
+
+
+**Location:** 
+ Remote
+ 
+
+
+
+**Duration:** 
+ 3 Months
+ 
+
+
+
+**Employment Opportunity:** 
+ Potential full\\-time role based on performance \\+ Certificate of Internship
+ 
+
+
+
+**Application Deadline:** 
+ 02nd January 2026
+ 
+
+
+
+**About UM IT Solutions** 
+
+
+
+
+ UM IT Solutions provides students and graduates with
+ **practical learning opportunities in web development** 
+ , helping them gain real\\-world experience, build technical expertise, and enhance their career prospects through live projects.
+ 
+
+
+
+**Role Overview** 
+
+
+
+
+ As a
+ **Web Developer Intern** 
+ , you will work on live projects, gaining hands\\-on experience in both
+ **front\\-end and back\\-end development** 
+ , while improving your coding, debugging, and technical skills.
+ 
+
+
+
+**Responsibilities** 
+
+
+
+* ✅ Design, code, and modify websites for
+ **functionality and visual appeal** 
+ .
+* ✅ Develop
+ **responsive and dynamic web pages** 
+ .
+* ✅ Test and debug websites to ensure a
+ **seamless user experience** 
+ .
+* ✅ Utilize modern
+ **web development tools and frameworks** 
+ .
+* ✅ Collaborate with team members to deliver high\\-quality projects.
+
+
+
+**Requirements** 
+
+
+
+* 🎓 Currently enrolled in or recently graduated from a relevant program (Computer Science, IT, Web Development, or related fields).
+* 💻 Proficiency in
+ **HTML, CSS, and JavaScript** 
+ .
+* 🌐 Familiarity with frameworks such as
+ **React, Angular, or Node.js** 
+ (preferred).
+* 🗣 Strong
+ **communication** 
+ and
+ **teamwork skills** 
+ .
+* Passion for
+ **learning** 
+ and developing practical web solutions.
+
+
+
+**Stipend \\& Benefits** 
+
+
+
+* 💰
+ **Stipend:** 
+ ₹7,500 \\- ₹15,000 (Performance\\-Based)
+* 🧠 Hands\\-on
+ **web development experience** 
+ with real\\-world projects.
+* 📜
+ **Certificate of Internship \\& Letter of Recommendation** 
+ .
+* 💼 Opportunity to
+ **build a professional portfolio** 
+ showcasing your work.
+
+
+
+**How to Apply** 
+
+
+
+
+ 📩 Submit your application by
+ **02nd January 2026** 
+ with the subject line:
+ **“Full Stack Web Developer Intern Application”** 
+ . Include your
+ **resume** 
+ and
+ **GitHub/portfolio links** 
+ .
+ 
+
+
+
+**Equal Opportunity Statement** 
+
+
+
+
+ UM IT Solutions is an
+ **equal opportunity employer** 
+ , welcoming applicants from all backgrounds and fostering a diverse and inclusive work environment.","IT System Testing and Evaluation, E-Learning Providers, and IT Services and IT Consulting","https://in.linkedin.com/company/webboostsolutionait","https://media.licdn.com/dms/image/v2/D560BAQGBZdrDEklUwg/company-logo_100_100/B56ZlqvboHKMAQ-/0/1758432443379/webboostsolutionait_logo?e=2147483647&v=beta&t=F7Q3QJ5FLMhjA76_Cm1fW4woT6NWVdHqX4ruytfAr5Q","","","","","","","","","","",""
+"li-4350940004","linkedin","https://www.linkedin.com/jobs/view/4350940004","https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/27467/?utm_medium=jobshare&src=SNS-102&urlHash=giH7","Software Development Engineer","Nokia","Gurugram, Haryana, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Job Description**
+ As a Software Development Engineer, you will design and develop AI\\-driven, cloud\\-native, microservices\\-based solutions while working within an Agile environment. You will translate customer requirements into technical designs, deliver high\\-quality features, and handle customer issues through effective RCA and defect resolution. You will also contribute ideas, participate in technical discussions, and drive continuous improvement across the product lifecycle.
    
 
   
 
- Chart your own path and grow your career while helping more customers achieve financial freedom. Empower Yourself.
+**How You Will Contribute And What You Will Learn**
+* Analyze, Design, Develop, Test and Deliver Features
+* Understand Customer Requirements, convert them into Technical Requirements, Create Low\\-Level Design, Coding, Unit testing, Code Reviews, Functional testing
+* Responsible for feature/product quality, on time delivery with expected contents
+* Handling Customer Issues, Supporting Customer Escalations by performing RCAs, Fixing Defects
+* Demonstrate Independence and Raise Innovative Ideas
+* Participate in discussions, stand up meetings, other meetings
+
+
+**Key Skills And Experience**
+**Must have:**
+* A Bachelor’s/ master’s degree in engineering or equivalent with 2\\-5 years of hands\\-on experience in Java development with exposure to IntelliJ, SonarQube, Git, Jenkins, and unit/functional testing.
+* Solid system thinking, working knowledge of distributed systems, and familiarity with common design patterns.
+* Proficiency in Linux, NoSQL databases, strong debugging skills, and experience with tools such as memory profilers.
+* Knowledge of Diameter, REST, SOAP, and background in Analysis, Design, Development, Unit \\& Functional Testing.
+
+
+**Good to have:**
+* Telecom domain knowledge: 3G/4G/5G Core Network elements and understanding of Online Charging System (OCS).
+* Exposure to Cloud Native technologies, including Kubernetes, and Agile development methodologies.
+
+
+**About Us**
+**Advancing connectivity to secure a brighter world.**
+ Nokia is a global leader in connectivity for the AI era. With expertise across fixed, mobile and transport networks, powered by the innovation of Nokia Bell Labs, we’re advancing connectivity to secure a brighter world.
    
 
   
 
- 2\\- 6 years of hands\\-on technology experience with the ability twork in teams spread out in multiple locations.
+ Learn more about life at Nokia .
    
 
   
 
- A minimum of 2 \\- 6 years of hands\\-on experience on Pro\\*C,PL/SQL,Oracle SQL,UNIX (Solaris) and Java programming language.
+**Our recruitment process**
+ We act inclusively and respect the uniqueness of people. Our employment decisions are made regardless of race, color, national or ethnic origin, religion, gender, sexual orientation, gender identity or expression, age, marital status, disability, protected veteran status or other characteristics protected by law. We are committed to a culture of inclusion built upon our core value of respect.
    
 
   
 
- Degree in Computer Science or Information Systems, or equivalent applicable work experience
+ If you’re interested in this role but don’t meet every listed requirement, we still encourage you to apply. Unique backgrounds, perspectives, and experiences enrich our teams, and you may be just the right candidate for this or another opportunity.
    
 
   
 
- Enthusiasm to work and learn in a team environment.
+ The length of the recruitment process may vary depending on the specific role's requirements. We strive to ensure a smooth and inclusive experience for all candidates. Discover more about the recruitment process at Nokia .","IT Services and IT Consulting and Telecommunications","https://fi.linkedin.com/company/nokia","https://media.licdn.com/dms/image/v2/D4E0BAQE_ff-lEcAC5w/company-logo_100_100/B4EZqby_U_HgAQ-/0/1763550426950/nokia_logo?e=2147483647&v=beta&t=qxtoTn57D4TyVa7Or6EcSCx-lBK1o3cVYD71ukfu5Q0","","","","","","","","","","",""
+"li-4350789795","linkedin","https://www.linkedin.com/jobs/view/4350789795","https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/27464/?utm_medium=jobshare&src=SNS-102&urlHash=Sj7g","Software Development Engineer","Nokia","Gurugram, Haryana, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Job Description**
+ As a Software Development Engineer, you will design and develop AI\\-driven, cloud\\-native, microservices\\-based solutions while working within an Agile environment. You will translate customer requirements into technical designs, deliver high\\-quality features, and handle customer issues through effective RCA and defect resolution. You will also contribute ideas, participate in technical discussions, and drive continuous improvement across the product lifecycle.
    
 
   
 
- Ability to work on a task independently with minimal supervision.
+**How You Will Contribute And What You Will Learn**
+* Analyze, Design, Develop, Test and Deliver Features
+* Understand Customer Requirements, convert them into Technical Requirements, Create Low\\-Level Design, Coding, Unit testing, Code Reviews, Functional testing
+* Responsible for feature/product quality, on time delivery with expected contents
+* Handling Customer Issues, Supporting Customer Escalations by performing RCAs, Fixing Defects
+* Demonstrate Independence and Raise Innovative Ideas
+* Participate in discussions, stand up meetings, other meetings
+
+
+**Key Skills And Experience**
+**Must have:**
+* A Bachelor’s/ master’s degree in engineering or equivalent with 2\\-5 years of hands\\-on experience in Java development with exposure to IntelliJ, SonarQube, Git, Jenkins, and unit/functional testing.
+* Solid system thinking, working knowledge of distributed systems, and familiarity with common design patterns.
+* Proficiency in Linux, NoSQL databases, strong debugging skills, and experience with tools such as memory profilers.
+* Knowledge of Diameter, REST, SOAP, and background in Analysis, Design, Development, Unit \\& Functional Testing.
+
+
+**Good to have:**
+* Telecom domain knowledge: 3G/4G/5G Core Network elements and understanding of Online Charging System (OCS).
+* Exposure to Cloud Native technologies, including Kubernetes, and Agile development methodologies.
+
+
+**About Us**
+**Advancing connectivity to secure a brighter world.**
+ Nokia is a global leader in connectivity for the AI era. With expertise across fixed, mobile and transport networks, powered by the innovation of Nokia Bell Labs, we’re advancing connectivity to secure a brighter world.
    
 
   
 
- Team player with experience of working in teams spread in multiple locations.
+ Learn more about life at Nokia .
    
 
   
 
- Excellent written and verbal communication skills
+**Our recruitment process**
+ We act inclusively and respect the uniqueness of people. Our employment decisions are made regardless of race, color, national or ethnic origin, religion, gender, sexual orientation, gender identity or expression, age, marital status, disability, protected veteran status or other characteristics protected by law. We are committed to a culture of inclusion built upon our core value of respect.
    
 
   
 
- Experience with JavaScript and either Angular or React JS frame work is a plus
+ If you’re interested in this role but don’t meet every listed requirement, we still encourage you to apply. Unique backgrounds, perspectives, and experiences enrich our teams, and you may be just the right candidate for this or another opportunity.
    
 
   
 
- Experience with Oracle Forms is a plus.
+ The length of the recruitment process may vary depending on the specific role's requirements. We strive to ensure a smooth and inclusive experience for all candidates. Discover more about the recruitment process at Nokia .","IT Services and IT Consulting and Telecommunications","https://fi.linkedin.com/company/nokia","https://media.licdn.com/dms/image/v2/D4E0BAQE_ff-lEcAC5w/company-logo_100_100/B4EZqby_U_HgAQ-/0/1763550426950/nokia_logo?e=2147483647&v=beta&t=qxtoTn57D4TyVa7Or6EcSCx-lBK1o3cVYD71ukfu5Q0","","","","","","","","","","",""
+"li-4329709585","linkedin","https://www.linkedin.com/jobs/view/4329709585","https://tekmindz.keka.com/careers/jobdetails/719&urlHash=3B1b","Java - SSE/TL","Samin TekMindz","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
+**About TekMindz :**
+ TekMindz is a pioneer with an innovative mindset working in
+ **Green IT, Sustainability, Cleantech, E\\-Mobility, EV Charging \\& Renewable Energy Domain** 
+ . Being a market leader in these domains, TekMindz is working for next big $1 Trillion market where a lot of market traction seen from automotive companies
+ **like Tesla, Volkswagen, Audi, BMW, Mercedes Benz, Volvo, Nissan** 
+ \\& energy giants like
+ **Shell, BP, Total Energy, Reliance** 
+ \\& many more.
    
 
   
 
- Agile/ Scrum methodology
+ We are playing our role responsibly to fight for noble cause, being the core of this
+ **clean energy** 
+ revolution driven by innovation. We make significant investments in
+ **cutting edge technologies** 
+ like
+ **microservices, serverless architecture, cloud computing, devops, responsive technologies, native mobile development** 
+ to deliver out of the box solutions to our clients.
    
 
   
 
- Shell Programming (C\\-shell, KORN Shell) and PERL
+ For more than a decade, TekMindz has led the way by staying at the forefront of adopting emerging and Disrupting technologies.
    
 
   
 
- This job description is not intended to be an exhaustive list of all duties, responsibilities and qualifications of the job. The employer has the right to revise this job description at any time. You will be evaluated in part based on your performance of the responsibilities and/or tasks listed in this job description. You may be required perform other duties that are not included on this job description. The job description is not a contract for employment, and either you or the employer may terminate employment at any time, for any reason, as per terms and conditions of your employment contract.
-   
-
-  
-
- We are an equal opportunity employer with a commitment to diversity. All individuals, regardless of personal characteristics, are encouraged to apply. All qualified applicants will receive consideration for employment without regard to age, race, color, national origin, ancestry, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, religion, physical or mental disability, military or veteran status, genetic information, or any other status protected by applicable state or local law.","Financial Services","https://in.linkedin.com/company/empower-india","https://media.licdn.com/dms/image/v2/C560BAQETBZSIS5vqqw/company-logo_100_100/company-logo_100_100/0/1657569254292/empower_india_logo?e=2147483647&v=beta&t=9zSjkk6FyT7_5hKKz1NzqRuXBNZio4MR0dqLNcGDlHE","","","","","","","","","","",""
-"li-4350839741","linkedin","https://www.linkedin.com/jobs/view/4350839741","","Senior Software Engineer - Search","Databricks","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","P\\-926
-   
-
-  
-
- The Applied AI team at Databricks sits at the forefront of advancing AI/ML\\-powered products. Databricks’ customers are continuously creating new assets (tables, notebooks, dashboards, datarooms, pipelines, sql queries, ml models etc.) on the platform. Finding an asset is a critical user journey for Databricks’ customers which helps them accomplish their tasks.
-   
-
-  
-
- As our Search product continues to evolve, we are seeking multiple
- **ML Engineers from junior levels to more senior levels** 
- to drive enhancements to our Search Quality. In 2026, we will focus on enhancing
- **search ranking, improving query understanding, building robust evals** 
- and growing the coverage of assets to enable seamless search at scale.
+**Job Summary**
+ We are looking for a skilled and experienced Java Developer with 3–8 years of hands\\-on experience in Java development, particularly with the spring ecosystem, JPA, and Hibernate. The ideal candidate should be passionate about building scalable and high\\-performance applications, with strong problem\\-solving skills and attention to detail.
    
 
   
 
 **Key Responsibilities**
-* Drive the development and deployment of ML based search and discovery relevance models and systems integrated with Databricks' products and services.
-* Design and implement automated ML and NLP pipelines for data preprocessing, query understanding and rewrite, ranking and retrieval, and model evaluation, enabling rapid experimentation and iteration.
-* Collaborate with product managers and cross\\-functional teams to drive technology\\-first initiatives that enable novel business strategies and product roadmaps for the search and discovery experience.
-* Contribute to building a robust framework for evaluating search ranking improvements \\- both offline and online.
+* Design, develop, test, and maintain Java\\-based enterprise applications using Spring Boot, JPA, and Hibernate.
+* Participate in the full software development lifecycle – from requirements gathering to deployment and support.
+* Develop RESTful APIs and integrate with external systems and services.
+* Work with relational databases (such as MySQL, PostgreSQL, or Oracle) and write optimized JPA/Hibernate queries.
+* Apply best practices in software design and development.
+* Collaborate with cross\\-functional teams including QA, DevOps, and Product Management.
+* Perform code reviews, identify bottlenecks, and suggest performance improvements.
+* Troubleshoot and debug applications to resolve production issues quickly.
 
 
-**What We’re Looking For**
-* BS\\+ (M.S. or PhD preferred) in Computer Science, or a related field.
-* 5\\+ years experience developing search relevance systems at scale in production or in high\\-impact research environments.
-* Experience applying LLM to search relevance
-* Experience in one or more of the following:
-+ Query understanding
-+ NLP
-+ Text mining
-+ Recommendations
-+ Personalization
-+ Discovery
-+ Conversational AI
-
-* Strong understanding of computer science fundamentals.
-* Contributions to well\\-used open\\-source projects.
+**Required Skills \\& Qualifications**
+* 3 to 8 years of strong hands\\-on experience in Java (Java 8 or later).
+* In\\-depth knowledge of Spring Framework (Spring Core, Spring Boot, Spring Data JPA).
+* Extensive experience with JPA and Hibernate ORM.
+* Solid understanding of relational databases, SQL, and performance tuning.
+* Experience in building and consuming RESTful APIs.
+* Knowledge of unit testing frameworks like JUnit, Mockito.
+* Familiarity with version control systems like Git.
+* Understanding of Agile/Scrum methodologies.
 
 
-**Why Join Us?**
- At Databricks, we are building state\\-of\\-the\\-art AI solutions that redefine how users interact with data and our products. You’ll have the opportunity to shape the future of AI\\-driven products at Databricks, work with cutting\\-edge models, and collaborate with a world\\-class team of AI and ML experts.
-   
+**Nice To Have**
+* Experience with cloud platforms (AWS, Azure, GCP).
+* Familiarity with CI/CD pipelines and DevOps practices.
+* Knowledge of containerization tools like Docker.
+* Front\\-end experience (Angular/React) is a plus","IT Services and IT Consulting","https://in.linkedin.com/company/samintekmindz","https://media.licdn.com/dms/image/v2/C4D0BAQHJUjafhCjjug/company-logo_100_100/company-logo_100_100/0/1673333579289/samin_tekmindz_india_pvt_ltd_logo?e=2147483647&v=beta&t=p3vZFzmY4LaLmcm6DNUgNtK70TBH7sezQbvXAaZ20y4","","","","","","","","","","",""
+"li-4329649964","linkedin","https://www.linkedin.com/jobs/view/4329649964","","Founding SWE","Spotlight","","","parttime","","","","","",True,"entry level","Engineering and Information Technology","","","**WHAT IS SPOTLIGHT ?** 
 
-  
 
- If you're excited about pushing the boundaries of AI in real\\-world applications, we’d love to hear from you!
-   
 
-  
 
-**About Databricks**
- Databricks is the data and AI company. More than 10,000 organizations worldwide — including Comcast, Condé Nast, Grammarly, and over 50% of the Fortune 500 — rely on the Databricks Data Intelligence Platform to unify and democratize data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe and was founded by the original creators of Lakehouse, Apache Spark™, Delta Lake and MLflow. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
-   
+ Spotlight is an AI\\-powered lifestyle discovery and booking platform designed to simplify how people plan their going out experiences. By leveraging intelligent recommendations, Spotlight enables users to articulate their preferences in natural language, after which the platform seamlessly manages discovery and booking across movies, events, dining, and stays. bringing multiple experiences together through a single, unified workflow.
+ 
 
-  
 
-**Benefits**
- At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region, please visit https://www.mybenefitsnow.com/databricks.
-   
+
+ \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ 
+
+
 
   
 
-**Our Commitment to Diversity and Inclusion**
- At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio\\-economic status, veteran status, and other protected characteristics.
-   
+
+
+
+
+**WHAT WILL YOU BE DOING ?** 
+
+
+
+
+ As the Founding Software Engineer (SWE) you will be responsible for designing, developing, testing, and maintaining back\\-end systems and software. Day\\-to\\-day tasks include implementing scalable solutions, writing and debugging code, collaborating with the leadership team to architect the product, and ensuring reliable system performance for end\\-users.
+ 
+
+
 
   
 
-**Compliance**
-**If access to export\\-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.**","Software Development","https://www.linkedin.com/company/databricks","https://media.licdn.com/dms/image/v2/D560BAQFPIRKiPVETuw/company-logo_100_100/company-logo_100_100/0/1697215766274?e=2147483647&v=beta&t=K5mi1ouCxRu2wpiCv1XfYxu29YGccouH7wYiGiXNNpQ","","","","","","","","","","",""
-"li-4350477339","linkedin","https://www.linkedin.com/jobs/view/4350477339","","Senior Software Engineer .Net","Empower India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Our vision for the future is based on the idea that transforming financial lives starts by giving our people the freedom to transform their own. We have a flexible work environment, and fluid career paths. We not only encourage but celebrate internal mobility. We also recognize the importance of purpose, well\\-being, and work\\-life balance. Within Empower and our communities, we work hard to create a welcoming and inclusive environment, and our associates dedicate thousands of hours to volunteering for causes that matter most to them.
-   
+
+
+
+
+**WHAT’S IN IT FOR YOU ?** 
+
+
+
+* A front\\-row seat in an exciting, fast\\-growing start\\-up.
+* The opportunity to develop your position and responsibilities as Spotlight grows
+
+
 
   
 
- Chart your own path and grow your career while helping more customers achieve financial freedom. Empower Yourself.
-   
-
-  
-
-**Sr Software Engineer \\- .NET**
-**Job Summary**
- As a core member of our Non\\-Qualified Deferred Compensation (NQ) team, you will support, maintain, and enhance our critical recordkeeping and client\\-facing applications that support our important customers. Additionally, you will have the opportunity to support and maintain our cloud\\-based infrastructure and ensure servers are running as expected and optimized for cost and performance.
-   
-
-  
-
- In this rapid paced environment, you must possess a ""can\\-do"" attitude while demonstrating a strong work ethic. You will leverage your technical skills in a variety of ways to fix issues, upgrade system components, enhance functionality, improve system performance, etc. using a variety of tools, methods, \\& frameworks. You should enjoy solving complex problems and working independently, as well as, with our IT team and business partners.
-   
-
-  
-
-**Requirements**
-* 5\\+ years developing solutions involving the following technologies: C\\#, VB.NET, Web API, MVC, Oracle or other SQL, .NET Core, JavaScript, CSS, and HTML.
-* Experience with one or more of the following technologies is a plus: Web API (JSON/XML), RESTful architectures, AWS API Gateway, Python and Lambda.
-* Good experience with Windows and IIS configurations and setup, as well as remediating server and application vulnerabilities.
-* Experience with jQuery and Angular or React JS framework is a plus.
-* Experience with modern deployment models using Jenkins, Azure DevOps or other CI/CD pipelines.
-* Proficient with source code version control such as GitHub, GitLab, BitBucket or Azure DevOps
-* 2\\+ years of strong SQL knowledge on Oracle or other databases including writing stored procedures.
-* Experience on the AWS platform and services and other cloud products a plus.
-* Knowledge of modern Software Development Life Cycle (SDLC) and the agile methodology.
-* Excellent written and verbal skills and ability to influence and build relationships at all levels of the organization.
-* Detail oriented, self\\-starter with strong organizational skills to multitask and ability to work independently or as part of a team.
-* Enthusiasm to work and learn in a team environment with experience of working in teams spread across multiple locations.
-* Able to work under pressure to meet tight deadlines while remaining professional and courteous.
-* Able to keep knowledge up to date in the appropriate technical and business\\-related areas.
-* Collaborates with colleagues regarding development best practices and/or application issues.
-* Excellent attention to detail with strong analytical and problem\\-solving skills.
 
 
-**Education**
-* Bachelor’s Degree in Computer Science or related field (Information Systems, Mathematics, Software Engineering)
 
 
-**Other Preferred Qualifications**
-* Familiar with DevOps principles and practices.
-* Comfortable with Linux, UNIX, or Windows based OS.
-* 5\\+ years of experience within a financial or other highly regulated industry.
-* Preferred work experience using JIRA in Agile or related development methodologies.
-* Delivers internal and external customer service excellence. Exhibits listening, patience, empathy, authenticity, pro\\-activity, and perseverance with our business partners.
-* Upholds commitment to delivering optimal solutions, in a timely manner, and balances customer needs with the best interests of the organization.
-* Collaboration across teams including Analysts, Testers, Business, and third\\-party integrators in reviewing, evaluating, designing, and implementing solutions.
+**REQUIREMENTS:** 
 
 
-**Physical Requirements/Working Conditions**
-* Key team members are spread out across the United States, so hours may extend to 9:30 PM IST or beyond from day to day.
-* Occasionally, support may be required outside the normal M\\-F schedule.
 
-
- We are an equal opportunity employer with a commitment to diversity. All individuals, regardless of personal characteristics, are encouraged to apply. All qualified applicants will receive consideration for employment without regard to age, race, color, national origin, ancestry, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, religion, physical or mental disability, military or veteran status, genetic information, or any other status protected by applicable state or local law.","Financial Services","https://in.linkedin.com/company/empower-india","https://media.licdn.com/dms/image/v2/C560BAQETBZSIS5vqqw/company-logo_100_100/company-logo_100_100/0/1657569254292/empower_india_logo?e=2147483647&v=beta&t=9zSjkk6FyT7_5hKKz1NzqRuXBNZio4MR0dqLNcGDlHE","","","","","","","","","","",""
-"li-4329659773","linkedin","https://www.linkedin.com/jobs/view/4329659773","","GenAI Developer","Infosys","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Job Responsibilities: \\* Design, develop, and deploy AI models and systems using Python, Gen AI, Agentic AI, and other relevant technologies \\* Collaborate with cross\\-functional teams to identify business problems and develop AI\\-powered solutions \\* Work with large datasets to train and test AI models, and optimize their performance \\* Apply Prompt Engineering techniques to improve the overall performance of the AI systems \\* Troubleshoot and debug AI systems to ensure optimal performance and reliability \\* Provide technical guidance and expertise to ensure high\\-quality deliverables \\* Collaborate with the cross functional teams \\* Participate in code reviews and contribute to the improvement of the overall code quality
+* Strong foundation in Computer Science principles and concepts
+* Proficiency in Back\\-End Web Development and Software Development
+* Experience in Programming and Object\\-Oriented Programming (OOP)
+* Proactive problem\\-solving skills and ability to optimize performance in back\\-end systems
+* Ability to work effectively in a remote and dynamic startup environment
+* Bachelor's degree or current study toward a degree in Computer Science or a related technical field
+* Familiarity with cloud computing and deployment platforms is a plus
+* Passion for building innovative solutions and a strong sense of ownership","Internet Marketplace Platforms","https://in.linkedin.com/company/spotlightnow","https://media.licdn.com/dms/image/v2/D560BAQEPi4Z0k284cQ/company-logo_100_100/B56Zt1n0H9JgAQ-/0/1767204930783?e=2147483647&v=beta&t=xmQ9LwZzP8BCPztcEo_2Y9Y1t7eWGalUo5Ix_IExuVc","","","","","","","","","","",""
+"li-4329659773","linkedin","https://www.linkedin.com/jobs/view/4329659773","https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-235371&sourceId=4003&urlHash=0rK4","GenAI Developer","Infosys","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Job Responsibilities: \\* Design, develop, and deploy AI models and systems using Python, Gen AI, Agentic AI, and other relevant technologies \\* Collaborate with cross\\-functional teams to identify business problems and develop AI\\-powered solutions \\* Work with large datasets to train and test AI models, and optimize their performance \\* Apply Prompt Engineering techniques to improve the overall performance of the AI systems \\* Troubleshoot and debug AI systems to ensure optimal performance and reliability \\* Provide technical guidance and expertise to ensure high\\-quality deliverables \\* Collaborate with the cross functional teams \\* Participate in code reviews and contribute to the improvement of the overall code quality
    
 
   
@@ -974,157 +1591,154 @@
 * You will participate in project estimation, provide inputs for solution delivery, conduct technical risk planning, perform code reviews and unit test plan reviews.
 * You will lead and guide your teams towards developing optimized high quality code deliverables, continual knowledge management and adherence to the organizational guidelines and processes.
 * You would be a key contributor to building efficient programs/ systems and if you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! Preferred Qualifications: \\* Certification in AI or a related field, such as Certified Data Scientist or Certified AI Engineer \\* Experience with other AI frameworks and technologies, such as TensorFlow, PyTorch, or Keras \\* Familiarity with containerization using Docker and Kubernetes \\* Experience with agile development methodologies and version control systems, such as Git \\* Strong understanding of software design patterns, principles, and best practices \\* Experience with DevOps practices, such as continuous integration and continuous deployment \\* Knowledge of cloud computing platforms, such as Azure / GCP / AWS","IT Services and IT Consulting","https://in.linkedin.com/company/infosys","https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I","","","","","","","","","","",""
-"li-4350646475","linkedin","https://www.linkedin.com/jobs/view/4350646475","","Lead Software Engineer - .Net","Empower India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Our vision for the future is based on the idea that transforming financial lives starts by giving our people the freedom to transform their own. We have a flexible work environment, and fluid career paths. We not only encourage but celebrate internal mobility. We also recognize the importance of purpose, well\\-being, and work\\-life balance. Within Empower and our communities, we work hard to create a welcoming and inclusive environment, and our associates dedicate thousands of hours to volunteering for causes that matter most to them.
-   
-
-  
-
- Chart your own path and grow your career while helping more customers achieve financial freedom. Empower Yourself.
-   
-
-  
-
-**Lead Software Engineer \\- .NET**
+"li-4329649994","linkedin","https://www.linkedin.com/jobs/view/4329649994","","Fresher's Hiring","Samin TekMindz","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"internship","Education and Training","","","**Job Title: Software Engineer / Trainee (AI Exposure)**
 **Job Summary**
- As a core member of our Non\\-Qualified Deferred Compensation (NQ) team, you will support, maintain, and enhance our critical recordkeeping and client\\-facing applications that support our important customers. Additionally, you will have the opportunity to support and maintain our cloud\\-based infrastructure and ensure servers are running as expected and optimized for cost and performance.
+ We are looking for passionate and self\\-driven freshers with a strong foundation in
+ **Data Structures, Java, JavaScript, and React.js** 
+ , along with basic
+ **exposure to Artificial Intelligence (AI) or Machine Learning (ML)** 
+ concepts. The role involves contributing to both frontend and backend development while exploring AI\\-powered features and integrations in web applications.
    
 
   
 
- In this rapid paced environment, you must possess a ""can\\-do"" attitude while demonstrating a strong work ethic. You will leverage your technical skills in a variety of ways to fix issues, upgrade system components, enhance functionality, improve system performance, etc. using a variety of tools, methods, \\& frameworks. You should enjoy solving complex problems and working independently, as well as, with our IT team and business partners.
+**Key Responsibilities**
+* Design, develop, and maintain scalable web applications using Java, JavaScript, and React.js.
+* Collaborate with cross\\-functional teams to define, design, and deliver new features.
+* Write clean, maintainable, and efficient code following industry best practices.
+* Apply Data Structures and Algorithms for optimized performance and problem\\-solving.
+* Contribute to the integration of AI\\-based features such as chatbots, recommendation engines, or automation tools.
+* Assist in testing, debugging, and deploying applications.
+* Stay updated with emerging technologies, particularly in AI/ML and web development.
+
+
+**Required Skills \\& Competencies**
+* Strong understanding of Data Structures and Algorithms (DSA).
+* Proficiency in Core Java (OOPs concepts, collections, exception handling, multithreading, etc.).
+* Good knowledge of JavaScript, HTML, CSS, and React.js framework.
+* Basic understanding of AI/ML concepts (e.g., Python basics, APIs for AI models, ChatGPT/OpenAI, TensorFlow, or similar).
+* Familiarity with RESTful APIs and client\\-server architecture.
+* Exposure to Git/GitHub for version control.
+* Strong problem\\-solving, analytical, and communication skills.
+
+
+**Good To Have (Optional)**
+* Knowledge of Spring Boot, Node.js, or Express.js.
+* Basic understanding of Machine Learning workflows or AI model integration.
+* Experience with databases like MySQL, MongoDB, or PostgreSQL.
+* Awareness of cloud platforms (AWS, Azure, GCP) or AI APIs.
+
+
+**Qualification**
+* B.E / B.Tech / M.Tech / MCA in Computer Science, Information Technology, AI, or related fields.","IT Services and IT Consulting","https://in.linkedin.com/company/samintekmindz","https://media.licdn.com/dms/image/v2/C4D0BAQHJUjafhCjjug/company-logo_100_100/company-logo_100_100/0/1673333579289/samin_tekmindz_india_pvt_ltd_logo?e=2147483647&v=beta&t=p3vZFzmY4LaLmcm6DNUgNtK70TBH7sezQbvXAaZ20y4","","","","","","","","","","",""
+"li-4346815562","linkedin","https://www.linkedin.com/jobs/view/4346815562","","Software Engineer III - Java","JPMorganChase","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Job Description**
+ We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.
    
 
   
 
-**Requirements**
-* 7\\+ years developing solutions involving the following technologies: C\\#, VB.NET, Web API, MVC, Oracle or other SQL, .NET Core, JavaScript, CSS, and HTML.
-* Experience with one or more of the following technologies is a plus: Web API (JSON/XML), RESTful architectures, AWS API Gateway, Python and Lambda.
-* Good experience with Windows and IIS configurations and setup, as well as remediating server and application vulnerabilities.
-* Experience with jQuery and Angular or React JS framework is a plus.
-* Experience with modern deployment models using Jenkins, Azure DevOps or other CI/CD pipelines.
-* Proficient with source code version control such as GitHub, GitLab, BitBucket or Azure DevOps
-* 4\\+ years of strong SQL knowledge on Oracle or other databases including writing stored procedures.
-* Experience on the AWS platform and services and other cloud products a plus.
-* Knowledge of modern Software Development Life Cycle (SDLC) and the agile methodology.
-* Excellent written and verbal skills and ability to influence and build relationships at all levels of the organization.
-* Detail oriented, self\\-starter with strong organizational skills to multitask and ability to work independently or as part of a team.
-* Enthusiasm to work and learn in a team environment with experience of working in teams spread across multiple locations.
-* Able to work under pressure to meet tight deadlines while remaining professional and courteous.
-* Able to keep knowledge up to date in the appropriate technical and business\\-related areas.
-* Collaborates with colleagues regarding development best practices and/or application issues.
-* Excellent attention to detail with strong analytical and problem\\-solving skills.
-
-
-**Education**
-* Bachelor’s Degree in Computer Science or related field (Information Systems, Mathematics, Software Engineering)
-
-
-**Other Preferred Qualifications**
-* Familiar with DevOps principles and practices.
-* Comfortable with Linux, UNIX, or Windows based OS.
-* 2\\+ years of experience within a financial or other highly regulated industry.
-* Preferred work experience using JIRA in Agile or related development methodologies.
-* Delivers internal and external customer service excellence. Exhibits listening, patience, empathy, authenticity, pro\\-activity, and perseverance with our business partners.
-* Upholds commitment to delivering optimal solutions, in a timely manner, and balances customer needs with the best interests of the organization.
-* Collaboration across teams including Analysts, Testers, Business, and third\\-party integrators in reviewing, evaluating, designing, and implementing solutions.
-
-
-**Physical Requirements/Working Conditions**
-* Key team members are spread out across the United States, so hours may extend to 9:30 PM IST or beyond from day to day.
-* Occasionally, support may be required outside the normal M\\-F schedule.
-
-
- We are an equal opportunity employer with a commitment to diversity. All individuals, regardless of personal characteristics, are encouraged to apply. All qualified applicants will receive consideration for employment without regard to age, race, color, national origin, ancestry, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, religion, physical or mental disability, military or veteran status, genetic information, or any other status protected by applicable state or local law.","Financial Services","https://in.linkedin.com/company/empower-india","https://media.licdn.com/dms/image/v2/C560BAQETBZSIS5vqqw/company-logo_100_100/company-logo_100_100/0/1657569254292/empower_india_logo?e=2147483647&v=beta&t=9zSjkk6FyT7_5hKKz1NzqRuXBNZio4MR0dqLNcGDlHE","","","","","","","","","","",""
-"li-4346707866","linkedin","https://www.linkedin.com/jobs/view/4346707866","","Position Details: Software Engineer - Angular The Opportunity: Transform Procurement for Global Enterprises! Role Overv","Instant Systems, Inc.","Gautam Buddha Nagar, Uttar Pradesh, India","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","careers@instantsys.com","**Position Details**
-**Software Engineer \\- Angular**
-**Location:** 
- Noida, Uttar Pradesh
+ As a Software Engineer III at JPMorgan Chase within the Asset \\& Wealth Management, you serve as a seasoned member of an agile team to design and deliver trusted market\\-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives.
    
 
   
 
-**Openings:** 
- 1
+**Job Responsibilities**
+* Executes software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems
+* Creates secure and high\\-quality production code and maintains algorithms that run synchronously with appropriate systems
+* Produces architecture and design artifacts for complex applications while being accountable for ensuring design constraints are met by software code development
+* Gathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets in service of continuous improvement of software applications and systems
+* Proactively identifies hidden problems and patterns in data and uses these insights to drive improvements to coding hygiene and system architecture
+* Contributes to software engineering communities of practice and events that explore new and emerging technologies
+
+
+**Required Qualifications, Capabilities, And Skills**
+* Formal training or certification on software engineering concepts and 3\\+ years applied experience
+* Hands\\-on practical experience in system design, application development, testing, and operational stability
+* Proficient in coding in one or more languages
+* Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages
+* Overall knowledge of the Software Development Life Cycle
+* Solid understanding of agile methodologies such as CI/CD, Application Resiliency, and Security
+* Demonstrated knowledge of software applications and technical processes within a technical discipline (e.g., cloud, artificial intelligence, machine learning, mobile, etc.)
+
+
+**Preferred Qualifications, Capabilities, And Skills**
+* Familiarity with modern front\\-end technologies
+* Exposure to cloud technologies
+
+
+**ABOUT US**","Financial Services","https://www.linkedin.com/company/jpmorganchase","https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI","","","","","","","","","","",""
+"li-4346834004","linkedin","https://www.linkedin.com/jobs/view/4346834004","","Software Engineer II -Java/Python, UI, AWS","JPMorganChase","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Job Description**
+ You’re ready to gain the skills and experience needed to grow within your role and advance your career — and we have the perfect software engineering opportunity for you.
    
 
   
 
-**Salary Range:** 
-**Description:**
-**Job Title:** 
- UI/UX Developer
+ As a Software Engineer II at JPMorgan Chase within the Commercial \\& Investment Bank's Risk Central Tech team, you are part of an agile team that works to enhance, design, and deliver the software components of the firm’s state\\-of\\-the\\-art technology products in a secure, stable, and scalable way. As an emerging member of a software engineering team, you execute software solutions through the design, development, and technical troubleshooting of multiple components within a technical product, application, or system, while gaining the skills and experience needed to grow within your role.
    
 
   
 
-**The Opportunity:** 
- Transform Procurement for Global Enterprises! Are you ready to be part of a platform that is redefining how organizations manage their spending? At Proactis, youll contribute to a world\\-class procurement and spend\\-management solution used by leading enterprises across the globe.
-   
-
-  
-
- Proactis empowers organizations to streamline purchasing, sourcing, supplier management, contract workflows, and invoicingall in one integrated platform. With full spend visibility, process automation, and risk reduction, our solution enables businesses to eliminate waste, control costs, and enhance operational efficiency at every step. Serving 3 million users in 100 countries and trusted by 1,000 enterprise clients, Proactis gives companies the tools to manage complex procurement operations with confidence.
-   
-
-  
-
- Join us in building technology that drives smarter decision\\-making, scalability, and measurable business impact for organizations worldwide. Visit our website at Proactis to learn more.
-   
-
-  
-
-**Role Overview**
- We are looking for a talented UI/UX Developer who can design and build intuitive, high\\-quality user interfaces using Angular and Tailwind CSS. This role involves working closely with product, design, and engineering teams to translate ideas into seamless, engaging user experiences. The ideal candidate is detail\\-oriented, deeply understands UI/UX principles, and can bring design concepts from Figma into production\\-ready interfaces with precision and creativity.
-   
-
-  
-
- This is an opportunity to shape a product used by leading enterprises in 100 countries, helping businesses eliminate waste, reduce risk, and drive operational efficiency through modern, intelligent digital procurement.
-   
-
-  
-
-**What Youll Do**
-* Build engaging, responsive user interfaces using modern front\\-end technologies aligned with enterprise UX standards.
-* Collaborate with product managers, designers, and engineering teams to translate complex procurement workflows into intuitive UI/UX experiences.
-* Convert Figma prototypes into clean, scalable, production\\-ready UI components.
-* Ensure accessibility, consistency, and performance across the platforms user journeys.
-* Implement reusable UI components, design systems, and interaction patterns that support global enterprise users.
-* Participate in research, design reviews, and UX improvements to enhance usability and reduce friction across sourcing, purchasing, contract, and invoicing modules.
-* Optimize front\\-end code for speed, scalability, and maintainability.
-* Stay updated with UI/UX trends and bring innovative ideas to elevate the product experience.
+**Job Responsibilities**
+* Executes creative software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems
+* Develop data quality rules and controls for data.
+* Provide Level 3 (L3\\) support for production systems, addressing complex issues and ensuring high availability and reliability.
+* Support BAU (Business As Usual) operations for Markets businesses, leveraging previous experience in similar environments.
+* Execute software solutions, design, development, and technical troubleshooting, with the ability to think beyond routine approaches to build solutions or break down technical problems.
+* Create secure and high\\-quality production code and maintain algorithms that run synchronously with appropriate systems.
+* Produce architecture and design artifacts for complex applications, ensuring design constraints are met during software code development.
+* Gather, analyze, synthesize, and develop visualizations and reporting from large, diverse data sets to drive continuous improvement of software applications and systems.
+* Proactively identify hidden problems and patterns in data, using these insights to drive improvements and optimizations in code and system architecture.
 
 
-**Who You Are:**
-* 23 years of experience as a UI/UX Developer or Frontend Engineer, ideally within a SaaS or enterprise product environment.
-* Strong expertise in Angular and Tailwind CSS, with a deep understanding of component\\-driven development.
-* Solid experience of UX principles, interaction design, and responsive interfaces.
-* Hands\\-on experience working with Figma for design interpretation, prototyping, and asset extraction.
-* Knowledge of Angular Material, Material UI, or Angular CDK is a plus.
-* Ability to work collaboratively with cross\\-functional teams and translate complex workflows into simple, efficient UI experiences.
-* Detail\\-oriented, creative, and passionate about designing for usability, clarity, and user delight.
-* Strong communication, ownership mindset, and ability to deliver in a fast\\-paced product environment.
+**Required Qualifications, Capabilities, And Skills**
+* Formal training or certification on software engineering concepts and 2\\+ years applied experience
+* Strong coding skills in Java / Python, SQL.
+* Experience in ReactJS/JavaScript
+* Solid understanding of data structures, algorithms, and object\\-oriented programming.
+* Hands\\-on experience with AWS services and cloud data management, including Redshift, DynamoDB, Aurora, and Databricks.
+* Proficiency in automation, CI/CD, and agile methodologies.
+* Experience in system design, application development, and operational stability.
+* Strong analytical, problem\\-solving, and communication skills.
+* Experience with Unix/Linux and shell scripting.
+* Provide Level 3 (L3\\) support for production systems and support BAU operations for Markets businesses.
+* Understanding of data modeling challenges in big data environments.
 
 
-**More About Instant Systems Inc.:**
- Were a Silicon Valley\\-based company with offices in Noida. We find bright startups, invest in these companies, help them establish competent product engineering teams, and apply tools and methods for effective technology and program management. You are being interviewed as a candidate to join our team and help many of our ventures or specifically hired for one. Learn more at Instant Systems
-   
-
-  
-
- Joining Instant Systems Means Becoming Part Of a Dynamic Team Where Your Ideas Are Valued, And Your Contributions Make a Real Impact. Here's What You Can Expect From Life At Instant Systems
-   
-
-  
-
-* You'll collaborate with talented individuals on innovative projects that push technological boundaries.
-* We prioritize your career growth with mentorship, training, and access to cutting\\-edge tools.
-* Enjoy flexibility with remote work options for better work\\-life balance.
-* We embrace diversity, ensuring every voice is heard and respected in our inclusive workplace.
-
-
-**Equal Employment Opportunity Statements:**
- The policy of Instant Systems is to extend opportunities to qualified applicants and employees on an equal basis regardless of an individual's age, race, color, sex, religion, national origin, disability, sexual orientation, gender identity/expression, or veteran status. Additionally, Instant Systems is committed to being an Equal Employment Opportunity (EEO) employer and offers opportunities to all job seekers, including individuals with disabilities. If you need reasonable accommodation to assist with your job search or application for employment, email us at careers@instantsys.com. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.","Staffing and Recruiting","https://www.linkedin.com/company/instant-systems-inc","https://media.licdn.com/dms/image/v2/D4E0BAQGYRbd3lgyRyQ/company-logo_100_100/B4EZVLSoLlHgAY-/0/1740724929714/instant_systems_inc_logo?e=2147483647&v=beta&t=IPvxxIFrTLrdxkBA36WaVEhuy2jKOHlqsrlVf0PdLPU","","","","","","","","","","",""
+**Preferred Qualifications, Capabilities, And Skills**
+* Knowledge of financial data and front office investment banking.
+* Experience developing APIs and foundational components.
+* Strong SDLC mindset and familiarity with agile paradigms.
+* Experience within DevOps, Infrastructure design, and transformation roles.
+* Comfortable working across different platforms and languages","Financial Services","https://www.linkedin.com/company/jpmorganchase","https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI","","","","","","","","","","",""
+"li-4329719506","linkedin","https://www.linkedin.com/jobs/view/4329719506","https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-235276&sourceId=4003&urlHash=9KD2",".Net Core Lead","Infosys","Pune, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Other","","","* Primary skills:Technology\\-\\>Microsoft Technologies\\-\\>.NET Frameworks
+* Analyzing user requirements, envisioning system features and functionality.
+* Design, build, and maintain efficient, reusable, and reliable .Net codes by setting expectations and features priorities throughout development life cycle
+* Identify bottlenecks and bugs, and recommend system solutions by comparing advantages and disadvantages of custom development
+* Contributing to team meetings, troubleshooting development and production problems across multiple environments and operating platforms
+* Understand Architecture Requirements and ensure effective Design, Development, Validation and Support activities
+* You will participate in project estimation, provide inputs for solution delivery, conduct technical risk planning, perform code reviews and unit test plan reviews.
+* You will lead and guide your teams towards developing optimized high quality code deliverables, continual knowledge management and adherence to the organizational guidelines and processes.
+* You would be a key contributor to building efficient programs/ systems and if you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you!
+* Min. 5 years of relevant .Net experience with team handling experience
+* Must have design experience using best practices, Design Patterns, SDLC, OOP, OOD
+* Must have experience in leading and mentoring teams
+* Must be experienced in developing applications using SQL databases, schema, SQL queries
+* Must be experienced in GIT and version control systems
+* Must be skilled in Database constructs, schema design, SQL Server or Oracle, SQL Queries, query optimization.
+* Must be hands\\-on experienced in MSTest or NUnit, Mocking frameworks, Jasmine, Karma, Cucumber
+* Solid understanding of object\\-oriented programming
+* Experience with both external and embedded databases
+* Creating database schemas that represent and support business processes
+* Implementing automated testing platforms and unit tests
+* Knowledge of agile methodologies
+* Understanding of Project life cycle activities on development and maintenance projects
+* Understanding of one or more Estimation methodologies, Knowledge of Quality processes
+* Basics of business domain to understand the business requirements
+* Analytical abilities, Strong Technical Skills, Good communication skills
+* Good understanding of the technology and domain
+* Ability to demonstrate a sound understanding of software quality assurance principles, SOLID design principles and modelling methods
+* Awareness of latest technologies and trends
+* Excellent problem solving, analytical and debugging skills","IT Services and IT Consulting","https://in.linkedin.com/company/infosys","https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I","","","","","","","","","","",""
 "li-4346870657","linkedin","https://www.linkedin.com/jobs/view/4346870657","","Principal Full-stack Engineer","Emma of Torre.ai","","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","I’m helping
  **Helium Technology** 
  find a top candidate to join their team
@@ -1483,168 +2097,140 @@
 
 
  \\* Experience scaling early\\-stage systems without over\\-engineering.","Staffing and Recruiting","https://www.linkedin.com/company/emmaoftorre","https://media.licdn.com/dms/image/v2/D560BAQHHJPlsTIjMIQ/company-logo_100_100/B56ZUvbu3qHQAQ-/0/1740257554392?e=2147483647&v=beta&t=0oUm5vygd2j6mtVRPFxEZB5HpXy85ro0tA8fahuTA_Y","","","","","","","","","","",""
-"li-4329820036","linkedin","https://www.linkedin.com/jobs/view/4329820036","","Principal Software Engineer","Cloudangles","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**The Opportunity** 
-
-
-
-
- Join us as a Principal Software Engineer within our Field Mobile Platform team. You’ll be part of a cross\\-functional group responsible for building, testing, and running platforms that empower field engineers to deliver efficient, compliant, and customer\\-centric service.
- 
-
-
-
- Our field workforce depends on a suite of mobile applications to manage daily workflows across installation, service, and repair for gas, electric, smart metering, and emerging services. Over time, multiple apps and bespoke integrations have led to duplication, inconsistent user experiences, and operational inefficiencies. We are now consolidating and extending our platform to cover new domains, including:
- 
-
-
-* Supply Chain Management
-* Knowledge Management
-* Scheduling \\& Workflow Optimisation
-* Quoting \\& Lead Generation
-* Smart Metering
-
-
-
-  
-
-
-
-
-
-**Key Responsibilities as a Principal Engineer, you will:** 
-
-
-
-* Define and evolve the Field Mobile Platform architecture, ensuring scalability, resilience, and seamless integration with core systems (CRM, ERP, Supply Chain, IoT).
-* Drive the rationalisation of existing field apps into a unified platform, reducing technical debt and cost of ownership.
-* Lead cross\\-domain design decisions across Product, Architecture, and Field Operations to ensure consistent patterns, data models, and integration standards.
-* Partner with business and product leaders to identify and deliver new digital capabilities that enhance efficiency, compliance, and customer experience.
-* Establish engineering best practices in mobile development, CI/CD, testing, and telemetry across multiple delivery teams.
-* Champion performance, offline capability, and security to ensure field reliability and regulatory compliance.
-* Participate in innovation projects and hackathons, both internally and with partners such as Microsoft and Datadog.
-* Influence technical strategy for your team and the wider platform ecosystem.
-* Drive specialist areas such as Security, SRE, and Quality, if you have a passion for these domains.
-
-
-
-  
-
-
-
-
-
-**What We’re Looking For:** 
-
-
-
-* Proven experience shaping and delivering technology strategy.
-* Hands\\-on engineering expertise in at least one programming language (we hire for engineering skill, not specific languages).
-* Strong background in iOS \\& Android mobile app development and technical leadership.
-* Deep knowledge of engineering best practices and continuous delivery.
-* Experience collaborating to improve DevOps capability and contributing to communities of practice.
-* Proactive approach to performance, scalability, and security challenges.
-
-
-
-  
-
-
-
-
-
-**Competencies:** 
-
-
-
-* Effective collaboration with cross\\-functional teams to meet technical and business goals.
-* Advocacy for continuous improvement and a culture of learning and innovation.
-* Excellent communication skills, able to convey complex technical concepts to both technical and non\\-technical stakeholders.
-* Motivation to own platforms and services from inception through continuous improvement.
-* Enjoyment of coaching and mentoring team members in technical and functional areas.","Software Development","https://www.linkedin.com/company/cloudangles","https://media.licdn.com/dms/image/v2/D560BAQGzH2DDroJGFg/company-logo_100_100/B56ZVgiL9wHEAQ-/0/1741081329984/cloudangles_logo?e=2147483647&v=beta&t=t8M9lLwQMzTadcMnH4JdYtQnAwztvUL9060FcA1j604","","","","","","","","","","",""
-"li-4350689936","linkedin","https://www.linkedin.com/jobs/view/4350689936","https://databricks.com/company/careers/open-positions/job?gh_jid=7958982002&gh_src=62a881d62&urlHash=qmVG","Staff Software Engineer , Machine Learning (Search)","Databricks","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","P\\-1408
-   
-
-  
-
-**The Applied AI team at Databricks sits at the forefront of advancing AI/ML\\-powered products** 
- . Databricks’ customers are continuously creating new assets (tables, notebooks, dashboards, datarooms, pipelines, sql queries, ml models etc.) on the platform. Some of them can have hundreds of millions of assets. Finding an asset is a critical user journey for Databricks’ customers which helps them accomplish their tasks.
-   
-
-  
-
- As our Search product continues to evolve, we are seeking a
- **Staff Engineer** 
- to lead enhancements to our Search Quality. In 2025, we will focus on
- **enhancing search ranking, improving query understanding, building robust evals** 
- and growing the coverage of assets to enable seamless search at scale.
+"li-4329840085","linkedin","https://www.linkedin.com/jobs/view/4329840085","https://tekmindz.keka.com/careers/jobdetails/43654&urlHash=F1zf","Automation Test Engineer - Playwright","Samin TekMindz","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Automation Test Engineer**
+ We are looking for a skilled
+ **Automation Test Engineer** 
+ to design, develop, and execute automated test scripts for our applications. The ideal candidate will have strong experience in test automation frameworks, CI/CD integration, and a deep understanding of quality assurance methodologies.
    
 
   
 
 **Key Responsibilities**
-* Drive the development and deployment of ML based search and discovery relevance models and systems integrated with Databricks' products and services.
-* Design and implement automated ML and NLP pipelines for data preprocessing, query understanding and rewrite, ranking and retrieval, and model evaluation, enabling rapid experimentation and iteration.
-* Collaborate with product managers and cross\\-functional teams to drive technology\\-first initiatives that enable novel business strategies and product roadmaps for the search and discovery experience.
-* Contribute to building a robust framework for evaluating search ranking improvements \\- both offline and online.
+* Design, develop, and maintain automation test scripts using tools such as , Locust, JMeter, Playwright, Appium, or similar.
+* Collaborate with developers, business analysts, and QA team members to identify test requirements and define automation strategies.
+* Perform functional, regression, integration, API, and performance testing through automation.
+* Integrate automated tests into CI/CD pipelines (Jenkins, GitLab CI, Azure DevOps, etc.).
+* Analyze test results, identify defects, and work closely with development teams to resolve issues.
+* Maintain test data and environments required for automation.
+* Contribute to improving overall QA processes and best practices.
+* Create test documentation including test plans, reports, and metrics for stakeholders.
 
 
-**What We’re Looking For**
-* BS\\+ (M.S. or PhD preferred) in Computer Science, or a related field.
-* 10\\+ years experience developing search relevance systems at scale in production or in high\\-impact research environments.
-* Experience applying LLM to search relevance
-* Experience in one or more of the following:
-+ Query understanding
-+ NLP
-+ Text mining
-+ Recommendations
-+ Personalization
-+ Discovery
-+ Conversational AI
-
-* Strong understanding of computer science fundamentals.
-* Contributions to well\\-used open\\-source projects.
+**Required Skills \\& Qualifications**
+* Bachelor’s degree in Computer Science, Engineering, or related field.
+* 3–5 years of experience in software testing with a focus on automation.
+* Strong programming/scripting knowledge in Python, JavaScript, or Java.
+* Hands\\-on experience with automation tools/frameworks like Locust, Cypress, Playwright, TestNG, JUnit, Robot Framework, or Appium.
+* Experience in API testing (Postman, REST Assured, etc.).
+* Good understanding of Agile/Scrum methodologies.
+* Familiarity with version control (Git) and CI/CD pipelines.
+* Strong analytical and problem\\-solving skills.
+* Excellent communication and collaboration abilities.
 
 
-**Why Join Us?**
- At Databricks, we are building state\\-of\\-the\\-art AI solutions that redefine how users interact with data and our products. You’ll have the opportunity to shape the future of AI\\-driven products at Databricks, work with cutting\\-edge models, and collaborate with a world\\-class team of AI and ML experts.
+**Good to have**
+* Experience with cloud\\-based testing platforms (e.g., BrowserStack, Sauce Labs).
+* Knowledge of performance testing tools (JMeter, Gatling).
+* Exposure to containerization tools (Docker, Kubernetes).
+* ISTQB or other QA\\-related certification","IT Services and IT Consulting","https://in.linkedin.com/company/samintekmindz","https://media.licdn.com/dms/image/v2/C4D0BAQHJUjafhCjjug/company-logo_100_100/company-logo_100_100/0/1673333579289/samin_tekmindz_india_pvt_ltd_logo?e=2147483647&v=beta&t=p3vZFzmY4LaLmcm6DNUgNtK70TBH7sezQbvXAaZ20y4","","","","","","","","","","",""
+"li-4346649821","linkedin","https://www.linkedin.com/jobs/view/4346649821","","Software Engineer III","JPMorganChase","Hyderabad, Telangana, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Job Description**
+ We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.
    
 
   
 
- If you're excited about pushing the boundaries of AI in real\\-world applications, we’d love to hear from you!
+ As a Software Engineer III at JPMorgan Chase within the Consumer and Community Banking, you will serve as a seasoned member of an agile team, focusing on designing and delivering trusted, market\\-leading technology products in a secure, stable, and scalable manner. You will be responsible for implementing critical technology solutions across multiple technical areas, supporting various business functions to achieve the firm’s business objectives.
    
 
   
 
-**About Databricks**
- Databricks is the data and AI company. More than 10,000 organizations worldwide — including Comcast, Condé Nast, Grammarly, and over 50% of the Fortune 500 — rely on the Databricks Data Intelligence Platform to unify and democratize data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe and was founded by the original creators of Lakehouse, Apache Spark™, Delta Lake and MLflow. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+**Job Responsibilities**
+* Executes software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems
+* Creates secure and high\\-quality production code and maintains algorithms that run synchronously with appropriate systems
+* Produces architecture and design artifacts for complex applications while being accountable for ensuring design constraints are met by software code development
+* Gathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets in service of continuous improvement of software applications and systems
+* Proactively identifies hidden problems and patterns in data and uses these insights to drive improvements to coding hygiene and system architecture
+* Contributes to software engineering communities of practice and events that explore new and emerging technologies
+* Adds to team culture of diversity, opportunity, inclusion, and respect
+
+
+**Required Qualifications, Capabilities, And Skills**
+* Formal training or certification on software engineering concepts and 3\\+ years of applied experience
+* Hands\\-on practical experience in system design, application development, testing, and operational stability
+* Proficient in coding in one or more languages
+* Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages
+* Strong hands on experience in building cloud native applications using Java, Micro Services using Spring Boot/Cloud, Kafka, SQL, RDBS and NoSQL DBs like Cassandra, JUnit, Cucumber
+* Expertise on AWS Cloud, Jenkins, Splunk, Dynatrace, Datadog, Bit Bucket, JIRA, Agile Methodology, Cloud Foundry, Chaos Testing, Performance testing using BlazeMeter
+* Overall knowledge of the Software Development Life Cycle
+* Solid understanding of agile methodologies such as CI/CD, Application Resiliency, and Security
+* Demonstrated knowledge of software applications and technical processes within a technical discipline (e.g., cloud, artificial intelligence, machine learning, mobile, etc.)
+
+
+**Preferred Qualifications, Capabilities, And Skills**
+* Familiarity with modern front\\-end technologies
+* Exposure to cloud technologies
+
+
+**ABOUT US**","Financial Services","https://www.linkedin.com/company/jpmorganchase","https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI","","","","","","","","","","",""
+"li-4350789794","linkedin","https://www.linkedin.com/jobs/view/4350789794","","Senior Software Developer","Nokia","Gurugram, Haryana, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Job Description**
+ As a Senior Software Developer, you will design and develop AI\\-driven, cloud\\-native, microservices\\-based solutions while working within an Agile environment. You will translate customer requirements into technical designs, deliver high\\-quality features, and handle customer issues through effective RCA and defect resolution. You will also contribute ideas, participate in technical discussions, and drive continuous improvement across the product lifecycle.
    
 
   
 
-**Benefits**
- At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region, please visit https://www.mybenefitsnow.com/databricks.
+**How You Will Contribute And What You Will Learn**
+* Analyze, Design, Develop, Test and Deliver Features
+* Understand Customer Requirements, convert them into Technical Requirements, Create High Level and Low\\-Level Design, Coding, Unit testing, Code Reviews, Functional testing
+* Responsible for feature/product quality, on time delivery with expected contents
+* Handling Customer Issues, Supporting Customer Escalations by performing RCAs, Fixing Defects
+* Demonstrate Independence and Raise Innovative Ideas
+* Participate in discussions, stand up meetings, other meetings
+
+
+**Key Skills And Experience**
+**Must have:**
+* A Bachelor’s/ Master’s degree in Engineering or equivalent with 5\\+years of hands\\-on experience in Java development with exposure to IntelliJ, SonarQube, Git, Jenkins, and unit/functional testing.
+* Solid system thinking, working knowledge of distributed systems, and familiarity with common design patterns.
+* Proficiency in Linux, NoSQL databases, strong debugging skills, and experience with tools such as memory profilers.
+* Knowledge of Diameter, REST, SOAP, and background in Analysis, Design, Development, Unit \\& Functional Testing.
+
+
+**Good to have:**
+* Telecom domain knowledge: 3G/4G/5G Core Network elements and understanding of Online Charging System (OCS).
+* Exposure to Cloud Native technologies, including Kubernetes, and Agile development methodologies.
+* Familiarity with AI development/testing tools like Windsurf, Cursor, or Copilot.
+
+
+**About Us**
+**Advancing connectivity to secure a brighter world.**
+ Nokia is a global leader in connectivity for the AI era. With expertise across fixed, mobile and transport networks, powered by the innovation of Nokia Bell Labs, we’re advancing connectivity to secure a brighter world.
    
 
   
 
-**Our Commitment to Diversity and Inclusion**
- At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio\\-economic status, veteran status, and other protected characteristics.
+ Learn more about life at Nokia .
    
 
   
 
-**Compliance**
-**If access to export\\-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.**","Software Development","https://www.linkedin.com/company/databricks","https://media.licdn.com/dms/image/v2/D560BAQFPIRKiPVETuw/company-logo_100_100/company-logo_100_100/0/1697215766274?e=2147483647&v=beta&t=K5mi1ouCxRu2wpiCv1XfYxu29YGccouH7wYiGiXNNpQ","","","","","","","","","","",""
-"li-4329719506","linkedin","https://www.linkedin.com/jobs/view/4329719506","https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-235276&sourceId=4003&urlHash=9KD2",".Net Core Lead","Infosys","Pune, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Other","","","* Primary skills:Technology\\-\\>Microsoft Technologies\\-\\>.NET Frameworks
+**Our recruitment process**
+ We act inclusively and respect the uniqueness of people. Our employment decisions are made regardless of race, color, national or ethnic origin, religion, gender, sexual orientation, gender identity or expression, age, marital status, disability, protected veteran status or other characteristics protected by law. We are committed to a culture of inclusion built upon our core value of respect.
+   
+
+  
+
+ If you’re interested in this role but don’t meet every listed requirement, we still encourage you to apply. Unique backgrounds, perspectives, and experiences enrich our teams, and you may be just the right candidate for this or another opportunity.
+   
+
+  
+
+ The length of the recruitment process may vary depending on the specific role's requirements. We strive to ensure a smooth and inclusive experience for all candidates. Discover more about the recruitment process at Nokia .","IT Services and IT Consulting and Telecommunications","https://fi.linkedin.com/company/nokia","https://media.licdn.com/dms/image/v2/D4E0BAQE_ff-lEcAC5w/company-logo_100_100/B4EZqby_U_HgAQ-/0/1763550426950/nokia_logo?e=2147483647&v=beta&t=qxtoTn57D4TyVa7Or6EcSCx-lBK1o3cVYD71ukfu5Q0","","","","","","","","","","",""
+"li-4329699595","linkedin","https://www.linkedin.com/jobs/view/4329699595","",".Net Core Lead","Infosys","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Other","","","* Primary skills:Technology\\-\\>Microsoft Technologies\\-\\>.NET Frameworks
 * Analyzing user requirements, envisioning system features and functionality.
 * Design, build, and maintain efficient, reusable, and reliable .Net codes by setting expectations and features priorities throughout development life cycle
 * Identify bottlenecks and bugs, and recommend system solutions by comparing advantages and disadvantages of custom development
 * Contributing to team meetings, troubleshooting development and production problems across multiple environments and operating platforms
 * Understand Architecture Requirements and ensure effective Design, Development, Validation and Support activities
-* You will participate in project estimation, provide inputs for solution delivery, conduct technical risk planning, perform code reviews and unit test plan reviews.
-* You will lead and guide your teams towards developing optimized high quality code deliverables, continual knowledge management and adherence to the organizational guidelines and processes.
-* You would be a key contributor to building efficient programs/ systems and if you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you!
 * Min. 5 years of relevant .Net experience with team handling experience
 * Must have design experience using best practices, Design Patterns, SDLC, OOP, OOD
 * Must have experience in leading and mentoring teams
@@ -1665,112 +2251,964 @@
 * Ability to demonstrate a sound understanding of software quality assurance principles, SOLID design principles and modelling methods
 * Awareness of latest technologies and trends
 * Excellent problem solving, analytical and debugging skills","IT Services and IT Consulting","https://in.linkedin.com/company/infosys","https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I","","","","","","","","","","",""
-"li-4346795952","linkedin","https://www.linkedin.com/jobs/view/4346795952","","Java Developer_ Director_ Software Engineering - Morgan Stanley","Jobs via eFinancialCareers","","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Morgan Stanley
+"li-4346678993","linkedin","https://www.linkedin.com/jobs/view/4346678993","https://JPMorganChase.contacthr.com/150409529&urlHash=UT2q","Software Engineer III - QA Automation","JPMorganChase","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Job Description**
+ You are a strategic thinker passionate about driving solutions. You have found the right team.
    
 
   
 
-**Java Developer\\_ Director\\_Software Engineering**
-**Profile Description**
- Division FRPPE Location Mumbai
+ As a Software Engineer III at JPMorgan Chase within the Testing Center of Excellence Team, you will play a pivotal role in our global team.. Your responsibilities will include conducting systematic application functionality tests, diligently documenting results, and ensuring clear communication with all relevant stakeholders. Your expertise in Selenium, Cucumber, Java, and BDD/TDD will be vital in ensuring the superior quality of our software and promptly resolving any issues. This role provides a unique opportunity to contribute to our monthly/quarterly testing results reports and to automate Regression and Functional test cases.
    
 
   
 
- We're seeking someone to join our team as Java Developer as a part of our FRPPE\\- FinTech team, to will play a key role in helping transform how Morgan Stanley operates
+**Job Responsibilities**
+* Perform regression and functional user acceptance testing for WFT applications.
+* Assist in parallel running of current and new scenarios to validate results.
+* Document UAT test scenarios, test cases, and test scripts.
+* Define and prepare necessary test data for various testing phases.
+* Identify and analyze defects, collaborating with Operations teams for quality assurance and timely bug resolution.
+* Deliver monthly and quarterly reports on testing results in addition to regular testing duties.
+* Automate regression and functional test cases to improve efficiency.
+* Collaborate closely with technology teams for BDD implementation.
+* Automate test design using appropriate testing tools.
+* Conduct automation feasibility studies and derive return on investment (ROI).
+* Apply practical experience in test automation with Java, Selenium, BDD Cucumber, API testing, and database knowledge, utilizing one or more automation tools.
+
+
+**Required Qualifications, Capabilities And Skills**
+* Formal training or certification on Software Engineering concepts and 3\\+ years applied experience
+* Demonstrate expertise in Selenium, Cucumber, and Java.
+* Apply expertise in BDD/TDD (Behavior Driven Development/Test Driven Development).
+* Utilize version control systems such as Bitbucket and Git.
+* Develop automation frameworks using core Java.
+* Maintain Keyword, Data, and Hybrid automation frameworks.
+* Manage test data using SQL.
+* Prepare and deliver comprehensive test reports.
+* Apply knowledge of Agile practices in testing environments.
+* Use test design tools such as Conformiq.
+* Apply performance testing knowledge using JMeter.
+
+
+**Preferred Qualifications, Capabilities, And Skills**
+* Demonstrate proficiency in performance testing using JMeter.
+* Implement advanced test design strategies with tools like Conformiq.
+* Mentor team members in automation best practices.
+* Contribute to continuous improvement initiatives in test automation processes.
+
+
+**ABOUT US**","Financial Services","https://www.linkedin.com/company/jpmorganchase","https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI","","","","","","","","","","",""
+"li-4346851965","linkedin","https://www.linkedin.com/jobs/view/4346851965","https://JPMorganChase.contacthr.com/150233459&urlHash=EYnA","Software Engineer III - Java, AWS, PySpark","JPMorganChase","Mumbai, Maharashtra, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Job Description**
+ We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.
    
 
   
 
-**FRRPE\\_Tech**
- In the Technology division, we leverage innovation to build the connections and capabilities that power our Firm, enabling our clients and colleagues to redefine markets and shape the future of our communities.
+ As a Software Engineer III at JPMorgan Chase within the Consumer \\& Community Banking Team, you serve as a seasoned member of an agile team to design and deliver trusted market\\-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives.
    
 
   
 
-**Finance Technology**
- FINANCE Technology (FINTECH) provides innovative solutions for regulatory and financial reporting, general ledger, profit \\& loss calculations, securities bookkeeping, budgeting \\& forecasting, and tax filing. The group leverages a state\\-of\\-the\\-art multi\\-terabyte financial data warehouse as one of its main assets to service the Firm's Finance division
+**Job Responsibilities**
+* Executes software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems
+* Creates secure and high\\-quality production code and maintains algorithms that run synchronously with appropriate systems
+* Produces architecture and design artifacts for complex applications while being accountable for ensuring design constraints are met by software code development
+* Gathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets in service of continuous improvement of software applications and systems
+* Proactively identifies hidden problems and patterns in data and uses these insights to drive improvements to coding hygiene and system architecture
+* Contributes to software engineering communities of practice and events that explore new and emerging technologies
+* Adds to team culture of diversity, opportunity, inclusion, and respect
+
+
+**Required Qualifications, Capabilities, And Skills**
+* Formal training or certification in software engineering concepts and 3\\+ years applied experience
+* Experience with AWS cloud technologies, including S3
+* Experience with SQL\\-based technologies (e.g., MySQL/ Oracle DB)
+* Experience in Java and Python programming language
+* Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages
+* Cloud implementation experience with AWS including AWS Data Services: Proficiency in Lake formation, Glue ETL (or) EMR, S3, Glue Catalog, Athena, Kinesis (or) MSK, Airflow (or) Lambda \\+ Step Functions \\+ Event Bridge
+* Data De/Serialization: Expertise in at least 2 of the formats: Parquet, Iceberg, AVRO, JSON\\-LD
+* AWS Data Security: Good Understanding of security concepts such as: Lake formation, IAM, Service roles, Encryption, KMS, Secrets Manager
+* Experience with statistical data analysis and ability to determine appropriate tools and data patterns to perform analysis
+* Demonstrated knowledge of software applications and technical processes within a technical discipline (e.g., cloud, artificial intelligence, machine learning, mobile, etc.)
+* Proficiency in automation and continuous delivery methods.
+
+
+**Preferred Qualifications, Capabilities, And Skills**
+* Snowflake knowledge or experience preferred
+* In\\-depth knowledge of the financial services industry and their IT systems
+* Worked with building Data lake, built Data platforms, built Data frameworks, Built/Design of Data as a Service AP
+
+
+**ABOUT US**","Financial Services","https://www.linkedin.com/company/jpmorganchase","https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI","","","","","","","","","","",""
+"li-4346833918","linkedin","https://www.linkedin.com/jobs/view/4346833918","https://ats.rippling.com/fello-careers/jobs/e08fea91-ade2-49a9-ad82-129d61e2e7a7?jobSite=LinkedIn&urlHash=Qjf7","Solution Expert","Fello","","","fulltime","","","","","",True,"mid-senior level","Sales and Business Development","","","**About Fello**
+ Fello is a
+ ****profitable, hyper\\-growth, VC\\-backed B2B SaaS startup****
+ on a mission to empower businesses with data\\-driven intelligence. Our
+ ****AI\\-powered marketing automation platform****
+ helps businesses optimize engagement, make smarter decisions, and stay ahead in a competitive market.
    
 
   
 
- Software Engineering
+ With massive growth potential and a track record of success, we’re just getting started. If you’re passionate about innovation and want to be part of an industry\\-defining team, Fello is the place to be.
    
 
   
 
- This is Director position that develops and maintains software solutions that support business needs.
+**About You**
+ You are a proactive, client\\-facing SaaS product implementation professional with a problem\\-solving and customer\\-first attitude. You are a clear communicator, active listener and you stay calm under pressure. You take full ownership of customer problems end to end and go the extra mile to ensure customers feel supported and delighted. You are dedicated to continuous improvement and are motivated to provide the best possible customer experience.
    
 
   
 
- Morgan Stanley is an industry leader in financial services, known for mobilizing capital to help governments, corporations, institutions, and individuals around the world achieve their financial goals.
+**You Will**
+****Onboarding — Own the Customer Onboarding \\& Launch Experience****
+ :
    
 
   
 
- At Morgan Stanley India, we support the Firm's global businesses, with critical presence across Institutional Securities, Wealth Management, and Investment management, as well as in the Firm's infrastructure functions of Technology, Operations, Finance, Risk Management, Legal and Corporate \\& Enterprise Services. Morgan Stanley has been rooted in India since 1993, with campuses in both Mumbai and Bengaluru. We empower our multi\\-faceted and talented teams to advance their careers and make a global impact on the business. For those who show passion and grit in their work, there's ample opportunity to move across the businesses for those who show passion and grit in their work.
+* Be the face of Fello for new customers, guiding them from kickoff to successful go\\-live.
+* Coach, educate, and empower clients to fully leverage the Fello platform.
+* Dive deep into client workflows, ask smart questions, and uncover what success looks like for them.
+* Set up and configure integrations across CRMs, websites, and email domains — end\\-to\\-end.
+* Rigorously test every integration to ensure clean data flow and a flawless experience.
+* Partner closely with Sales and Customer Success to deliver a smooth, fast, and delightful onboarding experience.
+* Find creative ways to simplify and accelerate onboarding — templatizing Zapier steps, automating steps, and eliminating friction.
+* Work with external product support teams when needed to get things resolved quickly.
+* Help build and continuously refine our onboarding playbook, SOPs, and best practices.
+* Proactively track, monitor, and take action on key performance metrics — always driving them above benchmark and raising the bar
+* Constantly look for ways to shorten time\\-to\\-value and make onboarding faster, smoother, and right the first time.
+
+
+**Customer Support — Be The Hero Clients Count On**
+* Respond to customer queries across support channels (email, chat, calls, ticketing system).
+* Diagnose, troubleshoot, and resolve product issues with accuracy and urgency.
+* Escalate complex issues to the right internal teams with clear context and logs.
+* Maintain strong product knowledge to guide customers confidently and correctly.
+* Meet and exceed SLAs for first response time, resolution time and CSAT
+* Ensure every customer touchpoint is empathetic, helpful, and solution\\-oriented.
+* Follow up proactively until issues are fully resolved and confirmed by the customer.
+* Create and update internal knowledge base articles and troubleshooting guides.
+* Proactively flag product gaps, UX challenges, or system bugs that affect customers.
+* Act as the voice of customers internally to help enhance product experience.
+
+
+**Collaboration \\& Innovation — Make Our Teams Stronger, Together**
+* Partner with Sales and Customer Success to accelerate onboarding and maximize customer impact.
+* Keep internal teams aligned and informed to ensure a seamless client journey.
+* Advocate for customers and always prioritize a best\\-in\\-class experience.
+* Identify opportunities to automate repetitive support tasks or build self\\-service resources.
+* Suggest improvements in processes, playbooks, automation, and workflows. Recommend enhancements to support processes, templates, or reporting.
+
+
+**Be The AI Evangelist On The Team**
+* Build and troubleshoot AI automations using tools like Zapier/Make, CRM workflows, and AI assistant platforms.
+* Experiment, implement, and scale AI workflows that help customers automate processes, improve data quality, and accelerate onboarding.
+* Stay ahead of emerging AI tools and bring new ideas to improve customer enablement, automation, and support processes.
+* Build, refine, and share prompts, templates, and AI playbooks for internal and customer use.
+
+
+**You Have**
+* Bachelor’s degree in Computer Science or similar.
+* Excellent communication, teamwork and problem solving skills.
+* Excellent written communication skills — clear, empathetic, and tailored to help customers feel supported and confident.
+* Proven multitasking ability in a dynamic environment.
+* 2\\-3 years of experience in Consulting, Professional Services or Product Implementation roles.
+* Willingness to support until 2:00 pm EST as BAU and 5:00 pm EST during Support rotation
+* Ability to work effectively with stakeholders at all levels of the organization.
+* Strong analytical skills, adept at data analysis, and experienced in generating insightful reports.
+* Proven ability in evaluating new tools and technologies for system integration.
+* Have experience prioritizing customer requests with a sense of urgency, with focus on Response Time and Resolution Time and ensuring the queue is always under control
+* Strong organizational skills.
+* Hands\\-on experience with AI productivity tools (ChatGPT, Claude, Notion AI, CRM AI assistants, etc.)
+* Familiarity with prompt engineering, AI workflow automation, or AI\\-assisted support/enablement.
+* Understanding of LLM\\-based automation, data pipelines, or API\\-driven AI integrations.
+* Ability to translate business needs into AI\\-driven solutions.
+* Strong understanding of data quality, privacy, and ethical AI use.
+
+
+**Our Benefits**
+* Competitive Compensation: Attractive salary and benefits package.
+* Flexible Work Environment: Fully remote work with flexible hours to promote work\\-life balance.
+* Professional Growth: Opportunities for career advancement and professional development.
+* Health \\& Wellness: Comprehensive health and vision insurance plans.
+* Paid Time Off: Generous PTO and paid holidays to recharge and relax.
+* Collaborative Culture: A supportive team environment that values innovation and collaboration.
+* Equity Options: Opportunity to own a part of Fello and share in our success.
+* Cutting\\-Edge Projects: Work on innovative products that leverage AI and advanced technologies.","Software Development","https://www.linkedin.com/company/fello-ai","https://media.licdn.com/dms/image/v2/D560BAQFNgxo1CbTvAQ/company-logo_100_100/B56ZZ.qV8DHAAU-/0/1745881751733/fello_ai_logo?e=2147483647&v=beta&t=BNc5zk5tDOvtgKJ2f5ARTvOV3171RHwKi6tfEUXmnQo","","","","","","","","","","",""
+"li-4346698310","linkedin","https://www.linkedin.com/jobs/view/4346698310","","Software Engineer III Data Engineer - Databricks, AWS, Python","JPMorganChase","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Information Technology","","","**Job Description**
+ Unlock the power of data with our expert Databricks Developer, transforming complex datasets into actionable insights with seamless efficiency. Elevate your business intelligence and drive innovation through cutting\\-edge data engineering solutions.
    
 
   
 
- Interested in joining a team that's eager to create, innovate and make an impact on the world? Read on...
+ As a Databricks Developer at JPMorgan Chase within our Data Engineering team, you will be a pivotal player in our cloud transformation journey.
    
 
   
 
- What you'll do in the role:
+ Job responsibilities
    
 
   
 
- Design, develop, implement, test, and maintain UI for multiple applications.
+* Collaborate with cross\\-functional teams to understand business requirements and design cloud\\-based solutions.
+* Lead the migration of existing SQL databases/ETL Layer and applications to Databricks and other cloud platforms.
+* Drive the development and deployment of process using DBX framework.
+* Develop, test, and deploy scalable and efficient cloud applications.
+* Optimize data processing workflows while ensuring data integrity and security.
+* Provide technical guidance and support to team members and stakeholders.
+* Stay abreast of the latest cloud technologies and best practices.
+* Support production tasks and resolve issues.
+* Partner with finance teams to develop and optimize data mining and analytics for financial trends and initiatives.
+
+
+**Required Qualifications, Capabilities, And Skills**
+* Formal training or certification on software engineering concepts and 3\\+ years applied experience
+* Proficiency with hands on experience in programming languages such as Python and Big Data technologies like Spark, Kafka, etc
+* Strong expertise in Databricks and cloud platforms such as AWS Cloud.
+* Proven experience in SQL database management and development.
+* Experience with data integration, ETL processes, and data warehousing.
+* Excellent problem\\-solving skills and attention to detail.
+* Strong communication and collaboration skills. Ability to work independently and efficiently.
+
+
+**Preferred Qualifications, Capabilities, And Skills**
+* Certification in cloud technologies (e.g., AWS Certified Solutions Architect).
+* Knowledge on ETL technologies like Abinitio/Inoformatica/Prophecy would be a plus.
+* Knowledge of DevOps practices and CI/CD pipelines, containerization \\- docker, Kubernetes.
+* Databricks certified Data Engineer or equivalent ones.
+* Strong financial and business analytical skills.
+
+
+**ABOUT US**","Financial Services","https://www.linkedin.com/company/jpmorganchase","https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI","","","","","","","","","","",""
+"li-4346806174","linkedin","https://www.linkedin.com/jobs/view/4346806174","","BMC Remedy","CGI","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"entry level","Other","","","Position Description
    
 
   
 
- Performance and scalability tuning to support large reporting needs.
+ Company Profile:
    
 
   
 
- Define new features in conjunction with product management, and provide specifications
+ At CGI, we’re a team of builders. We call our employees members because all who join CGI are building their own company \\- one that has grown to 72,000 professionals located in 40 countries. Founded in 1976, CGI is a leading IT and business process services firm committed to helping clients succeed. We have the global resources, expertise, stability and dedicated professionals needed to achieve. At CGI, we’re a team of builders. We call our employees members because all who join CGI are building their own company \\- one that has grown to 72,000 professionals located in 40 countries. Founded in 1976, CGI is a leading IT and business process services firm committed to helping clients succeed. We have the global resources, expertise, stability and dedicated professionals needed to achieve results for our clients \\- and for our members. Come grow with us. Learn more at www.cgi.com.
    
 
   
 
- Ensure quality and completeness of the final product through unit testing, documentation, and maintenance as appropriate
+ This is a great opportunity to join a winning team. CGI offers a competitive compensation package with opportunities for growth and professional development. Benefits for full\\-time, permanent members start on the first day of employment and include a paid time\\-off program and profit participation and stock purchase plans. We wish to thank all applicants for their interest and effort in applying for this position, however, only candidates selected for interviews will be contacted. No unsolicited agency referrals please.
    
 
   
 
-**What you'll bring to the role:**
-* Development experience with Core Java / Spring
-* Experience working with databases (Teradata or DB2\\)
-* Strong communication skills
-* Experience with Agile Processes
-* Core Java, Spring
-* Database: \\- Strong in SQL Fundamentals.
-* Familiar with OOPS, Data Structure
-* Scripting: \\- Unix Shell
-* At least 6 years' relevant experience would generally be expected to find the skills required for this role.
-
-
-**What you can expect from Morgan Stanley**
- We are committed to maintaining the first\\-class service and high standard of excellence that have defined Morgan Stanley for over 85 years. At our foundation are five core values \\- putting clients first, doing the right thing, leading with exceptional ideas, committing to diversity and inclusion, and giving back \\- that guide our more than 80,000 employees in 1,200 offices across 42 countries. At Morgan Stanley, you'll find trusted colleagues, committed mentors and a culture that values diverse perspectives, individual intellect and cross\\-collaboration. Our Firm is differentiated by the caliber of our diverse team, while our company culture and commitment to inclusion define our legacy and shape our future, helping to strengthen our business and bring value to clients around the world. Learn more about how we put this commitment to action: morganstanley.com/diversity. We are proud to support our employees and their families at every point along their work\\-life journey, offering some of the most attractive and comprehensive employee benefits and perks in the industry.
+ Job Title: BMC Remedy Developer
    
 
   
 
-**WHAT YOU CAN EXPECT FROM MORGAN STANLEY:**
- We are committed to maintaining the first\\-class service and high standard of excellence that have defined Morgan Stanley for over 89 years. Our values \\- putting clients first, doing the right thing, leading with exceptional ideas, committing to diversity and inclusion, and giving back \\- aren't just beliefs, they guide the decisions we make every day to do what's best for our clients, communities and more than 80,000 employees in 1,200 offices across 42 countries. At Morgan Stanley, you'll find an opportunity to work alongside the best and the brightest, in an environment where you are supported and empowered. Our teams are relentless collaborators and creative thinkers, fueled by their diverse backgrounds and experiences. We are proud to support our employees and their families at every point along their work\\-life journey, offering some of the most attractive and comprehensive employee benefits and perks in the industry. There's also ample opportunity to move about the business for those who show passion and grit in their work.
+ Position: Software Engineer / Senior Software Engineer
    
 
   
 
- To learn more about our offices across the globe, please copy and paste https://www.morganstanley.com/about\\-us/global\\-offices into your browser.
+ Experience: 4 to 8 yrs
    
 
   
 
- Morgan Stanley is an equal opportunities employer. We work to provide a supportive and inclusive environment where all individuals can maximize their full potential. Our skilled and creative workforce is comprised of individuals drawn from a broad cross section of the global communities in which we operate and who reflect a variety of backgrounds, talents, perspectives, and experiences. Our strong commitment to a culture of inclusion is evident through our constant focus on recruiting, developing, and advancing individuals based on their skills and talents.","IT Services and IT Consulting","https://uk.linkedin.com/company/jobs-on-efinancialcareers","https://media.licdn.com/dms/image/v2/C4E0BAQHhjDirlg_ONg/company-logo_100_100/company-logo_100_100/0/1668664938817/jobs_on_efinancialcareers_logo?e=2147483647&v=beta&t=07vZ6d9sIA920IdYTRHXSiSwq1fbQoWHPtnmWLO7vUs","","","","","","","","","","",""
+ Category: Development
+   
+
+  
+
+ Main location: CHN/ BNG/ HYD
+   
+
+  
+
+ Position ID: J1025\\-2007
+   
+
+  
+
+ Employment Type: Full time
+   
+
+  
+
+ Your future duties and responsibilities
+   
+
+  
+
+**Required Qualifications To Be Successful In This Role**
+ We are seeking an experienced BMC Helix Developer / Solution Engineer with expertise across Innovation Studio, Digital Workplace Catalog (DWP\\-C), Smart IT, CMDB, ITSM, Multitenant environments, and Helix GPT.
+   
+
+  
+
+ The candidate will be responsible for designing, developing, and managing custom applications, workflows, and integrations to enhance automation and user experience on the BMC Helix platform.
+   
+
+  
+
+ Key Responsibilities
+   
+
+  
+
+* Innovation Studio (IS) \\& Helix SDK
+
+
+ Design and develop codeless and SDK\\-based applications using BMC Helix Innovation Studio.
+   
+
+  
+
+ Define record definitions, processes, views, and rules, and build custom REST\\-based integrations.
+   
+
+  
+
+ Extend the platform using Helix SDK to create custom Java services, connectors, and UI components.
+   
+
+  
+
+ Deploy reusable sub\\-processes and integration bundles for scalable automation.
+   
+
+  
+
+* Digital Workplace \\& DWP Catalog (DWP\\-C)
+
+
+ Design, configure, and customize DWP service catalog items, workflows, and UI forms.
+   
+
+  
+
+ Create multi\\-step approvals, conditional logic, and custom notifications.
+   
+
+  
+
+ Integrate DWP with ITSM, Innovation Studio, and external systems for unified service experience.
+   
+
+  
+
+ Work on DWP\\-C (Catalog) for custom workflow automation and advanced user experience design.
+   
+
+  
+
+* Smart IT Customization
+
+
+ Enhance Smart IT interfaces through custom fields, overlays, and contextual views.
+   
+
+  
+
+ Integrate Smart IT with Helix GPT, enabling AI\\-driven agent assistance and predictive recommendations.
+   
+
+  
+
+ Optimize incident and change management workflows to align with business SLAs.
+   
+
+  
+
+* CMDB \\& ITSM
+
+
+ Implement, configure, and maintain the Configuration Management Database (CMDB) ensuring alignment with ITIL standards.
+   
+
+  
+
+ Customize and extend ITSM modules (Incident, Problem, Change, SRM).
+   
+
+  
+
+ Develop auto\\-assignment rules, categorizations, and integrations that enhance service delivery.
+   
+
+  
+
+* Integrations \\& Helix GPT
+
+
+ Build, test, and maintain REST/SOAP API\\-based integrations with third\\-party systems.
+   
+
+  
+
+ Work with Helix GPT to design AI\\-powered workflows, including natural language\\-based incident creation, knowledge search, and contextual automation.
+   
+
+  
+
+ Develop prompt\\-driven workflows using Helix GPT connectors and Innovation Studio sub\\-processes.
+   
+
+  
+
+* Multitenancy Support
+
+
+ Design and configure multi\\-tenant solutions for global clients.
+   
+
+  
+
+ Implement data isolation, tenant\\-aware workflows, and access control mechanisms.
+   
+
+  
+
+ Manage cross\\-tenant deployments, ensuring compliance and scalability.
+   
+
+  
+
+* Troubleshooting \\& Support
+
+
+ Analyze workflow failures, process errors, and integration issues.
+   
+
+  
+
+ Review logs, diagnose platform\\-level errors, and coordinate with BMC SaaS operations when needed.
+   
+
+  
+
+ Provide post\\-deployment validation and performance tuning.
+   
+
+  
+
+**Required Skills \\& Qualifications**
+ Experience:
+   
+
+  
+
+ 4–8 years of experience in BMC Helix platform development, including ITSM, DWP, DWP\\-C, and Innovation Studio.
+   
+
+  
+
+ Technical Expertise:
+   
+
+  
+
+ Strong knowledge of Helix SDK, Java, REST API development, JSON, and SQL.
+   
+
+  
+
+ Proven experience designing complex process workflows and integration architectures
+   
+
+  
+
+ Hands\\-on in Helix GPT configuration and AI workflow design.
+   
+
+  
+
+ Functional Skills:
+   
+
+  
+
+ Expertise in CMDB, ITSM, and DWP catalog administration.
+   
+
+  
+
+ Familiarity with Smart IT customization, multitenant architecture, and Helix Platform deployment.
+   
+
+  
+
+ Solid understanding of ITIL v3/v4 processes.
+   
+
+  
+
+ Soft Skills:
+   
+
+  
+
+ Strong analytical, troubleshooting, and documentation capabilities.
+   
+
+  
+
+ Ability to work collaboratively in cross\\-functional global teams.
+   
+
+  
+
+**Preferred Qualifications**
+ BMC Certifications in:
+   
+
+  
+
+ Helix Innovation Studio / SDK Development
+   
+
+  
+
+ Helix ITSM / DWP\\-C
+   
+
+  
+
+ Helix GPT Foundations
+   
+
+  
+
+ Exposure to CI/CD pipelines for Helix applications.
+   
+
+  
+
+ Familiarity with Helix Platform containerization (OCP/Kubernetes).
+   
+
+  
+
+**Together, as owners, let’s turn meaningful insights into action.**
+ Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
+   
+
+  
+
+ You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
+   
+
+  
+
+ Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
+   
+
+  
+
+ You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well\\-being and provide you with opportunities to deepen your skills and broaden your horizons.
+   
+
+  
+
+ Come join our team—one of the largest IT and business consulting services firms in the world.
+   
+
+  
+
+ BMC Remedy
+   
+
+  
+
+**Job Description**
+ Functional Skills:
+   
+
+  
+
+ Expertise in CMDB, ITSM, and DWP catalog administration.
+   
+
+  
+
+ Familiarity with Smart IT customization, multitenant architecture, and Helix Platform deployment.
+   
+
+  
+
+ Solid understanding of ITIL v3/v4 processes.
+   
+
+  
+
+ Soft Skills:
+   
+
+  
+
+ Strong analytical, troubleshooting, and documentation capabilities.
+   
+
+  
+
+ Ability to work collaboratively in cross\\-functional global teams.
+   
+
+  
+
+**Preferred Qualifications**
+ BMC Certifications in:
+   
+
+  
+
+ Helix Innovation Studio / SDK Development
+   
+
+  
+
+ Helix ITSM / DWP\\-C
+   
+
+  
+
+ Helix GPT Foundations
+   
+
+  
+
+ Exposure to CI/CD pipelines for Helix applications.
+   
+
+  
+
+ Familiarity with Helix Platform containerization (OCP/Kubernetes).
+   
+
+  
+
+ Your future duties and responsibilities
+   
+
+  
+
+**Required Qualifications To Be Successful In This Role**
+**Ensemble, en tant que propriétaires, mettons notre savoir\\-faire à l’œuvre.**
+ La vie chez CGI est ancrée dans l’actionnariat, le travail d’équipe, le respect et un sentiment d’appartenance. Chez nous, vous pourrez exploiter votre plein potentiel parce que…
+   
+
+  
+
+ Nous vous invitons à devenir propriétaire dès le jour 1 alors que nous travaillons ensemble à faire de notre rêve une réalité. C’est pourquoi nous nous désignons comme associés de CGI, plutôt que comme employés. Nous tirons profit des retombées de notre succès collectif et contribuons activement à l’orientation et à la stratégie de notre entreprise.
+   
+
+  
+
+ Votre travail crée de la valeur. Vous élaborerez des solutions novatrices et développerez des relations durables avec vos collègues et clients, tout en ayant accès à des capacités mondiales pour concrétiser vos idées, saisir de nouvelles opportunités, et bénéficier d’une expertise sectorielle et technologique de pointe.
+   
+
+  
+
+ Vous ferez évoluer votre carrière en vous joignant à une entreprise bâtie pour croître et durer. Vous serez soutenus par des leaders qui ont votre santé et bien\\-être à cœur et qui vous permettront de saisir des occasions afin de parfaire vos compétences et élargir les horizons.
+   
+
+  
+
+ Joignez\\-vous à nous, l’une des plus importantes entreprises de conseil en technologie de l’information (TI) et en management au monde.","IT Services and IT Consulting","https://ca.linkedin.com/company/cgi","https://media.licdn.com/dms/image/v2/C4E0BAQErzXWSFkn9tQ/company-logo_100_100/company-logo_100_100/0/1663664110809/cgi_logo?e=2147483647&v=beta&t=ij1LHgnuOsTNPdqx4ZbUQN5MAamZh85SdKfWcRfMVt4","","","","","","","","","","",""
+"li-4329747893","linkedin","https://www.linkedin.com/jobs/view/4329747893","","Principal Infra Developer","Cognizant","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Summary**
+ Looking for a Principal Infra Developer with expertise in CI/CD automation build/deploy troubleshooting and infra provisioning across cloud/on\\-prem. Skilled in Groovy/Bash scripting Docker Kubernetes (EKS) and Linux/Windows support. Administers tools like GitHub Jenkins SonarQube Artifactory Harness UCD and Concourse. Experienced in monitoring alerts and ticketing via ServiceNow and Jira.
+   
+
+  
+
+**Responsibilities**
+ Automated CI/CD pipelines and managed build/deployment workflows using GitHub Actions Jenkins Harness UCD and Concourse.
+   
+
+  
+
+ Troubleshot and resolved issues in build deployment and release processes across diverse environments.
+   
+
+  
+
+ Developed automation scripts in Groovy and Bash to streamline operational tasks and deployments.
+   
+
+  
+
+ Administered DevOps tools including GitHub Jenkins SonarQube Artifactory Harness UCD and Concourse.
+   
+
+  
+
+ Supported Linux and Windows platforms with system configuration troubleshooting and performance tuning.
+   
+
+  
+
+ Provisioned and managed containerized infrastructure using Docker and Kubernetes.
+   
+
+  
+
+ Implemented monitoring and notification systems to ensure pipeline and infrastructure reliability.
+   
+
+  
+
+ Handled service requests and incidents using ServiceNow and Jira ensuring timely resolution.
+   
+
+  
+
+ Collaborated with cross\\-functional teams to improve deployment efficiency and system stability.
+   
+
+  
+
+ Maintained toolchain integrations and ensured high availability of DevOps platforms.
+   
+
+  
+
+**Certifications Required**
+ AWS Certified DevOps Engineer","IT Services and IT Consulting and Business Consulting and Services","https://www.linkedin.com/company/cognizant","https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_100_100/B4EZk_EfNgHgAU-/0/1757699778309/cognizant_logo?e=2147483647&v=beta&t=pEIgD9-D_EFoL3rsreK0H2EZEcsXWdZSN64-dV7VrSU","","","","","","","","","","",""
+"li-4346727279","linkedin","https://www.linkedin.com/jobs/view/4346727279","https://lixil.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-4c719be269e6/candidate/so/pm/1/pl/3/opp/635-Senior-Application-Specialist-OTC/en-GB&urlHash=U25Q","Senior Application Specialist OTC","LIXIL","Gurugram, Haryana, India","","fulltime","","","","","",True,"mid-senior level","Information Technology","","","IMEA (India, Middle East, Africa)
+   
+
+  
+
+ India
+   
+
+  
+
+ LIXIL INDIA PVT LTD
+   
+
+  
+
+ Employee Assignment
+   
+
+  
+
+ Fully remote possible
+   
+
+  
+
+ Full Time
+   
+
+  
+
+ 7 December 2025
+   
+
+  
+
+**Position Title** 
+ : Senior Application Specialist OTC
+ **Department** 
+ : IT/Digital – OTC
+   
+
+  
+
+**Career Path Level:** 
+ Senior Reports to: Workstream Leader
+   
+
+  
+
+**Position Purpose**
+ The Senior Application specialist plays a key role in ensuring the stability, quality, and strategic evolution of IT systems and processes. With significant experience and deep domain knowledge, the Senior Application specialist takes ownership of complex technical or functional areas, mentors less experienced colleagues, and drives solution design and continuous improvement initiatives. This role serves as a bridge between operational execution and architectural thinking, providing leadership within projects and a trusted point of contact for business or technical counterparts.
+   
+
+  
+
+**Position Summary:** 
+ As a Senior Application specialist, you are a recognized expert in your IT domain. You independently manage and deliver complex initiatives, resolve critical issues, and ensure that solutions align with business needs and IT standards. Your work is both hands\\-on and strategic: balancing delivery with system improvement, business engagement, and peer development. Collaboration across functions, regions, and stakeholder groups is essential to your role.
+   
+
+  
+
+**Key Responsibilities**
+* Take proactive ownership of complex system areas, developments, or processes with minimal supervision within your area of expertise, cross functionally and together with internal and external stakeholders.
+* Serve as subject matter expert in your domain; provide advanced support and solution guidance
+* Design, implement, and optimize processes or system changes aligned with strategic goals and based on business objectives, user needs, and regulatory requirements.
+* Mentor and support junior and mid\\-level colleagues through structured guidance and coaching.
+* Actively contribute to project planning, scoping, and design activities; represent IT in business\\-facing discussions.
+* Ensure adherence to industry and system standards, documentation, and compliance requirements.
+
+
+**General Requirements**
+* Master’s degree in System Engineering, Information Technology, or a related field
+* Minimum of eight years hands\\-on experience in your field of expertise.
+* Proven ability to lead complex initiatives independently, such as large scale projects and drive results.
+* Demonstrated leadership in process improvement, problem\\-solving, or technical advancement.
+* Strong communication skills in English, both verbal and written; able to clearly convey technical concepts to non\\-technical stakeholders.
+* Ability to collaborate effectively in cross\\-functional and international teams.
+* Can support and mentor others and contribute to team development and knowledge sharing. Growth Expectations:
+
+
+ Senior Application specialists are expected to demonstrate influence beyond their immediate team, consistently deliver high\\-quality outcomes, and take initiative in strategic or cross\\-team programs. Growth from Senior to Solution Architect is marked by a shift from deep expertise to broader architectural vision, proactive business engagement, and a leadership role in shaping future IT solutions.","Manufacturing","https://jp.linkedin.com/company/lixil-global","https://media.licdn.com/dms/image/v2/C560BAQGKjb4f79VE-Q/company-logo_100_100/company-logo_100_100/0/1631393781009?e=2147483647&v=beta&t=_CfL0PxSQ4DuOLURuThFoKxRAI0BKYyGXCWYLa42i4k","","","","","","","","","","",""
+"li-4329747896","linkedin","https://www.linkedin.com/jobs/view/4329747896","","Senior Full Stack Engineer","Multiscale Technologies India","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Software Full Stack Engineer, Forward Deployed Applications** 
+
+
+
+
+ Location: Hyderabad, India (on\\-site at client location)
+ 
+
+
+
+ Work Site: On\\-site
+ 
+
+
+
+ Travel: 0–10%
+ 
+
+
+
+ Employment Type: Full\\-time \\| Individual Contributor
+ 
+
+
+
+  
+
+
+
+
+
+**The Role** 
+
+
+
+
+ We are looking for a Senior Software Engineer to join our Forward Deployed App Dev team. This is not a back\\-office coding job, you will work directly at client sites with domain experts to uncover requirements, prototype solutions, and deliver production\\-ready vertical AI applications using AppHub that solve complex, real\\-world problems. Most of your time will be spent creating high\\-impact apps on top of AppHub’s framework, but you will also have the chance to contribute enhancements back into AppHub itself, improving the platform for all users.
+ 
+
+
+
+ Most of your work will focus on building impactful applications on top of AppHub’s framework. When needed, you will also contribute enhancements back into AppHub itself, improving the platform for future deployments. From gathering requirements and shaping architecture to development, deployment, and post\\-launch iteration, you will own solutions end to end.
+ 
+
+
+
+ This role is ideal for someone who enjoys combining technical depth with architectural thinking and thrives in close collaboration with customers.
+ 
+
+
+
+  
+
+
+
+
+
+**Why you will want this job** 
+
+
+
+
+ You will see the direct impact of your work in real production environments, often within days. You will work with domain experts in microelectronics and materials science, learning how AI can reshape their industries. You will have the autonomy to make technical decisions, the platform to move quickly, and the responsibility to deliver solutions that matter.
+ 
+
+
+
+  
+
+
+
+
+
+**What you will do** 
+
+
+
+* Work directly with customer engineers and domain experts to understand requirements, design system architecture, and ensure smooth integration with their environments.
+* Own applications from concept to production, balancing speed of delivery with scalability, security, and maintainability.
+* Build solutions on AppHub, integrating backend APIs, data pipelines, and machine learning models into intuitive, user\\-facing applications.
+* Enhance AppHub when platform\\-level improvements are needed, contributing new features and capabilities.
+* Lead technical discussions, document key decisions, and set coding and design standards for projects you lead.
+* Create quick prototypes in Streamlit or React to confirm concepts with customers, then evolve them into robust applications.
+* Work closely with internal platform, AI, and UX teams to feed customer insights back into the product roadmap.
+* Guide and mentor junior developers when part of larger project teams.
+
+
+
+  
+
+
+
+
+
+**What we are looking for** 
+
+
+
+* 5–7 years of professional software engineering experience in backend or full\\-stack roles.
+* Strong Python skills with experience in FastAPI or Flask.
+* Solid understanding of SQL/NoSQL databases, API design, Docker, and Git.
+* Experience with one of Cloud like Azure, AWS, and GCP
+* A proven track record of designing and delivering production applications, including architecture and technology choices.
+* Experience collaborating directly with customer engineering teams on delivery and integration.
+* Excellent technical communication skills, with the ability to explain complex designs to both technical and non\\-technical audiences.
+
+
+
+  
+
+
+
+
+
+**Nice to Have** 
+
+
+
+* Exposure to Micro\\-electronics application domains.
+* Familiarity with ML pipelines and working with domain\\-specific datasets","Software Development","https://in.linkedin.com/company/multiscale-technologies-india","https://media.licdn.com/dms/image/v2/C560BAQFq5eY4dcL-cg/company-logo_100_100/company-logo_100_100/0/1630650358940?e=2147483647&v=beta&t=roQ6lBij6PrMHoODo447d6B-7Hz-waUsQ0p7lYV_NDs","","","","","","","","","","",""
+"li-4329699690","linkedin","https://www.linkedin.com/jobs/view/4329699690","","Sr. Software Engineer B2","Cognizant","Chennai, Tamil Nadu, India","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","* Job Title : Sr. Software Engineer B2
+* Job Summary : We are seeking a highly skilled Sr. Software Engineer with 8 to 10 years of experience in Visual Basic .NET and Visual Basic specializing in Property \\& Casualty Insurance. The role involves developing and maintaining software solutions that enhance our insurance services. The position is hybrid offering a blend of remote and in\\-office work with no travel required. Join us to make a significant impact in the insurance technology landscape.
+* Experience : 8
+* 10 years
+* Required Skills : Technical Skills: Visual Basic .NET Visual Basic Domain Skills:Property \\& Casualty Insurance
+* Nice to have skills : Domain Skills:
+* Technology : Custom Service
+* Shift : Day
+* Responsibilities :
+* Develop and maintain robust software applications using Visual Basic .NET and Visual Basic to support our Property \\& Casualty Insurance services.
+* Collaborate with cross\\-functional teams to design implement and optimize software solutions that meet business requirements.
+* Analyze user needs and software requirements to determine feasibility and design within time and cost constraints.
+* Provide technical guidance and support to junior developers ensuring adherence to coding standards and best practices.
+* Conduct thorough testing and debugging of applications to ensure high\\-quality software delivery.
+* Implement software enhancements and suggest improvements to existing systems to increase efficiency and effectiveness.
+* Participate in code reviews to maintain code quality and share knowledge with team members.
+* Stay updated with the latest industry trends and technologies to incorporate innovative solutions into our software development process.
+* Ensure software documentation is comprehensive and up\\-to\\-date for future reference and training purposes.
+* Collaborate with stakeholders to gather and refine requirements ensuring alignment with business goals.
+* Monitor application performance and troubleshoot issues to ensure optimal functionality and user satisfaction.
+* Contribute to the continuous improvement of development processes and methodologies.
+* Support the deployment of applications and provide post\\-deployment support to resolve any issues. Qualifications \\-
+* Possess strong expertise in Visual Basic .NET and Visual Basic with a proven track record of successful software development projects.
+* Demonstrate in\\-depth knowledge of Property \\& Casualty Insurance domain understanding industry\\-specific requirements and challenges.
+* Exhibit excellent problem\\-solving skills and the ability to work effectively in a hybrid work model.
+* Show proficiency in collaborating with cross\\-functional teams and communicating technical concepts to non\\-technical stakeholders.
+* Display a commitment to continuous learning and staying current with emerging technologies and industry trends.
+* Have a strong attention to detail and a focus on delivering high\\-quality software solutions.
+* Demonstrate the ability to work independently and manage multiple tasks effectively.
+* Job Location : Primary Location :INTNCHNA10(ITIND MEPZ (TBM) SDB 1 \\-4 SEZ) Alternate Location :INTNCBEA02(ITIND CBE COG Campus(CCC) SDB1\\&2 SEZ) Alternate Location 1 :NA NA
+* Job Type : Sr. Associate
+* Projects \\[60PM00]
+* Demand Requires Travel? : No
+* Certifications Required : Microsoft Certified: Azure Developer Associate or equivalent certification in Visual Basic .NET.","IT Services and IT Consulting and Business Consulting and Services","https://www.linkedin.com/company/cognizant","https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_100_100/B4EZk_EfNgHgAU-/0/1757699778309/cognizant_logo?e=2147483647&v=beta&t=pEIgD9-D_EFoL3rsreK0H2EZEcsXWdZSN64-dV7VrSU","","","","","","","","","","",""
