@@ -1,91 +1,80 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4349314347","linkedin","https://www.linkedin.com/jobs/view/4349314347","","Senior Backend Engineer","SolarWinds","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","At SolarWinds, we’re a people\\-first company. Our purpose is to enrich the lives of the people we serve—including our employees, customers, shareholders, partners, and communities. Join us in our mission to help customers accelerate business transformation with simple, powerful, and secure solutions.
- 
+"li-4358318290","linkedin","https://www.linkedin.com/jobs/view/4358318290","","Sr Software Engineer - ReactJS, Typescript & CSS","Blue Yonder","Hyderabad, Telangana, India","","fulltime","","","","","",False,"not applicable","Management, Information Technology, and Engineering","","","**Scope**
+* BY Portal is the front door for multiple products. It’s a TypeScript/React micro\\-frontend environment backed by a fleet of Node.js/Express services behind an API gateway
+* The role requires both hands\\-on development and architectural leadership, ensuring scalable and future\\-ready implementations inside an gile structure following a CI/CD pipeline
+* The individual will be responsible for end\\-to\\-end solution design, module implementation, and technical governance across all the repositories used by Portal. Besides this, candidate must ensure a correct collaboration with multiple stakeholders across the globe
+* The position involves enabling automation, process optimization, and platform innovation while guiding stakeholders and junior team members.
 
 
-
- The ideal candidate thrives in an innovative, fast\\-paced environment and is collaborative, accountable, ready, and empathetic. We’re looking for individuals who believe they can accomplish more as a team and create lasting growth for themselves and others. We hire based on attitude, competency, and commitment. Solarians are ready to advance our world\\-class solutions in a fast\\-paced environment and accept the challenge to lead with purpose. If you’re looking to build your career with an exceptional team, you’ve come to the right place. Join SolarWinds and grow with us!
- 
-
-
-
-
-
-
-
-
+**Technical Environment**
+* Frontend: TypeScript, React, MUI4/5, shadcn, Tailwind, Storybook, MFEs (iframe and module federation).
+* Services: Node.js, Express (some Nest), REST APIs, webhooks, async jobs where it fits.
+* Data: MongoDB Atlas v7→v8, schema design, indexing, migrations, some Postgres/Snowflake.
+* CI/CD: GitHub Actions, environment protections, SBOM, CodeQL/SAST, automated rollbacks.
+* Runtime: containers on Azure Kubernetes via an internal Blue Yonder platform.
+* Observability: OpenTelemetry, ELK/Kibana, Azure App Insights, actionable alerting.
+* Testing: Jest/Vitest, contract testing, WebdriverIO \\+ Sauce (E2E and visual), BlazeMeter for PSR.
+* Delivery: feature flags, gradual rollouts, canary and blue/green.
 
 
+**What You’ll Do**
+* Design \\& Architect
++ Design, develop, and maintain scalable, responsive, and user\\-friendly front\\-end applications using React and TypeScript.
++ Translate business and ITIL requirements into robust Portal designs.
++ Establish coding standards, reusability patterns, and best practices.
++ Build a resilient test strategy: unit and contract tests, reliable E2E, visual baselines, PSR gates in CI.
++ Partner with PM and Design to slice work by customer value and measure impact after release.
+
+* Develop \\& Deliver
++ Build a resilient test strategy: unit and contract tests, reliable E2E, visual baselines, PSR gates in CI
++ Configure workflows, catalog items, client/server scripts, UI policies, and business rules.
++ Build and support complex integrations with enterprise systems.
++ Develop automation solutions using Flow Designer, IntegrationHub, and Orchestration.
++ Be a CSS wizard inside the team: deep knowledge of cutting end technologies like Tailwind, headless components, AI generated UI and Radix. We don't only want our product to works smoothly but to look amazing.
+
+* Guide \\& Govern
++ Provide technical leadership to developers and consultants.
++ Lead blameless incident reviews. Fix root causes and land durable guardrails.
++ Review solutions for scalability, maintainability, and performance optimization.
++ Lead technical workshops and design sessions with stakeholders.
++ Coach engineers across time zones. Pair often, give crisp reviews, and turn hard problems into teachable moments.
+
+* Operate \\& Optimize
++ Ship production code weekly across Portal MFEs (TypeScript/React) and Node.js/Express services.
++ Maintain and evolve REST APIs: clear contracts, versioning, idempotency, safe rollouts, and deprecation plans.
++ Maintain performance end\\-to\\-end: Core Web Vitals in the browser, p95/p99latency and throughput on services
++ Maintain MongoDB Atlas performance: pragmatic schema and index design, query shaping, migrations, TTL, performance diagnostics.
++ Strengthen CI/CD: reusable GitHub Actions, environment protections, SBOM, CodeQL/SAST, quality gates
++ Ensure platform stability during upgrades and releases.
++ Implement monitoring, performance tuning, and operational best practices.
++ Contribute to governance, compliance, and platform roadmaps.
 
 
+**What We Are Looking For**
+* Bachelor's degree in Computer Science, Information Systems, or equivalent experience.
+* 5\\+ years of professional work experience.
+* Experience with automated testing teschnologies
+* Advanced CSS expertise including modern layout techniques, animations, transitions, and responsive design approaches.
+* Proved experience working with CSS at the most granular level
+* Experience with Tailwind, Radix, Headless UI component and composition patterns
+* Experience developing intelligent, Agentic user interfaces that leverage AI/ML capabilities to enhance user experience.
+* Experience with Agile development (Scrum, XM, or Kanban).
+* Experience with DevOps methodologies.
+* Proficient in developing distributed applications on platforms like Azure, AWS, or GCP.
+* Proficient with Git and version control tools.
+* Familiarity with design patterns and build tools (npm, Yarn, Gradle).
+* Proficiency in React.js and related tools such as Redux, Context API, or React Query.
+* Strong understanding of Node.js, including building RESTful APIs or GraphQL services.
+* Experience with building and maintaining CI/CD pipelines, particularly with GitHub Actions.
 
 
+**Our Values**
+ If you want to know the heart of a company, take a look at their values. Ours unite us. They are what drive our success – and the success of our customers. Does your heart beat like ours? Find out here: Core Values
+   
 
-**Overview:** 
+  
 
-
-
-
- We are seeking a Senior backend Software Engineer to join our world\\-class Database Engineering organization. This team is responsible for the development and maintenance of a suite of industry\\-leading database performance monitoring and related applications. These products improve the quality of life for database professionals by providing best\\-in\\-class performance monitoring and productivity solutions across multiple database platforms, whether in the cloud or on\\-prem.
- 
-
-
-
- This position will be ideal for you if you enjoy building enterprise solutions that are architected for high scale, reliability, security, and performance, are adept at developing upon requirements through delivery to impact customers on a global scale, and are also able to upskill the engineering organization by example. You should be excited to work with multiple tech stacks, solving complicated problems on multiple products and platforms.
- 
-
-
-
- In this role, you will technically lead the development of our existing industry\\-leading solutions and help define the future of our database capabilities on our new Full Stack Observability SaaS platform.
- 
-
-
-
-**Responsibilities:** 
-
-
-
-* Design and implementation of proof of concepts and productized features that leverage new database capabilities
-* Embrace engineering practices through a broad approach to engineering quality (consistent and thoughtful patterns, improved observability, unit and integration testing, etc.).
-* Think outside of the current technology/stack limitations to push the boundaries of what is possible and deliver feasible solutions collaboratively.
-* Promote a culture of engineering excellence and strengthen the database technical expertise of our engineering and product teams.
-* Partner with product leaders to understand customer pain points and market opportunities and translate them into clear and robust engineering solutions.
-
-
-
-**Qualifications:** 
-
-
-
-* Bachelor’s degree with 5\\+ years of industry experience, or Master’s degree with 3\\+ years of industry experience.
-* Production experience with independent development in
-* Go APIs,
-* business logic,
-* Go Agents,
-* Kafka,
-* MySQL storage,
-* Distributed design and
-* Microservices
-* Independently develops complex features through multiple layers (frontend, backend)
-* Drives the problem from its definition till successful completion on her own
-* Experience with DevOps principles a plus
-
-
-
-
-
-
-
-
-
-
-
- SolarWinds is an Equal Employment Opportunity Employer. SolarWinds will consider all qualified applicants for employment without regard to race, color, religion, sex, age, national origin, sexual orientation, gender identity, marital status, disability, veteran status or any other characteristic protected by law.
- 
-
-
-
- All applications are treated in accordance with the SolarWinds Privacy Notice: https://www.solarwinds.com/applicant\\-privacy\\-notice","Software Development","https://www.linkedin.com/company/solarwinds","https://media.licdn.com/dms/image/v2/D560BAQEsIMUY99GQKw/company-logo_100_100/company-logo_100_100/0/1685455018223/solarwinds_logo?e=2147483647&v=beta&t=bgFuWDaisW9obFcWghHjIYPPXrsRTu5LcmXBiLjIQjM","","","","","","","","","","",""
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.","Software Development, IT Services and IT Consulting, and Information Services","https://www.linkedin.com/company/blueyonder","https://media.licdn.com/dms/image/v2/D560BAQFiDXXuM80LbQ/company-logo_100_100/company-logo_100_100/0/1715093188007/blueyonder_logo?e=2147483647&v=beta&t=_KgNIoeFQWR-7P5i9WYiAG7rM2Sn4FwcSrx-PILTifk","","","","","","","","","","",""
 "li-4360410255","linkedin","https://www.linkedin.com/jobs/view/4360410255","","Software Engineer (Cache Developer)","symplr","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","To design, develop, and maintain efficient applications using the InterSystems Cache database, ensuring optimal performance, seamless data management, and integration, while continuously optimizing queries, ensuring data consistency, and supporting the system’s scalability and reliability.
    
 
@@ -115,415 +104,121 @@
 **Qualifications Required**
 * Bachelor’s degree (B.A.) from four\\-year college or university, or equivalent combination of education and experience.
 * 6\\+ years of experience in Intersystem’s Cache Development using ObjectScript / Cache Objects","Software Development","https://www.linkedin.com/company/symplr","https://media.licdn.com/dms/image/v2/D4E0BAQEugoRcwd_QtA/company-logo_100_100/B4EZUErGI3HMAQ-/0/1739540161402/symplr_logo?e=2147483647&v=beta&t=T0t_f9PeOdwb9O4u5EwWYoGrCVKJyAgK7xrlE1UJjnc","","","","","","","","","","",""
-"li-4364029707","linkedin","https://www.linkedin.com/jobs/view/4364029707","https://app.eightfold.ai/careers/job/68758162599?utm_source=linkedin&domain=volkscience.com&urlHash=TgLb","Software Development Engineer in Test","Eightfold AI","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"entry level","Engineering","","","**About Eightfold**
- Eightfold is a global leader in AI\\-native enterprise talent platform, trusted by the world’s largest \\& most respected fortune 500 organizations. Our platform is built from the ground up operating at scale across Azure and AWS, deployed in multiple regions globally, including IL4\\-compliant environments for US Government, supporting users in 100\\+ countries and 30\\+ languages. Today, Eightfold is at the forefront of agentic AI, delivering intelligent agents that actively drive outcomes across hiring and talent workflows, while much of the industry is still experimenting with prototypes. Backed by over $410M in funding and valued at $2B\\+, we are defining the next era of agentic talent systems.
-   
-
-  
-
- What sets Eightfold apart is not just the technology \\& our mission, but the team behind it. We are a deeply technical, execution\\-driven organization that values ownership, collaboration, and high standards. Our engineers, product leaders, and go\\-to\\-market teams work closely together — in person and across functions — to build systems that scale in the real world. If you’re excited to work on hard problems, move with urgency, raise the bar every day, and help build agentic systems that transform how the world works, Eightfold is the place to do it.
-   
-
-  
-
- You may want to refer to the media coverage on TechCrunch and Reuters.
-   
-
-  
-
-**Eightfold.ai** 
- is led by Ashutosh Garg, a PhD in Machine Learning/IIT Delhi alumni who managed Search and Personalization at Google, and Varun Kacholia
- **\\-** 
- IIT Bombay alumni, who led the News Feed Ranking team at Facebook and developed YouTube Search at Google.
-   
-
-  
-
-**Our customers**
-**Press**
-**Role Overview**
- We are looking for passionate and skilled SDETs to join our Quality Engineering team. As an SDET, you will work closely with our development teams to design, develop, and maintain automated test frameworks and ensure the delivery of high\\-quality software products.
-   
-
-  
-
-**What You Will Learn To Do**
-* Design, develop, and execute automated test scripts for web, mobile, and API applications.
-* Collaborate with developers and product teams to understand requirements and define test strategies.
-* Identify, document, and track defects using standard defect tracking tools.
-* Participate in code reviews and provide feedback on testability and quality aspects.
-* Develop and maintain test frameworks, tools, and continuous integration pipelines.
-* Ensure high\\-quality software delivery by applying best practices in testing and automation.
+"li-4360410545","linkedin","https://www.linkedin.com/jobs/view/4360410545","","Full Stack Web Developer","Bringletech Pvt Ltd","Mohpa, Maharashtra, India","","fulltime","","","","","",False,"entry level","","","","**Company Description** 
 
 
-**What We Look For**
-* Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.
-* Strong expertise in test automation frameworks (Selenium, Playwright, Cypress, Appium, JUnit, TestNG, PyTest, etc.).
-* Hands\\-on experience in programming/scripting using Python
-* Proven track record in testing SaaS\\-based enterprise products (preferably in large\\-scale, data\\-intensive domains).
-* Familiarity with cloud platforms (AWS/GCP/Azure) and CI/CD pipelines (Jenkins, GitHub Actions, CircleCI, etc.).
-* Familiarity with modern AI\\-assisted development tools, such as Cursor or similar, to accelerate automation/coding workflows.
-* Exposure to performance testing, security testing, and test data management.
-* Strong problem\\-solving skills and attention to detail.
 
 
-**What We Offer**
-* Opportunity to work in a fast\\-paced, innovative environment.
-* Exposure to cutting\\-edge technologies and tools.
-* Collaborative culture with learning and growth opportunities.
 
 
-**Eightfold Engineering Values**
- We are a team of self\\-starters who excel in their fields. We believe in giving you responsibility, not a task. We want you to have ownership and pride in the work you are doing, and see the positive impact of your work on your colleagues, our customers, and people around the world. We have a mindset of continuously improving. There is no detail that is beneath us, and we can dive into anything needed. We focus on executing fast and delivering value to our customers every single day. We believe in providing transparency and support, so you can do the best work of your career.
-   
-
-  
-
-**﻿Hybrid Work**
- At Eightfold, we believe our best work happens when we collaborate closely, learn from one another, and build together. We follow a hybrid work model that combines flexibility with a strong emphasis on in\\-person collaboration to foster innovation, culture, and rapid execution.
-   
-
-  
-
- Employees based near our Santa Clara, Bangalore, and Noida offices are expected to work from the office three days per week, as we believe regular in\\-person engagement is essential to how we build high\\-impact products and strong teams.
-   
-
-  
-
- Eightfold.ai provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, or disability.
-   
-
-  
-
- Experience our comprehensive benefits with family medical, vision and dental coverage, a competitive base salary, and eligibility for equity awards and discretionary bonuses or commissions.","Software Development","https://www.linkedin.com/company/eightfoldai","https://media.licdn.com/dms/image/v2/D4D0BAQEK4UopmBYukw/company-logo_100_100/B4DZiKzx6uHsAQ-/0/1754675486689/eightfoldai_logo?e=2147483647&v=beta&t=e12Q1N7LEZY07Yx9SHQDNNu1NYbxgRsZRfkVlu0uEdU","","","","","","","","","","",""
-"li-4353693857","linkedin","https://www.linkedin.com/jobs/view/4353693857","https://www.amrita.edu/job/ml-dl-r-d-engineer-amritapuri-campus/&urlHash=yJCu","ML/DL R & D Engineer @ Amritapuri Campus","Amrita Vishwa Vidyapeetham","Kollam, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Job Title ML/DL R \\& D Engineer Location Kollam, Kerala Qualification M.Tech in Computer Science Engineering (or equivalent), MCA or related degree focused on AI. Job description
-   
-
-  
-
-* Develop and implement adversarial attack techniques (e.g., FGSM, PGD, DeepFool) such as evasion, poisoning, model extraction, etc. to assess the robustness of AI models.
-* Research and develop novel methodologies for adversarial robustness evaluation.
-* Work closely with cybersecurity and AI researchers to identify vulnerabilities and propose mitigation strategies.
-* Optimize model evaluation frameworks for adversarial testing, leveraging tools such as Foolbox, CleverHans, and Adversarial Robustness Toolbox (ART).
-* Implement automated testing pipelines for continuous robustness assessment of ML models.
-* Conduct experiments to analyze model vulnerabilities and generate detailed reports on findings.
-* Ensure compliance with ethical standards and best practices in AI security research.
 
 
- Required Skills
-   
-
-  
-
-* Strong background in machine learning, deep learning, and fundamentals of adversarial attack techniques.
-* Proficiency in Python and deep learning frameworks such as TensorFlow and PyTorch.
-* Knowledge of security principles in AI/ML applications.
-* Familiarity with optimization techniques, gradient\\-based methods, and robust training strategies.
-* Excellent problem\\-solving and research skills.
-* Strong communication and collaboration skills.
-
-
- Job category Project Last date to apply January 30, 2026","Higher Education","https://in.linkedin.com/school/amrita-vishwa-vidyapeetham-official/","https://media.licdn.com/dms/image/v2/C510BAQGE9_7cyJ8-7g/company-logo_100_100/company-logo_100_100/0/1630595173751/amrita_vishwa_vidyapeetham_official_logo?e=2147483647&v=beta&t=jdaStdLf1kHRo0XogUOEriIrw9cIr2P7v2lRUz_kbtg","","","","","","","","","","",""
-"li-4353803281","linkedin","https://www.linkedin.com/jobs/view/4353803281","https://freecharge.ripplehire.com/candidate/?token=VyLXFFDrHXwyXNvOxfKv&lang=en&source=LINKEDIN&ref=LI02#detail/job/662342&urlHash=rmDW","Lead Software Development Engineer in Test - QA Auto","Freecharge","Gurugram, Haryana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Role description**
-
-**Location:** 
- Gurgaon (Hybrid Work Model)
-   
-
-  
-
-**Experience:** 
- 6–9 Years
+ Bringletech Pvt Ltd is a forward\\-thinking creative agency that blends technology, design, and strategy to empower brands to grow, innovate, and connect with their audiences. With expertise spanning branding, digital marketing, AI\\-driven development, full\\-stack development, 3D rendering, and staffing augmentation, Bringletech delivers scalable solutions tailored to real\\-world challenges. The company has successfully launched 150\\+ businesses and generated over 16,000 quality leads. Established with a vision of limitless innovation, Bringletech collaborates with startups and high\\-growth ventures to craft impactful solutions for sustainable growth.
  
 
 
+
   
 
-**About the Role** 
-  
 
 
- Freecharge is looking for a highly skilled
- **Lead SDET** 
- to drive quality engineering initiatives across our platforms. You will own the automation strategy, mentor QA engineers, and work closely with product, engineering, and DevOps teams to ensure scalable, reliable, and high\\-quality releases.
+
+
+**Role Description** 
+
+
+
+
+
+
+
+
+ This is a full\\-time on\\-site role for a Full Stack Web Developer located in Mohpa. The role includes designing, developing, testing, and deploying front\\-end and back\\-end solutions for web projects. The developer will work collaboratively with cross\\-functional teams to integrate features, manage databases, ensure optimal application performance, and address technical challenges. A proactive approach to problem\\-solving and adherence to industry best practices are key aspects of the position.
  
 
 
-  
-
-**Key Responsibilities** 
-  
 
   
-* Lead the design, development, and maintenance of robust automation frameworks for
- **UI, API, and system testing** 
- .
-  
-* Define and implement
- **automation strategy** 
- , test architecture, and best practices across teams.
-  
-* Drive
- **integration, regression, and end\\-to\\-end automated test suites** 
- for daily and release cycles.
-  
-* Mentor and guide SDET/QA engineers, conduct code reviews, and ensure high engineering standards.
-  
-* Collaborate with product managers, developers, and DevOps to embed quality early in the
- **SDLC and Agile processes** 
- .
-  
-* Ensure seamless
- **CI/CD integration** 
- of automated tests using Jenkins and related tools.
-  
-* Analyze test results, identify quality risks, and proactively improve test coverage and reliability.
-  
-* Own defect management, root cause analysis, and continuous process improvements.","Technology, Information and Internet","https://in.linkedin.com/company/freecharge-in","https://media.licdn.com/dms/image/v2/D560BAQHBfyBlNTrFng/company-logo_100_100/B56ZouGUIWKwAQ-/0/1761709999482?e=2147483647&v=beta&t=JiqlKCYzBWP_HY4vl4UAMDyXFtbFqX9lBqNOFU9uQp0","","","","","","","","","","",""
-"li-4360124720","linkedin","https://www.linkedin.com/jobs/view/4360124720","","Software Engineer, Senior","Infor","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","Performs implementation of new functionality, programming, bug corrections, release testing, and beta support which may require research and analysis. Operates under general supervision. Does not typically have management responsibilities such as hiring, firing, performance appraisals, and pay reviews; however, may assist with such decisions and activities
+
+
+
+
+
+**Qualifications** 
+
+
+
+
+
+
+
+* Proficiency in front\\-end technologies such as HTML, CSS, JavaScript, and frameworks like React or Angular
+* Strong back\\-end development skills in languages such as Node.js, Python, or Java and experience with frameworks like Django or Express.js
+* Experience in database technologies, including SQL and NoSQL databases
+* Understanding of RESTful API design and integration
+* Experience with cloud platforms such as AWS, Google Cloud, or Azure is a plus
+* Strong debugging, problem\\-solving, and code optimization skills
+* Ability to work in a collaborative on\\-site team environment
+* Bachelor’s degree in Computer Science, Software Engineering, or related field, or equivalent experience","IT Services and IT Consulting","https://in.linkedin.com/company/bringle-tech-pvt-ltd","https://media.licdn.com/dms/image/v2/D560BAQGJkd-VBJEjCg/company-logo_100_100/B56ZlSIqURKEAQ-/0/1758019627336?e=2147483647&v=beta&t=P-n55XV7cCNDi9QBPc3qytkBgN_AYKKAVg0GTLL0jU4","","","","","","","","","","",""
+"li-4360490015","linkedin","https://www.linkedin.com/jobs/view/4360490015","","Software Engineer - Model Risk Governance & Review - Analyst","hackajob","","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","***hackajob** 
+ is collaborating with
+ **J.P. Morgan** 
+ to connect them with exceptional tech professionals for this role.*
+**Job Description**
+ As a Software Engineer \\- Model Risk Governance \\& Review \\- Analyst in Model Risk Governance \\& Review (MRGR) team, you will be developing tools for MRGR Analytics to improve efficiency and reduce duplication of effort, including resource management and cost optimization tools. You will provide support for model reviewers and governance teams in building independent testing and efficiency tools. You will be delivering high\\-quality solutions by emphasizing the importance of data controls, testing, user experience and continuously seek input from users to align efforts with their objectives.
    
 
   
 
- Responsibilities:
-   
-
- \\* Performs moderately complex development, systems analysis and programming activities which may require some research and analysis:
-   
-
- \\* Performs development, implementation and maintenance of single modules/sub\\-systems.
-   
-
- \\* Prepares technical documentation of modules/sub\\-systems.
-   
-
- \\* Conducts unit testing and integration testing for functionality and limits.
-   
-
- \\* Assist with estimation and planning activities
-   
-
- \\* Participate in reviewing deliverables from other development teams, including designs, test plans, and documentation help identify and resolve gaps between requirements and technical design
-   
-
- \\* Performs moderately complex bug verification, release testing and beta support for assigned applications. Researches problems discovered by QA or application support and develop solutions to the problems.
-   
-
- \\* May assist in performing on\\-site client work on moderately complex applications.
-   
-
- \\* Researches and understands the marketing requirements for applications, including target environment, performance criteria and competitive issues.
-   
-
- \\* Research new technology or development tools to remain informed of current technology.
+ Bring your expertise to JPMorganChase. As part of Risk Management and Compliance, you are at the center of keeping JPMorganChase strong and resilient. MRGR is a global team of modeling experts within the firm’s Risk Management and Compliance organization. The team is responsible for conducting independent model validation and model governance activities to help identify, measure, and mitigate Model Risk in the firm. Within MRGR, the Chief Operating Office (COO) supports model risk stakeholders in their review and governance activities, and drives certain governance activities itself, with responsibility for: product ownership, process engineering and software development for model risk technology and analytics; model risk reporting; administration of oversight committees; project management of the review and governance pipeline; coordination of regulatory/audit deliverables including capital stress testing exercises; and general business management. Within COO, MRGR Analytics provides technology solutions for MRGR and its clients, assisting them in performing their tasks more efficiently, accurately, and with better control. Majority of the solutions are built within Athena (JPMorganChase’s proprietary framework using Python language), Tableau and QlikView/QlikSense frameworks.
    
 
   
 
- Qualifications:
-   
+**Job Responsibilities**
+* Develop tools to automate various tasks in the model governance and review lifecycle.
+* Build various dashboard reports to help manage the body of work that MRGR deals with.
+* Translate the existing business requirements in model risk management space into business applications using applied development work mostly in Python using in\\-house built Python framework.
+* Integrate Large Language Models (LLMs) into existing systems to enhance automation, reporting capabilities and decision\\-making processes.
+* Collaborate with cross\\-functional teams to identify opportunities for LLM integration and develop solutions that leverage LLM capabilities.
+* Build intelligent solutions to support the activities of MRGR staff.
 
- \\* Bachelor's degree or similar in software engineering or computer science.
-   
 
- \\* Typically requires a minimum of 5 years of technical experience in programming and support.
-   
+**Required Qualifications, Capabilities, And Skills**
+* A Bachelors or Masters degree in a Science, Technology, Engineering, or Mathematics discipline with significant exposure to computer programming.
+* Minimum 2 years of full stack application development.
+* Proficient in Python and knowledge of Tornado web framework / TypeScript / React required.
+* Good understanding of software architecture, object\\-oriented programming and design patterns.
+* Experience with integrating machine learning models, including LLMs, into enterprise applications.
+* Strong communication skills with the ability to interface with other functional areas in the firm on business requirements.
+* Risk and control mindset: ability to think critically, assess user needs and create design solutions to meet user needs.
 
- \\* Good technical knowledge in software development methodologies, design, programming and implementation.
-   
 
- \\* Good analytical and design skills at multiple product level.
-   
+**Preferred Qualifications, Capabilities, And Skills**
+* Experience in working with large data sets.
+* Exposure to LLM integration and deployment in real\\-world applications.
+* Strong UI/UX designing skills.
+* Experience in model risk management or financial services space.
 
- \\* Good skills in research and analysis, project planning and implementation.
-   
 
- \\* Good understanding of entire development process, including specification, documentation and quality assurance.
-   
-
- \\* Aware of business issues as they impact overall project plans.
-   
-
- \\* Good communications and interpersonal skills.
-   
-
- \\* Advanced PC skills.
-   
-
- \\* Helps to mentor less experienced employees in addition to fostering teamwork.
+**ABOUT US**
+ JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
    
 
   
 
- About Infor
+ We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
    
 
   
 
- Infor is where ambition meets impact. Join a global community of bold thinkers and innovators, where your expertise doesn’t just solve problems. it shapes industries, unlocks opportunities, and creates real\\-world impact for billions of people. At Infor, you’re not just building a career. you’re helping to build what’s next.
+**About The Team**
+ Our professionals in our Corporate Functions cover a diverse range of areas from finance and risk to human resources and marketing. Our corporate teams are an essential part of our company, ensuring that we’re setting our businesses, clients, customers and employees up for success.
    
 
   
 
- Infor is a global leader in business cloud software products for companies in industry specific markets. Infor builds complete industry suites in the cloud and efficiently deploys technology that puts the user experience first, leverages data science, and integrates easily into existing systems. Over 60,000 organizations worldwide rely on Infor to help overcome market disruptions and achieve business\\-wide digital transformation.
-   
-
-  
-
- For more information visit \\[1] www.infor.com
-   
-
-  
-
-  
-
- References
-   
-
-  
-
- Visible links
-   
-
- 1\\. https://www.infor.com/
-   
-
-  
-
- Our Values
-   
-
-  
-
- At Infor, we strive for an environment that is founded on a business philosophy called \\[1] Principle Based Management™ (PBM™) and eight Guiding Principles: integrity, stewardship \\& compliance, transformation, principled entrepreneurship, knowledge, humility, respect, self\\-actualization.
-   
-
-  
-
- We have a relentless commitment to a culture based on PBM™. Informed by the principles that allow a free and open society to flourish, PBM™ prepares individuals to innovate, improve, and transform while fostering a healthy, growing organization that creates long\\-term value for its clients and supporters and fulfillment for its employees.
-   
-
-  
-
- Infor is an Equal Opportunity Employer. We are committed to creating a diverse and inclusive work environment. Infor does not discriminate against candidates or employees because of their sex, race, gender identity, disability, age, sexual orientation, religion, national origin, veteran status, or any other protected status under the law. If you require accommodation or assistance at any time during the application or selection processes, please submit a request by following the directions located in the \\[2] FAQ section.
-   
-
-  
-
- Fraud Awareness
-   
-
-  
-
- We have been made aware of unauthorized individuals posing as Infor recruiters, including some who have made fraudulent offers of employment. Please read our \\[3] guidelines and protect yourself from recruitment scams.
-   
-
-  
-
- Fraud Privacy Policy
-   
-
-  
-
- We value your privacy at Infor. You may access our privacy policy \\[4] here.
-   
-
-  
-
-  
-
- References
-   
-
-  
-
- Visible links
-   
-
- 1\\. http://https//www.kochind.com/about/business\\-philosophy
-   
-
- 2\\. https://www.infor.com/about/careers/faq
-   
-
- 3\\. https://dam.infor.com/api/public/content/b45f298e1ab44b84ac898d759b2c21f7?v\\=3994f5e9
-   
-
- 4\\. https://www.infor.com/about/privacy","Software Development","https://www.linkedin.com/company/infor","https://media.licdn.com/dms/image/v2/D4D0BAQG79ZGnAM8hCQ/company-logo_100_100/company-logo_100_100/0/1709916374060/infor_logo?e=2147483647&v=beta&t=IoaaRd9JSh5GSMfiyuecY-gp4gnyQr_DEtGVm7-vQLs","","","","","","","","","","",""
-"li-4363739976","linkedin","https://www.linkedin.com/jobs/view/4363739976","","Engineer - Sys","Aptiv","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Workbench Engineer**
-**Wind River**
- In a world increasingly driven by software innovation, Wind River is pioneering the technologies to accelerate the digital transformation of our customers with a new generation of Mission Critical AI Systems in an AI\\-first world with the most exacting standards for safety, security, performance, and reliability. Success will be determined by our ability to innovate with velocity and sell at the solutions level.
-   
-
-  
-
- Wind River’s impact spans critical infrastructure domains such as telecommunications, including 5G; industrial (automation, sustainable energy, robotics, mining), connected healthcare and medical devices, automotive (connected and self\\-driving vehicles), and aerospace \\& defense. We were recognized by VDC Research in July 2020 as \\#1 in Edge Compute OS Platforms, overtaking Microsoft as the overall commercial leader. Wind River regularly wins industry recognitions for excellence in IoT security, cloud and edge computing, as well as 8 consecutive years as a “Top Work Place”. If you’re passionate about amplifying your impact on the world, in a caring, respectful culture with a growth mindset, come join us and help lead the way into the future of the intelligent edge!
-   
-
-  
-
-**About The Opportunity**
- The team you will represent is pivotal to develop high quality software in Real Time Operating System.
-   
-
-  
-
- Your contribution in this role will impact the success of Wind River and customers.
-   
-
-  
-
- The focus of this role is to deliver a modern and convenient development platform to debug/analyze software and improve quality.
-   
-
-  
-
-**Job Responsibilities :**
-* Support on WorkBench (Eclipse \\-based IDE) including plug\\-ins and its installation.
-* Work on Generating RPM(RedHat Pkg Mgr) from code
-* Develop on Manufacturing into WB installable (WorkBench load/binary)
-* Integrating WorkBench reference into Vxworks/HVP
-* Design software in flexible, extendable architecture.
-* Deliver high\\-quality and maintainable code and unit test.
-* Debug and troubleshoot your code.
-* Resolve problems reported from both internal and external customers.
-* Improving teams’ effectiveness by helping other team members
-
-
-**Your Background:**
-* Bachelor or master’s degree in CS/EE or related areas.
-* Java programming knowledge is a must with familiarity with Maven(Must be hands\\-on in both)
-* Capable of working on Jenkins for CI and Docker tools.
-* Good to have typescript/React experience.
-* Working Knowledge on Eclipse IDE platform.
-* Should have knowledge on creating plugin for Eclipse.
-* Skills in complex software architecture/design.
-* Good knowledge on Embedded System Design.
-* Good Reading/Writing/Oral English communication skills.
-* Very good teamwork spirit.
-* Experienced in agile development environment.
-* DevOps practices in software engineering.
-* Grow mindset in technology and person.
-* Teamwork spirit.
-
-
-**BENEFITS :**
-* Workplace Flexibility: Hybrid Work.
-* Medical insurance: Group Medical Insurance coverage.
-* Additional shared cost medical benefit in the form of reimbursements.
-* Employee Assistance Program.
-* Vacation and Time off: Employees are eligible for various types of paid time off.
-* Additional Time off’s – Birthday, Volunteer Time off, Wedding.
-* Wellness Benefits through Unmind
-* Carrot (Family \\-forming support)
-
-
- Privacy Notice \\- Active Candidates: https://www.aptiv.com/privacy\\-notice\\-active\\-candidates
-   
-
-  
-
- Aptiv is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability status, protected veteran status or any other characteristic protected by law.","Software Development","https://ch.linkedin.com/company/aptiv","https://media.licdn.com/dms/image/v2/D560BAQGLtw4KtfTUjw/company-logo_100_100/B56Zr73oY1JwAQ-/0/1765162256853/aptiv_logo?e=2147483647&v=beta&t=sXw6S2srN4jZtvMdQvmYZDdAwZcfBTWX587qWPWKu5Q","","","","","","","","","","",""
+ Risk Management helps the firm understand, manage and anticipate risks in a constantly changing environment. The work covers areas such as evaluating country\\-specific risk, understanding regulatory changes and determining credit worthiness. Risk Management provides independent oversight and maintains an effective control environment.","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D560BAQF6HYG6dvSK0Q/company-logo_100_100/company-logo_100_100/0/1683088716419/hackajob_logo?e=2147483647&v=beta&t=ZrLVrP8p4YgmECct6BRcAFp6DcEmFZGqFJoXL4JCKzA","","","","","","","","","","",""
 "li-4353823250","linkedin","https://www.linkedin.com/jobs/view/4353823250","","RAS Lead","AMD","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering","","","**WHAT YOU DO AT AMD CHANGES EVERYTHING**
  At AMD, our mission is to build great products that accelerate next\\-generation computing experiences—from AI and data centers, to PCs, gaming and embedded systems. Grounded in a culture of innovation and collaboration, we believe real progress comes from bold ideas, human ingenuity and a shared passion to create something extraordinary. When you join AMD, you’ll discover the real differentiator is our culture. We push the limits of innovation to solve the world’s most important challenges—striving for execution excellence, while being direct, humble, collaborative, and inclusive of diverse perspectives. Join us as we shape the future of AI and beyond.
  **Together, we advance your career.**
@@ -571,126 +266,6 @@
 *AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee\\-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third\\-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.*
 *AMD may use Artificial Intelligence to help screen, assess or select applicants for this position. AMD’s “Responsible AI Policy” is available here.*
 *This posting is for an existing vacancy.*","Semiconductor Manufacturing","https://www.linkedin.com/company/amd","https://media.licdn.com/dms/image/v2/D560BAQFCdxxVA_xhqQ/company-logo_100_100/B56ZnuIjafHUAU-/0/1760636844195/amd_logo?e=2147483647&v=beta&t=7sw3BjNNNSGV0P6imSg3j1KA9Z07vLBQjTYIMB-k8zI","","","","","","","","","","",""
-"li-4360311806","linkedin","https://www.linkedin.com/jobs/view/4360311806","","Salesforce","People Staffing Solutions","Pune, Maharashtra, India","","contract","","","","","",False,"mid-senior level","Consulting, Information Technology, and Other","","kriti.madan@peoplestaffing.in","* Understand salesforce architectural requirements and should be able to develop technical solution based on functional requirements
-* Responsible for application design, solution and development using Salesforce stack
-* Configure, Design and build high\\-performance, reusable, and reliable code, following coding standards and best practices
-* 6\\+ years of professional experience, with at least 4\\+ years in Salesforce
-* Successfully executed at least 2 Salesforce projects in agile mode end to end in a ‘Developer’ capacity
-* At least 3 years of hands\\-on technical experience in LWC, AURA, APEX
-* Hands on experience in Integrations using REST / SOAP / Bulk API etc.
-
-
-
-  
-
-
-
-
-
- Regards
- 
-
-
-
- Kriti
- 
-
-
-
- 9354235524
- 
-
-
-
- kriti.madan@peoplestaffing.in","IT Services and IT Consulting","https://in.linkedin.com/company/peoplestaffingsolutions","https://media.licdn.com/dms/image/v2/D4D0BAQHjf2RseijHVw/company-logo_100_100/company-logo_100_100/0/1696252792489?e=2147483647&v=beta&t=f5pVyWE8-GlbpDxpkuuK-mtMLXjWUDBhcONT7AXsSzU","","","","","","","","","","",""
-"li-4360212625","linkedin","https://www.linkedin.com/jobs/view/4360212625","","FIORI","People Staffing Solutions","Pune, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Analyst","","kriti.madan@peoplestaffing.in","Roles \\& Responsibilities:
- 
-
-
-
- \\- Expected to perform independently and become an SME.
- 
-
-
-
- \\- Required active participation/contribution in team discussions.
- 
-
-
-
- \\- Contribute in providing solutions to work related problems.
- 
-
-
-
- \\- Assist in the documentation of application processes and workflows.
- 
-
-
-
- \\- Engage in code reviews to ensure quality and adherence to best practices.
- 
-
-
-
-  
-
-
-
-
-
- Professional \\& Technical Skills:
- 
-
-
-
- \\- Must To Have Skills: Proficiency in SAP UI5 Development.
- 
-
-
-
- \\- Strong understanding of JavaScript and its frameworks.
- 
-
-
-
- \\- Experience with HTML5 and CSS3 for front\\-end development.
- 
-
-
-
- \\- Familiarity with SAP Fiori design principles.
- 
-
-
-
- \\- Ability to troubleshoot and debug applications effectively.
- 
-
-
-
-  
-
-
-
-
-
- Regards
- 
-
-
-
- Kriti
- 
-
-
-
- 9354235524
- 
-
-
-
- kriti.madan@peoplestaffing.in","IT Services and IT Consulting","https://in.linkedin.com/company/peoplestaffingsolutions","https://media.licdn.com/dms/image/v2/D4D0BAQHjf2RseijHVw/company-logo_100_100/company-logo_100_100/0/1696252792489?e=2147483647&v=beta&t=f5pVyWE8-GlbpDxpkuuK-mtMLXjWUDBhcONT7AXsSzU","","","","","","","","","","",""
 "li-4280223867","linkedin","https://www.linkedin.com/jobs/view/4280223867","","Azure Developer (NET Custom Web Dev & Logic Apps)","Astellas Pharma","Bengaluru, Karnataka, India","","fulltime","","","","","",True,"not applicable","Engineering and Information Technology","","","Do you want to be part of an inclusive team that works to develop innovative therapies for patients? Every day, we are driven to develop and deliver innovative and effective new medicines to patients and physicians. If you want to be part of this exciting work, you belong at Astellas!
    
 
@@ -780,7 +355,175 @@
   
 
  EOE including Disability/Protected Veterans","Biotechnology Research, Pharmaceutical Manufacturing, and Research Services","https://www.linkedin.com/company/astellaspharmainc","https://media.licdn.com/dms/image/v2/D560BAQG8NZ0gIdqSXA/company-logo_100_100/company-logo_100_100/0/1688136522004/astellaspharmainc_logo?e=2147483647&v=beta&t=NzYSAQavy1Q_UUf2QqlNL0O8bXv-ya5OqqYauz0nFwc","","","","","","","","","","",""
-"li-4364250065","linkedin","https://www.linkedin.com/jobs/view/4364250065","","Tech Lead","SANeForce","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
+"li-4353733456","linkedin","https://www.linkedin.com/jobs/view/4353733456","","Cross Platform Developer","RGB Web Tech - Web Design, Web Development, Digital Marketing, PPC and App Development Company","Chandigarh, Chandigarh, India","","fulltime","","","","","",False,"internship","Engineering and Information Technology","","","A Cross\\-Platform Developer is responsible for creating and maintaining software applications that can run on multiple operating systems and platforms, such as iOS, Android, Windows, and macOS. This role requires a deep understanding of mobile and desktop development frameworks, as well as proficiency in coding languages like JavaScript, React Native, Flutter, Xamarin, or other cross\\-platform development tools. The Cross\\-Platform Developer collaborates closely with a multidisciplinary team to design, develop, and deploy applications that provide a seamless user experience across various devices.
+   
+
+  
+
+ Discover more
+   
+
+  
+
+ testing
+   
+
+  
+
+ Cross Platform
+   
+
+  
+
+ Software
+   
+
+  
+
+ Mobile app
+   
+
+  
+
+ software
+   
+
+  
+
+ applications
+   
+
+  
+
+ software development
+   
+
+  
+
+ Software Testing
+   
+
+  
+
+ Cross\\-platform software
+   
+
+  
+
+ application
+   
+
+  
+
+**Key Responsibilities**
+* Develop cross\\-platform mobile and desktop applications using frameworks like React Native, Flutter, Xamarin, or other relevant tools.
+* Ensure the codebase is clean, well\\-documented, and easily maintainable. Perform regular code reviews and updates to address bugs and improve performance.
+* Ensure that the applications are optimized for various platforms and devices, including smartphones, tablets, and desktop computers.
+* Collaborate with UI/UX designers to implement user\\-friendly interfaces and intuitive user experiences that meet the needs of the target audience.
+* Integrate APIs, third\\-party libraries, and external services into the applications to enhance functionality and provide a seamless user experience.
+* Conduct thorough testing, including unit testing, integration testing, and user acceptance testing, to identify and resolve issues, ensuring a stable and error\\-free application.
+* Optimize the application's performance and responsiveness, addressing issues related to speed, responsiveness, and resource consumption.
+* Implement security best practices to protect user data and application integrity, including data encryption, secure authentication, and vulnerability assessments.
+* Utilize version control systems (e.g., Git) to manage and track code changes, collaborate with team members, and ensure code integrity.
+* Maintain comprehensive documentation of the codebase, project specifications, and development processes to facilitate knowledge sharing and future development.
+* Keep up\\-to\\-date with the latest cross\\-platform development trends, tools, and technologies to ensure the application remains competitive and technologically advanced.
+* Work closely with other developers, designers, product managers, and stakeholders to understand project requirements and deliver high\\-quality software solutions.
+
+
+**Qualifications**
+* Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent work experience).
+* Proven experience in cross\\-platform development, with proficiency in relevant frameworks and languages.
+* Strong problem\\-solving skills and the ability to troubleshoot technical issues.
+* Familiarity with mobile and desktop application design principles and UI/UX best practices.
+* Knowledge of software development methodologies and best practices.
+* Excellent communication and teamwork skills.
+* Detail\\-oriented with a strong commitment to quality.
+* Adaptability and willingness to learn new technologies and tools.
+* Familiarity with Agile or Scrum development methodologies is a plus.
+
+
+**Additional Information**
+* The Cross\\-Platform Developer role plays a crucial part in the development of applications that can reach a wide range of users across different platforms.
+* Successful candidates should be passionate about creating high\\-quality, user\\-friendly software and stay updated with emerging technologies in the cross\\-platform development space.
+* The position offers opportunities for growth and collaboration within a dynamic and innovative development team.
+
+
+**Benefits**
+* Benefit from invaluable mentorship provided by seasoned leaders.
+* Enjoy a vibrant atmosphere enriched with engaging games and activities.
+* Receive quarterly rewards as a token of recognition for your valuable contributions.
+* Immerse yourself in a creative and open culture that fosters innovation.
+
+
+**Job Type**
+* Full\\-time / Freelance / Part\\-time / Contract
+
+
+**Experience**
+* A minimum duration of 6 months is mandatory.
+* In case of no prior experience, you have the option to apply for an internship.
+
+
+ Location:
+   
+
+  
+
+* Chandigarh (U.T.) India
+
+
+ Cross Platform Developer
+   
+
+  
+
+ If this job matches your profile, we encourage you to share your CV and become part of our dynamic team, where innovation and growth are at the core of everything we do. If you think this opportunity could benefit others, feel free to share it on your social media—because sharing is caring!
+   
+
+  
+
+ Apply NOW!
+   
+
+  
+
+ Written by RGB Web Tech
+   
+
+  
+
+ Job Opportunities in Tech \\& Digital Fields
+   
+
+  
+
+ Career opportunities for Web Designers, Web Developers, Digital Marketing Experts, and App Developers. Join innovative teams, work on cutting\\-edge projects, and grow your skills in high\\-demand fields. Whether you are creative or technical, these roles offer excellent growth prospects and the chance to shape the digital future.
+   
+
+  
+
+ Mobile App Developer Job
+   
+
+  
+
+* Android Developer
+* iOS Developer
+* windows app developer
+* Flutter Developer
+* Xamarin Developer
+* Front End Mobile Developer
+* Back End Mobile Developer
+* Game Developer
+* Cross Platform Developer
+* Native App Developer
+* Hybrid App Developer
+* Ecommerce Developer
+* Augmented Reality Developer
+* Virtual Reality Developer
+* Mobile App Tester
+* Product Manager","Information Technology & Services","https://in.linkedin.com/company/rgbwebtech","https://media.licdn.com/dms/image/v2/C4D0BAQGJ660uJLletw/company-logo_100_100/company-logo_100_100/0/1645022489372/rgbwebtech_logo?e=2147483647&v=beta&t=2FB9QgPLq3pZnA-hWFE8Lpa5y5YtLWt6dNOe97svUaM","","","","","","","","","","",""
+"li-4364250065","linkedin","https://www.linkedin.com/jobs/view/4364250065","https://saneforce.snaphunt.com/job/6XKYVNT08L?source=linkedin&urlHash=zkf5","Tech Lead","SANeForce","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
  Location: Chennai (Onsite) Experience: 6 – 10 Years Company: Product\\-based / SaaS Organization Hiring Partner: 2Grow HR
    
 
@@ -821,234 +564,30 @@
 * Experience working in a Product\\-based or SaaS environment
 * Strong problem\\-solving and analytical skills
 * Excellent communication and leadership abilities","IT Services and IT Consulting","https://in.linkedin.com/company/saneforce-pharma-sfa","https://media.licdn.com/dms/image/v2/C4D0BAQGLV2MX2Xua_w/company-logo_100_100/company-logo_100_100/0/1653372196528/saneforce_com_logo?e=2147483647&v=beta&t=jW9nEGMT_l-71uSIiuTUdQhoB3PN1kqPiEqeA_UyoMQ","","","","","","","","","","",""
-"li-4363849816","linkedin","https://www.linkedin.com/jobs/view/4363849816","","Sr Engineer - Android","Target","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**About Us:**
- As a Fortune 50 company with more than 400,000 team members worldwide, Target is an iconic brand and one of America's leading retailers. Target in India operates as a fully integrated part of Target’s global team and has more than 4,000 team members supporting the company’s global strategy and operations.
+"li-4353883059","linkedin","https://www.linkedin.com/jobs/view/4353883059","","Flutter Internship","Last Minutes Deal","","","internship","","","","","",True,"internship","Education and Training","","","**Company Description**
+  
+
+ Last Minutes Deal, powered by We Twwios Technologies Pvt Ltd, addresses the global issues of resource inefficiencies and climate impact by offering solutions for surplus consumer products and service waste. Our platform consolidates last\\-minute deals on essential products, hotel rooms, buffet dining, and event seats, enabling businesses to minimize waste, optimize inventory, and increase revenue while aligning with sustainability initiatives. By boosting visibility and access, we help businesses in sectors like retail, hospitality, and entertainment reduce reliance on foot traffic and achieve resource conservation. Supporting global climate action goals, we focus on enhancing business profitability and the efficient use of inventory.
    
 
   
 
-**Tech Overview**
- Every time a guest enters a Target store or browses Target.com, they experience the impact of Target’s investments in technology and innovation. We’re the technologists behind one of the most loved retail brands, delivering joy to millions of our guests, team members, and communities.
+**Role Description**
+  
+
+ We are seeking a motivated candidate for a remote full\\-time Flutter Internship role. Candidates will get certificate not stipend during the internship 3 month period.intern will participate in designing, developing, and testing mobile applications using the Flutter framework. Responsibilities include assisting in UI/UX development, debugging issues, maintaining and improving application performance, and collaborating with cross\\-functional teams to meet project goals. The ideal candidate will work closely with developers and designers to deliver seamless and functional applications that align with user and project requirements.
    
 
   
-
- Join our global in\\-house technology team of more than 4,000 of engineers, data scientists, architects, coaches and product managers striving to make Target the most convenient, safe and joyful place to shop. We use agile practices and leverage open\\-source software to adapt and build best\\-in\\-class technology for our team members and guests—and we do so with a focus on diversity and inclusion, experimentation and continuous learning.
-   
-
-  
-
-**Pyramid Overview**
- Target.com and Mobile translates the in\\-store experience our guests love to the digital environment. Our Mobile Engineers develop native apps like Cartwheel and Target’s flagship app, which are high\\-impact and high\\-visibility assets that are game\\-changers for literally millions of guests. Here, you’ll get to explore emerging retail and mobile technologies, playing a key role in revolutionary product launches with tech giants like Apple and Google. You’ll be a visionary for the future of Target’s app ecosystem. You’ll have the advantage of Target’s unmatched brand recognition and special marketplace foothold—making us the partner of choice for innovative technologies like indoor mapping, iBeacons and Apple Pay. You’ll help Target evolve by using the latest open source tools and technologies and staying true to strong agile practices. You’ll lend your passion for engineering technologies that fix problems and meet needs guests didn’t even know they had. You’ll work on autonomous teams and incorporate the newest technical practices. You’ll have the chance to perform by writing rock\\-solid code that stands up to our massive scale. Plus, and perhaps best of all, you’ll have the right balance of self\\-rule and accountability for how technical products perform.
-   
-
-  
-
-**What You Will Do**
- As a Senior Android Engineer on the Flagship mobile team, you will:
-   
-
-  
-
-* Develop clean, well\\-tested native Android code to deliver functionality that meets business objectives.
-* Improve code structure and architecture in service of testability, observability, and maintainability.
-* Work closely with partner teams \\- QA, UX, A11Y, Product \\- as needed
-* Perform complex engineering tasks independently as well as collaboratively.
-* Manage complex cross\\-team coordination and dependencies.
-* Evaluate and communicate different engineering solutions and trade\\-offs.
-
-
- Core responsibilities of this job are described within this job description. Job duties may change at any time due to business needs.
-   
-
-  
-
-**What You Will Need**
-* 5\\+ years of experience in software design \\& development with 3\\+ years of experience in developing apps for android.
-* Experience developing in Kotlin.
-* Demonstrates broad and deep expertise in Java/Kotlin and frameworks. Designs, develops, and approves end\\-to\\-end functionality of a product line, platform, or infrastructure.
-* Communicates and coordinates with project team, partners, and stakeholders.
-* Demonstrates expertise in analysis and optimization of systems capacity, performance, and operational health.
-* Maintains deep technical knowledge within areas of expertise.
-* Stays current with new and evolving technologies via formal training and self\\-directed education.
-* Experience integrating with third party frameworks tools and SDKs, such as Retrofit, OKHttp, Moshi and Glide.
-* Excellent hands\\-on skills with Android application development tools, including Android Studio, Android SDK and ADT.
-
-
-**Know More About Us Here**
-**Life at Target\\-** 
-**https://india.target.com/**
-**Benefits\\-** 
-**https://india.target.com/life\\-at\\-target/workplace/benefit**
-**Culture\\-** 
-**https://india.target.com/life\\-at\\-target/belonging**","Retail","https://www.linkedin.com/company/target","https://media.licdn.com/dms/image/v2/D560BAQHfraZi4OL2wQ/company-logo_100_100/B56ZsOsST9G4AU-/0/1765478049327/target_logo?e=2147483647&v=beta&t=E6AlSSKF3gEY8CGkiDq8hiIDqm94ifTRwkU_qpO96s8","","","","","","","","","","",""
-"li-4363739900","linkedin","https://www.linkedin.com/jobs/view/4363739900","","Unified Collaboration Engineer","Resmed","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Global Technology Solutions (GTS) at ResMed is a division dedicated to creating innovative, scalable, and secure platforms and services for patients, providers, and people across ResMed. The primary goal of GTS is to accelerate well\\-being and growth by transforming the core, enabling patient, people, and partner outcomes, and building future\\-ready operations.
-   
-
-  
-
- The strategy of GTS focuses on aligning goals and promoting collaboration across all organizational areas. This includes fostering shared ownership, developing flexible platforms that can easily scale to meet global demands, and implementing global standards for key processes to ensure efficiency and consistency.
-   
-
-  
-
-**About The Team**
- Unified Collaboration Service team is responsible for designing, implementing, and supporting the collaboration and communication platforms that connect Resmed's global workforce. We manage the technologies that enable seamless communication, from Microsoft Teams and Exchange to telephony systems and compliance tools. We focus on delivering reliable, integrated communication experiences while ensuring data governance and regulatory compliance. By partnering with business units, security, and infrastructure teams, we enable effective collaboration across time zones and empower teams to work efficiently in hybrid environments.
-   
-
-  
-
-**About The Role**
- As a
- **Unified** 
-**Collaboration Engineer** 
- , you'll independently manage and optimize Resmed's collaboration ecosystem—Microsoft Teams, Exchange Online / Hybrid , Teams Telephony, Microsoft Purview. You'll resolve complex technical issues, lead implementation projects, and contribute to strategic improvements of our communication and employee experience platforms. This specialist role requires you to apply company policies and best practices to solve moderate to complex problems with minimal supervision. You'll collaborate across teams, contribute to technical analysis and reporting, and help shape the evolution of our unified communications and digital workplace strategy.
-   
-
-  
-
-**Responsibilities**
-**Advanced Platform Administration**
-* Independently manage Microsoft Teams environments including governance, policies, and advanced configurations
-* Design and implement Exchange Online solutions for complex mail routing and compliance requirements with Hybrid architecture
-* Configure and optimize Teams Telephony including auto attendants, call queues, and voice routing policies
-* Maintain Microsoft Purview compliance solutions including retention policies
-* Understanding on Cisco Telephony system and ready to be sunset (retired)
-
-
-**Compliance \\& Governance Management**
-* Support data retention policies implementation across communication platforms
-* Manage eDiscovery processes and support legal/compliance requests
-* Configure and maintain information protection policies
-* Conduct compliance audits and generate regulatory reports
-
-
-**Complex Problem Resolution**
-* Resolve escalated issues across UC and Exchange platforms requiring in\\-depth analysis
-* Perform root cause analysis for recurring problems and implement permanent fixes
-* Coordinate with Microsoft support for premier\\-level issues
-* Lead incident response for UC\\-related outages and service degradations
-
-
-**Stakeholder Collaboration**
-* Partner with business units to understand communication requirements
-* Present technical solutions to non\\-technical stakeholders
-* Collaborate with security team on UC security posture
-* Work with network team to ensure voice quality and reliability
-
 
 **Qualifications**
-**Required**
-* Bachelor’s degree in IT, Computer Science, or equivalent experience
-* 5\\+ years of experience in Microsoft 365 administration or Unified Communications
-* Strong expertise in Microsoft Teams, Exchange Online, and SharePoint Online
-* Solid understanding of Hybrid Active Directory and Exchange environments
-* Proficiency in PowerShell scripting and automation
-* Strong analytical, problem\\-solving, and communication skills
-
-
-**Preferred**
-* Experience with Microsoft Teams Phone System and Direct Routing
-* Knowledge of Microsoft Purview Compliance Center (SC\\-400 / SC\\-401\\)
-* Experience with Hybrid Exchange architectures
-* Microsoft 365 certifications (MS\\-700, MS\\-203\\)
-* Familiarity with JIRA and Agile methodologies
-* Experience in regulated industries or healthcare
-
-
-**Technical \\& Functional Competencies**
-* Advanced Microsoft 365 administration and troubleshooting
-* PowerShell automation and scripting
-* Voice and telephony systems (Teams, Cisco, NICE inContact)
-* Compliance, data governance, and eDiscovery
-* Project execution, technical documentation, and solution design
-
-
-**Core Behavioral Competencies**
-* Domain Expertise: Resolves complex UC and digital workplace issues; applies governance and best practices
-* Influence \\& Communication: Collaborates effectively across IT and business teams; drives adoption through training and engagement
-* Critical Thinking: Balances productivity, privacy, and compliance; delivers data\\-driven, business\\-aligned solutions
-
-
- Joining us is more than saying “yes” to making the world a healthier place. It’s discovering a career that’s challenging, supportive and inspiring. Where a culture driven by excellence helps you not only meet your goals, but also create new ones. We focus on creating a diverse and inclusive culture, encouraging individual expression in the workplace and thrive on the innovative ideas this generates. If this sounds like the workplace for you, apply now! We commit to respond to every applicant.","Software Development, IT Services and IT Consulting, and Medical Equipment Manufacturing","https://www.linkedin.com/company/resmed","https://media.licdn.com/dms/image/v2/D4E0BAQHQn2mIzEBL3w/company-logo_100_100/B4EZWq1v43HUAc-/0/1742327971764/resmed_logo?e=2147483647&v=beta&t=m-tptPyW1Tlc6Rs8wAms_3am-J5I7X4TjjHgMqtvfFo","","","","","","","","","","",""
-"li-4363779941","linkedin","https://www.linkedin.com/jobs/view/4363779941","https://lixil.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-ecdffc5aed2a/candidate/so/pm/1/pl/3/opp/635-Senior-Application-Specialist-OTC/en-GB&urlHash=9X_d","Senior Application Specialist OTC","LIXIL","Gurugram, Haryana, India","","fulltime","","","","","",True,"mid-senior level","Information Technology","","","IMEA (India, Middle East, Africa)
-   
-
   
 
- India
-   
-
-  
-
- LIXIL INDIA PVT LTD
-   
-
-  
-
- Employee Assignment
-   
-
-  
-
- Fully remote possible
-   
-
-  
-
- Full Time
-   
-
-  
-
- 7 December 2025
-   
-
-  
-
-**Position Title** 
- : Senior Application Specialist OTC
- **Department** 
- : IT/Digital – OTC
-   
-
-  
-
-**Career Path Level:** 
- Senior Reports to: Workstream Leader
-   
-
-  
-
-**Position Purpose**
- The Senior Application specialist plays a key role in ensuring the stability, quality, and strategic evolution of IT systems and processes. With significant experience and deep domain knowledge, the Senior Application specialist takes ownership of complex technical or functional areas, mentors less experienced colleagues, and drives solution design and continuous improvement initiatives. This role serves as a bridge between operational execution and architectural thinking, providing leadership within projects and a trusted point of contact for business or technical counterparts.
-   
-
-  
-
-**Position Summary:** 
- As a Senior Application specialist, you are a recognized expert in your IT domain. You independently manage and deliver complex initiatives, resolve critical issues, and ensure that solutions align with business needs and IT standards. Your work is both hands\\-on and strategic: balancing delivery with system improvement, business engagement, and peer development. Collaboration across functions, regions, and stakeholder groups is essential to your role.
-   
-
-  
-
-**Key Responsibilities**
-* Take proactive ownership of complex system areas, developments, or processes with minimal supervision within your area of expertise, cross functionally and together with internal and external stakeholders.
-* Serve as subject matter expert in your domain; provide advanced support and solution guidance
-* Design, implement, and optimize processes or system changes aligned with strategic goals and based on business objectives, user needs, and regulatory requirements.
-* Mentor and support junior and mid\\-level colleagues through structured guidance and coaching.
-* Actively contribute to project planning, scoping, and design activities; represent IT in business\\-facing discussions.
-* Ensure adherence to industry and system standards, documentation, and compliance requirements.
-
-
-**General Requirements**
-* Master’s degree in System Engineering, Information Technology, or a related field
-* Minimum of eight years hands\\-on experience in your field of expertise.
-* Proven ability to lead complex initiatives independently, such as large scale projects and drive results.
-* Demonstrated leadership in process improvement, problem\\-solving, or technical advancement.
-* Strong communication skills in English, both verbal and written; able to clearly convey technical concepts to non\\-technical stakeholders.
-* Ability to collaborate effectively in cross\\-functional and international teams.
-* Can support and mentor others and contribute to team development and knowledge sharing. Growth Expectations:
-
-
- Senior Application specialists are expected to demonstrate influence beyond their immediate team, consistently deliver high\\-quality outcomes, and take initiative in strategic or cross\\-team programs. Growth from Senior to Solution Architect is marked by a shift from deep expertise to broader architectural vision, proactive business engagement, and a leadership role in shaping future IT solutions.","Manufacturing","https://jp.linkedin.com/company/lixil-global","https://media.licdn.com/dms/image/v2/C560BAQGKjb4f79VE-Q/company-logo_100_100/company-logo_100_100/0/1631393781009?e=2147483647&v=beta&t=_CfL0PxSQ4DuOLURuThFoKxRAI0BKYyGXCWYLa42i4k","","","","","","","","","","",""
+* Proficiency in Flutter framework and Dart programming language
+* Understanding of mobile app development, including UI/UX design principles
+* Basic knowledge of API integration and third\\-party libraries
+* Experience with debugging and troubleshooting application issues
+* Ability to collaborate effectively in a team environment and strong problem\\-solving skills
+* Enthusiasm for continuous learning and staying updated with new technologies
+* Currently pursuing or recently completed a degree in Computer Science, Software Engineering, or a related field
+* Prior experience with mobile app development (internship, projects, or personal efforts) is a plus","Retail","https://in.linkedin.com/company/last-minutes-deal","https://media.licdn.com/dms/image/v2/D4E0BAQHarkSc-i1EMQ/company-logo_100_100/company-logo_100_100/0/1729799375970/last_minutes_deal_logo?e=2147483647&v=beta&t=CJAhHQ7IkZhIIcXhcQpP7-0Nr9TigUOJrhrF4iOfD5E","","","","","","","","","","",""
