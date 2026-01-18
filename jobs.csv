@@ -1,119 +1,24 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4358318290","linkedin","https://www.linkedin.com/jobs/view/4358318290","","Sr Software Engineer - ReactJS, Typescript & CSS","Blue Yonder","Hyderabad, Telangana, India","","fulltime","","","","","",False,"not applicable","Management, Information Technology, and Engineering","","","**Scope**
-* BY Portal is the front door for multiple products. It’s a TypeScript/React micro\\-frontend environment backed by a fleet of Node.js/Express services behind an API gateway
-* The role requires both hands\\-on development and architectural leadership, ensuring scalable and future\\-ready implementations inside an gile structure following a CI/CD pipeline
-* The individual will be responsible for end\\-to\\-end solution design, module implementation, and technical governance across all the repositories used by Portal. Besides this, candidate must ensure a correct collaboration with multiple stakeholders across the globe
-* The position involves enabling automation, process optimization, and platform innovation while guiding stakeholders and junior team members.
-
-
-**Technical Environment**
-* Frontend: TypeScript, React, MUI4/5, shadcn, Tailwind, Storybook, MFEs (iframe and module federation).
-* Services: Node.js, Express (some Nest), REST APIs, webhooks, async jobs where it fits.
-* Data: MongoDB Atlas v7→v8, schema design, indexing, migrations, some Postgres/Snowflake.
-* CI/CD: GitHub Actions, environment protections, SBOM, CodeQL/SAST, automated rollbacks.
-* Runtime: containers on Azure Kubernetes via an internal Blue Yonder platform.
-* Observability: OpenTelemetry, ELK/Kibana, Azure App Insights, actionable alerting.
-* Testing: Jest/Vitest, contract testing, WebdriverIO \\+ Sauce (E2E and visual), BlazeMeter for PSR.
-* Delivery: feature flags, gradual rollouts, canary and blue/green.
-
-
-**What You’ll Do**
-* Design \\& Architect
-+ Design, develop, and maintain scalable, responsive, and user\\-friendly front\\-end applications using React and TypeScript.
-+ Translate business and ITIL requirements into robust Portal designs.
-+ Establish coding standards, reusability patterns, and best practices.
-+ Build a resilient test strategy: unit and contract tests, reliable E2E, visual baselines, PSR gates in CI.
-+ Partner with PM and Design to slice work by customer value and measure impact after release.
-
-* Develop \\& Deliver
-+ Build a resilient test strategy: unit and contract tests, reliable E2E, visual baselines, PSR gates in CI
-+ Configure workflows, catalog items, client/server scripts, UI policies, and business rules.
-+ Build and support complex integrations with enterprise systems.
-+ Develop automation solutions using Flow Designer, IntegrationHub, and Orchestration.
-+ Be a CSS wizard inside the team: deep knowledge of cutting end technologies like Tailwind, headless components, AI generated UI and Radix. We don't only want our product to works smoothly but to look amazing.
-
-* Guide \\& Govern
-+ Provide technical leadership to developers and consultants.
-+ Lead blameless incident reviews. Fix root causes and land durable guardrails.
-+ Review solutions for scalability, maintainability, and performance optimization.
-+ Lead technical workshops and design sessions with stakeholders.
-+ Coach engineers across time zones. Pair often, give crisp reviews, and turn hard problems into teachable moments.
-
-* Operate \\& Optimize
-+ Ship production code weekly across Portal MFEs (TypeScript/React) and Node.js/Express services.
-+ Maintain and evolve REST APIs: clear contracts, versioning, idempotency, safe rollouts, and deprecation plans.
-+ Maintain performance end\\-to\\-end: Core Web Vitals in the browser, p95/p99latency and throughput on services
-+ Maintain MongoDB Atlas performance: pragmatic schema and index design, query shaping, migrations, TTL, performance diagnostics.
-+ Strengthen CI/CD: reusable GitHub Actions, environment protections, SBOM, CodeQL/SAST, quality gates
-+ Ensure platform stability during upgrades and releases.
-+ Implement monitoring, performance tuning, and operational best practices.
-+ Contribute to governance, compliance, and platform roadmaps.
-
-
-**What We Are Looking For**
-* Bachelor's degree in Computer Science, Information Systems, or equivalent experience.
-* 5\\+ years of professional work experience.
-* Experience with automated testing teschnologies
-* Advanced CSS expertise including modern layout techniques, animations, transitions, and responsive design approaches.
-* Proved experience working with CSS at the most granular level
-* Experience with Tailwind, Radix, Headless UI component and composition patterns
-* Experience developing intelligent, Agentic user interfaces that leverage AI/ML capabilities to enhance user experience.
-* Experience with Agile development (Scrum, XM, or Kanban).
-* Experience with DevOps methodologies.
-* Proficient in developing distributed applications on platforms like Azure, AWS, or GCP.
-* Proficient with Git and version control tools.
-* Familiarity with design patterns and build tools (npm, Yarn, Gradle).
-* Proficiency in React.js and related tools such as Redux, Context API, or React Query.
-* Strong understanding of Node.js, including building RESTful APIs or GraphQL services.
-* Experience with building and maintaining CI/CD pipelines, particularly with GitHub Actions.
-
-
-**Our Values**
- If you want to know the heart of a company, take a look at their values. Ours unite us. They are what drive our success – and the success of our customers. Does your heart beat like ours? Find out here: Core Values
-   
-
-  
-
- All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.","Software Development, IT Services and IT Consulting, and Information Services","https://www.linkedin.com/company/blueyonder","https://media.licdn.com/dms/image/v2/D560BAQFiDXXuM80LbQ/company-logo_100_100/company-logo_100_100/0/1715093188007/blueyonder_logo?e=2147483647&v=beta&t=_KgNIoeFQWR-7P5i9WYiAG7rM2Sn4FwcSrx-PILTifk","","","","","","","","","","",""
-"li-4360410255","linkedin","https://www.linkedin.com/jobs/view/4360410255","","Software Engineer (Cache Developer)","symplr","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","To design, develop, and maintain efficient applications using the InterSystems Cache database, ensuring optimal performance, seamless data management, and integration, while continuously optimizing queries, ensuring data consistency, and supporting the system’s scalability and reliability.
-   
-
-  
-
-**Duties \\& Responsibilities**
-* Application Development \\& Maintenance:
-
-
- Develop, implement, and maintain applications using InterSystems Cache, focusing on writing efficient ObjectScript code and integrating with existing systems.
-   
-
-  
-
-* Performance Tuning \\& Query Optimization: Optimize SQL queries and ObjectScript code to improve database performance, reduce latency, and ensure efficient data retrieval.
-* Troubleshooting \\& Issue Resolution: Identify and resolve issues in production environments, including database performance, application bugs, and data inconsistencies.
-* Data Consistency \\& Cache Management: Ensure data consistency across the Cache database and external systems by implementing caching strategies, handling cache invalidation, and ensuring synchronization.
-* Collaboration \\& Support: Collaborate with cross\\-functional teams (developers, testers, system administrators) to implement and support solutions, while assisting junior developers with technical challenges.
-
-
-**Skills Required**
-* InterSystems Cache Object Script/Cache Objects.
-* Experience in Cache SQL
-* Prior experience developing software for the regulatory environment in healthcare is strongly desired
-
-
-**Qualifications Required**
-* Bachelor’s degree (B.A.) from four\\-year college or university, or equivalent combination of education and experience.
-* 6\\+ years of experience in Intersystem’s Cache Development using ObjectScript / Cache Objects","Software Development","https://www.linkedin.com/company/symplr","https://media.licdn.com/dms/image/v2/D4E0BAQEugoRcwd_QtA/company-logo_100_100/B4EZUErGI3HMAQ-/0/1739540161402/symplr_logo?e=2147483647&v=beta&t=T0t_f9PeOdwb9O4u5EwWYoGrCVKJyAgK7xrlE1UJjnc","","","","","","","","","","",""
-"li-4360410545","linkedin","https://www.linkedin.com/jobs/view/4360410545","","Full Stack Web Developer","Bringletech Pvt Ltd","Mohpa, Maharashtra, India","","fulltime","","","","","",False,"entry level","","","","**Company Description** 
+"li-4364250177","linkedin","https://www.linkedin.com/jobs/view/4364250177","","Fluent Commerce Engineer","TTC Group","","","contract","","","","","",True,"mid-senior level","Consulting","","","**Location:** 
+ Remote
+ 
 
 
 
+**Job Type:** 
+ Contract
+ 
 
 
 
+**Working hours** 
+ : 12\\.30 \\- 8\\.30pm IST (Monday \\- Friday)
+ 
 
 
- Bringletech Pvt Ltd is a forward\\-thinking creative agency that blends technology, design, and strategy to empower brands to grow, innovate, and connect with their audiences. With expertise spanning branding, digital marketing, AI\\-driven development, full\\-stack development, 3D rendering, and staffing augmentation, Bringletech delivers scalable solutions tailored to real\\-world challenges. The company has successfully launched 150\\+ businesses and generated over 16,000 quality leads. Established with a vision of limitless innovation, Bringletech collaborates with startups and high\\-growth ventures to craft impactful solutions for sustainable growth.
+
+**Duration** 
+ : 6 months (with likely extension)
  
 
 
@@ -124,16 +29,11 @@
 
 
 
-**Role Description** 
-
-
-
-
-
-
-
-
- This is a full\\-time on\\-site role for a Full Stack Web Developer located in Mohpa. The role includes designing, developing, testing, and deploying front\\-end and back\\-end solutions for web projects. The developer will work collaboratively with cross\\-functional teams to integrate features, manage databases, ensure optimal application performance, and address technical challenges. A proactive approach to problem\\-solving and adherence to industry best practices are key aspects of the position.
+ We are seeking a skilled
+ **Fluent Commerce Engineer** 
+ to join our omni\\-channel and order management engineering team. In this role, you’ll design, build, and optimize solutions on the
+ **Fluent Order Management (Fluent OMS)** 
+ platform to help us deliver exceptional customer experiences across digital and physical channels.
  
 
 
@@ -144,217 +44,291 @@
 
 
 
-**Qualifications** 
+**Key Responsibilities** 
+
+
+
+
+  
+
+
+
+
+* Design, configure, and implement solutions using
+ **Fluent Commerce OMS**
+* Build and customize workflows, integrations, data models, and business rules
+* Develop and maintain
+ **Fluent Functions, Webhooks, Flows** 
+ , and platform extensions
+* Integrate Fluent OMS with third\\-party systems including e\\-commerce platforms, ERP, WMS, POS, payment systems, and logistics partners
+* Collaborate with product, architecture, and engineering teams to translate business requirements into technical solutions
+* Troubleshoot production issues, optimize performance, and ensure system reliability
+* Implement best practices for order orchestration, inventory visibility, and fulfilment logic
+* Deliver clear technical documentation and support testing cycles (unit, SIT, UAT)
+
+
+
+  
 
 
 
 
 
+**Required Skills \\& Qualifications** 
 
 
-* Proficiency in front\\-end technologies such as HTML, CSS, JavaScript, and frameworks like React or Angular
-* Strong back\\-end development skills in languages such as Node.js, Python, or Java and experience with frameworks like Django or Express.js
-* Experience in database technologies, including SQL and NoSQL databases
-* Understanding of RESTful API design and integration
-* Experience with cloud platforms such as AWS, Google Cloud, or Azure is a plus
-* Strong debugging, problem\\-solving, and code optimization skills
-* Ability to work in a collaborative on\\-site team environment
-* Bachelor’s degree in Computer Science, Software Engineering, or related field, or equivalent experience","IT Services and IT Consulting","https://in.linkedin.com/company/bringle-tech-pvt-ltd","https://media.licdn.com/dms/image/v2/D560BAQGJkd-VBJEjCg/company-logo_100_100/B56ZlSIqURKEAQ-/0/1758019627336?e=2147483647&v=beta&t=P-n55XV7cCNDi9QBPc3qytkBgN_AYKKAVg0GTLL0jU4","","","","","","","","","","",""
-"li-4360490015","linkedin","https://www.linkedin.com/jobs/view/4360490015","","Software Engineer - Model Risk Governance & Review - Analyst","hackajob","","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","***hackajob** 
- is collaborating with
- **J.P. Morgan** 
- to connect them with exceptional tech professionals for this role.*
-**Job Description**
- As a Software Engineer \\- Model Risk Governance \\& Review \\- Analyst in Model Risk Governance \\& Review (MRGR) team, you will be developing tools for MRGR Analytics to improve efficiency and reduce duplication of effort, including resource management and cost optimization tools. You will provide support for model reviewers and governance teams in building independent testing and efficiency tools. You will be delivering high\\-quality solutions by emphasizing the importance of data controls, testing, user experience and continuously seek input from users to align efforts with their objectives.
+
+
+  
+
+
+
+
+* Hands\\-on experience with
+ **Fluent Commerce OMS** 
+ (mandatory)
+* Strong understanding of
+ **order management, inventory, fulfilment, and retail supply chain processes**
+* Practical experience with:
+* **JavaScript / TypeScript**
+* **GraphQL \\& REST APIs**
+* **AWS services** 
+ (Lambda, SQS, SNS, DynamoDB, etc.)
+* Experience building event\\-driven and API\\-led integrations
+* Ability to troubleshoot issues across distributed systems
+* Understanding of Agile delivery and CI/CD pipelines (Git, Jenkins, GitHub Actions, etc.)
+
+
+
+  
+
+
+
+
+
+**Nice\\-to\\-Have** 
+
+
+
+
+  
+
+
+
+
+* Experience with other OMS platforms (e.g., Manhattan, IBM Sterling, Shopify OMS)
+* Knowledge of microservices architecture
+* Familiarity with front\\-end commerce platforms (CommerceTools, Shopify, Salesforce Commerce Cloud)
+* Experience in retail, e\\-commerce, or logistics environments
+* Certifications in AWS, Fluent Commerce, or related technologies
+
+
+
+  
+
+
+
+
+
+**What We Offer** 
+
+
+
+
+  
+
+
+
+
+* Opportunity to work on cutting\\-edge omni\\-channel solutions
+* A collaborative, innovative engineering culture
+* Professional development
+* Flexible working arrangements","Business Consulting and Services","https://uk.linkedin.com/company/tech-talent-consulting","https://media.licdn.com/dms/image/v2/D4E0BAQHXHCi-HOQliQ/company-logo_100_100/B4EZg2Tk4pGYAc-/0/1753257759292/tech_talent_consulting_logo?e=2147483647&v=beta&t=DEcum_nIFe3tJmOY1e_b8ob7ekdtlqVNeTOK4-nKeoA","","","","","","","","","","",""
+"li-4364090218","linkedin","https://www.linkedin.com/jobs/view/4364090218","","IBM ACE Engineer","TTC Group","","","contract","","","","","",True,"mid-senior level","Information Technology","","","**Location:** 
+ Remote
+ 
+
+
+
+**Job Type:** 
+ Contract
+ 
+
+
+
+**Working hours** 
+ : 12\\.30 \\- 8\\.30pm IST (Monday \\- Friday)
+ 
+
+
+
+**Duration** 
+ : 6 months (with likely extension)
+ 
+
+
+
+  
+
+
+
+
+
+ We’re looking for a talented
+ **IBM App Connect Enterprise (ACE) Engineer** 
+ to join our integration engineering team. If you enjoy designing high\\-performance integration solutions, building APIs, and ensuring seamless system communication across the enterprise, this role is for you.
+ 
+
+
+
+  
+
+
+
+
+
+**Key Responsibilities** 
+
+
+
+
+  
+
+
+
+
+* Design, develop, and implement integration flows using
+ **IBM ACE**
+* Build and manage
+ **APIs, message flows, and integration services** 
+ across various environments
+* Collaborate with cross\\-functional teams to gather requirements and translate them into robust integration solutions
+* Optimize and troubleshoot complex message flows, performance issues, and deployment challenges
+* Deploy and manage integration artifacts in
+ **Dev, QA, and Production** 
+ environments
+* Ensure best practices around integration patterns, security, logging, and monitoring
+* Work with integration technologies such as
+ **MQ, Kafka, REST/SOAP, JDBC** 
+ , and cloud\\-based messaging systems
+
+
+
+  
+
+
+
+
+
+**Required Skills \\& Qualifications** 
+
+
+
+
+  
+
+
+
+
+* Proven hands\\-on experience with
+ **IBM App Connect Enterprise (ACE)** 
+ or
+ **IBM Integration Bus (IIB)**
+* Strong understanding of integration patterns, ESB concepts, and enterprise messaging
+* Experience working with
+ **IBM MQ** 
+ and
+ **message transformation (ESQL, JSON, XML, SOAP)**
+* Proficiency in building REST and SOAP services
+* Familiarity with CI/CD pipelines, DevOps tools, and automated deployments
+* Strong debugging, troubleshooting, and performance tuning skills
+* Good understanding of API security, OAuth, SSL, certificates, etc.
+
+
+
+  
+
+
+
+
+
+**Nice\\-to\\-Have** 
+
+
+
+
+  
+
+
+
+
+* Experience with cloud\\-based integration (AWS, Azure, or IBM Cloud)
+* Knowledge of containers (Docker, Kubernetes, OpenShift)
+* Familiarity with event\\-driven architectures (Kafka, MQ streaming, etc.)
+* Experience with version control (Git) and Agile methodologies
+
+
+
+  
+
+
+
+
+
+**What We Offer** 
+
+
+
+
+  
+
+
+
+
+* Opportunities for digital skills growth
+* A collaborative, high\\-impact work environment
+* Flexible working options","IT Services and IT Consulting and Information Services","https://uk.linkedin.com/company/tech-talent-consulting","https://media.licdn.com/dms/image/v2/D4E0BAQHXHCi-HOQliQ/company-logo_100_100/B4EZg2Tk4pGYAc-/0/1753257759292/tech_talent_consulting_logo?e=2147483647&v=beta&t=DEcum_nIFe3tJmOY1e_b8ob7ekdtlqVNeTOK4-nKeoA","","","","","","","","","","",""
+"li-4334784580","linkedin","https://www.linkedin.com/jobs/view/4334784580","","ServiceNow Developer","SAS","Pune, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","We are seeking a highly skilled
+ **ServiceNow Developer** 
+ with deep expertise in ITOM \\& ITSM to drive modernization efforts on the ServiceNow platform. This role is integral to designing, implementing, and optimizing advanced ServiceNow solutions that enhance IT operations, automate workflows, and improve service reliability.
    
 
   
 
- Bring your expertise to JPMorganChase. As part of Risk Management and Compliance, you are at the center of keeping JPMorganChase strong and resilient. MRGR is a global team of modeling experts within the firm’s Risk Management and Compliance organization. The team is responsible for conducting independent model validation and model governance activities to help identify, measure, and mitigate Model Risk in the firm. Within MRGR, the Chief Operating Office (COO) supports model risk stakeholders in their review and governance activities, and drives certain governance activities itself, with responsibility for: product ownership, process engineering and software development for model risk technology and analytics; model risk reporting; administration of oversight committees; project management of the review and governance pipeline; coordination of regulatory/audit deliverables including capital stress testing exercises; and general business management. Within COO, MRGR Analytics provides technology solutions for MRGR and its clients, assisting them in performing their tasks more efficiently, accurately, and with better control. Majority of the solutions are built within Athena (JPMorganChase’s proprietary framework using Python language), Tableau and QlikView/QlikSense frameworks.
+ As a key member of the Cloud Information Services (CIS) team, you will work closely with architects, developers, and administrators to design and deploy scalable solutions while ensuring best practices in ServiceNow ITOM, ITSM, and other ServiceNow product areas. The ideal candidate is a strategic thinker with extensive hands\\-on experience in ServiceNow ITOM modules such as Discovery, Service Mapping, Event Management, and Cloud Management, along with a strong background in automation, integrations, and performance optimization.
    
 
   
-
-**Job Responsibilities**
-* Develop tools to automate various tasks in the model governance and review lifecycle.
-* Build various dashboard reports to help manage the body of work that MRGR deals with.
-* Translate the existing business requirements in model risk management space into business applications using applied development work mostly in Python using in\\-house built Python framework.
-* Integrate Large Language Models (LLMs) into existing systems to enhance automation, reporting capabilities and decision\\-making processes.
-* Collaborate with cross\\-functional teams to identify opportunities for LLM integration and develop solutions that leverage LLM capabilities.
-* Build intelligent solutions to support the activities of MRGR staff.
-
-
-**Required Qualifications, Capabilities, And Skills**
-* A Bachelors or Masters degree in a Science, Technology, Engineering, or Mathematics discipline with significant exposure to computer programming.
-* Minimum 2 years of full stack application development.
-* Proficient in Python and knowledge of Tornado web framework / TypeScript / React required.
-* Good understanding of software architecture, object\\-oriented programming and design patterns.
-* Experience with integrating machine learning models, including LLMs, into enterprise applications.
-* Strong communication skills with the ability to interface with other functional areas in the firm on business requirements.
-* Risk and control mindset: ability to think critically, assess user needs and create design solutions to meet user needs.
-
-
-**Preferred Qualifications, Capabilities, And Skills**
-* Experience in working with large data sets.
-* Exposure to LLM integration and deployment in real\\-world applications.
-* Strong UI/UX designing skills.
-* Experience in model risk management or financial services space.
-
-
-**ABOUT US**
- JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
-   
-
-  
-
- We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
-   
-
-  
-
-**About The Team**
- Our professionals in our Corporate Functions cover a diverse range of areas from finance and risk to human resources and marketing. Our corporate teams are an essential part of our company, ensuring that we’re setting our businesses, clients, customers and employees up for success.
-   
-
-  
-
- Risk Management helps the firm understand, manage and anticipate risks in a constantly changing environment. The work covers areas such as evaluating country\\-specific risk, understanding regulatory changes and determining credit worthiness. Risk Management provides independent oversight and maintains an effective control environment.","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D560BAQF6HYG6dvSK0Q/company-logo_100_100/company-logo_100_100/0/1683088716419/hackajob_logo?e=2147483647&v=beta&t=ZrLVrP8p4YgmECct6BRcAFp6DcEmFZGqFJoXL4JCKzA","","","","","","","","","","",""
-"li-4353823250","linkedin","https://www.linkedin.com/jobs/view/4353823250","","RAS Lead","AMD","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering","","","**WHAT YOU DO AT AMD CHANGES EVERYTHING**
- At AMD, our mission is to build great products that accelerate next\\-generation computing experiences—from AI and data centers, to PCs, gaming and embedded systems. Grounded in a culture of innovation and collaboration, we believe real progress comes from bold ideas, human ingenuity and a shared passion to create something extraordinary. When you join AMD, you’ll discover the real differentiator is our culture. We push the limits of innovation to solve the world’s most important challenges—striving for execution excellence, while being direct, humble, collaborative, and inclusive of diverse perspectives. Join us as we shape the future of AI and beyond.
- **Together, we advance your career.**
-**SMTS SILICON DESIGN ENGINEER**
-**Roles \\& Responsibilities For RAS Lead**
-* Define and develop the RAS charter for the Embedded BU as a center of excellence.
-* Ensure robust planning at the pre\\-silicon stage, working with DV or Emulation teams and support the Leads and engineers in framing the relevant specification and test cases
-* Closely work with the Architects and execute the RAS feature enablement and validation with rigour and timeliness
-* Bigger picture planning for roadmaps and process improvements
-* Create a cohesive culture of openness, diversity, technical growth for the team members
-* Act with great resolve during testing times of critical issues, milestones, customer escalations and BU related internal changes
-* Exhibit strong leadership qualities to take the team forward towards growth and achieving the mission of the company
-* Exhibit great technical depth in the post silicon enablement and validation to take the right technical decisions for the team
-
-
-**Individual Requirements**
-* 13 years of Solid Experience and Knowledge in the HW and FW aspects of RAS feature implementation of x86 IPs like Cores, Memory, Inband and OOB RAS.
-* Adept in calling out risks while anticipating issues and coming up with appropriate mitigation plans
-* Great uplevelling skills to senior management
-* Experienced in working with the Enablement Manager and Leads, Program Managers, Product Managers, BIOS/FW Managers and other cross functional stakeholders and create a robust alignment setup while running execution.
-* Preferred experience working with cross\\-functional teams like DV/Silicon Designers/Pre\\-silicon/Platform/BIOS/FW/ SW.
-* Experience in High Speed I/Os like PCIe (preferably Gen4 and above), Memory (DDR4/DDR5\\.LPDDR4/LPDDR5\\), USB4\\.0/3\\.2/3\\.1, USB PD, USB Type C, Display interfaces and Ethernet and high\\-speed interconnects.
-* Experience in Power Management
-* Hands\\-on high speed and board measurement techniques in using high end equipment like Oscilloscopes, Logic Analyzers, Debugger tools, Raspberry PI, Network analyzers, etc.
-* Preferred experience with scripting using TCL, Python
-* Excellent communication, collaboration, articulation, upleveling to senior management and team playing skills.
-
 
 **Key Responsibilities**
-* Ensuring the program asks for quality and time metrics and feature enablement are met without any glitches, with minimal senior management overseeing.
-* Synergize with the Pre\\-silicon and DV teams and other stakeholders for proper interception of milestones and risk callouts.
-* Actively participate in discussions with cross\\-functional teams in defining and refining test plans and guiding the team for the right path.
-* Be on top of all issues pertinent to Debug \\& Triage of any functional issues specific across the entire validation cycle
-* Drive meetings for issue closures and actively track schedules and milestone quality metrics
-* Ensure the Best\\-in\\-class Documentation and collateral delivery from the team.
-* Engage with the Post Silicon Enablement, Validation, BIOS/FW, Driver and QA Validation and CAE teams for seamless handing over of RAS Specifications, test plans or reports, as relevant.
+* Lead the design, development, and implementation of ITOM solutions within ServiceNow, focusing on Discovery, Service Mapping, Event Management and CMDB to enhance IT operations and asset visibility.
+* Design and optimize workflows, automation, and integrations that align ServiceNow capabilities with enterprise IT strategies, ensuring seamless connectivity with external systems and cloud environments.
+* Provide expertise in ITSM module implementations, including Incident Management, Change Management, Service Catalog, and Service Portal, to improve IT service delivery.
+* Collaborate with stakeholders across IT and business units to analyze requirements, define technical specifications, and deliver scalable, high\\-performance solutions.
+* Drive best practices in ServiceNow development, including scripting (JavaScript, PowerShell), business rules, UI policies, and API integrations (REST, SOAP, LDAP, MID Servers).
+* Ensure accuracy and integrity of the CMDB, driving best practices for data governance, reconciliation, and automation.
+* Support DevOps and Agile development workflows, participating in backlog refinement, requirements decomposition, and iterative solution delivery.
+* Troubleshoot and resolve complex ServiceNow platform issues, ensuring high availability, security, and performance.
+* Stay ahead of industry trends and ServiceNow advancements, identifying opportunities to enhance platform capabilities and drive innovation.
+* Mentor junior developers and contribute to documentation of technical solutions, best practices, and operational guidelines.
 
 
-*Benefits offered are described:* 
- AMD benefits at a glance.
-   
-
-  
-
-*AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee\\-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third\\-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.*
-*AMD may use Artificial Intelligence to help screen, assess or select applicants for this position. AMD’s “Responsible AI Policy” is available here.*
-*This posting is for an existing vacancy.*","Semiconductor Manufacturing","https://www.linkedin.com/company/amd","https://media.licdn.com/dms/image/v2/D560BAQFCdxxVA_xhqQ/company-logo_100_100/B56ZnuIjafHUAU-/0/1760636844195/amd_logo?e=2147483647&v=beta&t=7sw3BjNNNSGV0P6imSg3j1KA9Z07vLBQjTYIMB-k8zI","","","","","","","","","","",""
-"li-4280223867","linkedin","https://www.linkedin.com/jobs/view/4280223867","","Azure Developer (NET Custom Web Dev & Logic Apps)","Astellas Pharma","Bengaluru, Karnataka, India","","fulltime","","","","","",True,"not applicable","Engineering and Information Technology","","","Do you want to be part of an inclusive team that works to develop innovative therapies for patients? Every day, we are driven to develop and deliver innovative and effective new medicines to patients and physicians. If you want to be part of this exciting work, you belong at Astellas!
-   
-
-  
-
- Astellas Pharma Inc. is a pharmaceutical company conducting business in more than 70 countries around the world. We are committed to turning innovative science into medical solutions that bring value and hope to patients and their families. Keeping our focus on addressing unmet medical needs and conducting our business with ethics and integrity enables us to improve the health of people throughout the world. For more information on Astellas, please visit our website at www.astellas.com .
-   
-
-  
-
- This position is based in Bengaluru and will require some on\\-site work.
-   
-
-  
-
-**Purpose And Scope**
- As a Microsoft .Net Engineer in Adobe.\\& Net Platforms, you will play a pivotal role in advancing our digital initiatives within our agile organization by designing and delivering innovative, enterprise\\-grade external facing web applications based on Microsoft .Net Framework and technologies. This role exists to architect, develop and maintain websites built on Microsoft .Net framework hosted on Azure cloud, enabling seamless content delivery and engagement of HCPs and Patients to Astellas owned web properties collaborating with cross\\-functional stakeholders both internal and external driving business value through technical expertise and stakeholder engagement aligned to enterprise capabilities. Our agile operating model—comprising Digital Capability for skill growth and Digital Execution for mission\\-aligned collaboration—uniquely positions you to balance cutting\\-edge Microsoft search solution delivery with the development of specialized expertise, while expertise in other enterprise search platforms is welcomed as an advantageous complement.
-   
-
-  
-
- In this role, you will architect, design, develop, deploy, and maintain custom web applications on leveraging your experience and a deep understanding of Microsoft .Net, Azure logic Apps, and related Microsoft .Net Framework and Azure cloud tools to meet organizational needs. You will work directly with stakeholders to translate requirements into scalable Microsoft custom .Net and Azure logic app solutions, multitask across projects, mentor team members, and stay ahead of technological advancements, making this position critical for transformative digital impact within Microsoft .Net framework.
-   
-
-  
-
- You will be at the forefront of implementing innovative solutions and will have the opportunity to work on cutting\\-edge technologies in your field.
-   
-
-  
-
-**Essential Job Responsibilities**
-* Architect, design, develop and deploy advanced enterprise web applications using Microsoft .Net Core and MVC, Microsoft SQL.
-* Architect, design develop, deploy and maintain solutions on Azure Cloud (PaaS: including App Service, Azure functions, Logic Capps, Blob storage, Web apps )
-* Conduct business analyses by engaging directly with stakeholders to understand custom web application related challenges.
-* Design, develop websites to deliver customer experiences and engagement for brand teams.
-* Develop web applications and Integrate with Web services sing Azure cloud and other enterprise Integration tools such as MuleSoft or other platforms.
-* Develop integrations to handle data from websites residing on SQL server database.
-* Provide expert\\-level technical support for Microsoft .Net Framework and Azure logic Applications and related tools, resolving issues with business users, delivery teams, external agencies, and vendors, applying Microsoft .Net platform knowledge.
-* Performance Monitoring and Optimization: Regularly monitor web site performance using Lighthouse or similar tools.
-* Security \\& Compliance: Ensure custom web solutions are secure and compliant with enterprise standards, including web governance and necessary documentation.
-* Data Reporting: Work with reporting team (generating insights from Google Analytics or Adobe Analytics) to derive meaningful insights.
-* Initiative Execution: Actively contribute to Microsoft .Net related initiatives, applying specialized skills to achieve the objectives and expected Value. Contribute to the ongoing realization of Value from these enterprise platforms through continuous integration and deployment.
-* Collaboration and mentorship: Work collaboratively with team members within the subdivision and across other digital and business units. Mentor and guide team members with the same skills and technologies
-* Continuous Learning: Engage in continuous learning and professional development to stay abreast of the latest trends and technologies in a specific area of expertise.
-* Innovation: Contribute innovative ideas and approaches to enhance project outcomes and digital capabilities.
-* Reporting: Regularly report on system use to your Capability Lead, VT captain, and team members.
-* Problem\\-Solving: Employ analytical and problem\\-solving skills to overcome project challenges and deliver effective solutions.
-* Quality Assurance: Ensure the highest quality and consistency in the work delivered.
+**Required Qualifications**
+* 5\\-10 years of hands\\-on ServiceNow development and administration experience, with deep expertise in ITOM and ITSM.
+* Proven expertise in ITOM modules such as Discovery, Service Mapping, Event Management and CMDB best practices.
+* Strong proficiency in ServiceNow development (scripting, workflows, business rules, integrations) and automation capabilities.
+* Experience integrating ServiceNow with enterprise systems using REST/SOAP APIs, LDAP, and MID Servers.
+* Proficiency in JavaScript, PowerShell, and HTML for advanced customizations and automation.
+* Ability to assess, troubleshoot, and optimize system configurations for performance, scalability, and security.
+* Strong analytical and problem\\-solving skills, with the ability to translate complex business needs into technical solutions.
+* Excellent communication and stakeholder management skills, with the ability to influence technical decisions and drive adoption.
+* Commitment to IT security best practices, ensuring compliance with data confidentiality, integrity, and governance policies.
+* Should be ready to work during EMEA Business hours (3 PM – 11 PM)
 
 
-**Qualifications Required**
-* Bachelor's degree in relevant field, e.g., Computer Science, Data Science
-* 10\\+ years of demonstrated engineering experience in designing and developing enterprise web solutions using C\\#, ASP.NET, and other related technologies, with a strong focus on Microsoft .Net Core, MVC and SQL Server.
-* 3\\+ Years of experience in Azure PaaS(building App service, Web Apps, Azure functional, Logic Apps, Blob Storage, etc).
-* Proven ability to perform business analyses, working directly with stakeholders to define and deliver search\\-focused technical solutions within the Microsoft ecosystem.
-* Excellent understanding of object\\-oriented programming
-* Proficiency in Microsoft .Net Framework for development and deployment including IIS Server, configuration, and management.
-* Experience with CSR and SSL certificate renewal for websites
-* Comprehensive working knowledge of related Microsoft and Integration technologies: Azure Functions, Azure Logic Apps, REST APIs, and integration with third party databases, platforms.
-* Coding expertise in front end technologies such as JavaScript, HTML, CSS developing web applications.
-* Strong understanding of relational databases, SQL, and data indexing within Microsoft platforms.
-* Experience with Agile and DevOps methodologies, including Azure DevOps for CI/CD pipelines and version control in code deployments.
-* Advanced problem\\-solving capabilities to troubleshoot and resolve issues across Microsoft applications, infrastructure, and deployment pipelines.
-* Exceptional collaboration skills, with the ability to work effectively with development teams, business users, vendors, and external agencies.
-* Excellent written and verbal communication skills, with the ability to train and mentor others on Microsoft technologies.
-* Adaptable to evolving project scopes and technologies, with a commitment to continuous learning in the Microsoft and Adobe domain.
-* Ensure compliance with industry standards and best practices for security, scalability, and reliability.
-
-
-**Preferred**
-* Microsoft Certified: Microsoft .Net Developer, IIS administration, Azure Solutions Expert, Microsoft SQL.
-
-
-**Working Environment**
-* At Astellas we recognize the importance of work/life balance, and we are proud to offer a hybrid working solution allowing time to connect with colleagues at the office with the flexibility to also work from home. We believe this will optimize the most productive work environment for all employees to succeed and deliver. Hybrid work from certain locations may be permitted in accordance with Astellas’ Responsible Flexibility Guidelines.
-
-
- Category PlatformX
-   
-
-  
-
- Astellas is committed to equality of opportunity in all aspects of employment.
-   
-
-  
-
- EOE including Disability/Protected Veterans","Biotechnology Research, Pharmaceutical Manufacturing, and Research Services","https://www.linkedin.com/company/astellaspharmainc","https://media.licdn.com/dms/image/v2/D560BAQG8NZ0gIdqSXA/company-logo_100_100/company-logo_100_100/0/1688136522004/astellaspharmainc_logo?e=2147483647&v=beta&t=NzYSAQavy1Q_UUf2QqlNL0O8bXv-ya5OqqYauz0nFwc","","","","","","","","","","",""
+ This role is ideal for a
+ **seasoned ServiceNow ITOM expert** 
+ who is passionate about leveraging automation, optimizing IT operations, and delivering cutting\\-edge solutions on the ServiceNow platform. If you thrive in a collaborative environment and want to shape the future of IT service management, we invite you to join our team.","Software Development","https://www.linkedin.com/company/sas","https://media.licdn.com/dms/image/v2/D4E0BAQFhSD86O7AkYA/company-logo_100_100/company-logo_100_100/0/1720039737493/sas_logo?e=2147483647&v=beta&t=Tm3hEYJM_4BS3itms8IPubyJCbZv1dGGCLdCGn7hT88","","","","","","","","","","",""
 "li-4353733456","linkedin","https://www.linkedin.com/jobs/view/4353733456","","Cross Platform Developer","RGB Web Tech - Web Design, Web Development, Digital Marketing, PPC and App Development Company","Chandigarh, Chandigarh, India","","fulltime","","","","","",False,"internship","Engineering and Information Technology","","","A Cross\\-Platform Developer is responsible for creating and maintaining software applications that can run on multiple operating systems and platforms, such as iOS, Android, Windows, and macOS. This role requires a deep understanding of mobile and desktop development frameworks, as well as proficiency in coding languages like JavaScript, React Native, Flutter, Xamarin, or other cross\\-platform development tools. The Cross\\-Platform Developer collaborates closely with a multidisciplinary team to design, develop, and deploy applications that provide a seamless user experience across various devices.
    
 
@@ -523,71 +497,167 @@
 * Virtual Reality Developer
 * Mobile App Tester
 * Product Manager","Information Technology & Services","https://in.linkedin.com/company/rgbwebtech","https://media.licdn.com/dms/image/v2/C4D0BAQGJ660uJLletw/company-logo_100_100/company-logo_100_100/0/1645022489372/rgbwebtech_logo?e=2147483647&v=beta&t=2FB9QgPLq3pZnA-hWFE8Lpa5y5YtLWt6dNOe97svUaM","","","","","","","","","","",""
-"li-4364250065","linkedin","https://www.linkedin.com/jobs/view/4364250065","https://saneforce.snaphunt.com/job/6XKYVNT08L?source=linkedin&urlHash=zkf5","Tech Lead","SANeForce","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
- Location: Chennai (Onsite) Experience: 6 – 10 Years Company: Product\\-based / SaaS Organization Hiring Partner: 2Grow HR
-   
+"li-4363899789","linkedin","https://www.linkedin.com/jobs/view/4363899789","","SAP Integration Suite Engineer","TTC Group","","","contract","","","","","",True,"mid-senior level","Consulting","","","**Location:** 
+ Remote
+ 
+
+
+
+**Job Type:** 
+ Contract
+ 
+
+
+
+**Working hours** 
+ : 12\\.30 \\- 8\\.30pm IST (Monday \\- Friday)
+ 
+
+
+
+**Duration** 
+ : 6 months (with likely extension)
+ 
+
+
 
   
 
-**Job Description**
- We are looking for an experienced Tech Lead with strong expertise in .NET technologies to lead development efforts for a product\\-based/SaaS platform.
-   
+
+
+
+
+ We are looking for a
+ **hands\\-on SAP Integration Suite Engineer** 
+ to join our growing integration and digital transformation team. This role is ideal for someone who thrives on building modern cloud\\-based integrations, delivering clean and scalable workflows, and working closely with cross\\-functional business and IT teams.
+ 
+
+
 
   
 
- The ideal candidate should be hands\\-on, technically strong, and capable of guiding a team through design, development, and delivery.
-   
+
+
+
+
+**Key Responsibilities** 
+
+
+
 
   
 
-**Key Responsibilities**
-* Lead end\\-to\\-end design and development of scalable web applications
-* Provide technical guidance and mentorship to the development team
-* Participate in architecture discussions and technical decision\\-making
-* Ensure best practices in coding, security, performance, and scalability
-* Review code, enforce coding standards, and drive quality delivery
-* Collaborate with product managers, QA, and stakeholders
-* Manage source code using GitHub and support CI/CD practices
 
 
-**Technical Skills Required**
-* Strong hands\\-on experience in C\\# and .NET Proficiency in ASP.NET MVC
-* Experience with ADO.NET for data access
-* Strong knowledge of MS SQL Server (queries, procedures, performance tuning)
-* Good experience with JavaScript
-* Hands\\-on experience using GitHub for version control
 
 
-**Desired Profile**
-* 6–10 years of overall development experience
-* Prior experience as a Tech Lead or Senior Developer leading teams
-* Experience working in a Product\\-based or SaaS environment
-* Strong problem\\-solving and analytical skills
-* Excellent communication and leadership abilities","IT Services and IT Consulting","https://in.linkedin.com/company/saneforce-pharma-sfa","https://media.licdn.com/dms/image/v2/C4D0BAQGLV2MX2Xua_w/company-logo_100_100/company-logo_100_100/0/1653372196528/saneforce_com_logo?e=2147483647&v=beta&t=jW9nEGMT_l-71uSIiuTUdQhoB3PN1kqPiEqeA_UyoMQ","","","","","","","","","","",""
-"li-4353883059","linkedin","https://www.linkedin.com/jobs/view/4353883059","","Flutter Internship","Last Minutes Deal","","","internship","","","","","",True,"internship","Education and Training","","","**Company Description**
-  
+ Design, develop, and deploy integration flows using
+ **SAP Integration Suite** 
+ components such as:
+ 
 
- Last Minutes Deal, powered by We Twwios Technologies Pvt Ltd, addresses the global issues of resource inefficiencies and climate impact by offering solutions for surplus consumer products and service waste. Our platform consolidates last\\-minute deals on essential products, hotel rooms, buffet dining, and event seats, enabling businesses to minimize waste, optimize inventory, and increase revenue while aligning with sustainability initiatives. By boosting visibility and access, we help businesses in sectors like retail, hospitality, and entertainment reduce reliance on foot traffic and achieve resource conservation. Supporting global climate action goals, we focus on enhancing business profitability and the efficient use of inventory.
-   
+
 
   
 
-**Role Description**
+
+
+
+* **Cloud Integration (CPI)**
+* **API Management**
+* **Event Mesh**
+* **Open Connectors**
+* Build, configure, and maintain
+ **iFlows** 
+ , adapters, mappings, and integration content
+* Work directly with SAP and non\\-SAP systems to enable seamless end\\-to\\-end integration
+* Develop and secure APIs, manage API gateways, and ensure integration governance
+* Troubleshoot integration issues and optimize performance across cloud environments
+* Collaborate with SAP functional, Basis, and business teams to ensure alignment of integration designs
+* Document integration landscapes, technical designs, and operational procedures
+* Follow best practices for monitoring, logging, error handling, and lifecycle management
+
+
+
   
 
- We are seeking a motivated candidate for a remote full\\-time Flutter Internship role. Candidates will get certificate not stipend during the internship 3 month period.intern will participate in designing, developing, and testing mobile applications using the Flutter framework. Responsibilities include assisting in UI/UX development, debugging issues, maintaining and improving application performance, and collaborating with cross\\-functional teams to meet project goals. The ideal candidate will work closely with developers and designers to deliver seamless and functional applications that align with user and project requirements.
-   
+
+
+
+
+**Required Skills \\& Qualifications** 
+
+
+
 
   
 
-**Qualifications**
+
+
+
+* Hands\\-on experience with
+ **SAP Integration Suite** 
+ , especially
+ **Cloud Integration (CPI)**
+* Strong understanding of
+ **integration patterns** 
+ , middleware, APIs, and cloud\\-based architectures
+* Experience working with
+ **SOAP/REST** 
+ , XML, JSON, XSLT/Mapping, OAuth, and security standards
+* Familiarity with SAP modules (e.g., S/4HANA, ECC, SuccessFactors, Ariba, Concur) and their integration frameworks
+* Strong troubleshooting skills and experience with monitoring tools
+* Ability to interpret functional requirements and translate them into scalable integration solutions
+* Solid understanding of Agile/DevOps processes and tools (Git, CI/CD pipelines, etc.)
+
+
+
   
 
-* Proficiency in Flutter framework and Dart programming language
-* Understanding of mobile app development, including UI/UX design principles
-* Basic knowledge of API integration and third\\-party libraries
-* Experience with debugging and troubleshooting application issues
-* Ability to collaborate effectively in a team environment and strong problem\\-solving skills
-* Enthusiasm for continuous learning and staying updated with new technologies
-* Currently pursuing or recently completed a degree in Computer Science, Software Engineering, or a related field
-* Prior experience with mobile app development (internship, projects, or personal efforts) is a plus","Retail","https://in.linkedin.com/company/last-minutes-deal","https://media.licdn.com/dms/image/v2/D4E0BAQHarkSc-i1EMQ/company-logo_100_100/company-logo_100_100/0/1729799375970/last_minutes_deal_logo?e=2147483647&v=beta&t=CJAhHQ7IkZhIIcXhcQpP7-0Nr9TigUOJrhrF4iOfD5E","","","","","","","","","","",""
+
+
+
+
+**Nice\\-to\\-Have** 
+
+
+
+
+  
+
+
+
+
+* Experience with
+ **Event\\-Driven Architecture (EDA)** 
+ using SAP Event Mesh
+* Knowledge of
+ **SAP BTP** 
+ , CAP, or Node.js/Java for extension development
+* Experience integrating with cloud platforms (AWS, Azure, GCP)
+* Exposure to SAP data integration tools (BODS, Data Intelligence)
+* Certification in
+ **SAP Integration Suite** 
+ or related SAP technologies
+
+
+
+  
+
+
+
+
+
+**What We Offer** 
+
+
+
+
+  
+
+
+
+
+* Opportunities for continuous learning
+* A collaborative, modern engineering environment
+* Flexibility and support for work–life balance","Retail and Business Consulting and Services","https://uk.linkedin.com/company/tech-talent-consulting","https://media.licdn.com/dms/image/v2/D4E0BAQHXHCi-HOQliQ/company-logo_100_100/B4EZg2Tk4pGYAc-/0/1753257759292/tech_talent_consulting_logo?e=2147483647&v=beta&t=DEcum_nIFe3tJmOY1e_b8ob7ekdtlqVNeTOK4-nKeoA","","","","","","","","","","",""
