@@ -1,1004 +1,311 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4373324719","linkedin","https://www.linkedin.com/jobs/view/4373324719","","Senior Software Engineer I","Goldcast","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering","","","Goldcast (a Cvent company) is an AI\\-powered B2B Video Content Platform that enables marketers to put video content at the heart of the customer journey. We’re building a
- **browser\\-based, frame\\-accurate video editor** 
- that rivals desktop apps, using cutting\\-edge tech like WebCodecs, WASM, and Remotion.
- 
-
-
-
-  
-
-
-
-
-
- Founded in mid\\-2020 at Harvard Business School, we have 400\\+ customers across tech, professional services, manufacturing, and finance to deliver engaging video content \\& digital events.
- 
-
-
-
-  
-
-
-
-
-
-**Role Overview**
-
-
-
-
-  
-
-
-
-
-
- We're seeking a
- **Senior Software Engineer** 
- to join our
- **Recording Studio** 
- team. You will be responsible for leading the development of high\\-performance, scalable backend systems that power Goldcast’s recording and video processing platform.
- 
-
-
-
-  
-
-
-
-
-
- The ideal candidate will drive technical excellence, make strong architectural decisions within their project scope, and help improve the reliability, scalability, and performance of our recording and media processing infrastructure.
- 
-
-
-
-  
-
-
-
-
-
- In this role, you'll lead and deliver complex backend features involving multiple engineers, taking work from definition through design, implementation, testing, and production rollout. You will collaborate closely with product, design, QA, and SRE, and contribute to the reliability and performance of our production systems.
- 
-
-
-
-  
-
-
-
-
-
- You'll work on initiatives across the Recording Studio surface area, such as improving recording session management, enhancing media ingestion and processing pipelines, optimizing HLS generation and trimming workflows, and strengthening integrations with Content Lab and Video Library.
- 
-
-
-
-  
-
-
-
-
-
-**In This Role, You Will:**
-
-
-
-
-  
-
-
-
-
-* Lead and deliver complex backend features end\\-to\\-end as the feature lead
-* Break down ambiguous backend and distributed systems problems into clear milestones and execution plans
-* Participate in system design and write clear, pragmatic design docs
-* Build and maintain backend services for recording session lifecycle, media ingestion, and asset processing
-* Design and optimize video processing workflows, including chunk management, transcoding, and publishing
-* Improve system observability, reliability, and failure recovery mechanisms
-* Debug issues across services, storage systems, and processing pipelines, and drive fixes through to resolution
-* Contribute to code reviews and team engineering practices
-* Participate in the on\\-call rotation and help improve production reliability over time
-
-
-
-  
-
-
-
-
-
-**Requirements:**
-
-
-
-
-  
-
-
-
-
-* Bachelor’s or Master’s degree in Computer Science or related field from a top\\-tier institution (IITs, NITs, BITs, or equivalent).
-* 6\\+ years of professional software engineering experience
-* Strong fundamentals in data structures, algorithms, and system design
-* Experience building and operating scalable backend systems in production
-* Ability to lead medium\\-to\\-large features with ambiguity and drive them to completion
-* Experience working with distributed systems and asynchronous processing
-* Familiarity with cloud environments (AWS preferred)
-* Experience with object storage systems (e.g., S3\\) and large file processing
-* Experience with message queues or event\\-driven architectures
-* Experience with video processing, HLS streams, or media pipelines is a strong plus
-* Strong debugging skills and experience handling production incidents","Software Development","https://www.linkedin.com/company/goldcast","https://media.licdn.com/dms/image/v2/D4E0BAQHoSABWKz0QcA/company-logo_100_100/B4EZuO2eb8IQAQ-/0/1767628204249/goldcast_logo?e=2147483647&v=beta&t=6ZZoK4wiSj290w9OjXbn7gHIzOlNgq0ld6xZiQXV1j4","","","","","","","","","","",""
-"li-4381543087","linkedin","https://www.linkedin.com/jobs/view/4381543087","https://www.hackajob.com/job/3cfbc245-e6ad-11f0-9e38-0a05e249917d-engineer-2-software-development-engineering?utm_source=LinkedIn&utm_medium=JobAds&utm_term=Automated&utm_campaign=comcast-engineer-2-software-development-engineering&job_name=engineer-2-software-development-engineering&company=comcast&workplace_type=hybrid&city=chennai&country=india&urlHash=OndH","Engineer 2, Software Development & Engineering","hackajob","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","***hackajob** 
- is collaborating with
- **Comcast** 
- to connect them with exceptional professionals for this role.*
- Comcast brings together the best in media and technology. We drive innovation to create the world's best entertainment and online experiences. As a Fortune 50 leader, we set the pace in a variety of innovative and fascinating businesses and create career opportunities across a wide range of locations and disciplines. We are at the forefront of change and move at an amazing pace, thanks to our remarkable people, who bring cutting\\-edge products and services to life for millions of customers every day. If you share in our passion for teamwork, our vision to revolutionize industries and our goal to lead the future in media and technology, we want you to fast\\-forward your career at Comcast.
+"li-4377866582","linkedin","https://www.linkedin.com/jobs/view/4377866582","https://careers.capgemini.com/job/Chennai-%28ex-Madras%29-Java-Production-Support-4-to-6-Years-Chennai/1367763433/?feedId=388933&utm_source=LinkedInJobPostings&urlHash=D7v7","Java Production Support - 4 to 6 Years - Chennai","Capgemini","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
+**Java Production Support Engineer (CSM Java):\\-**
+* We are looking for a dedicated Java Production Support Engineer (CSM Java) to support and maintain enterprise applications. The role involves analyzing production issues, ensuring system stability, and collaborating with cross‑functional teams for continuous improvement.
+* Key Responsibilities:\\-
+* Provide L2/L3 production support for Java/J2EE applications.
+* Troubleshoot issues across Spring Boot, Spring Batch, Microservices, and REST APIs.
+* Perform log analysis, monitoring, and incident resolution in a Linux environment
+* Develop and maintain Linux shell scripts for automation and operational tasks.
+* Execute and optimize database queries, stored procedures, and triggers.
+* Collaborate with development teams to ensure smooth operations of CSM Java application components.
+
+
+ Works in the area of Software Engineering, which encompasses the development, maintenance and optimization of software solutionsorapplications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. Heorshe is responsible for the development and application of software engineering practice and knowledge, in research, design, development and maintenance.3\\. Hisorher work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of hisorher software engineering discipline to reach standard software engineer skills expectations for the applicable role, as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
    
 
   
 
-**Job Summary**
- Responsible for planning and designing new software and web applications. Edits new and existing applications. Implements, testing and debugging defined software components. Documents all development activity. Works with moderate guidance in own area of knowledge.
+**Required Skills**
+ Job Description \\- Grade Specific
    
 
   
 
-**Job Description**
-**Job Details**
-* Company: Comcast
-* Employment Type: Permanent
-* Location: Chennai One SEZ, 5th Floor, North Block, Phase II, Module 7 \\& 8, 200 Feet Radial Rd, Pallavaram, Thoraipakkam, Tamil Nadu 600097
-* Work Mode: Hybrid
-
-
-**Candidate should be ready for F2F Interview**
-**Experiences: 2\\.5 years to 4 years**
-**Requirements**
-* Personal Attributes:
-+ Passion and enthusiasm for work
-+ Curiosity and strong inclination toward continuous learning, especially in technology
-+ Good interpersonal skills and strong team spirit
-+ Willingness to share professional knowledge for group growth
-+ Availability for on\\-call duty
-+ Ownership and accountability
-
-* Educational Qualification:
-+ Degree in scientific/technological subjects (e.g., Computer Science, Telecommunications Engineering, Mathematics, Physics)
-
-* Technical Skills:
-+ React
-+ GraphQL
-+ HTML \\& CSS
-+ JavaScript / TypeScript
-+ Node.js
-+ Jest / RTL (React Testing Library)
-+ AWS
-+ Docker \\& Kubernetes
-+ CI/CD pipeline
-+ Experience developing Content Management Systems (preferable)
-
-* Other Requirements:
-+ Fluent spoken and written English
-
-
-**Core Responsibilities**
-* Analyzes and determines integration needs.
-* Evaluates and plans software designs, test results and technical manuals.
-* Reviews literature, patents and current practices relevant to the solution of assigned projects.
-* Programs new software, web applications and supports new applications under development and the customization of current applications.
-* Edits and reviews technical requirements documentation.
-* Works with Quality Assurance team to determine if applications fit specification and technical requirements.
-* Displays knowledge of engineering methodologies, concepts, skills and their application in the area of specified engineering specialty.
-* Displays knowledge of and ability to apply, process design and redesign skills.
-* Displays in\\-depth knowledge of and ability to apply, project management skills.
-* Consistent exercise of independent judgment and discretion in matters of significance.
-* Regular, consistent and punctual attendance. Must be able to work nights and weekends, variable schedule(s) and overtime as necessary.
-* Other duties and responsibilities as assigned.
-
-
-**Employees At All Levels Are Expected To**
-* Understand our Operating Principles; make them the guidelines for how you do your job.
-* Own the customer experience \\- think and act in ways that put our customers first, give them seamless digital options at every touchpoint, and make them promoters of our products and services.
-* Know your stuff \\- be enthusiastic learners, users and advocates of our game\\-changing technology, products and services, especially our digital tools and experiences.
-* Win as a team \\- make big things happen by working together and being open to new ideas.
-* Be an active part of the Net Promoter System \\- a way of working that brings more employee and customer feedback into the company \\- by joining huddles, making call backs and helping us elevate opportunities to do better for our customers.
-* Drive results and growth.
-* Support a culture of inclusion in how you work and lead.
-* Do what's right for each other, our customers, investors and our communities.
-
-
-**Disclaimer**
-* This information has been designed to indicate the general nature and level of work performed by employees in this role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications.
-
-
- Comcast is an equal opportunity workplace. We will consider all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, veteran status, genetic information, or any other basis protected by applicable law.
+* Strong hands\\-on experience in Java, J2EE, Spring Boot, Spring Batch.
+* Good understanding of Microservices and RESTful APIs.
+* Proficiency in Linux shell scripting and command\\-line troubleshooting.
+* Solid experience with SQL, stored procedures, and triggers.
+* Strong analytical, debugging, and production‑incident management skills.
+* Exposure to CSM Java environments preferred.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
+"li-4377877414","linkedin","https://www.linkedin.com/jobs/view/4377877414","https://careers.capgemini.com/job/Bangalore-Lead-Software-Engineer-GTS/1367724233/?feedId=388933&utm_source=LinkedInJobPostings&urlHash=qakQ","Lead Software Engineer - GTS","Capgemini","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
+ Works in the area of Software Engineering which encompasses the development maintenance and optimization of software solutions and applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He or she is responsible for the development and application of software engineering practice and knowledge in research design development and maintenance.3\\. He or she work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his or her software engineering discipline to reach standard software engineer skills expectations for the applicable role as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.Works in the area of Software Engineering, which encompasses the development, maintenance and optimization of software solutionsorapplications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. Heorshe is responsible for the development and application of software engineering practice and knowledge, in research, design, development and maintenance.3\\. Hisorher work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of hisorher software engineering discipline to reach standard software engineer skills expectations for the applicable role, as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
    
 
   
 
- Base pay is one part of the Total Rewards that Comcast provides to compensate and recognize employees for their work. Most sales positions are eligible for a Commission under the terms of an applicable plan, while most non\\-sales positions are eligible for a Bonus. Additionally, Comcast provides best\\-in\\-class Benefits to eligible employees. We believe that benefits should connect you to the support you need when it matters most, and should help you care for those who matter most. That’s why we provide an array of options, expert guidance and always\\-on tools, that are personalized to meet the needs of your reality – to help support you physically, financially and emotionally through the big milestones and in your everyday life. Please visit the compensation and benefits summary on our careers site for more details.
+**Job Description \\- Grade Specific**
+ Is highly respected, experienced and trusted. Masters all phases of the software development lifecycle and applies innovation and industrialization. Shows a clear dedication and commitment to business objectives and responsibilities and to the group as a whole. Operates with no supervision in highly complex environments and takes responsibility for a substantial aspect of Capgeminis activity. Is able to manage difficult and complex situations calmly and professionally. Considers ˜the bigger picture when making decisions and demonstrates a clear understanding of commercial and negotiating principles in less easy situations. Focuses on developing long term partnerships with clients. Demonstrates leadership that balances business, technical and people objectives. Plays a significant part in the recruitment and development of people.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
+"li-4381525719","linkedin","https://www.linkedin.com/jobs/view/4381525719","https://jobs.iqvia.com/jobs/R1530484-1?source=LinkedIn_Slots&amp;utm_source=linkedin.com&amp;utm_medium=job_posting&urlHash=J9H9","India- Programmer","IQVIA","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Good Clinical Domain knowledge with understanding of clinical phases and Work experience must be in clinical / healthcare domain.
    
 
   
 
-**Education**
- Bachelor's Degree
+ Experience in Edit Check Listings programming using SAS.
    
 
   
 
- While possessing the stated degree is preferred, Comcast also may consider applicants who hold some combination of coursework and experience, or who have extensive related professional experience.
+ Experience in Data Import Programming using SAS, SAS Output Delivery system (ODS) for generating reports in specific output formats like RTF, PDF, and HTML.
    
 
   
 
-**Relevant Work Experience**
- 2\\-5 Years","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D4D0BAQGuQDG4JgJVhQ/company-logo_100_100/B4DZxrAcO2G8AY-/0/1771321807998/hackajob_logo?e=2147483647&v=beta&t=1355cxQCALa8e7tv9UZFHOazQBJXxdxsrW4-12AAyMM","","","","","","","","","","",""
-"li-4331594881","linkedin","https://www.linkedin.com/jobs/view/4331594881","","Senior Software Engineer II - Events","Goldcast","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering","","","Goldcast (a Cvent company) is an AI\\-powered B2B Video Content Platform that enables marketers to put video content at the heart of the customer journey. We’re building a
- **browser\\-based, frame\\-accurate video editor** 
- that rivals desktop apps, using cutting\\-edge tech like WebCodecs, WASM, and Remotion.
- 
-
-
-
-  
-
-
-
-
-
- Founded in mid\\-2020 at Harvard Business School, we have 400\\+ customers across tech, professional services, manufacturing, and finance to deliver engaging video content \\& digital events.
- 
-
-
-
-  
-
-
-
-
-
-**Role Overview**
-
-
-
-
-  
-
-
-
-
-
- We're seeking a Senior Software Engineer to join our Events team. You will be responsible for architecting and leading the development of high\\-performance, scalable backend solutions that power Goldcast's webinar platform. The ideal candidate will drive technical excellence, make critical architectural decisions, and help scale our infrastructure to support our rapidly growing enterprise customer base.
- 
-
-
-
-  
-
-
-
-
-
-**Here's What You Need:** 
-
-
-
-
-  
-
-
-
-
-* 8\\+ years of experience building large\\-scale distributed systems
-* Strong expertise in system design, microservices architecture, and API design
-* Deep understanding of scalability, performance optimization, and high availability
-* Proven track record of leading technical initiatives across multiple teams
-* Deep knowledge of enterprise cloud infrastructure and distributed systems (AWS, Azure, or GCP)
-* Expertise in backend technologies like Java, Go, or Python
-* Experience with distributed databases, caching systems, and message queues
-* Knowledge of observability, monitoring, and operational excellence
-* Proven ability to mentor other engineers and influence technical decisions
-* Bachelor's or Master's degree in Computer Science from a top\\-tier institution (IITs, NITs, BITs or equivalent).
-
-
-
-  
-
-
-
-
-
-**Preferred Qualifications:** 
-
-
-
-
-  
-
-
-
-
-* Experience in real\\-time video streaming technologies and WebRTC
-* Experience in designing and building Enterprise software for extensibility and scale.
-* Background in building reliable, fault\\-tolerant enterprise systems","Software Development","https://www.linkedin.com/company/goldcast","https://media.licdn.com/dms/image/v2/D4E0BAQHoSABWKz0QcA/company-logo_100_100/B4EZuO2eb8IQAQ-/0/1767628204249/goldcast_logo?e=2147483647&v=beta&t=6ZZoK4wiSj290w9OjXbn7gHIzOlNgq0ld6xZiQXV1j4","","","","","","","","","","",""
-"li-4332243169","linkedin","https://www.linkedin.com/jobs/view/4332243169","","Senior Software Engineer II - Video Engineering","Goldcast","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering","","","Goldcast (a Cvent company) is an AI\\-powered B2B Video Content Platform that enables marketers to put video content at the heart of the customer journey. We’re building a
- **browser\\-based, frame\\-accurate video editor** 
- that rivals desktop apps, using cutting\\-edge tech like WebCodecs, WASM, and Remotion.
- 
-
-
-
-  
-
-
-
-
-
- Founded in mid\\-2020 at Harvard Business School, we have 400\\+ customers across tech, professional services, manufacturing, and finance to deliver engaging video content \\& digital events.
- 
-
-
-
-  
-
-
-
-
-
-**Role Overview**
-
-
-
-
-  
-
-
-
-
-
- We’re seeking a highly skilled Senior Software Engineer II (SSE\\-II) to join our Content Lab — the team pioneering AI\\-driven video transformation at scale.
- 
-
-
-
-  
-
-
-
-
-
- In this role, you’ll lead complex backend projects, focusing on distributed systems, real\\-time video processing, and media pipeline scalability. You’ll partner with product, design, and QA to deliver high\\-quality, maintainable solutions that enhance our AI\\-enabled video content platform.
- 
-
-
-
-  
-
-
-
-
-
- This role requires deep technical expertise in video streaming technologies, backend architecture, and system performance, as well as a passion for mentoring engineers and driving engineering excellence.
- 
-
-
-
-  
-
-
-
-
-
-**In This Role, You Will:**
-
-
-
-
-  
-
-
-
-
-
-**Technical Ownership \\& Leadership** 
-
-
-
-* Lead large, cross\\-functional projects involving multiple engineers, driving design, architecture, and execution from concept to production rollout.
-* Design and implement high\\-performance backend systems that support video encoding, transcoding, and adaptive streaming at scale.
-* Make architectural and design decisions that balance scalability, maintainability, and performance.
-
-
-
-  
-
-
-
-
-
-**Video Systems Engineering** 
-
-
-
-* Work with frameworks like FFmpeg, GStreamer, or similar to build efficient video pipelines handling multiple codecs (H.264, H.265, VP9, AV1\\) and formats (MP4, WebM, HLS, DASH).
-* Optimize video storage, retrieval, and delivery performance through CDN, caching, and adaptive bitrate streaming strategies.
-* Collaborate on integrating cloud media services (AWS Media Services, Azure Media Services, or GCP Transcoder API) into our stack.
-
-
-
-  
-
-
-
-
-
-**Collaboration \\& Mentorship** 
-
-
-
-* Collaborate closely with Product, Design, QA, and SRE teams to define technical requirements and deliver business\\-impacting solutions.
-* Mentor junior engineers, providing thoughtful feedback during code reviews and promoting best practices in system design and maintainability.
-* Partner with engineering leadership to continuously improve development processes, release reliability, and team efficiency.
-
-
-
-  
-
-
-
-
-
-**Operational Excellence** 
-
-
-
-* Troubleshoot and resolve production issues efficiently, performing deep root\\-cause analyses and implementing long\\-term fixes.
-* Improve observability, logging, and monitoring to strengthen production reliability.
-* Champion engineering excellence through documentation, testing, and continuous improvement initiatives.
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
-**Here's What You Need:**
-
-
-
-
-  
-
-
-
-
-* 8\\+ years of backend engineering experience in large\\-scale distributed systems or video processing environments.
-* Strong command of Python, Go, or Java.
-* Deep understanding of video codecs, compression techniques, and streaming protocols (HLS, DASH, RTMP, WebRTC).
-* Proven experience with FFmpeg, GStreamer, or similar multimedia frameworks.
-* Hands\\-on experience with cloud\\-native development on AWS, Azure, or GCP.
-* Architecture \\& Scaling: Expertise in designing scalable microservices, distributed APIs, and performance optimization.
-* Mentorship \\& Leadership: Demonstrated ability to lead projects and mentor peers on technical design and implementation.
-* Communication: Excellent written and verbal English communication skills, with the ability to work across global teams.
-* Education: Bachelor’s or Master’s degree in Computer Science, Engineering, or related discipline (from IITs, NITs, BITs, or equivalent institutions preferred).
-
-
-
-  
-
-
-
-
-
-**Preferred Qualifications**
-
-
-
-* Experience with real\\-time streaming (WebRTC, RTMP) or AI/ML\\-driven media transformation.
-* Familiarity with containerization and orchestration (Docker, Kubernetes).
-* Experience with observability and monitoring tools (Prometheus, Grafana, Datadog).Knowledge of video watermarking, DRM, or media security practices.
-* Contributions to open\\-source multimedia projects (e.g., FFmpeg, GStreamer) are a plus.","Software Development","https://www.linkedin.com/company/goldcast","https://media.licdn.com/dms/image/v2/D4E0BAQHoSABWKz0QcA/company-logo_100_100/B4EZuO2eb8IQAQ-/0/1767628204249/goldcast_logo?e=2147483647&v=beta&t=6ZZoK4wiSj290w9OjXbn7gHIzOlNgq0ld6xZiQXV1j4","","","","","","","","","","",""
-"li-4381268535","linkedin","https://www.linkedin.com/jobs/view/4381268535","https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=100202&source=SN_LinkedIn&urlHash=iYfs","Senior Developer","IBM","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Introduction**
- At IBM Infrastructure \\& Technology, we design and operate the systems that keep the world running. From high\\-resiliency mainframes and hybrid cloud platforms to networking, automation, and site reliability. Our teams ensure the performance, security, and scalability that clients and industries depend on every day. Working in Infrastructure \\& Technology means tackling complex challenges with curiosity and collaboration. You’ll work with diverse technologies and colleagues worldwide to deliver resilient, future\\-ready solutions that power innovation. With continuous learning, career growth, and a supportive culture, IBM provides the opportunities to build expertise and shape the infrastructure that drives progress.
+ Handling missing values, Reading Raw data files, creating data structures, Handling programming errors, Accessing and Managing data, Appending, Concatenating of SAS data sets.
    
 
   
 
-**Your Role And Responsibilities**
- As a Software Developer: Generalist, you will design, develop, test, and deliver offerings using leading\\-edge and/or proven technologies. You will work in an Agile, collaborative environment to understand stakeholder requirements and contribute to the development of innovative software solutions. Your primary responsibilities will include:
+ Comprehensively prepared reports using SAS report generating procedures like PROC PRINT, PROC FREQ, PROC MEANS, PROC TRANSPOSE and PROC SQL.
    
 
   
 
-* Develop Component\\-Level Solutions: Design, code, and test innovative component\\-level software solutions, ensuring that the implemented solutions are unit tested and ready to be integrated into their product.
-* Contribute to CI/CD Pipeline: Contribute to the automated CI/CD pipeline that takes code through various quality stages, ensuring seamless integration and delivery.
-* Debug Customer\\-Reported Problems: Design, develop, and unit test code fixes for customer\\-reported problems, collaborating with stakeholders to resolve issues efficiently.
-* Deliver Offerings: Deliver offerings using leading\\-edge and/or proven technologies, working closely with stakeholders to meet requirements and expectations.
-* Collaborate in Agile Environment: Work in an Agile, collaborative environment to understand stakeholder requirements, aligning with team goals and objectives.
-
-
-**Preferred Education**
- Bachelor's Degree
+ Well versed with coding in Macros and SQL.
    
 
   
 
-**Required Technical And Professional Expertise**
-* Exposure to Back\\-End and Front End technologies Development: Experience working with back\\-end development technologies, designing, developing, testing, and delivering offerings using leading\\-edge and/or proven technologies.
-* Component\\-Level Solution Development: Exposure to designing, coding, and testing innovative component\\-level software solutions, ensuring unit testing and readiness for integration into products.
-* CI/CD Pipeline Contribution: Experience working with automated CI/CD pipelines, contributing to code quality stages, and ensuring seamless integration and delivery.
-* Debugging and Problem\\-Solving: Exposure to debugging customer\\-reported problems, designing, developing, and unit testing code fixes, and collaborating with stakeholders to resolve issues efficiently.
-* Agile Environment Collaboration: Experience working in an Agile, collaborative environment, understanding stakeholder requirements, and aligning with team goals and objectives.
-
-
-**Preferred Technical And Professional Experience**
-* L3 Support Engineering: Exposure to L3 support engineering practices, including designing, developing, and testing solutions to resolve complex customer\\-reported problems.
-* DevOps Engineering: Experience working with DevOps engineering principles, contributing to the automated CI/CD pipeline, and ensuring seamless integration and delivery.
-* Front\\-End Development: Exposure to front\\-end development technologies, designing, developing, testing, and delivering offerings using leading\\-edge and/or proven technologies.","IT Services and IT Consulting","https://www.linkedin.com/company/ibm","https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&v=beta&t=HPSmWLOCvdPkWO1nRWwjjmCNpaCqww20rSJ4E54QtxQ","","","","","","","","","","",""
-"li-4372598949","linkedin","https://www.linkedin.com/jobs/view/4372598949","https://unilever.wd3.myworkdayjobs.com/TMICC/job/Pune-Ice-Cream-Office/Platform-Test-Lead_R-1175396?source=LinkedIn&urlHash=10R8","Platform Test Lead","The Magnum Ice Cream Company","","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","Looking for Your Dream Job?
+ Create SAS datasets of clinical data from raw data; create status and efficacy datasets; create project specific macros and formats; load client data from other platforms; prepare data to be sent to clients.
    
 
   
 
- Join Our Ice Cream Team!
+ Create listings and Custom reports as per customer requirement.
    
 
   
 
-**Role:** 
- Platform Test Lead (SAP \\& Non\\-SAP)
+ Knowledge on Vendor Import programmer
    
 
   
 
-**Location:** 
- Ice Cream Office Pune
+ Strong Technical knowledge on SAS programming, SAS /BASE, SAS/Advance SAS, SAS/ Macros, SAS/SQL \\& SAS/SAS Grid knowledge is required.
    
 
   
 
-**Scope:** 
- Global
+ Code is to be written using Base SAS programs, SAS procedures, or standardized macros.
    
 
   
 
-**Type:** 
- Full\\-time
+ Good Communication skill
+   
+
+  
+
+ IQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com
+   
+
+  
+
+ IQVIA is committed to integrity in our hiring process and maintains a zero tolerance policy for candidate fraud. All information and credentials submitted in your application must be truthful and complete. Any false statements, misrepresentations, or material omissions during the recruitment process will result in immediate disqualification of your application, or termination of employment if discovered later, in accordance with applicable law. We appreciate your honesty and professionalism.","Hospitals and Health Care","https://www.linkedin.com/company/iqvia","https://media.licdn.com/dms/image/v2/C560BAQFW8oSPns4-Cw/company-logo_100_100/company-logo_100_100/0/1678802429367/iqvia_logo?e=2147483647&v=beta&t=QOXo3llXq86V8X_W17HYn3FC5VtElAP1K_rAxCkyhIs","","","","","","","","","","",""
+"li-4381522870","linkedin","https://www.linkedin.com/jobs/view/4381522870","https://jobs.iqvia.com/jobs/R1530484-0?source=LinkedIn_Slots&amp;utm_source=linkedin.com&amp;utm_medium=job_posting&urlHash=UvwK","India- Programmer","IQVIA","Kochi, Kerala, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Good Clinical Domain knowledge with understanding of clinical phases and Work experience must be in clinical / healthcare domain.
+   
+
+  
+
+ Experience in Edit Check Listings programming using SAS.
+   
+
+  
+
+ Experience in Data Import Programming using SAS, SAS Output Delivery system (ODS) for generating reports in specific output formats like RTF, PDF, and HTML.
+   
+
+  
+
+ Handling missing values, Reading Raw data files, creating data structures, Handling programming errors, Accessing and Managing data, Appending, Concatenating of SAS data sets.
+   
+
+  
+
+ Comprehensively prepared reports using SAS report generating procedures like PROC PRINT, PROC FREQ, PROC MEANS, PROC TRANSPOSE and PROC SQL.
+   
+
+  
+
+ Well versed with coding in Macros and SQL.
+   
+
+  
+
+ Create SAS datasets of clinical data from raw data; create status and efficacy datasets; create project specific macros and formats; load client data from other platforms; prepare data to be sent to clients.
+   
+
+  
+
+ Create listings and Custom reports as per customer requirement.
+   
+
+  
+
+ Knowledge on Vendor Import programmer
+   
+
+  
+
+ Strong Technical knowledge on SAS programming, SAS /BASE, SAS/Advance SAS, SAS/ Macros, SAS/SQL \\& SAS/SAS Grid knowledge is required.
+   
+
+  
+
+ Code is to be written using Base SAS programs, SAS procedures, or standardized macros.
+   
+
+  
+
+ Good Communication skill
+   
+
+  
+
+ IQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com
+   
+
+  
+
+ IQVIA is committed to integrity in our hiring process and maintains a zero tolerance policy for candidate fraud. All information and credentials submitted in your application must be truthful and complete. Any false statements, misrepresentations, or material omissions during the recruitment process will result in immediate disqualification of your application, or termination of employment if discovered later, in accordance with applicable law. We appreciate your honesty and professionalism.","Hospitals and Health Care","https://www.linkedin.com/company/iqvia","https://media.licdn.com/dms/image/v2/C560BAQFW8oSPns4-Cw/company-logo_100_100/company-logo_100_100/0/1678802429367/iqvia_logo?e=2147483647&v=beta&t=QOXo3llXq86V8X_W17HYn3FC5VtElAP1K_rAxCkyhIs","","","","","","","","","","",""
+"li-4382901342","linkedin","https://www.linkedin.com/jobs/view/4382901342","","DevOps Engineer","Meridian IT Inc.","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**JOB TITLE: DevOps Engineer
+   
+
+  
+
+ REPORTS TO: Team Lead – Data Center Services
+   
+
+  
+
+ LOCATION: India
+   
+
+  
+
+ DATE: January 2024**
+ For 40\\+ years, Meridian IT has been helping medium and enterprise businesses solve their complex technical IT problems. Through a unique strategic perspective, deep expertise, and a personalized proactive approach, Meridian IT is the top IT solutions provider in the industry.
+   
+
+  
+
+ Offering best\\-in\\-class cloud, hybrid, and on\\-premises data storage solutions, backup and recovery solutions, security solutions, hyperconverged infrastructure, contact center solutions, flexible pricing models and award\\-winning managed services, Meridian IT works with each client to create a customized plan to help solve their IT obstacles.
+   
+
+  
+
+ Meridian IT is part of Meridian Group International. Meridian Group International is a privately held organization headquartered in Deerfield, IL. Operating since 1979, Meridian Group International is a leading IT service provider and equipment leasing and finance company across 4 continents.
    
 
   
 
 **Position Summary**
- We are seeking a highly technical and strategic Platform Test Architect to define and lead the testing strategy for our enterprise application landscape, which includes SAP (S/4HANA, ECC, BTP) and connected non\\-SAP applications. The ideal candidate will be an expert in driving end\\-to\\-end automation, performance engineering, and service virtualization, ensuring high quality and rapid delivery in DevOps pipelines.
+ The DevOps Engineer is a hands\\-on technical resource who creates Infrastructure as a code on various IT infrastructures e.g. Azure, AWS, x86, IBM Power, Network for our enterprise customers. This individual will work with these teams to understand their requirements and provide the automation solution using Ansible. This individual will have a deep understanding of the Software Development Life Cycle models and various automation tools. They collaborate with the developers and other IT professionals to oversee the development and automation process. They also help the team leaders create better scripting and coding techniques for improving product performance and meeting customer requirements. The candidate will need to have strong communication and problem\\-solving skills along with a strong willingness to learn new technologies.
    
 
   
 
-**Key Responsibilities**
-* Strategy \\& Architecture: Design, implement, and maintain a comprehensive testing strategy for hybrid, multi\\-application environments, incorporating both SAP and non\\-SAP systems.
-* Tool Expertise: Act as the subject matter expert (SME) for Tricentis qTest (test management), Tricentis NeoLoad (performance), and Int4 Suite (API/Interface testing).
-* Int4 \\& SAP Testing: Leverage Int4 Suite for automated testing of SAP middleware (SAP PI/PO, SAP Cloud Integration, SAP AIF), enabling virtualized testing without needing agent installations.
-* Performance Engineering: Define and execute performance testing strategies (load, stress, endurance) for complex, integrated SAP and non\\-SAP scenarios using NeoLoad.
-* Automation Frameworks: Build and maintain scalable, model\\-based test automation frameworks (incorporating Tosca/qTest).
-* DevOps Integration: Integrate qTest and NeoLoad into CI/CD pipelines (e.g., Jenkins, Azure DevOps) for continuous testing.
-* Test Data Management: Develop test data management strategies to ensure data readiness across SIT, regression, and performance cycles.
-* Governance \\& Mentorship: Establish governance processes for test script maintenance and provide training/coaching to QA teams.
-* Test Strategy \\& Planning: Develop and implement comprehensive test strategies and plans for ERP projects including but not limited to SAP4Hana, including integration, system, regression, and user acceptance testing (UAT) across the total deployment landscape.
-* Team Leadership: Co\\-ordinate a team of test analysts (onshore and offshore), ensuring effective test execution and timely delivery of project milestones.
-* Test Design \\& Execution: Oversee the creation and review of test cases, test scripts, and test data based on business requirements and functional specifications.
-* Defect Management: Manage defect lifecycle, including logging, prioritisation, tracking, and resolution in collaboration with development and functional teams.
-* Stakeholder Communication: Act as the primary point of contact for all testing activities, providing regular updates to project managers, business stakeholders, and technical teams.
-* Quality Assurance: Ensure compliance with quality standards, best practices, and audit requirements throughout the testing process.
-* Tool Utilisation: Utilise SAP testing tools (e.g., SAP Solution Manager, HP ALM, Tricentis Tosca , INT4 ) to manage test assets and reporting.
-* Continuous Improvement: Identify opportunities to improve testing processes and methodologies for future ERP and non EPR projects.
-* Preferred Skills
+**Duties And Responsibilities**
+* Strong Programming experience in Ansible, PowerShell, Batch Scripting, and Terraform;
+* Strong Experience on the automation of tasks on Windows Server and Linux operating systems;
+* Good understanding and experience of configuration management using Ansible;
+* Working knowledge of Infrastructure as a Code using Ansible or Terraform;
+* Good Experience in Ansible Password Management;
+* Good Experience in Host File Organization;
+* Good Expertise to write a query from CMDB;
+* Good experience in Validation of server hardening configurations through Ansible;
+* Good experience with Basic maintenance check \\- Server / VM / Storage through Ansible;
+* Good to have Knowledge of the automation of LPAR creations using Ansible;
+* Good knowledge of Basic Audit scripts;
+* Good expertise in any DevOps automation and CI/CD pipelines;
+* Good understanding and experience of designing and implementing source control using GitHub and Git Actions;
+* Strong verbal and written communication skills;
+* Experience with Agile development process;
+* Good analytical skills.
 
 
-**Tooling**
-* Int4 Suite: Deep knowledge of SAP interface testing and service virtualization.
-* Tricentis NeoLoad: Expert\\-level performance testing for SAP HANA, Fiori, and web services.
-* Tricentis qTest: Experience managing requirements, test plans, and automation execution.
-* SAP Domain Knowledge: Hands\\-on experience with S/4HANA, ECC, and SAP Activate methodology.
-* Technical Skills: Proficiency in SQL, API testing (REST/SOAP), and scripting languages.
-* Non\\-SAP Skills: Experience testing web apps, microservices, and third\\-party integrations.
-* Proven experience as a Test Lead in large\\-scale SAP S/4HANA implementations or upgrades.
-* In\\-depth understanding of SAP S/4HANA modules, architecture, and business processes.
-* Strong knowledge of testing methodologies, tools, and best practices.
-* Experience in managing and mentoring test teams.
-* Excellent problem\\-solving, communication, and stakeholder management skills.
-* Familiarity with Agile and Waterfall project delivery models.
-* Experience with test automation tools is a plus.
-* ISTQB or equivalent testing certification preferred.
-* Tricentis Tosca certification (Model\\-based automation).
-* Experience with SAP Solution Manager (SolMan) 7\\.2 and SAP Cloud ALM
+**Qualifications And Requirements**
+* A graduate degree is preferred but equivalent experience can be substituted for the degree requirement;
+* Prior experience of at least 4\\-5 years as an Enterprise IT resource;
+* Certification:
++ Red Hat Certified Engineer (Red Hat Certified Specialist in Ansible Automation);
++ Any Windows Server certification;
+
+* Skills:
++ Ansible Automation;
++ Deployment of resources using CI/CD Pipelines;
++ Terraform;
++ Server Administration \\- Windows or Linux (Linux preferred)
++ Public Cloud Infrastructures (Microsoft Azure preferred and/or AWS)
++ Understanding of up\\-to\\-date Network architecture concepts and system integration principles including high\\-end routers/switches, Network \\& Security, Network Virtualization, and other related infrastructure and system components.
++ Good understanding of Windows and Linux OS security.
 
 
-**Required Qualifications**
-* Experience: 10\\+ years in software testing, with at least 5\\+ years in a Lead/Architect role specializing in SAP.
-* Bachelor’s degree in Computer Science, Information Technology, or a related field (or equivalent experience).
-
-
-**Leadership Skills**
-* PASSION FOR HIGH PERFORMANCE: Takes personal responsibility and accountability for execution and results. Generates intensity and focus to motivate people to deliver results at speed.
-* PERSONAL MASTERY: Sets high standards for themselves. Actively builds own wellbeing and resilience.
-* TALENT CATALYST: Invests in people – coaches individuals and teams to realize their full potential. Creates an inclusive climate, empowering everyone to be at their best. Inspires powerful teamwork and collaboration, connecting people for better results.
-* CONSUMER LOVE: Brings the voice of the consumer into everything we do, always.
-* BUSINESS ACUMEN: Creates opportunities for profitable growth through the core and beyond.
-
-
-**ARE YOU EXCITED TO CRAFT THE ICE CREAM FUTURE?**
- TMICC embraces diversity and encourages applicants from all walks of life. This means giving full and fair consideration to all applicants and continuing development of all employees regardless of age, disability, gender reassignment, race, religion or belief, sex, sexual orientation, marriage and civil partnership, and pregnancy and maternity.
+*Meridian Group International, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.*","Financial Services and IT Services and IT Consulting","https://www.linkedin.com/company/meridian-it-inc","https://media.licdn.com/dms/image/v2/C560BAQERBMVOUeINHQ/company-logo_100_100/company-logo_100_100/0/1630655401153/meridian_it_inc_logo?e=2147483647&v=beta&t=Ae1BdF6WyWfWJ8-vkgl3nxJogunQvd1VSseADZIx69w","","","","","","","","","","",""
+"li-4377873460","linkedin","https://www.linkedin.com/jobs/view/4377873460","","Kepware","Capgemini","Sion, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Other","","","**Job Description**
+**Role : Kepware Developer**
+ We are seeking a
+ **Kepware Developer** 
+ to design, configure, and maintain industrial data connectivity using
+ **Kepware KEPServerEX** 
+ . The role focuses on integrating PLCs, SCADA, historians, and cloud/enterprise systems to ensure reliable OT–IT data flow.
+ **Key Responsibilities** 
+ Configure Kepware channels, devices, and tags.Integrate with PLCs and SCADA/Historians.Implement OPC UA security, and industrial protocols.Troubleshoot connectivity issues and support production systems.Maintain documentation, backups, and configuration standards.
+ **Required Skills** 
+ Hands‑on experience with
+ **Kepware KEPServerEX** 
+ .Strong understanding of
+ **Modbus, OPC UA/DA, EtherNet/IP** 
+ , and other industrial protocols.Experience with PLC communication and OT networks.Good troubleshooting skills.
+ **Preferred Qualifications** 
+ Engineering degree in Automation/Instrumentation/Computer Science.
    
 
   
 
- Interested candidates are invited to submit their resume and cover letter detailing their relevant experience and qualifications to TMICC’s career portal.
+**Job Description \\- Grade Specific**
+**Role : Kepware Developer**
+ We are seeking a
+ **Kepware Developer** 
+ to design, configure, and maintain industrial data connectivity using
+ **Kepware KEPServerEX** 
+ . The role focuses on integrating PLCs, SCADA, historians, and cloud/enterprise systems to ensure reliable OT–IT data flow.
+ **Key Responsibilities** 
+ Configure Kepware channels, devices, and tags.Integrate with PLCs and SCADA/Historians.Implement OPC UA security, and industrial protocols.Troubleshoot connectivity issues and support production systems.Maintain documentation, backups, and configuration standards.
+ **Required Skills** 
+ Hands‑on experience with
+ **Kepware KEPServerEX** 
+ .Strong understanding of
+ **Modbus, OPC UA/DA, EtherNet/IP** 
+ , and other industrial protocols.Experience with PLC communication and OT networks.Good troubleshooting skills.
+ **Preferred Qualifications** 
+ Engineering degree in Automation/Instrumentation/Computer Science.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
+"li-4381541239","linkedin","https://www.linkedin.com/jobs/view/4381541239","","Shopify Api  integration engineer","weparcel.in","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","**Company Description**
+  
+
+ Weparcel.in is your comprehensive logistics partner, specializing in courier services, e\\-commerce deliveries, transportation solutions, scalable warehousing, and end\\-to\\-end supply chain management. We are committed to simplifying logistics to enable businesses to thrive and focus on their growth. With our reliable and efficient services, businesses can depend on timely deliveries and optimized supply chain operations. At Weparcel, we prioritize customer satisfaction and operational excellence to deliver seamless logistics solutions.
    
 
   
 
- We take pleasure seriously. Join the Ice Cream team now!
+**Role Description**
+  
+
+ This is a full\\-time on\\-site role located in Noida for a Shopify ,woo commerce,unicommerce eny other platforms API Integration Engineer. The primary responsibilities include designing, developing, and maintaining integrations between Shopify and various systems. The role requires collaborating with cross\\-functional teams to ensure end\\-to\\-end functionality, addressing technical issues, troubleshooting integration challenges, and optimizing processes for efficiency. The ideal candidate will also play a pivotal role in streamlining operations to support e\\-commerce and logistics workflows.
    
 
   
 
- \\#TMICC
-   
-
+**Qualifications**
   
 
-**About The Magnum Ice Cream Company**
- With 19\\.000 expert ice cream colleagues and iconic brands like Wall’s, Cornetto and Ben \\& Jerry’s, loved in 76 countries, we are the world’s largest Ice Cream company leading the industry We have been taking pleasure seriously for more than 100 years, serving happiness with every lick or scoop of ice cream for generations.
-   
-
-  
-
-**About**
- The Magnum Ice Cream Company (formerly part of Unilever) is all about growth. Growing our business. Growing our customers’ businesses. Growing our people’s careers. Growth begins with empowerment. So we free our people to be innovative, responsible entrepreneurs, driven and equipped to give our consumers more amazing products and unforgettable moments – and having fun doing it. Here’s what defines success in our organization :
-   
-
-  
-
-* We are all about growth
-* We operate with speed and simplicity
-* We win together with fun
-* We boldly innovate to disrupt our industry
-* We care and challenge
-* We are experts in the Ice Cream Category
-
-
-**ARE YOU EXCITED TO CRAFT THE ICE CREAM FUTURE?**
- Please apply online and do not forget to upload your CV. Your application will be reviewed against the requirements, and we will be in touch shortly after the closing date, with an update on the status of your application.","Food and Beverage Services","https://nl.linkedin.com/company/the-magnum-ice-cream-company","https://media.licdn.com/dms/image/v2/D4E0BAQGgaU6nWgZS_g/company-logo_100_100/B4EZfLpU6AHwAg-/0/1751468299517/magnum_ice_cream_co_logo?e=2147483647&v=beta&t=0NI1RYSN6XFvBFRN3wOMD7ypaQVVr2eELVD4JqGIjTk","","","","","","","","","","",""
-"li-4381543086","linkedin","https://www.linkedin.com/jobs/view/4381543086","","Software Engineer III - Oracle HCM Cloud developer","hackajob","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","***hackajob** 
- is collaborating with
- **J.P. Morgan** 
- to connect them with exceptional professionals for this role.*
-**Job Description**
- As a Software Engineer III at JPMorgan Chase within the Workforce Technology Team which is aligned to Employee Platforms, you serve as a seasoned member of an agile team to design and deliver trusted market\\-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives.
-   
-
-  
-
-**Job Responsibilities**
-* Working with the stakeholders to understand and review the requirements on Integrations, reporting and the fast formula.
-* Gathering business requirements, developing technical requirement documents.
-* Building Interfaces, custom reports on Oracle HCM using the available framework.
-* Build proficiency with the HCM modules Including ORC, Global HR, Talent, Payroll, Benefits, Time and Labor, Absence Management and other areas as required by the project.
-* Conduct Unit testing, quality reviews, issue identification and resolution.
-* Help the team with the design, development \\& daily tasks.
-* Utilize JIRA and other project management tools used for tracking purposes
-* Adopt and implementation of agile methodology
-* Foster good partnerships with all the stakeholders.
-
-
-**Required Qualifications, Capabilities, And Skills**
-* Formal training or certification on software engineering concepts and 3\\+ years of applied experience
-* SQL development experience,
-* Oracle BI Publisher, Oracle OTBI, Oracle HCM Fast Formula, Oracle HCM Extracts \\& OIC
-* Working experience in Oracle HCM Cloud Global HR, ORC, Talent Management and Global Payroll
-* Good written and verbal communication skills
-* Detail\\-oriented, team player and who could thrive in a collaborative environment.
-* Good communication and presentation skills.
-* Ability to multi\\-task and shift priorities as needed.
-
-
-**Preferred Qualifications, Capabilities, And Skills**
-* Familiarity with modern front\\-end technologies
-* Nice to have PeopleSoft knowledge
-
-
-**ABOUT US**","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D4D0BAQGuQDG4JgJVhQ/company-logo_100_100/B4DZxrAcO2G8AY-/0/1771321807998/hackajob_logo?e=2147483647&v=beta&t=1355cxQCALa8e7tv9UZFHOazQBJXxdxsrW4-12AAyMM","","","","","","","","","","",""
-"li-4377602566","linkedin","https://www.linkedin.com/jobs/view/4377602566","","Lead Engineer - Test Automation","Veeva Systems","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Quality Assurance","","","Veeva Systems is a mission\\-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest\\-growing SaaS companies in history, we surpassed $2B in revenue in our last fiscal year with extensive growth potential ahead.
-   
-
-  
-
- At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company – we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors.
-   
-
-  
-
- Join us in transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities.
-   
-
-  
-
-**The Role**
- Do you dream about being part of a team with the talent, passion, and financial backing to build top\\-notch, industry\\-changing cloud\\-based applications and platforms? At Veeva, we build enterprise cloud technology that powers the biggest names in pharmaceuticals, biotech, consumer goods, chemical \\& cosmetics industries. Our customers make vaccines, life\\-saving medicines, and life\\-enhancing products that make a difference in everyday lives. Our technology has transformed these industries, enabling them to get critical products and services to market faster. Our products empower our customers in the fight against global pandemics like COVID\\-19\\.
-   
-
-  
-
- Veeva Systems is expanding its global footprint with a new development centre in Hyderabad, India. This emerging and growing branch of Veeva is looking for Software Engineer, Test Automation for multiple positions to expand global quality \\& release engineering efforts. You will be working on cutting\\-edge technologies such as Cucumber, AWS(EC2, S3, Workspace), Visual Regression \\& DevOps Tools, playing a pivotal role in developing/maintaining automating tests to support our ever\\-growing suite of regression tests. The ideal candidate will be highly technical, motivated, and can work without too much supervision.
-   
-
-  
-
-**What You’ll Do**
-* Learn and understand features of Veeva Vault platform and applications
-* Work on CI/CD tools (Git, Jenkins, JIRA) on a daily basis
-* Develop and maintain automation scripts (API and UI)
-* Communicating status and working effectively with onshore/offshore managers
-* Troubleshoot day to day technical issues related to test automation
-* Perform code reviews and be a technical mentor to team members
-* Work with managers to arrive at metrics for measuring the code quality for test automation suite
-* Work closely with scrum masters on sprint plannings and backlog grooming
-* Be a key player for the growth of Veeva Hyderabad by contributing to recruiting initiatives
-
-
-**Requirements**
-* 10\\+ years of experience in software test automation
-* Strong experience in Java, Object\\-Oriented Methodologies
-* Strong experience with automated test frameworks (e.g. Selenium, Cucumber)
-* Good working knowledge of CI/CD tools (Git, Jenkins, JIRA)
-* Experience with Agile/Scrum development methodologies (preferably in an onshore /offshore model)
-* Experience working for a product\\-based company
-* Excellent team collaboration and effective communication skills
-* Experience playing a technical mentor role to the team and performing code reviews
-* Experience leading automation projects in a technical role and actively participated in overall program/project management activities
-* Bachelor's or Masters' Degree in computer engineering, computer science, electrical engineering, or similar
-* Experience with applicable software and programs including Kotlin, Swift, JAVA, and React.
-* Experience with Android and Mac platforms
-* Fluency in interfacing and functional testing.
-* A natural problem solver and critical thinker.
-* Comfortable debugging and working with object\\-oriented programming.
-* Experience in Mobile Testing and Automation – Appium, XCUI, Espresso, KI
-* Experience in Mobile Apps Development (Android/iOS)
-
-
-****Nice to Have****
-* Experience working in the life sciences and health care industry
-* Participation in code hackathons and other open source community activities
-
-
-**Perks \\& Benefits**
-* Health insurance with generous coverage limits
-* Fixed cash bonus
-* Allowance for wellness \\& fitness programs
-* Winter break
-
-
- Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.
-   
-
-  
-
- Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances.","Software Development, IT Services and IT Consulting, and Pharmaceutical Manufacturing","https://www.linkedin.com/company/veeva-systems","https://media.licdn.com/dms/image/v2/C4E0BAQHW29Wyz9Q11w/company-logo_100_100/company-logo_100_100/0/1631340331617?e=2147483647&v=beta&t=K7R_qLvWu1edjFLP8vp806fVq6d3Tv5aGbhOMZo_qoE","","","","","","","","","","",""
-"li-4382683943","linkedin","https://www.linkedin.com/jobs/view/4382683943","","Senior Lead Engineer","NTT DATA North America","","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","**Req ID:** 
- 361214
-   
-
-  
-
- NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward\\-thinking organization, apply now.
-   
-
-  
-
- We are currently seeking a Senior Lead Engineer to join our team in Remote, Telangana (IN\\-TG), India (IN).
-   
-
-  
-
- Java Developer:
-   
-
-  
-
-* Contribute to all stages of software development lifecycle
-* Design, implement and maintain Java\\-based applications that can be high\\-volume and low\\-latency
-* Analyze user requirements to define business objectives
-* Envisioning system features and functionality
-* Define application objectives and functionality
-* Ensure application designs conform with business goals
-* Develop and test software
-* Identify and resolve any technical issues arising
-* Create detailed design documentation
-* Propose changes to current Java infrastructure
-* Develop technical designs for application development
-* Develop multimedia applications
-* Write well designed, testable code
-* Conducting software analysis, programming, testing, and debugging
-* Manage Java and Java EE application development
-* Develop documentation to help users
-* Transforming requirements into stipulations
-* Prepare and produce releases of software components
-* Support continuous improvement, investigating alternatives and technologies, and presenting for architectural review
-
-
-**About NTT DATA**
- NTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100\\. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise\\-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start\\-up partners. NTT DATA is a part of NTT Group, which invests over $3 billion each year in R\\&D.
-   
-
-  
-
- Whenever possible, we hire locally to NTT DATA offices or client sites. This ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an NTT DATA office or client site, in\\-office attendance may be required for meetings or events, depending on business needs. At NTT DATA, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. NTT DATA recruiters will never ask for payment or banking information and will only use @nttdata.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, https://us.nttdata.com/en/contact\\-us.
-   
-
-  
-
-***NTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact\\-us.***
-***This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here.***","IT Services and IT Consulting","https://www.linkedin.com/company/ntt-data-americas","https://media.licdn.com/dms/image/v2/D4E0BAQGnoz2X-IxAuw/company-logo_100_100/company-logo_100_100/0/1719840778368/ntt_data_americas_logo?e=2147483647&v=beta&t=9lYr_fMUoCGiHovTPbfU6DBRyUAG-HtLUYziXPNmzcg","","","","","","","","","","",""
-"li-4330682977","linkedin","https://www.linkedin.com/jobs/view/4330682977","","Senior Software Engineer II - Video Editor","Goldcast","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering","","","Goldcast (a Cvent company) is an AI\\-powered B2B Video Content Platform that enables marketers to put video content at the heart of the customer journey. We’re building a
- **browser\\-based, frame\\-accurate video editor** 
- that rivals desktop apps, using cutting\\-edge tech like WebCodecs, WASM, and Remotion.
- 
-
-
-
-  
-
-
-
-
-
- Founded in mid\\-2020 at Harvard Business School, we have 400\\+ customers across tech, professional services, manufacturing, and finance to deliver engaging video content \\& digital events.
- 
-
-
-
-  
-
-
-
-
-
-**Role Overview**
-
-
-
-
- As a Senior Software Engineer II specializing in video editing frameworks, you'll lead our effort to build a
- **frame\\-perfect, multi\\-track video editor** 
- in the browser, combining Remotion for UX and WebCodecs/WASM for
- **low\\-level video processing** 
- . You will extend Remotion’s React layer for UX to enable
- **professional\\-grade editing features** 
- (precise cuts, real\\-time previews, GPU\\-accelerated effects) while navigating browser limitations.
- 
-
-
-
-  
-
-
-
-
-
-**What You’ll Do**
-
-
-
-* Lead the architecture and development a frame\\-perfect browser\\-based video editing framework (supporting cuts, transitions, and multi\\-track compositing).
-* Design and implement real\\-time previews using WebGL, OffscreenCanvas, or WebCodecs that mirror final rendering pixel\\-perfectly.
-* Identify performance bottlenecks and optimize rendering pipelines, with particular attention to input latency and animation fluidity
-* Integrate WebAssembly (WASM) for performance\\-critical tasks such as frame\\-accurate video decoding, image processing and audio syncing.
-* Design the timeline core (playhead scrubbing, layer stacking, non\\-destructive edits).
-* Architect a component system on top of Remotion to bypass its limitations for core video processing.
-* Develop tools to measure and enforce frame\\-perfect exports (e.g., automated diffing between preview and render).
-* Solve browser\\-specific challenges (memory limits, GPU acceleration, audio/video sync drift).
-* Collaborate with design and product teams to create intuitive video editing experiences
-* Mentor other engineers on browser media APIs and performance optimization.
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
-**What We Seek**
-
-
-
-* 7\\+ years of frontend engineering experience with at least
- **2\\+ years in video/audio processing on the browser.**
-* Deep expertise in browser media APIs: WebCodecs, Web Audio, MediaStream, Canvas.
-* Experience with frame\\-accurate video manipulation (e.g., FFmpeg.wasm, custom WebCodecs pipelines).
-* Proven ability to optimize JavaScript/WebAssembly performance (e.g., reducing input latency, smoothing animations).
-* Experience pushing Remotion or similar frameworks beyond its limits for performance critical tasks. e.g., replacing with WebCodecs, optimizing for multi\\-track editing.
-* Experience building browser\\-based media editing or processing tools
-* Shipped WASM\\-based video/audio tools to production (e.g., FFmpeg.wasm, Rust/C\\+\\+ for WebAssembly).
-* Experience with GPU acceleration and hardware\\-accelerated graphics in browser environments.
-
-
-
-  
-
-
-
-
-
-**Preferred Qualifications**
-
-
-
-* Experience with WebGL/Canvas optimizations for real\\-time video previews.
-* Knowledge of video codecs (H.264, VP9\\) and compression algorithms and browser encoding limitations.
-* Experience working with HLS, WebRTC \\& FFmpeg.
-* Deep understanding of performance challenges in browser environments (e.g., garbage collection pauses, GPU memory leaks)
-* Experience with WebGL\\-based motion graphics (e.g., shaders for transitions, GPU\\-accelerated text animations).
-* Familiarity with rendering loops, frame timing, and smooth animation techniques
-* Built developer tools for performance profiling (e.g., frame timings, memory snapshots).
-
-
-
-  
-
-
-
-
-
-**This role isn’t a fit if you:**
-
-
-
-* Prefer working with stable APIs (we’re pioneering uncharted browser capabilities).
-* Haven’t debugged
- **frame drops** 
- or
- **audio drift** 
- in a media app.
-
-
-
-  
-
-
-
-
-
-**What We Offer**
-
-
-
-* Greenfield opportunity to define the architecture of a bleeding\\-edge browser video stack.
-* Work with rare expertise (WebCodecs, WASM, Remotion internals) at scale.
-* Opportunity to work with a best\\-in\\-class product, engineering, and design team
-* An incredible culture blending innovation, collaboration, and technical excellence
-* Competitive salary and benefits package
-* Hybrid work environment","Software Development","https://www.linkedin.com/company/goldcast","https://media.licdn.com/dms/image/v2/D4E0BAQHoSABWKz0QcA/company-logo_100_100/B4EZuO2eb8IQAQ-/0/1767628204249/goldcast_logo?e=2147483647&v=beta&t=6ZZoK4wiSj290w9OjXbn7gHIzOlNgq0ld6xZiQXV1j4","","","","","","","","","","",""
-"li-4382904177","linkedin","https://www.linkedin.com/jobs/view/4382904177","","Sr. Talent Acquisition Specialist","Proofpoint","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Human Resources","","accessibility@proofpoint.com","**About Us**
+* Strong Software Development and Integration skills
+* Solid understanding of Systems Engineering concepts
+* Proficiency in Analytical Skills and Troubleshooting
+* Ability to work effectively in a collaborative, on\\-site environment in Noida
+* Experience with Shopify and other platforms API and familiarity with e\\-commerce systems is high
+* Strong problem\\-solving skills and attention to detail","Transportation, Logistics, Supply Chain and Storage","https://in.linkedin.com/company/weparcel","https://media.licdn.com/dms/image/v2/D560BAQH44cGyIoStUg/img-crop_100/B56ZYgel.dGUBc-/0/1744301616334?e=2147483647&v=beta&t=dCr9hXvWcHFYmC-vVWsSMvfcXC8DrW-ZV3vcBhlLTS0","","","","","","","","","","",""
+"li-4382904177","linkedin","https://www.linkedin.com/jobs/view/4382904177","https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Bengaluru-India\\u002d\\u002d-Remote/Sr-Talent-Acquisition-Specialist_R13850?source=LinkedIn&urlHash=tRSi","Sr. Talent Acquisition Specialist","Proofpoint","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Human Resources","","accessibility@proofpoint.com","**About Us**
  Proofpoint is a global leader in human\\- and agent\\-centric cybersecurity. We protect how people, data, and AI agents connect across email, cloud, and collaboration tools. Over 80 of the Fortune 100, 10,000 large enterprises, and millions of smaller organizations trust Proofpoint to stop threats, prevent data loss, and build resilience across their people and AI workflows. Our mission is simple safeguard the digital world and empower people to work securely and confidently. Join us in our pursuit to defend data and protect people.
    
 
@@ -1154,318 +461,28 @@
 
 **How To Apply**
  Interested? Submit your application along with any supporting information\\- we can’t wait to hear from you!","Computer and Network Security and Software Development","https://www.linkedin.com/company/proofpoint","https://media.licdn.com/dms/image/v2/D4E0BAQFEzwJn3C-nDQ/company-logo_100_100/company-logo_100_100/0/1726764831463/proofpoint_logo?e=2147483647&v=beta&t=UytbviYQ7LPi0Ht8P29i0ulfIZZKQRheA5k31LAUhVs","","","","","","","","","","",""
-"li-4381522762","linkedin","https://www.linkedin.com/jobs/view/4381522762","https://www.hackajob.com/job/974ec2cb-022e-11f1-b544-0a05e249917d-senior-data-engineer-data-quality-at-procter-gamble?utm_source=LinkedIn&utm_medium=JobAds&utm_term=Automated&utm_campaign=archer-senior-data-engineer-data-quality-at-procter-gamble&job_name=senior-data-engineer-data-quality-at-procter-gamble&company=archer&workplace_type=on-site&city=hyderabad&country=india&urlHash=qx8t","Senior Data Engineer - Data Quality at Procter & Gamble","hackajob","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","***hackajob** 
- is collaborating with
- **Archer** 
- to connect them with exceptional professionals for this role.*
-**Job Location**
- HYDERABAD OFFICE INDIA PSC PGH
+"li-4377874447","linkedin","https://www.linkedin.com/jobs/view/4377874447","","SAP BTP CAP Lead","Capgemini","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Your Role**
+* Design and build enterprise\\-grade services using SAP CAP (Cloud Application Programming Model) with CDS and OData on SAP BTP Cloud Foundry.
+* Develop and maintain microservices/APIs using Node.js or Java, integrating with SAP HANA/HANA Cloud for data persistence and modelling.
+* Implement XSUAA\\-based security, JWT/OAuth2 authentication, and secure connectivity via Destinations and Connectivity services.
+* Optimize, test, and deploy applications; automate CI/CD and ensure robust logging via Audit Log on BTP.
+* Collaborate with UI teams on SAP UI5/Fiori integration (added advantage) and align solutions with best practices on BTP.
+
+
+ Works in the area of Software Engineering, which encompasses the development, maintenance and optimization of software solutions/applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He/she is responsible for the development and application of software engineering practice and knowledge, in research, design, development and maintenance.3\\. His/her work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his/her software engineering discipline to reach standard software engineer skills expectations for the applicable role, as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
    
 
   
 
-**Job Description**
- P\\&G was founded over 180 years ago as a simple soap and candle company. Today, we're the world’s largest consumer goods company and home to iconic, trusted brands that make life a little bit easier in small but meaningful ways. We've spanned three centuries thanks to three simple ideas: leadership, innovation and citizenship. The insight, innovation and passion of hardworking teams has helped us grow into a global company that is governed responsibly and ethically, that is open and visible, and that supports good causes and protects the environment. This is a place where you can be proud to work and do something that matters.
-   
-
-  
-
- Dedication from Us: You'll be at the core of breakthrough innovations, be given exciting assignments, lead initiatives, and take ownership and responsibility, in creative workspaces where new insights thrive. All the while, you'll receive outstanding training to help you become a leader in your field. It is not just about what you'll do, but how you'll feel: encouraged, valued, purposeful, challenged, heard, and inspired.
-   
-
-  
-
- What we Offer: Continuous mentorship – you will collaborate with peers and receive both formal training as well as day\\-to\\-day mentoring from your manager dynamic and encouraging work environment– employees are at the centre, we value every individual and support initiative, promoting agility and work/life balance.
-   
-
-  
-
- We’re looking for a Senior Data/Software Engineer to join our Data Quality team in Data \\& Analytics Core Data Lake Platform. We are searching for self\\-motivated candidates, who will leverage modern Agile and DevOps practices to design, develop, test and deploy IT systems and applications, delivering global projects in multinational teams.
-   
-
-  
-
- P\\&G Core Data Lake Platform is a central component of P\\&G data and analytics ecosystem. CDL Platform is used to deliver a broad scope of digital products and frameworks used by data engineers and business analysts. In this role you will have an opportunity to leverage data engineering skillset to deliver solutions enriching data cataloging and data discoverability for our users. With our approach to building solutions that would fit the scale P\\&G business is operating, we combine data engineering best practices with modern software engineering standards (Azure, DevOps, SRE) to deliver value for P\\&G.
-   
-
-  
-
-**Responsibilities**
- As a Senior Data/Software Engineer within our Data Quality team, you will be responsible for building and maintaining our data quality framework and libraries to ensure the reliability of our data. You will collaborate closely with developers and analytical teams to improve and enhance end\\-to\\-end data quality processing.
-   
-
-  
-
-* Design, develop, and maintain data quality (DQ) libraries (Python)
-* Support design, build and optimization of data pipelines to facilitate data processing and analytics.
-* Implement data quality metrics monitoring to ensure compliance with data quality dimensions.
-* Collaborate with data engineers, analysts, and other stakeholders to understand data quality requirements.
-* Evaluate and integrate open\\-source libraries for data quality into existing frameworks.
-* Help troubleshoot and resolve data\\-related issues in a timely manner.
-* Document processes, data models, and system architecture to ensure knowledge transfer and compliance.
-* Engineer applications throughout its entire lifecycle from development, deployment, upgrade, and replacement/termination
-* Ensuring that development and architecture aligns to established standards, including modern software engineering practices (CICD, Agile, DevOps)
-
-
-**Qualifications**
-**Job Qualifications**
-* Bachelor’s degree in computer science or related technical field.
-* 8\\+ years of experience working as Software/Data Engineer (with focus on developing in Python, PySpark, Databricks)
-* Familiarity with open\\-source libraries and tools for data quality (e.g., Great Expectations, Deequ)
-* Good knowledge of Data Quality concepts and dimensions
-* Experience leveraging modern software engineering practices (code standards, Gitflow, automated testing, CICD, DevOps)
-* Experience working with Cloud infrastructure (Azure preferred)
-* A strong desire to produce high quality software through cross functional collaboration, testing, code reviews, and other best practices.
-
-
-**You Also Should Have**
-* Strong problem\\-solving abilities and a proactive approach to challenges.
-* Excellent communication and interpersonal skills, with the ability to work effectively with cross\\-functional teams.
-* In\\-depth knowledge of software development methodologies (Agile, Scrum, etc.).
-* Strong written and verbal English communication skills to influence others
-* Proven track record of delivering high\\-quality software projects on time and within budget.
-* Experience working in fast\\-paced, dynamic environments.
-* Demonstrated ability to manage multiple priorities simultaneously while maintaining attention to detail
-* Ability to work collaboratively across different functions and geographies
-
-
-**About Us**
- We produce globally recognized brands, and we grow the best business leaders in the industry. With a portfolio of trusted brands as diverse as ours, it is paramount our leaders can lead with courage the vast array of brands, categories, and functions. We serve consumers around the world with one of the strongest portfolios of trusted, quality, leadership brands, including Always®, Ariel®, Gillette®, Head \\& Shoulders®, Herbal Essences®, Oral\\-B®, Pampers®, Pantene®, Tampax® and more. Our community includes operations in approximately 70 countries worldwide.
-   
-
-  
-
- Visit http://www.pg.com to know more.
-   
-
-  
-
- We are an equal\\-opportunity employer and value diversity at our company. We do not discriminate against individuals based on race, color, gender, age, national origin, religion, sexual orientation, gender identity or expression, marital status, citizenship, disability, HIV/AIDS status, or any other legally protected factor.
-   
-
-  
-
-*At P\\&G, the hiring journey is personalized every step of the way, thereby ensuring equal opportunities for all, with a strong foundation of Ethics \\& Corporate Responsibility guiding everything we do.*
-*All the available job opportunities are posted either on our website \\- pgcareers.com, or on our official social media pages, for the convenience of prospective candidates, and do not require them to pay any kind of fees towards their application.”*
-**Job Schedule**
- Full time
-   
-
-  
-
-**Job Number**
- R000139782
-   
-
-  
-
-**Job Segmentation**
- Experienced Professionals","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D4D0BAQGuQDG4JgJVhQ/company-logo_100_100/B4DZxrAcO2G8AY-/0/1771321807998/hackajob_logo?e=2147483647&v=beta&t=1355cxQCALa8e7tv9UZFHOazQBJXxdxsrW4-12AAyMM","","","","","","","","","","",""
-"li-4381262881","linkedin","https://www.linkedin.com/jobs/view/4381262881","","Speaker Diarization AI Researcher","Chordy.ai","Bengaluru, Karnataka, India","","other","","","","","",True,"entry level","Marketing, Public Relations, and Writing/Editing","","","**Company Description** 
-
-
-
-
-
-
-
-
- Chordy.ai transforms conversations into actionable, searchable memories. It captures spoken interactions and generates transcripts, summaries, decisions, and action items that are connected to people and topics, building context over time. This innovative platform allows users to retrieve key information using queries like “What did we decide last time?” or “What did I promise?” to access past decisions and commitments. Designed to enhance focus and productivity, Chordy.ai empowers users with precise reminders and tools for seamless follow\\-through.
- 
-
-
-
-  
-
-
-
-
-
-**Role Description** 
-
-
-
-
-
-
-
-
- This is a full\\-time remote role for a Speaker Diarization AI Researcher. The researcher will focus on designing and implementing advanced algorithms for speaker identification and segmentation to improve the speaker diarization models. Day\\-to\\-day tasks include conducting research on state\\-of\\-the\\-art methods, developing and optimizing machine learning models, processing datasets, collaborating with cross\\-functional teams to integrate new techniques into the company's product offerings, and contributing to publications and presentations in the field of AI and machine learning.
- 
-
-
-
-  
-
-
-
-
-
-**Qualifications** 
-
-
-
-
-
-
-
-* Experience with machine learning and artificial intelligence, particularly in speaker diarization, natural language processing, and audio signal processing
-* Proficiency in Python and frameworks such as TensorFlow or PyTorch
-* Strong knowledge of algorithms, statistical modeling, and data analysis techniques
-* Prior experience working with large\\-scale audio datasets and deep learning methods
-* Excellent problem\\-solving skills with the ability to work independently in a remote environment
-* Proven ability to contribute to scientific publications or present at industry events is a plus
-* Educational background in Computer Science, Electrical Engineering, Machine Learning, or a related field—advanced degrees (Master's or Ph.D.) preferred","Technology, Information and Internet","https://www.linkedin.com/company/chordy-ai","https://media.licdn.com/dms/image/v2/D4D0BAQHCYqFUqFafWA/company-logo_100_100/B4DZvcrVw1JwAQ-/0/1768933909472/chordy_ai_logo?e=2147483647&v=beta&t=7OYx-ai5djEMHSzgNn3ilzVvxLBEbVvBx1xkYcVDNaU","","","","","","","","","","",""
-"li-4381271393","linkedin","https://www.linkedin.com/jobs/view/4381271393","","Web Developer Wordpress","IIMaspirant","Indore, Madhya Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Founding Web Developer** 
-
-
-
-
-**Location:** 
- Indore (on\\-site)
- 
-
-
-
-**Engagement:** 
- Equity\\-Only
- 
-
-
-
-  
-
-
-
-
-
-**About IIMaspirant.in** 
-
-
-
-
- IIMaspirant.in is developing a
- **technology\\-driven education platform** 
- for CAT and IPMAT aspirants emphasizing structure, consistency and measurable outcomes. Currently in the execution phase, we are assembling a
- **small but highly\\-ownership\\-oriented founding team** 
- .
- 
-
-
-
-  
-
-
-
-
-
-**Role Overview** 
-
-
-
-
- This is a founding leadership role that grants you complete ownership of the technology and product execution. You’ll collaborate directly with the Founder to build and expand the platform from the very beginning.
- 
-
-
-
-  
-
-
-
-
-
- During
- **the initial phase, this working will be equity\\-only** 
- . Our objective is to develop a standalone LMS (Learner Management System).
- 
-
-
-
-  
-
-
-
-
-
-**Core Responsibilities** 
-
-
-
-* Own and oversee the
- **entire technology stack**
-* Develop, manage, and scale the
- **WordPress\\-based platform** 
- (mandatory)
-* Design and implement the
- **LMS and mock test infrastructure**
-* Make critical
- **build versus buy** 
- decisions
-* Ensure performance, security, and scalability
-* Translate product vision into a clear technical roadmap
-* Establish engineering workflows and documentation
-* Hire and lead future tech team members
-
-
-
-  
-
-
-
-
-
-**Requirements** 
-
-
-
-* Strong, hands\\-on experience with
- **WordPress** 
- (non\\-negotiable)
-* Solid understanding of modern web technologies and system design
-* Experience in startups or product\\-driven environments is preferred
-* Ownership mindset; comfortable with ambiguity
-* Willingness to work
- **without a salary initially** 
- , for equity upside
-* Ability to collaborate in a
- **hybrid setup (Indore preferred)**
-
-
-
-  
-
-
-
-
-
-**Equity \\& Structure** 
-
-
-
-* Open to
- **with investment**
-* Compensation to evolve with revenue milestones
-
-
-
-  
-
-
-
-
-
-**Who This Is For** 
-
-
-
-* Builders who seek
- **ownership, not just tasks**
-* Engineers aiming for a
- **founding leadership role**
-* Individuals motivated by long\\-term value creation
-
-
-
-  
- **Not suitable for candidates seeking immediate salary or short\\-term engagements.**","Education","https://www.linkedin.com/company/iimaspirant","https://media.licdn.com/dms/image/v2/D4D0BAQEZ12edcqF76A/company-logo_100_100/company-logo_100_100/0/1738054089711?e=2147483647&v=beta&t=6JJ7yKk9RVXMc4B6odPBla772VtKFwdhCgK9h4Th1u4","","","","","","","","","","",""
+**Your Profile**
+* 4–10 years of experience in building cloud\\-native applications on SAP BTP using SAP CAP.
+* Strong hands\\-on with CAP, CDS, OData Services, and either Node.js or Java.
+* Experience with SAP HANA/HANA Cloud, Cloud Foundry, and XSUAA security configuration.
+* Solid understanding of BTP services (Destinations, Audit Log, Connectivity) and REST/JSON/JWT/OAuth2\\.
+* Familiarity with SAP UI5/Fiori development and end\\-to\\-end solution integration (nice to have).
+
+
+**What You’ll Love About Working Here**
+* Opportunities to work with global clients on innovative SAP projects.
+* Dynamic and inclusive workplace culture.
+* Continuous learning and professional development support.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
