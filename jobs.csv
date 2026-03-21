@@ -1,510 +1,270 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4386129712","linkedin","https://www.linkedin.com/jobs/view/4386129712","","Software Developer","FetchJobs.co","","","fulltime","","","","","",False,"associate","Information Technology","","","**About The Company**
- Nemetschek Group is a global leader in software solutions for the Architecture, Engineering, Construction, and Operations (AEC/O) industry. With a rich legacy spanning over fifty years, the company is committed to transforming the way infrastructure and building projects are planned, designed, built, and managed. Listed on prominent stock exchanges such as MDAX and TecDAX in Germany, Nemetschek Group has established itself as a pioneer in digital transformation within its industry. The company's portfolio encompasses a wide range of intelligent software solutions that enable clients to optimize project workflows, enhance collaboration, and achieve sustainable outcomes. With a focus on innovation and excellence, Nemetschek Group continues to lead the digitalization of the AEC/O sector worldwide, empowering customers to realize their visions more efficiently and effectively.
+"li-4388260751","linkedin","https://www.linkedin.com/jobs/view/4388260751","","Software Engineer, Core Services","Nucleus AI","","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","At Nucleus, every product and platform depends on a small set of systems that must be trustworthy, consistent, and built to last.
+ 
+
+
+
+ We’re hiring a
+ **Software Engineer, Core Services** 
+ to build and operate foundational platform services such as authentication, configuration, and service discovery—systems that other Nucleus products and infrastructure rely on every day. This is a role for an engineer who cares deeply about primitives, reliability, and the quality of internal foundations.
+ 
+
+
+
+ You will help define the shared services that make the rest of the company more secure, more coherent, and easier to scale.
+ 
+
+
+
+  
+
+
+
+
+**What you’ll do** 
+* Design, build, and maintain foundational platform services that support Nucleus products and internal systems.
+* Own services such as auth, configuration management, discovery, identity\\-adjacent systems, and related internal platform primitives.
+* Improve reliability, consistency, and operational excellence across core platform dependencies.
+* Define service interfaces and internal standards that make shared infrastructure easier to adopt and operate.
+* Partner with product, platform, and security teams to ensure core services meet company\\-wide needs.
+* Strengthen observability, fault tolerance, and change management for critical shared systems.
+* Contribute to migration and adoption efforts as teams integrate with common platform services.
+* Help shape long\\-term architecture for the systems other engineering teams depend on most.
+
+
+
+  
+
+
+
+
+**What we’re looking for** 
+* Strong experience building backend or platform services used by multiple teams or products.
+* Familiarity with foundational service domains such as auth, config, service discovery, or distributed coordination.
+* Strong understanding of distributed systems, reliability, and API design.
+* Experience operating high\\-availability services in production.
+* Proficiency in one or more backend languages such as Go, Java, Rust, or Python.
+* Comfort working across abstraction layers, from service internals to platform\\-wide adoption.
+* Care for simplicity, correctness, and durable system design.
+* Interest in building the underlying infrastructure that helps a technical organization move coherently.
+
+
+
+  
+
+
+
+
+**Why Nucleus** 
+
+ At Nucleus, shared services are not just internal plumbing. They are part of how we create consistency, safety, and leverage across the company.
+ 
+
+
+
+ In this role, you’ll work on systems that quietly shape everything else: who can access what, how services find each other, how configuration changes safely propagate, and how teams build on common foundations with confidence.
+ 
+
+
+* If you’re motivated by elegant core systems and want to build infrastructure that the rest of the company stands on, we’d love to hear from you.","Software Development","https://www.linkedin.com/company/withnucleusai","https://media.licdn.com/dms/image/v2/C560BAQHoHF2SiLPVfw/company-logo_100_100/company-logo_100_100/0/1679966936674/ops_ai_logo?e=2147483647&v=beta&t=PvOZzYFWMh5LxVXze1iju7u_thwiw3_le3c02TFs_LA","","","","","","","","","","",""
+"li-4388262693","linkedin","https://www.linkedin.com/jobs/view/4388262693","","Software Engineer, Developer Productivity","Nucleus AI","","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","At Nucleus, exceptional engineering output depends on the quality of the systems engineers build with every day.
+ 
+
+
+
+ We’re hiring a
+ **Software Engineer, Developer Productivity** 
+ to build internal tools, environments, and workflows that help Nucleus engineers ship faster and with higher quality. This role focuses on reducing friction across the engineering lifecycle—from local development and testing environments to internal workflows, automation, and tooling that improve day\\-to\\-day execution.
+ 
+
+
+
+ You will work across teams to identify bottlenecks, build thoughtful developer experiences, and raise the baseline for how engineering happens at Nucleus.
+ 
+
+
+
+  
+
+
+
+
+**What you’ll do** 
+* Build and improve internal tools, workflows, and environments that increase engineering velocity and software quality.
+* Streamline local development, testing, debugging, and onboarding experiences for engineers across the company.
+* Identify recurring sources of friction in the development lifecycle and turn them into reliable tools or platform improvements.
+* Partner with product, infrastructure, and research teams to understand workflow pain points and solve them at the right layer.
+* Improve internal automation around setup, code generation, environment consistency, and engineering workflows.
+* Build metrics and feedback loops that help measure developer experience and guide productivity investments.
+* Contribute to standards and shared tooling that make engineering practices more consistent across teams.
+* Help create an internal engineering environment that scales with both headcount and technical ambition.
+
+
+
+  
+
+
+
+
+**What we’re looking for** 
+* Strong experience building internal tools, platform workflows, or developer\\-facing infrastructure.
+* Solid software engineering skills in one or more languages such as Python, Go, or TypeScript.
+* Familiarity with developer tooling, build systems, test workflows, and local or remote development environments.
+* A strong product mindset for internal users: you care about ergonomics, adoption, and real workflow improvements.
+* Comfort working across a wide range of systems and collaborating with many engineering functions.
+* Experience identifying high\\-leverage bottlenecks and building durable solutions rather than one\\-off fixes.
+* Good judgment around simplicity, usability, and operational overhead.
+* Interest in making an ambitious engineering organization more effective from the inside out.
+
+
+
+  
+
+
+
+
+**Why Nucleus** 
+
+ The best engineering teams do not just move fast because they work hard. They move fast because their tools, workflows, and environments are designed with care.
+ 
+
+
+
+ At Nucleus, developer productivity is a force multiplier. In this role, you’ll help build the internal systems that let engineers spend less time fighting complexity and more time building meaningful things. Your work will shape how the company operates every day.
+ 
+
+
+* If you’re energized by internal platforms, engineering ergonomics, and high\\-leverage tooling, we’d love to hear from you.","Software Development","https://www.linkedin.com/company/withnucleusai","https://media.licdn.com/dms/image/v2/C560BAQHoHF2SiLPVfw/company-logo_100_100/company-logo_100_100/0/1679966936674/ops_ai_logo?e=2147483647&v=beta&t=PvOZzYFWMh5LxVXze1iju7u_thwiw3_le3c02TFs_LA","","","","","","","","","","",""
+"li-4373664198","linkedin","https://www.linkedin.com/jobs/view/4373664198","","Software Development Engineer in Test","Align Technology","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Department:** 
+ Information Technology
    
 
   
-
-**About The Role**
- We are currently seeking a dedicated and talented Junior Software Developer \\- UI to join Nemetschek Group at our Bangalore office. This role offers an exciting opportunity to contribute to the development of intuitive and visually compelling user interfaces for Allplan’s desktop applications. As a Junior UI Developer, you will be instrumental in translating design concepts into functional UI features using C\\# and WPF, ensuring that user experiences are seamless, engaging, and aligned with design standards. You will work closely with cross\\-functional teams, including designers, senior developers, QA, and product managers, to deliver high\\-quality software solutions that meet user needs and business objectives. This position is ideal for individuals eager to grow their skills in UI development within a collaborative and innovative environment.
-   
-
-  
-
-**Qualifications**
- The ideal candidate will possess some professional or internship experience in UI or software development, with a preference for familiarity with C\\# and WPF. A foundational understanding of UI design principles and best practices for modern applications is essential. The candidate should demonstrate a strong eagerness to learn, ask questions, and contribute actively to team efforts. Attention to detail, especially regarding usability and visual consistency, is critical. Good communication skills and problem\\-solving abilities are required, along with a desire to develop expertise in UI development. Proficiency in English is mandatory; additional language skills are considered a plus.
-   
-
-  
-
-**Responsibilities**
- The primary responsibilities of this role include implementing and maintaining UI components in C\\# and WPF, adhering to established design and UX guidelines. You will translate prototypes, wireframes, and design specifications into functional desktop application interfaces that are visually appealing and user\\-friendly. Participating in code reviews is essential to ensure compliance with UI standards and best practices. You will troubleshoot and debug UI\\-related issues to enhance usability, performance, and stability. Collaboration with designers, senior developers, QA, and product teams is vital to clarify requirements, refine solutions, and ensure alignment with project goals. Additionally, you will contribute to ongoing process improvements, share knowledge, and develop your UI skills continuously to support the team’s success.
-   
-
-  
-
-**Benefits**
-* Work in a young, dynamic, and innovation\\-driven environment that fosters creativity and growth.
-* Engage in a diverse range of projects across different industries, providing broad exposure and experience.
-* Benefit from an open and informal company culture that emphasizes knowledge sharing, employee development, and collaboration.
-* Opportunities for personal initiative, skill enhancement, and career advancement within the organization.
-* Competitive compensation packages complemented by fringe benefits designed to support your well\\-being and professional growth.
-
-
- Equal Opportunity
-   
-
-  
-
- Nemetschek Group is committed to fostering an inclusive and diverse workplace. We believe that a variety of perspectives enhances our innovation and success. We provide equal employment opportunities to all applicants and employees regardless of race, gender, age, religion, disability, sexual orientation, or any other characteristic protected by applicable laws. We are dedicated to creating an environment where everyone feels valued, respected, and empowered to contribute to our collective growth and achievements.","Software Development","https://www.linkedin.com/company/fetchjobs-co","https://media.licdn.com/dms/image/v2/D560BAQGdJnOklMFmTQ/company-logo_100_100/B56ZwpyugQKEAQ-/0/1770227690183/fetchjobs_co_logo?e=2147483647&v=beta&t=4UScwqb1C_ZiQ4EsPGYViee2xs7iYj4qGMMuMc-C1r8","","","","","","","","","","",""
-"li-4388266154","linkedin","https://www.linkedin.com/jobs/view/4388266154","","Software Engineer-Angular + Vibe Coding","Beinex","Kochi, Kerala, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Software Engineer – Angular \\+Vibe Coding \\| Kochi (Hybrid) \\| Beinex
- 
-
-
-
-
-  
-
-
-
-
-
-
- Job Description
- 
-
-
-
-
-
- We are looking for a dynamic Angular Developer to join our team, with hands\\-on experience in modern development practices, including the effective use of AI tools and techniques to enhance productivity and code quality.
- 
-
-
-
-
-  
-
-
-
-
-
-
- Responsibilities
- 
-
-
-
-
-
- Implementing exciting and streamlined user experiences in responsive web applications for both desktops and mobiles/tablets
- 
-
-
-
-
-
- Ability to design and build streamlined applications to company specifications that perfectly meet the user’s needs
- 
-
-
-
-
-
- Designing and developing user interfaces using Angular best practices
- 
-
-
-
-
-
- Adapting interface for modern internet applications using the latest front\\-end technologies
- 
-
-
-
-
-
- Writing JavaScript, CSS, and HTML
- 
-
-
-
-
-
- Developing product analysis tasks
- 
-
-
-
-
-
- Making complex technical and design decisions for Angular projects
- 
-
-
-
-
-
- Developing application codes and unit tests in Angular, Java Technologies, and Rest Web Services
- 
-
-
-
-
-
- Conducting performance tests
- 
-
-
-
-
-
- Consulting with the design team
- 
-
-
-
-
-
- Ensuring high performance of applications and providing support
- 
-
-
-
-
-  
-
-
-
-
-
-
- Key Skills \\& Requirements
- 
-
-
-
-
-
- 3\\+ years of experience as a software engineer with specific experience building front\\-end systems
- 
-
-
-
-
-
- Proficient in CSS, HTML, and writing cross\\-browser compatible code
- 
-
-
-
-
-
- Experience using JavaScript building tools like Gulp or Grunt
- 
-
-
-
-
-
- Knowledge of JavaScript MV\\-VM/MVC frameworks, including Angular
- 
-
-
-
-
-
- Excellent project management skills
- 
-
-
-
-
-
- Proven experience implementing front\\-end and back\\-end JavaScript applications
- 
-
-
-
-
-
- Excellent communication skills
- 
-
-
-
-
-
- Critical thinker and good problem\\-solver
- 
-
-
-
-
-  
-
-
-
-
-
-
- Modern Development Practices
- 
-
-
-
-
-
- Experience using AI\\-powered coding IDEs such as Antigravity, Cursor, GitHub Copilot, or similar tools.
- 
-
-
-
-
-
- Use AI IDE features for code generation, debugging, refactoring, and code suggestions.
- 
-
-
-
-
-
- Review, validate, and refine AI\\-generated code to ensure quality, security, and maintainability.
- 
-
-
-
-
-
- Use AI\\-assisted IDE capabilities to accelerate feature development and bug fixing.
- 
-
-
-
-
-
- Leverage AI tools for rapid prototyping and experimentation during development.
- 
-
-
-
-
-
- Maintain coding standards and best practices while using AI\\-assisted tools.
- 
-
-
-
-
-
- Stay updated with advancements in AI\\-assisted development environments and productivity tools.","Business Consulting and Services","https://ae.linkedin.com/company/beinex-consulting","https://media.licdn.com/dms/image/v2/D560BAQF6mmdlVPtG9g/company-logo_100_100/B56Zv4rNXPK4AU-/0/1769403636574/beinex_consulting_logo?e=2147483647&v=beta&t=xSJ5XwXnbmdo8yl2l5BZmxPFgwP_0nbUNrpvz34_sUI","","","","","","","","","","",""
-"li-4388251796","linkedin","https://www.linkedin.com/jobs/view/4388251796","","GenAI Engineer","Papigen","","","contract","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Role Summary**
- We are seeking a
- **GenAI Engineer / Architect** 
- to design and deliver
- **enterprise\\-grade AI solutions** 
- including
- **RAG pipelines, AI agents, orchestration frameworks, and governance models** 
- .
-   
-
-  
-
- The role involves building scalable, production\\-ready GenAI systems using modern LLM platforms like Microsoft Azure OpenAI and integrating them into enterprise ecosystems.
-   
-
-  
-
-**Key Responsibilities** 
-**GenAI Solution Architecture**
-* Design end\\-to\\-end GenAI solutions using LLMs, RAG, embeddings, and vector search.
-* Define scalable architectures for enterprise AI applications.
-
-
-**RAG \\& Search Systems**
-* Build RAG pipelines (chunking, embeddings, retrieval, ranking).
-* Work with vector databases such as Azure AI Search, Redis, PostgreSQL.
-* Implement citation validation and hallucination detection mechanisms.
-
-
-**Agentic AI \\& Orchestration**
-* Design and develop AI agents and multi\\-agent systems.
-* Implement orchestration workflows using tools like Workato, AWS services, DigitalNet.
-* Build AI\\-driven automation pipelines.
-
-
-**Document Intelligence**
-* Develop document ingestion pipelines (OCR, metadata extraction, enrichment).
-* Handle structured and unstructured data processing.
-
-
-**Cloud \\& Deployment**
-* Deploy AI workloads on Azure (OpenAI, AI Search, ML, AKS).
-* Work across multi\\-cloud environments (Azure, AWS).
-* Implement CI/CD pipelines and DevSecOps practices.
-
-
-**Responsible AI \\& Governance**
-* Implement Responsible AI frameworks (fairness, bias, explainability).
-* Align with standards like NIST AI RMF and enterprise governance tools (CredoAI).
-
-
-**Leadership \\& Collaboration**
-* Lead POCs, solution evaluations, and technical documentation.
-* Collaborate with cross\\-functional teams and stakeholders.
-
-
-**Required Skills GenAI \\& LLMs** 
-  
-
-  
-
-* Strong experience in:
-+ RAG architectures
-+ Prompt engineering \\& evaluation
-+ LLM platforms (Azure OpenAI, Claude, Gemini)
-+ Hallucination detection \\& response validation
-
-
-**AI Engineering**
-* Experience building AI agents and orchestration frameworks.
-* Knowledge of LangChain / agent frameworks (preferred).
-
-
-**Data \\& Search** 
-  
-
-  
-
-* Experience with vector databases:
-+ Azure AI Search
-+ Redis
-+ PostgreSQL
-
-
-**Document Processing**
-* Experience with OCR, metadata extraction, document pipelines.
-
-
-**Cloud \\& DevOps** 
-  
-
-  
-
-* Strong experience with:
-+ Azure \\& AWS
-+ Kubernetes (AKS)
-+ CI/CD \\& DevSecOps
-
-
-**Governance** 
-  
-
-  
-
-* Experience with:
-+ Responsible AI frameworks
-+ AI governance tools (e.g., CredoAI)
-+ Compliance frameworks (e.g., NIST AI RMF)
-
-
-**Required Certifications**
-* Azure AI Fundamentals (AI\\-900\\)
-* Azure Data Fundamentals (DP\\-900\\)
-* Responsible AI certifications
-* AWS Machine Learning Specialty
-* TensorFlow Developer Certification
-* Kubernetes (CKA/CKAD)
-* SAFe Agile Certification (ASE preferred)
-
-
-**Preferred Certifications**
-* Azure AI Engineer (AI\\-102\\)
-* Azure Data Scientist (DP\\-100\\)
-* Azure Solutions Architect (AZ\\-305\\)
-* Azure Developer (AZ\\-204\\)
-
-
- Skills: aws,azure openai,langchain,azure,ci/cd,nist framework,llm,gen ai,ocr,azure certification,credoai","IT Services and IT Consulting","https://www.linkedin.com/company/about-papigen","https://media.licdn.com/dms/image/v2/D560BAQGrdn05c0Yi8Q/company-logo_100_100/company-logo_100_100/0/1690617260238?e=2147483647&v=beta&t=1etvTlV2mwGBJQ-6OVIMIxj8xFjL14B7UEbolllRqy4","","","","","","","","","","",""
-"li-4386140296","linkedin","https://www.linkedin.com/jobs/view/4386140296","","Software Engineer","FetchJobs.co","","","fulltime","","","","","",False,"associate","Information Technology","","accommodations@rippling.com","**About The Company**
- Rippling is a leading technology company dedicated to transforming the way organizations manage their workforce and IT infrastructure. With a focus on innovation and customer\\-centric solutions, Rippling offers a unified platform that seamlessly integrates HR, payroll, IT, and other business operations. The company prides itself on fostering a dynamic, inclusive, and forward\\-thinking work environment that empowers employees to drive meaningful impact. As a trusted partner for thousands of organizations worldwide, Rippling continues to push the boundaries of technology to simplify complex business processes and enhance operational efficiency.
-   
-
-  
-
-**About The Role**
- The Platform Engineering team at Rippling is instrumental in building a secure, scalable control plane that underpins critical product workflows across the organization. As a Senior Engineer, you will play a pivotal role in advancing foundational capabilities from inception to maturity—focusing on security hardening, operational resilience, and simplifying complex configuration systems. Your work will have a direct impact on the reliability and security of Rippling’s platform, ensuring it can support the company's growth and evolving product portfolio.
-   
-
-  
-
- You will be engaged in developing high\\-impact distributed systems and platform primitives. Your responsibilities will include designing robust authorization mechanisms for sensitive operations, creating safer change workflows such as dual\\-control or two\\-person reviews for high\\-risk modifications, and scaling the platform to accommodate increasing workloads and new use cases. Additionally, you will drive platform adoption by enabling multiple product teams to leverage the platform as a default, reusable capability. Enhancing the administrator experience through thoughtful improvements, especially for complex hierarchical configurations, will also be a key focus, allowing operators to move swiftly without compromising security or correctness.
-   
-
-  
-
-**Qualifications**
- Successful candidates will demonstrate strong technical expertise, with a proven track record in building and optimizing backend, data\\-intensive systems. Typically, candidates possess at least 7\\+ years of hands\\-on development experience, though the emphasis is on the quality and scope of experience rather than years alone. You should have a deep understanding of performance optimization, system scalability, and high\\-growth operational environments. Comfort with ambiguity and a proactive approach to problem\\-solving are essential, as is the ability to influence and lead technical initiatives across organizational boundaries. Excellent communication skills are vital, enabling you to articulate complex ideas clearly and effectively to engineers, product managers, and stakeholders alike.
-   
-
-  
-
-**Responsibilities**
-* Own the architectural integrity of core services, ensuring they remain performant and resilient as Rippling’s product suite expands.
-* Design and implement strong authorization controls for sensitive platform operations.
-* Build guardrails for safe changes, including dual\\-approval workflows for critical writes.
-* Scale and “productionize” the platform to handle higher throughput and diverse use cases.
-* Enhance operability by improving monitoring, reliability patterns, runbooks, and tooling to meet operational excellence standards.
-* Collaborate within a cross\\-functional, multi\\-geographic environment to deliver and support complex products and services.
-* Act as a technical leader through rigorous code reviews, mentoring mid\\-level and junior engineers, and establishing best practices to improve developer velocity.
-* Influence the technical direction and tooling strategy across Rippling, fostering innovation and best practices.
-
-
-**Benefits**
- Rippling offers a comprehensive benefits package designed to support the well\\-being and professional growth of its employees. This includes competitive salary packages, health insurance plans, dental and vision coverage, and wellness programs. Employees have access to generous paid time off, flexible work arrangements, and opportunities for continuous learning and development. Rippling also promotes a collaborative and inclusive culture, fostering innovation and teamwork. Additional perks may include stock options, retirement plans, and various employee engagement initiatives aimed at creating a positive and motivating work environment.
-   
-
-  
-
- Equal Opportunity
-   
-
-  
-
- Rippling is an equal opportunity employer committed to fostering a diverse and inclusive workplace. We do not discriminate based on race, religion, color, national origin, ancestry, physical or mental disability, medical condition, genetic information, marital status, sex, gender identity or expression, age, sexual orientation, veteran or military status, or any other legally protected characteristic. We are dedicated to providing reasonable accommodations for candidates with disabilities throughout the hiring process. To request accommodations, please contact accommodations@rippling.com. We believe that a diverse team drives innovation and success, and we are committed to creating an environment where everyone can thrive.","Technology, Information and Media","https://www.linkedin.com/company/fetchjobs-co","https://media.licdn.com/dms/image/v2/D560BAQGdJnOklMFmTQ/company-logo_100_100/B56ZwpyugQKEAQ-/0/1770227690183/fetchjobs_co_logo?e=2147483647&v=beta&t=4UScwqb1C_ZiQ4EsPGYViee2xs7iYj4qGMMuMc-C1r8","","","","","","","","","","",""
-"li-4388259359","linkedin","https://www.linkedin.com/jobs/view/4388259359","","Senior Software Engineer","People Prime Worldwide","","","contract","","","","","",True,"mid-senior level","Information Technology, Design, and Business Development","","","**About Company:** 
-
-
-
-
- Our client is a Palo Alto–based AI infrastructure and talent platform founded in 2018\\. It helps companies connect with remote software developers using AI\\-powered vetting and matching technology. Originally branded as the “Intelligent Talent Cloud,”enabled companies to “spin up their engineering dream team in the cloud” by sourcing and managing vetted global talent. In recent years, they have evolved to support AI infrastructure and AGI workflows, offering services in model training, fine\\-tuning, and deployment—powered by their internal AI platform, ALAN, and backed by a vast talent network. They reported $300 million in revenue and reached profitability. Their growth is driven by demand for annotated training data from AI labs, including major clients like OpenAI, Google, Anthropic, and Meta.
- 
-
-
-
-  
-
-
-
-
-
-**Job Description:** 
-
-
-
-
-**Job Title: LLM S3 Annotator (OpenClaw Trajectory Specialist)** 
-
-
-
 
 **Location:** 
- Pan India
+ APAC\\-India\\-IT Delivery Center Hyderabad
+   
+
+  
+
+**Description**
+ Please provide the job description for the role. The global job description template is available here: https://tinyurl.com/alignjdtemplate
+   
+
+  
+
+**Role expectations**
+ As a Software Development Engineer in Test (SDET), you will play a pivotal role in the software development lifecycle by actively participating in release cycle planning, conducting thorough testing, identifying, and communicating requirements gaps, and contributing to the continuous improvement of our data products. You will collaborate with developers to understand requirements and design comprehensive test strategies. This role involves developing and maintaining automated test cases, executing test suites, reviewing and diagnosing reported bugs, and ensuring overall system quality prior to release.
+   
+
+  
+
+ Your success is not only a personal achievement but also a reflection of the success of the team and the company. Join us in this dynamic role and be part of shaping the future of quality assurance within our innovative and globally impactful organization.
+   
+
+  
+
+**What We're Looking For**
+**In this role, you will…**
+* Collaborate with developers to understand requirements and design comprehensive test strategies.
+* Participate actively in release cycle planning, daily standups, and business requirements, ensuring effective communication of requirements gaps.
+* Develop and maintain automated test cases, execute test suites, review and diagnose reported bugs, and ensure overall system quality prior to release.
+* Utilize your knowledge of software architecture and enterprise applications to evaluate functional design documents and Software Requirement Specification documents, ensuring alignment with technical designs and addressing business requirements.
+* Test complex API, web, and enterprise\\-based applications that interact with multiple databases back\\-end systems.
+
+
+**Complementary Skills**
+**In this role, you’ll need …**
+* Bachelor ’s or higher degree in Computer Science, Engineering, or related field.
+* 3\\+ years of experience working as a Software Developer/SDET/DevOps Engineer, or similar role.
+* Understanding of full\\-scale enterprise SDLC process.
+* Strong knowledge of software QA methodologies, tools, and processes.
+* Experience in writing clear, concise, and comprehensive test plans and test cases.
+* Hands\\-on experience with automated testing tools.
+* Proficiency in Python.
+* Solid knowledge of SQL and scripting.
+* Experience working in an Agile/Scrum development process.
+* Knowledge of cloud platforms like AWS, Azure, or Google Cloud.
+* Experience with container\\-based technologies (Docker, Kubernetes) and managing/deploying Databricks workspace and clusters using Terraform.
+* Strong interpersonal and communication skills, proficiency in English, attention to detail.
+
+
+**Preferred Skills:**
+* Experience with performance and/or security testing is a plus.
+* Familiarity with continuous integration tools such as Jenkins, Bamboo, or similar.
+
+
+**Applicant Privacy Policy**
+ Review our
+ **Applicant Privacy Policy** 
+ for additional information.
+   
+
+  
+
+**Equal Opportunity Statement**
+ Align Technology is an equal opportunity employer. We are committed to providing equal employment opportunities in all our practices, without regard to race, color, religion, sex, national origin, ancestry, marital status, protected veteran status, age, disability, sexual orientation, gender identity or expression, or any other legally protected category. Applicants must be legally authorized to work in the country for which they are applying, and employment eligibility will be verified as a condition of hire.","Medical Equipment Manufacturing","https://www.linkedin.com/company/align-technology","https://media.licdn.com/dms/image/v2/C560BAQGHJSOeQV8fHw/company-logo_100_100/company-logo_100_100/0/1670016440976/align_technology_logo?e=2147483647&v=beta&t=2k9ZGHBH9i3rXx-63Lop4OntFQcvvJ2bvh1FVv0CODo","","","","","","","","","","",""
+"li-4388263699","linkedin","https://www.linkedin.com/jobs/view/4388263699","","Software Engineer, Data Acquisition","Nucleus AI","","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","At Nucleus, we believe the quality of intelligent systems is inseparable from the quality of the data that shapes them.
  
 
 
 
-**Experience: 5** 
- \\+ yrs.
+ We’re hiring a
+ **Software Engineer, Data Acquisition** 
+ to build the pipelines and systems that acquire, process, and curate data at scale for model training and research. This role sits at the foundation of our AI stack: designing the machinery that turns diverse, messy, real\\-world inputs into reliable, high\\-quality datasets that accelerate frontier research and production systems.
  
 
 
 
-**Employment Type:** 
- Contract to hire
+ You’ll work across ingestion, processing, quality controls, enrichment, and data lifecycle management. The scope is both deeply technical and highly consequential—your systems will influence how quickly Nucleus can learn, iterate, and improve.
  
 
 
 
-**Work Mode:** 
- Remote
+  
+
+
+
+
+ In this role, you will
+ * Design and build large\\-scale data acquisition pipelines for text, image, audio, video, and other structured or unstructured sources.
+* Develop systems for data ingestion, normalization, validation, deduplication, and transformation across a wide range of formats and providers.
+* Improve the quality, freshness, and coverage of training and research datasets through robust automation and monitoring.
+* Build tooling and workflows for dataset curation, filtering, metadata enrichment, and provenance tracking.
+* Partner with research, infrastructure, and safety teams to ensure acquired data is useful, compliant, and aligned with downstream training goals.
+* Optimize throughput, reliability, and cost across high\\-volume acquisition and processing pipelines.
+* Establish quality checks and observability systems that surface dataset issues early and make debugging easier at scale.
+
+
+
+  
+
+
+
+
+ You may be a good fit if you
+ * Have strong software engineering fundamentals and experience building reliable backend or data\\-intensive systems in production.
+* Have worked on distributed data pipelines, ETL systems, crawlers, ingestion services, or large\\-scale data processing platforms.
+* Are comfortable with Python, Go, Java, Rust, or similar languages used in systems and data engineering.
+* Understand how to design for scale, fault tolerance, reproducibility, and operational simplicity.
+* Care deeply about data quality and enjoy turning ambiguous, real\\-world inputs into dependable building blocks for research and products.
+* Communicate clearly across engineering and research functions, and can balance speed with rigor.
+
+
+
+  
+
+
+
+
+ What makes Nucleus different
+ 
+ Nucleus is building large\\-scale intelligent systems that require exceptional foundations—across models, infrastructure, and data. Here, data acquisition is not a support function; it is strategic technical work that directly shapes what our systems can learn and do. You’ll join a team that values depth, craftsmanship, and thoughtful execution in service of ambitious goals.
  
 
 
-
-**Notice Period: \\-** 
- Immediate joiners
+* If you’re excited to build the data engines behind frontier AI, we’d love to hear from you.","Software Development","https://www.linkedin.com/company/withnucleusai","https://media.licdn.com/dms/image/v2/C560BAQHoHF2SiLPVfw/company-logo_100_100/company-logo_100_100/0/1679966936674/ops_ai_logo?e=2147483647&v=beta&t=PvOZzYFWMh5LxVXze1iju7u_thwiw3_le3c02TFs_LA","","","","","","","","","","",""
+"li-4388591959","linkedin","https://www.linkedin.com/jobs/view/4388591959","","Freelance Junior Software Engineer","Flexing It®","","","contract","","","","","",False,"associate","Information Technology","","","Flexing It is a freelance consulting marketplace that connects freelancers and independent consultants with organisations seeking independent talent.
  
 
 
@@ -515,17 +275,7 @@
 
 
 
-**Roles \\& Responsibilities:** 
-
-
-
-
-**Role Overview:** 
-
-
-
-
- We are looking for highly analytical professionals to join as S3 Annotators, responsible for producing and validating advanced OpenClaw trajectories for research\\-oriented tasks involving ambiguous goals, multi\\-step reasoning, and long\\-context workflows. This role requires strong problem\\-solving ability, research thinking, and the capability to justify decisions while executing complex, multi\\-tool workflows used to train sophisticated AI agents.
+ Flexing It has partnered with Our client, an AI\\-powered digital advertising platform, is looking for a Junior Software Engineer contributing across backend (.NET), frontend (React/TypeScript), and AI workflows (Python). The role involves building scalable features, integrating ad platforms like Google Ads and Meta, and leveraging AI tools to optimize campaign performance.
  
 
 
@@ -536,38 +286,16 @@
 
 
 
-**What does day\\-to\\-day look like:** 
+**Key Responsibilities** 
 
 
 
-* Create and validate OpenClaw trajectories for complex, research\\-oriented tasks
-* Work on tasks such as data analysis, web research, and document synthesis
-* Operate under underspecified or ambiguous goals, making logical and defensible decisions
-* Use Python (notebooks, scripts) for data processing, automation, and analysis
-* Perform workflows spanning multiple tools, environments, and applications
-* Clearly document both what actions were taken and why they were taken
-* Review and improve trajectory quality for reasoning depth and correctness
-* Collaborate with teams to refine evaluation standards and annotation frameworks.
-
-
-
-  
-
-
-
-
-
-**Requirements:** 
-
-
-
-* Background in research, data science, engineering, or related fields (academic or industry)
-* 5\\+ years of experience in Python / Bash, including experience with notebooks and data wrangling
-* Experience with OpenClaw or similar advanced environments
-* Experience with web research, scraping tools, or data analysis workflows
-* Ability to articulate reasoning behind decisions and steps
-* Experience handling multi\\-step workflows across tools or platforms
-* Exposure to LLM\\-based tools, AI systems, or agentic workflows
+* Develop and maintain full\\-stack applications across .NET backend, React frontend, and Python\\-based AI services
+* Build and integrate REST APIs, SQL queries, and third\\-party services (Google Ads, Meta, Stripe)
+* Design and enhance AI\\-driven workflows using tools like OpenAI, Azure Functions, and PromptFlow
+* Create and manage Excel\\-independent data dashboards and reporting pipelines (if needed via APIs/DB)
+* Collaborate on code reviews, Git workflows, testing, and deployment processes
+* Work with Azure cloud services including Cosmos DB, Blob Storage, and serverless functions
 
 
 
@@ -577,13 +305,334 @@
 
 
 
-**Nice to have:** 
+**Skills Required** 
 
 
 
-* Academic research experience (thesis, publications, lab work)
-* Familiarity with evaluation methodologies or experimental design
-* Experience in AI evaluation, RLHF, or advanced annotation workflow","IT Services and IT Consulting, Software Development, and Financial Services","https://in.linkedin.com/company/peopleprimeww","https://media.licdn.com/dms/image/v2/D560BAQFXMNnAtaU2qA/company-logo_100_100/company-logo_100_100/0/1738582300818/peopleprimeww_logo?e=2147483647&v=beta&t=46Euex735XHnnSL-4JCCUWosRqNQHcuDHCtDgn3B-XU","","","","","","","","","","",""
+* Strong proficiency in C\\# / .NET, React (TypeScript), and Python
+* Experience with REST API development and SQL databases
+* Working knowledge of Azure cloud services (Functions, Cosmos DB, Blob Storage)
+* Hands\\-on experience with Git, branching, and testing frameworks
+* Familiarity with AI\\-assisted development tools (e.g., Copilot, Claude) and basic understanding of LLMs
+* Ability to work across full\\-stack development and AI\\-integrated systems","Internet Marketplace Platforms","https://in.linkedin.com/company/flexing-it","https://media.licdn.com/dms/image/v2/D560BAQHW26frq7WNow/company-logo_100_100/company-logo_100_100/0/1708332067375/flexing_it_logo?e=2147483647&v=beta&t=MQxbEPlGCa25v3jtsNfw-drg8Yt5QYFlI-0Hl0QCjBs","","","","","","","","","","",""
+"li-4388260785","linkedin","https://www.linkedin.com/jobs/view/4388260785","","Software Engineer, Caching & Performance","Nucleus AI","","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","At Nucleus, performance is not a nice\\-to\\-have. It shapes product quality, infrastructure efficiency, and what is possible at scale.
+ 
+
+
+
+ We’re hiring a
+ **Software Engineer, Caching \\& Performance** 
+ to design and operate the systems that make our APIs and products fast, efficient, and cost\\-effective. This role is focused on the deep infrastructure work behind latency, throughput, and platform responsiveness—from distributed caching layers to request optimization and performance tooling.
+ 
+
+
+
+ You will help define how Nucleus serves high\\-scale AI workloads with speed and discipline, ensuring that performance improvements are not one\\-off wins, but part of the architecture itself.
+ 
+
+
+**What you’ll do** 
+* Design and build caching layers and performance infrastructure that improve latency, throughput, and cost efficiency across Nucleus products and APIs.
+* Develop systems for intelligent caching of model responses, intermediate computations, metadata, and frequently accessed services.
+* Analyze performance bottlenecks across backend services, storage layers, and request paths, then implement durable improvements.
+* Partner with product, backend, and platform teams to optimize critical user\\-facing and developer\\-facing workflows.
+* Build tooling, benchmarks, and observability systems to measure performance regressions and guide optimization work.
+* Improve API responsiveness and infrastructure efficiency through better request routing, batching, concurrency, and data access patterns.
+* Help define strategies for cache consistency, invalidation, precomputation, and multi\\-layer performance architecture.
+* Contribute to reliability and incident response for high\\-scale infrastructure where performance and availability are tightly coupled.
+
+
+**What we’re looking for** 
+* Strong experience building backend systems, platform services, or infrastructure with meaningful scale and performance requirements.
+* Deep understanding of caching concepts, performance tradeoffs, and distributed systems behavior.
+* Experience with technologies such as Redis, Memcached, CDNs, edge caching, or custom caching frameworks.
+* Familiarity with profiling, benchmarking, and production performance analysis across services and APIs.
+* Strong programming skills in languages such as Go, Java, Rust, Python, or C\\+\\+.
+* Experience optimizing data\\-intensive or latency\\-sensitive systems in production.
+* A thoughtful approach to system design, especially where speed, correctness, and cost must all be balanced.
+* Curiosity about AI systems and the unique performance challenges that emerge in model\\-driven products.
+
+
+**Why Nucleus** 
+
+ Nucleus is building AI products and platforms that must perform well under real\\-world complexity and scale. That means engineering for speed and efficiency at every layer—not as an afterthought, but as a core product capability.
+ 
+
+
+
+ In this role, you’ll work on the invisible systems that make everything feel faster, smoother, and more scalable. Your work will directly shape user experience, infrastructure economics, and the operating profile of our products.
+ 
+
+
+* If you’re energized by hard performance problems and want your work to matter across an entire platform, we’d love to hear from you.","Software Development","https://www.linkedin.com/company/withnucleusai","https://media.licdn.com/dms/image/v2/C560BAQHoHF2SiLPVfw/company-logo_100_100/company-logo_100_100/0/1679966936674/ops_ai_logo?e=2147483647&v=beta&t=PvOZzYFWMh5LxVXze1iju7u_thwiw3_le3c02TFs_LA","","","","","","","","","","",""
+"li-4388268495","linkedin","https://www.linkedin.com/jobs/view/4388268495","","Software Engineer, Encryption","Nucleus AI","","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Protecting intelligent systems begins with protecting the data they touch.
+ 
+
+
+
+ Nucleus is looking for a
+ **Software Engineer, Encryption** 
+ to design and implement the cryptographic systems that secure our infrastructure, products, and customer data. You will work on encryption at rest and in transit, key management, secrets handling, and the broader security architecture that underpins trusted AI systems at scale. This is a deeply technical role with wide platform impact.
+ 
+
+
+ In this role, you will
+ * Design and build encryption systems for internal platforms, production services, and customer\\-facing infrastructure.
+* Develop and maintain key management, secrets management, and certificate lifecycle tooling.
+* Improve the security and usability of cryptographic primitives and APIs across engineering teams.
+* Partner with infrastructure and security teams to strengthen data protection across cloud and distributed systems.
+* Review architectures and implementations for sound cryptographic design and operational resilience.
+
+
+ You may be a good fit if you have
+ * Strong experience in backend systems, security engineering, or infrastructure platforms.
+* Familiarity with cryptography, key management systems, PKI, TLS, HSMs, or secrets infrastructure.
+* Experience building secure systems that operate reliably at production scale.
+* Good judgment about practical security tradeoffs, not just theoretical correctness.
+
+
+ What makes Nucleus different
+ 
+ You will work on security foundations for frontier AI systems, where strong cryptographic guarantees are essential to both product trust and internal resilience. The systems you build here will matter broadly and deeply.
+ 
+
+
+* If you’re excited by elegant systems design and serious security engineering, this role could be a great fit.","Software Development","https://www.linkedin.com/company/withnucleusai","https://media.licdn.com/dms/image/v2/C560BAQHoHF2SiLPVfw/company-logo_100_100/company-logo_100_100/0/1679966936674/ops_ai_logo?e=2147483647&v=beta&t=PvOZzYFWMh5LxVXze1iju7u_thwiw3_le3c02TFs_LA","","","","","","","","","","",""
+"li-4388265571","linkedin","https://www.linkedin.com/jobs/view/4388265571","","Software Engineer, Research Data Infrastructure","Nucleus AI","","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Frontier research moves faster when the systems behind it make ambitious experimentation easier, not harder.
+ 
+
+
+
+ We’re hiring a
+ **Software Engineer, Research Data Infrastructure** 
+ to build the data systems and tooling researchers use for large\\-scale experiments, evaluations, and data pipelines at Nucleus. This role is focused on enabling research teams with reliable, flexible, and high\\-throughput infrastructure for working with datasets, experiment outputs, and measurement pipelines.
+ 
+
+
+
+ You’ll sit close to the research loop—building systems that help teams prepare datasets, run large jobs, analyze results, and iterate with confidence. This is a highly collaborative role for someone who enjoys turning research needs into durable engineering systems.
+ 
+
+
+ In this role, you will
+ * Build and maintain data infrastructure that supports large\\-scale research experiments, dataset generation, evaluations, and analysis workflows.
+* Create tools and services that help researchers manage inputs, outputs, metadata, lineage, and reproducibility across experiments.
+* Improve the reliability and usability of pipelines for data preparation, experiment execution, and results aggregation.
+* Design systems that support rapid iteration while preserving correctness, traceability, and operational visibility.
+* Work closely with researchers to understand evolving workflow needs and translate them into scalable platform capabilities.
+* Support high\\-volume experimental workloads involving multimodal data, model outputs, and evaluation artifacts.
+* Develop interfaces, automation, and internal tooling that reduce friction for research teams and shorten iteration cycles.
+
+
+ You may be a good fit if you
+ * Have strong software engineering experience in data systems, backend infrastructure, platform engineering, or research tooling.
+* Have worked on systems for experimentation, evaluations, large\\-scale pipelines, or internal data platforms.
+* Are comfortable operating in environments where requirements evolve quickly and close collaboration with technical users matters.
+* Write clear, maintainable code and think carefully about reliability, observability, and developer ergonomics.
+* Are proficient with Python and at least one additional language commonly used in backend or infrastructure engineering.
+* Enjoy supporting researchers by building tools that feel fast, robust, and thoughtfully designed.
+
+
+ What makes Nucleus different
+ 
+ Nucleus brings research and engineering into close conversation. In this role, you’ll help define the infrastructure layer that turns exploratory work into repeatable progress. The systems you build will shape how researchers test ideas, measure outcomes, and push the boundaries of what our models and agents can do.
+ 
+
+
+* If you’re motivated by building data infrastructure that directly amplifies research, we’d be excited to meet you.","Software Development","https://www.linkedin.com/company/withnucleusai","https://media.licdn.com/dms/image/v2/C560BAQHoHF2SiLPVfw/company-logo_100_100/company-logo_100_100/0/1679966936674/ops_ai_logo?e=2147483647&v=beta&t=PvOZzYFWMh5LxVXze1iju7u_thwiw3_le3c02TFs_LA","","","","","","","","","","",""
+"li-4388257832","linkedin","https://www.linkedin.com/jobs/view/4388257832","","Software Engineer, Agent Infrastructure","Nucleus AI","","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","At Nucleus, we are building the systems that make advanced AI agents reliable, scalable, and useful in the real world.
+ 
+
+
+
+ We’re hiring a
+ **Software Engineer, Agent Infrastructure** 
+ to build the platforms and runtime systems that train, execute, and operate agentic models in production. This role sits at the foundation of our agent stack: designing execution environments, orchestration systems, and infrastructure that allow AI agents to run safely and efficiently across complex workflows.
+ 
+
+
+
+ You will work at the intersection of distributed systems, model serving, and platform engineering—helping define how agents are deployed, isolated, monitored, and scaled as they move from research into real\\-world use.
+ 
+
+
+**What you’ll do** 
+* Build and scale infrastructure for training, evaluating, and running AI agents in production environments.
+* Design containerized execution systems and orchestration workflows for agent tasks, tools, and long\\-running processes.
+* Develop reliable runtime environments that support agent tool use, stateful execution, and workload isolation.
+* Improve platform resilience, observability, and debugging for agentic workloads across development and production.
+* Partner closely with research, product, and applied engineering teams to translate emerging agent capabilities into robust systems.
+* Optimize infrastructure for throughput, latency, safety, and cost across a range of agent use cases.
+* Contribute to internal platforms and developer workflows that make it easier to build, test, and ship agent\\-based systems.
+* Help shape core architectural decisions around execution, sandboxing, scheduling, and production readiness for agents.
+
+
+**What we’re looking for** 
+* Strong software engineering fundamentals and experience building distributed systems or backend infrastructure in production.
+* Experience with containers and orchestration technologies such as Docker and Kubernetes.
+* Familiarity with infrastructure for compute\\-heavy or latency\\-sensitive systems, including scheduling, isolation, and monitoring.
+* Comfort working across systems boundaries, from runtime environments and APIs to deployment and reliability.
+* Experience in Python, Go, Rust, Java, or similar languages used in backend and infrastructure engineering.
+* Strong debugging instincts and a systems mindset, especially in complex production environments.
+* Interest in AI agents, model serving, or emerging infrastructure challenges around agentic workflows.
+* Ability to work collaboratively across research and engineering, with a bias toward practical, durable solutions.
+
+
+**Why Nucleus** 
+
+ Nucleus is building large\\-scale intelligent systems designed to extend what people and organizations can do. That requires not only better models, but better infrastructure: systems that make advanced AI dependable, observable, and ready for real\\-world deployment.
+ 
+
+
+
+ In this role, you’ll help build the operational backbone for the next generation of AI agents—turning experimental capabilities into production systems that can be trusted at scale.
+ 
+
+
+* If you care about distributed systems, intelligent runtimes, and the engineering required to bring agentic AI into the world, we’d love to hear from you.","Software Development","https://www.linkedin.com/company/withnucleusai","https://media.licdn.com/dms/image/v2/C560BAQHoHF2SiLPVfw/company-logo_100_100/company-logo_100_100/0/1679966936674/ops_ai_logo?e=2147483647&v=beta&t=PvOZzYFWMh5LxVXze1iju7u_thwiw3_le3c02TFs_LA","","","","","","","","","","",""
+"li-4388266552","linkedin","https://www.linkedin.com/jobs/view/4388266552","","Software Engineer, Cluster Infrastructure","Nucleus AI","","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","At Nucleus, frontier AI depends on compute infrastructure that is powerful, resilient, and designed to operate at scale.
+ 
+
+
+
+ We’re hiring a
+ **Software Engineer, Cluster Infrastructure** 
+ to build and operate the large\\-scale compute clusters and orchestration systems that power training and inference across Nucleus. This role is focused on the infrastructure layer where distributed workloads meet real\\-world operational complexity: cluster lifecycle, scheduling, utilization, reliability, and the systems that keep critical workloads running efficiently.
+ 
+
+
+
+ You will work close to the core of our infrastructure stack, helping shape how Nucleus provisions, manages, and scales the compute environments behind advanced AI systems.
+ 
+
+
+
+  
+
+
+
+
+**What you’ll do** 
+* Build and operate large\\-scale compute clusters that support training and inference workloads across Nucleus.
+* Improve orchestration systems for cluster provisioning, capacity management, workload placement, and lifecycle operations.
+* Design infrastructure that increases cluster reliability, utilization, and operational efficiency across heterogeneous workloads.
+* Partner with research and platform teams to support evolving requirements for distributed training and model serving.
+* Strengthen observability, debugging, and operational tooling for cluster health, job execution, and resource performance.
+* Contribute to automation around maintenance, upgrades, scaling, and recovery for production compute environments.
+* Help define architecture and standards for cluster networking, storage, service integration, and workload isolation.
+* Participate in incident response and long\\-term reliability improvements for mission\\-critical infrastructure.
+
+
+
+  
+
+
+
+
+**What we’re looking for** 
+* Strong experience building or operating distributed infrastructure, compute platforms, or large\\-scale backend systems.
+* Familiarity with cluster management, orchestration, and workload scheduling in production environments.
+* Experience with systems such as Kubernetes, Slurm, Ray, or similar orchestration frameworks.
+* Strong understanding of Linux systems, networking, and performance\\-sensitive infrastructure.
+* Proficiency in one or more systems or backend languages such as Go, Python, Rust, or C\\+\\+.
+* Comfort working on infrastructure where reliability, efficiency, and scale are all first\\-order concerns.
+* Strong debugging skills and a practical systems mindset.
+* Interest in the infrastructure challenges behind large\\-scale AI training and inference.
+
+
+
+  
+
+
+
+
+**Why Nucleus** 
+
+ Nucleus is building intelligent systems that require serious infrastructure behind the scenes. The quality of our compute environment shapes the speed of research, the performance of production systems, and the company’s ability to scale with discipline.
+ 
+
+
+
+ In this role, you’ll help build the cluster foundations that power some of our most important work—turning large\\-scale compute into a dependable platform for both experimentation and real\\-world deployment.
+ 
+
+
+* If you care about distributed systems, orchestration, and the infrastructure behind modern AI, we’d love to hear from you.","Software Development","https://www.linkedin.com/company/withnucleusai","https://media.licdn.com/dms/image/v2/C560BAQHoHF2SiLPVfw/company-logo_100_100/company-logo_100_100/0/1679966936674/ops_ai_logo?e=2147483647&v=beta&t=PvOZzYFWMh5LxVXze1iju7u_thwiw3_le3c02TFs_LA","","","","","","","","","","",""
+"li-4388261771","linkedin","https://www.linkedin.com/jobs/view/4388261771","","Software Engineer, Collective Communication","Nucleus AI","","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","The scale of modern AI depends on more than raw compute—it depends on how well thousands of devices can move and coordinate data together.
+ 
+
+
+
+ We’re hiring a
+ **Software Engineer, Collective Communication** 
+ to work on distributed training communication systems at Nucleus, including collectives, networking, and related infrastructure that scale training across large GPU clusters. This role sits at the heart of large\\-scale model training, where communication efficiency can determine overall system performance.
+ 
+
+
+
+ You’ll work on the software layers that make distributed training viable at frontier scale: communication libraries, transport behavior, scheduling, topology\\-aware optimization, and the tooling needed to understand performance under real cluster conditions.
+ 
+
+
+ In this role, you will
+ * Design and optimize collective communication systems used in large\\-scale distributed training across GPU clusters.
+* Improve performance and reliability for operations such as all\\-reduce, all\\-gather, reduce\\-scatter, broadcast, and related communication patterns.
+* Work on networking and transport\\-level behavior that affects training throughput, scaling efficiency, and fault tolerance.
+* Build tooling and benchmarks for profiling communication bottlenecks, debugging distributed performance issues, and validating improvements.
+* Collaborate with training infrastructure, kernel, and hardware teams to align communication strategies with model and cluster characteristics.
+* Develop topology\\-aware and workload\\-aware optimizations that improve efficiency across heterogeneous cluster environments.
+* Contribute to the operational robustness of distributed communication systems in real training environments.
+
+
+ You may be a good fit if you
+ * Have strong experience in distributed systems, high\\-performance networking, communication libraries, or large\\-scale ML infrastructure.
+* Understand collective communication patterns and the practical bottlenecks that arise in multi\\-node, multi\\-accelerator systems.
+* Are comfortable with low\\-level systems programming in C\\+\\+, Rust, or similar languages, and can work close to hardware and runtime behavior.
+* Have experience with GPU clusters, high\\-speed interconnects, NCCL\\-like systems, MPI\\-like concepts, or related distributed compute environments.
+* Enjoy rigorous performance work and can reason across software, network, and workload\\-level interactions.
+* Care about building systems that unlock reliable scaling for ambitious research.
+
+
+ What makes Nucleus different
+ 
+ At Nucleus, communication infrastructure is a first\\-order part of training performance. The systems you build here will directly affect how efficiently we can train large models and explore new scales of capability. This is work for engineers who want to solve hard, foundational problems with broad leverage across the company.
+ 
+
+
+* If you’re drawn to the mechanics of large\\-scale distributed training, this is an opportunity to work on some of the most consequential systems in the stack.","Software Development","https://www.linkedin.com/company/withnucleusai","https://media.licdn.com/dms/image/v2/C560BAQHoHF2SiLPVfw/company-logo_100_100/company-logo_100_100/0/1679966936674/ops_ai_logo?e=2147483647&v=beta&t=PvOZzYFWMh5LxVXze1iju7u_thwiw3_le3c02TFs_LA","","","","","","","","","","",""
+"li-4388272325","linkedin","https://www.linkedin.com/jobs/view/4388272325","","Software Engineer, Infrastructure Security","Nucleus AI","","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","The strength of advanced AI systems depends on the strength of the infrastructure beneath them.
+ 
+
+
+
+ As a
+ **Software Engineer, Infrastructure Security** 
+ at Nucleus, you will help secure the cloud and on\\-prem systems that power our research, training, and production workloads. You’ll work across fleet security, deployment hardening, identity boundaries, runtime protections, and security controls that make large\\-scale infrastructure safer by default. This role is ideal for engineers who like working close to platforms and care deeply about operational security.
+ 
+
+
+ In this role, you will
+ * Harden cloud and on\\-prem environments that support model training, inference, and internal platforms.
+* Build security controls into deployment pipelines, infrastructure provisioning, and service runtime environments.
+* Improve host, container, and workload security across Nucleus systems.
+* Partner with platform teams to reduce attack surface and strengthen secure\\-by\\-default infrastructure patterns.
+* Develop tooling and automation for security policy enforcement, posture management, and remediation.
+
+
+ You may be a good fit if you have
+ * Experience in infrastructure engineering, security engineering, SRE, or platform engineering.
+* Strong familiarity with cloud security, Linux systems, containerization, IAM, and deployment pipelines.
+* Experience implementing preventative controls and secure infrastructure patterns at scale.
+* A builder mindset and a pragmatic approach to balancing security with developer velocity.
+
+
+ What makes Nucleus different
+ 
+ You’ll help shape the foundations of a company building at the frontier of AI. The infrastructure challenges are real, the stakes are high, and the impact of strong security engineering is immediate.
+ 
+
+
+* If you want to secure the systems behind advanced intelligence, we’d love to meet you.","Software Development","https://www.linkedin.com/company/withnucleusai","https://media.licdn.com/dms/image/v2/C560BAQHoHF2SiLPVfw/company-logo_100_100/company-logo_100_100/0/1679966936674/ops_ai_logo?e=2147483647&v=beta&t=PvOZzYFWMh5LxVXze1iju7u_thwiw3_le3c02TFs_LA","","","","","","","","","","",""
 "li-4388592630","linkedin","https://www.linkedin.com/jobs/view/4388592630","","Software Development Engineer, Payee Management","Amazon","Gurugram, Haryana, India","","fulltime","","","","","",False,"mid-senior level","Information Technology, Consulting, and Engineering","","","**Description**
  Interested in building the next generation of operational platforms that power complex workflows across thousands of internal and external users? Interested in designing highly scalable systems.
    
@@ -659,6 +708,135 @@
   
 
  Job ID: A10371034","Software Development","https://www.linkedin.com/company/amazon","https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg","","","","","","","","","","",""
+"li-4388259723","linkedin","https://www.linkedin.com/jobs/view/4388259723","","Software Engineer, Infrastructure Reliability","Nucleus AI","","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","At Nucleus, reliability is a product feature of every platform we build.
+ 
+
+
+
+ We’re hiring a
+ **Software Engineer, Infrastructure Reliability** 
+ to improve uptime, observability, and incident response across Nucleus’s core infrastructure and platforms. This role is focused on the engineering discipline required to keep critical systems dependable: reducing failure modes, strengthening detection and response, and building the tooling and practices that make infrastructure more understandable and resilient over time.
+ 
+
+
+
+ You will work across cloud systems, internal platforms, and production services to raise the reliability baseline for the company as a whole.
+ 
+
+
+**What you’ll do** 
+* Improve the uptime, resilience, and operational health of Nucleus’s core infrastructure and platform services.
+* Build observability systems, alerts, dashboards, and tooling that make production environments easier to understand and operate.
+* Strengthen incident response workflows, root cause analysis practices, and long\\-term remediation efforts.
+* Partner with infrastructure and product teams to identify reliability risks and design durable improvements.
+* Help define service level objectives, reliability standards, and operational best practices across the company.
+* Automate operational workflows related to health checks, failover, recovery, and routine infrastructure maintenance.
+* Analyze production incidents and recurring failure patterns to improve architecture, tooling, and team response.
+* Contribute to capacity planning, resilience testing, and other efforts that prepare systems for growth and change.
+
+
+**What we’re looking for** 
+* Strong experience operating production infrastructure or backend systems with meaningful reliability requirements.
+* Familiarity with observability stacks, on\\-call practices, incident management, and operational excellence in distributed systems.
+* Experience with monitoring, logging, tracing, and performance analysis tools in cloud or service\\-based environments.
+* Strong software engineering skills in one or more languages such as Go, Python, Java, or Rust.
+* Comfort debugging across multiple layers of infrastructure, from services and deployments to underlying platform behavior.
+* Sound judgment around reliability tradeoffs, especially where speed, complexity, and risk must be balanced.
+* A disciplined, systems\\-oriented approach to understanding and preventing operational failures.
+* Interest in building the reliability foundations behind large\\-scale AI systems.
+
+
+**Why Nucleus** 
+
+ Nucleus is building intelligent systems that people and organizations will depend on in meaningful ways. That trust starts with infrastructure that is observable, resilient, and engineered to recover gracefully under pressure.
+ 
+
+
+
+ In this role, you’ll help build the operational backbone of Nucleus—improving not just how systems perform on good days, but how they behave on the hardest ones. Your work will shape the quality and dependability of the platforms the rest of the company builds on.
+ 
+
+
+* If you care about reliability as both an engineering craft and a force multiplier for ambitious teams, we’d love to hear from you.","Software Development","https://www.linkedin.com/company/withnucleusai","https://media.licdn.com/dms/image/v2/C560BAQHoHF2SiLPVfw/company-logo_100_100/company-logo_100_100/0/1679966936674/ops_ai_logo?e=2147483647&v=beta&t=PvOZzYFWMh5LxVXze1iju7u_thwiw3_le3c02TFs_LA","","","","","","","","","","",""
+"li-4388263721","linkedin","https://www.linkedin.com/jobs/view/4388263721","","MERN Stack Intern (MongoDB, Express, React, Node.js)","ArGo Intern","","","internship","","","","","",True,"internship","Research","","","🚀
+ **Hiring: MERN Stack Developer Intern (MongoDB, Express, React, Node.js)** 
+
+
+
+
+ We are looking for enthusiastic and self\\-motivated
+ **MERN Stack Developer Interns** 
+ who are eager to build full\\-stack web applications and gain hands\\-on industry experience.
+ 
+
+
+
+ 🔍
+ **Roles \\& Responsibilities** 
+
+
+
+* Develop full\\-stack web applications using
+ **MongoDB, Express, React, and Node.js**
+* Build and integrate RESTful APIs
+* Work on frontend and backend features
+* Debug, test, and optimize application performance
+* Collaborate with the development team on real\\-world projects
+
+
+
+ ✅
+ **Eligibility Criteria** 
+
+
+
+* **Freshers and students are welcome**
+* Basic knowledge of
+ **React, Node.js, Express, and MongoDB**
+* Understanding of JavaScript and web development concepts
+* Willingness to learn and work in a team environment
+
+
+
+ 🌐
+ **Internship Details** 
+
+
+
+* 📍
+ **Mode:** 
+ Virtual / Remote
+* ⏳
+ **Duration:** 
+ Flexible
+* 💰
+ **Stipend:** 
+ Not stipend based
+
+
+
+ 🌟
+ **Perks \\& Benefits** 
+
+
+
+* Hands\\-on experience with real projects
+* Internship Certificate
+* Full\\-stack development exposure
+* ⭐
+ **Top performers will get 100% placement support**
+
+
+
+ 📌
+ **How to Apply** 
+
+
+
+
+ Interested candidates can apply by clicking on the
+ **“Apply” option** 
+ .","E-Learning Providers and IT Services and IT Consulting","https://www.linkedin.com/company/argo-intern","https://media.licdn.com/dms/image/v2/D560BAQGJ4hwDvASYpA/company-logo_100_100/B56ZvVwNm3HMAU-/0/1768817744989?e=2147483647&v=beta&t=fj5gxtPlLs5WI5AHjWnUHQ0rdLmFB3u_Bm86jUyKJAo","","","","","","","","","","",""
 "li-4388707258","linkedin","https://www.linkedin.com/jobs/view/4388707258","","Software Engineer, Translation Services","Amazon","Hyderabad, Telangana, India","","fulltime","","","","","",False,"not applicable","Information Technology, Consulting, and Engineering","","","**Description**
  Translation Services seeks a passionate Software Development Engineer to drive innovations in translation to reach every Amazon customer in their own language.
    
@@ -726,199 +904,12 @@
   
 
  Job ID: A10371258","Software Development","https://www.linkedin.com/company/amazon","https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg","","","","","","","","","","",""
-"li-4388269189","linkedin","https://www.linkedin.com/jobs/view/4388269189","","Development Intern","EVA2Z","","","internship","","","","","",False,"internship","Education and Training","","himanshu@fleeta2z.com","**Job Title: Backend Developer Intern (PHP \\& Laravel)** 
-
-**Company:** 
- Eva2z
+"li-4386708758","linkedin","https://www.linkedin.com/jobs/view/4386708758","","Lead AI Software Engineer","EnCharge AI","","","fulltime","","","","","",True,"mid-senior level","Research, Design, and Engineering","","_bhaskar@yahoo.com","Lead AI Software Engineer
  
 
 
 
-**Location:** 
- Onsite
- 
-
-
-
-**Duration:** 
- 3–6 Months Internship
- 
-
-
-**About the Role** 
-
- We are looking for a passionate Backend Developer Intern with basic knowledge of PHP and Laravel to join our team at Eva2z. This internship offers hands\\-on experience in building and maintaining
- **APIs and websites** 
- , working on real\\-world projects, and understanding backend development workflows in a professional environment.
- 
-
-
-**Key Responsibilities** 
-* Assist in developing and maintaining backend services using PHP and Laravel
-* Build and integrate
- **REST APIs**
-* Work on backend logic for websites
-* Write clean, efficient, and well\\-documented code
-* Work with databases (MySQL or similar)
-* Collaborate with frontend developers to integrate APIs
-* Debug, test, and optimize application performance
-* Participate in code reviews and team discussions
-
-
-**Requirements** 
-* Basic knowledge of
- **PHP** 
- and
- **Laravel framework**
-* Understanding of
- **OOP (Object\\-Oriented Programming)**
-* Familiarity with
- **REST APIs**
-* Basic knowledge of
- **MySQL / databases**
-* Understanding of
- **Git/version control** 
- is a plus
-* Strong willingness to learn and grow
-
-
-**Preferred Skills (Good to Have)** 
-* Knowledge of MVC architecture
-* Experience with personal or academic projects
-* Basic understanding of web security
-
-
-**How to Apply** 
-
- Send your resume to:
- **himanshu@fleeta2z.com**","Motor Vehicle Manufacturing","https://in.linkedin.com/company/eva2zofficial","https://media.licdn.com/dms/image/v2/D560BAQGay8ABrwfW0g/company-logo_100_100/B56ZmjRbaHJwAQ-/0/1759380880486/eva2zofficial_logo?e=2147483647&v=beta&t=hbIZP5Tvor9bi26aJ61Hdy3_OtDjOccSx8ivmPqMP9A","","","","","","","","","","",""
-"li-4384799066","linkedin","https://www.linkedin.com/jobs/view/4384799066","","Senior Fullstack Developer (Remote-India)","Outsourced","","","fulltime","","","","","",True,"mid-senior level","Information Technology","","","**Company Overview**
- Outsourced is a leading ISO certified global offshore outsourcing company that provides dedicated remote staff to some of the world's leading international companies. Outsourced is recognized as one of the Best Places to Work and has achieved Great Place to Work Certification. We are committed to providing a positive and supportive work environment where all staff can thrive. As an Outsourced staff member, you will enjoy a fun and friendly working environment, competitive salaries, opportunities for growth and development, work\\-life balance, and the chance to share your passion with a team of over 1000 talented professionals.
-   
-
-  
-
- Position Title:
- **Senior Fullstack Developer**
- Work Arrangement: Remote \\- India
-   
-
-  
-
-**About The Role**
- We are seeking a Senior Software Engineer (Contract) to drive the development of core product capabilities across our modern cloud\\-based platform.
-   
-
-  
-
- This is a hands\\-on, high\\-impact engineering role focused on building scalable backend services and modern web applications that directly support mission\\-critical emergency operations. You will contribute to architectural decisions, deliver production\\-grade solutions, and help lift engineering quality across the platform.
-   
-
-  
-
-**Key Responsibilities**
- Software Engineering \\& Architecture
-   
-
-  
-
-* Design, develop, and maintain high\\-performance backend services using C\\# and .NET on Google Cloud Platform (GCP)
-* Build modern, responsive front\\-end applications using React and TypeScript
-* Develop and maintain APIs and distributed services supporting real\\-time operational data
-* Contribute to system design and architectural decision\\-making
-
-
-**Cloud \\& Platform Delivery**
-* Implement and optimise cloud\\-native services across GCP
-* Ensure reliability, scalability, security, and performance of production systems
-* Apply best practices for cloud infrastructure, monitoring, and deployment
-
-
-**Quality \\& Collaboration**
-* Write clean, maintainable, well\\-tested code aligned to engineering standards
-* Participate in code reviews and technical design discussions
-* Collaborate closely with product, design, and engineering peers to deliver
-
-
- customer\\-focused outcomes
-   
-
-  
-
-**Problem Solving \\& Continuous Improvement**
-* Diagnose and resolve complex production and performance issues
-* Proactively identify areas for technical improvement and system resilience
-* Evaluate new technologies where they add measurable value
-
-
-**The Ideal Candidate Will Possess**
-* 8\\+ years professional software engineering experience
-* Strong expertise in C\\#/.NET backend development
-* Proven experience building modern web applications with React and TypeScript
-* Hands\\-on experience with Google Cloud Platform (GCP)
-* Experience designing APIs and distributed systems
-* Strong problem\\-solving and analytical capability
-* Ability to operate autonomously in a fast\\-moving delivery environment
-* Excellent communication and collaboration skills
-
-
-**What We Offer** 
-  
-
-  
-
-* Health Insurance: We provide medical coverage up to 20 lakh per annum, which covers you, your spouse, and a set of parents. This is available after one month of successful engagement.
-* Professional Development: You'll have access to a monthly upskill allowance of ₹5000 for continued education and certifications to support your career growth.
-* Leave Policy: Vacation Leave (VL): 10 days per year, available after probation. You can carry over or encash up to 5 unused days.
-+ Casual Leave (CL): 8 days per year for personal needs or emergencies, available from day one.
-+ Sick Leave: 12 days per year, available after probation.
-
-* Flexible Work Hours or Remote Work Opportunities \\- Depending on the role and project.
-* Outsourced Benefits such as Paternity Leave, Maternity Leave, etc.","Outsourcing and Offshoring Consulting","https://ph.linkedin.com/company/outsourcedglobal","https://media.licdn.com/dms/image/v2/D560BAQFBXsL_stEAQQ/company-logo_100_100/B56ZlfdDwEKEAQ-/0/1758243077527/outsourcedglobal_logo?e=2147483647&v=beta&t=DGS3F7qDcb8e3aiH9syJCQC5Yzi08vfy1bDCCVMSHnw","","","","","","","","","","",""
-"li-4388710072","linkedin","https://www.linkedin.com/jobs/view/4388710072","","EV System Validation Engineer","Royal Enfield","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Manufacturing","","","**Position Overview:** 
-
-
-
-
-**Location: Chennai (REHQ / Vallam)** 
-
-
-
-
-**Position Title: EV – System Validation and Testing** 
-
-
-
-
-**Reports to: Lead** 
-
-
-
-
-**Function: EV Technical** 
-
-
-
-
-  
-
-
-
-
-
-**Required Mandatory Skillset:** 
-
-
-
-
-**Exp:** 
- Minimum 3\\-8 Years of experience in System and Sub system Testing and Validation
- 
-
-
-
-**Qualification:** 
- BTech / BE / Mechanical/ EEE/ECE/Production/Automobile engineering
+ www.enchargeai.com
  
 
 
@@ -929,24 +920,13 @@
 
 
 
-**What we need:** 
+**Locations: Bangalore / Remote (Any where in India )** 
 
 
 
-* 4 Plus years of hands\\-on experience in EV /Battery, sub system electrical / electronic and system level validation for OEMs, tier\\-1 automotive suppliers.
-* Charger, Motor controller, EVSE /RCD / PRCD validation
-* \\>\\> HIL testing capability will be additional skill which is not mandatory
-* Expertise in Electrical Vehicle Battery manufacturing / quality function /Design development
-* Experience in CAN Vector tools, PCAN, LIN, Can analyser etc.
-* Experience on developing Design Verification and Validation Plan.
-* Understanding design and develop the test cases
-* Functional safety verification
-* Experience or capability in HIL testing is addon advantage
-* Expertise in Battery Pack diagnostics and analysis systems
-* Expertise in DFMEA / 8D problem solving methodology, Understanding of vehicle level and subsystem level architecture design and validating the performance
-* Calibration and validation of subsystem in vehicle level, power consumption, torque demand regen tuning and verifying the MCU / Motor
-* Simulation of CAN message as per subcomponents to test the sub system as part of validation
-* Expertise on using high end equipment like DSO, Programmable AC/DC sources etc.
+
+**Job Description:** 
+
 
 
 
@@ -956,29 +936,115 @@
 
 
 
-**What you’ll do:** 
-
-
-
-
- The incumbent will contribute in validation of system level and subsystem electrical \\& electronics hardware parts, HIL testing along with HIL test team as part of sub system validation, preparation of validation report with detailed analysis and compliance as per DVP and international standards requirements.
+ AI Software Engineer
  
 
 
-* To validate Battery pack and other sub system electrical and electronics parts as per requirements
-* Validate the subsystem and system as per DVP
-* Understand standards and validate as per standards requirements
-* Development of test procedure as per standards and functional requirements of DVP test cases
-* Ensure the safety requirements followed in testing
-* Lab equipments handling and ensure equipments are maintained properly
-* Conduct the validation tests at external test labs as part of Validation
-* Samples maintenance with identification
-* Test \\& validation and analyse the data, prepare test report with detailed analysis
-* 8D analysis on failures and working with CFT on failure analysis
-* Ensuring the tests completion as per DVP plan
-* Software validation of subsystem parts along with HIL test team and preparing detailed test report
-* Reliability assessment from validation and endurance test observations
-* Homologation certification process as per requirements for subsystem level","Motor Vehicle Manufacturing","https://in.linkedin.com/company/royal-enfield","https://media.licdn.com/dms/image/v2/D560BAQHiGUaL9TIRdg/company-logo_100_100/B56Zwi2.uTHUAQ-/0/1770111364575/royal_enfield_logo?e=2147483647&v=beta&t=qZ8Y7hdH6sRjtosMN41b121d6NVU5IUivU68iQkjzVA","","","","","","","","","","",""
+
+ Bengaluru, Karnataka (or Remote\\-friendly with travel)
+ 
+
+
+
+**About EnCharge AI:** 
+
+
+
+
+ EnCharge AI is building the next generation AI platform. Our novel in\\-memory\\-computing architecture delivers a 10x step\\-function improvement in compute energy efficiency and performance for AI inference workloads. As the demands of artificial intelligence move beyond today's models, we believe fundamental underlying infrastructure must evolve. We are an experienced team of AI researchers, silicon \\& systems engineers, and architects backed by leading investors, poised to become the essential platform for the next wave of AI innovation.
+ 
+
+
+
+**The Opportunity:** 
+
+
+
+
+ Video generation represents one of the most compute\\-intensive frontiers in AI—and one of the most promising applications for our hardware's energy efficiency advantages. We're building a vertically\\-integrated video generation stack that will showcase the transformative potential of our silicon while delivering real value to customers today.
+ 
+
+
+
+ We are seeking a Software Engineer to build the infrastructure and applications that bring our video generation capabilities to market. You'll build the serving stack, customer\\-facing APIs, and develop agentic systems that demonstrate what's possible when video generation meets energy\\-efficient hardware.
+ 
+
+
+
+ This is a foundational role. You won't be inheriting a mature codebase—you'll be architecting production systems from scratch, making critical technical decisions, and building software that directly enables our go\\-to\\-market motion.
+ 
+
+
+
+**Key Responsibilities:** 
+
+
+
+* **Inference \\& Serving Infrastructure:** 
+ Design and build scalable serving infrastructure for video generation models (Wan, LTX\\-Video, Flux, and beyond). Own latency, throughput, reliability, and cost optimization.
+* **API \\& Platform Development:** 
+ Build robust APIs and SDKs that enable customers and partners to integrate video generation into their products. Design abstractions that balance flexibility with ease\\-of\\-use.
+* **Video Applications \\& Demos:** 
+ Develop compelling demo applications that showcase our platform's capabilities—interactive experiences, batch processing workflows, and vertical\\-specific solutions that support the GTM team.
+* **Agentic Workflows:** 
+ Build agentic systems that leverage video generation as a core capability—autonomous video editing pipelines, multi\\-step generation workflows, and tool\\-use patterns that extend what's possible with video AI.
+* **Production Operations:** 
+ Establish monitoring, observability, and deployment practices for video generation workloads. Ensure systems are reliable, debuggable, and ready for customer\\-facing use.
+
+
+
+**Qualifications:** 
+
+
+
+* 7\\-12 years of software engineering experience, with a focus on backend systems or ML infrastructure
+* Strong fundamentals in Python and at least one systems language (Go, Rust, C\\+\\+)
+* Experience building and operating production APIs and serving systems
+* Familiarity with ML inference pipelines (model serving, GPU workloads, batching strategies)
+* Comfort working in fast\\-moving, ambiguous environments where you define the roadmap
+* Strong product instincts—you think about how software will be used, not just how it works
+
+
+
+**Nice to Have:** 
+
+
+
+* Experience with video processing pipelines or media infrastructure
+* Background building agentic systems or multi\\-step AI workflows
+* Familiarity with diffusion models or generative AI systems
+* Experience with Kubernetes, Ray, or other orchestration frameworks
+* Track record shipping developer tools or APIs
+
+
+
+  
+
+
+
+
+
+**Contact:** 
+
+
+
+
+**Uday** 
+
+
+
+
+**Mulya Technologies** 
+
+
+
+
+**muday\\_bhaskar@yahoo.com** 
+
+
+
+
+**""Mining The Knowledge Community""**","Semiconductor Manufacturing, Computer Hardware Manufacturing, and Software Development","https://www.linkedin.com/company/encharge-ai","https://media.licdn.com/dms/image/v2/D560BAQE6gFr34Bm0mQ/company-logo_100_100/company-logo_100_100/0/1701214305645/encharge_ai_logo?e=2147483647&v=beta&t=Ofx878sY6Mx54Bjliyn2zntmfRshVS0TzA4x9woBfJc","","","","","","","","","","",""
 "li-4388597868","linkedin","https://www.linkedin.com/jobs/view/4388597868","","Python Testing Engineer","Crescendo Global","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Quality Assurance","","","We are currently hiring for the role of Python Testing with strong experience in Python and UI Automation.
  
 
@@ -1036,292 +1102,6 @@
 
 
  📍 Locations: Bangalore","Staffing and Recruiting and Software Development","https://in.linkedin.com/company/crescendo-global","https://media.licdn.com/dms/image/v2/D560BAQFji9BAMLMMlA/company-logo_100_100/B56ZtynUIMHYAQ-/0/1767154467842/crescendo_global_logo?e=2147483647&v=beta&t=5kW9RVTLrQKwdNk94neeeSqHDkqjU3mNvoesL1UCTcg","","","","","","","","","","",""
-"li-4388704383","linkedin","https://www.linkedin.com/jobs/view/4388704383","","Senior Software Engineer","Rubrik","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","hr@rubrik.com","Location : Pune
-   
-
-  
-
-**About Team \\& About Role**
- As a Senior Software Engineer (SSE) in the Continuous Product Development (CPD) team, you will play a key role in leading team(s) towards owning the roadmap, providing long\\-term stability, and providing delight to our enterprise customers. You will work closely with leadership and multiple stakeholders from other engineering teams, the Product and Support organizations.
-   
-
-  
-
- You will be working across Rubrik releases on our on\\-premise data backup \\& SAAS offering. You are expected to develop a strong understanding of our product and engineering architecture, such as our distributed job framework, data lifecycle management, filesystem, and metadata store.
-   
-
-  
-
- We are seeking a highly skilled senior engineer to join our team. You will be responsible for developing and maintaining high\\-performance software applications. You should have strong programming and troubleshooting skills, excellent design skills, and an understanding of distributed systems. You should be able to work independently and as part of a team. Having an understanding of the storage domain will be preferred, but is not necessary.
-   
-
-  
-
- Rubrik SSEs are self\\-starters, driven, and can manage themselves. We believe in giving engineers responsibility, not tasks. Our goal is to motivate and challenge you to do your best work by empowering you to make your own decisions. To do that, we have a very transparent structure and give people freedom to exercise their judgment, even in critical scenarios. This develops more capable engineers and keeps everyone engaged and happy, ultimately leading to customer delight.
-   
-
-  
-
-**Key Responsibilities**
-* Design, develop, and maintain high\\-quality software applications and libraries using C\\+\\+, Scala, and Go programming languages.
-* Troubleshoot complex software problems in a timely and accurate manner.
-* Collaborate with cross\\-functional teams to define, design, and ship new features.
-* Write and maintain technical documentation for software systems and applications.
-* Participate in code reviews and ensure adherence to coding standards.
-* Continuously improve software quality through process improvement initiatives.
-* Keep up\\-to\\-date with emerging trends in software development.
-
-
-**Requirements**
-* B\\-Tech/M\\-Tech with 9\\+ years of experience.
-* Strong programming, problem\\-solving, and troubleshooting skills.
-* Language skills: C\\+\\+ or Scala/Java, or C/Go with understanding of OOP
-* Excellent design skills.
-* Understanding of distributed systems and multi\\-threading/concurrency concepts.
-* Preferably, have a good understanding of the storage domain.
-* Preferably, have a strong background in the object\\-oriented paradigm.
-* Good knowledge of data structures, algorithms, and design patterns.
-* Good understanding of networking protocols and security concepts.
-* Good knowledge of software development methodologies, tools, and processes.
-* Strong communication skills and the ability to work in a team environment.
-
-
- Join Us in Securing the World's Data
-   
-
-  
-
- Rubrik (RBRK), the Security and AI Operations Company, leads at the intersection of data protection, cyber resilience, and enterprise AI acceleration. Rubrik Security Cloud delivers complete cyber resilience by securing, monitoring, and recovering data, identities, and workloads across clouds. Rubrik Agent Cloud accelerates trusted AI agent deployments at scale by monitoring and auditing agentic actions, enforcing real\\-time guardrails, fine\\-tuning for accuracy and undoing agentic mistakes.
-   
-
-  
-
- Linkedin \\| X (formerly Twitter) \\| Instagram \\| Rubrik.com
-   
-
-  
-
- Inclusion @ Rubrik
-   
-
-  
-
- At Rubrik, we are dedicated to fostering a culture where people from all backgrounds are valued, feel they belong, and believe they can succeed. Our commitment to inclusion is at the heart of our mission to secure the world’s data.
-   
-
-  
-
- Our goal is to hire and promote the best talent, regardless of background. We continually review our hiring practices to ensure fairness and strive to create an environment where every employee has equal access to opportunities for growth and excellence. We believe in empowering everyone to bring their authentic selves to work and achieve their fullest potential.
-   
-
-  
-
- Our inclusion strategy focuses on three core areas of our business and culture:
-   
-
-  
-
-* Our Company: We are committed to building a merit\\-based organization that offers equal access to growth and success for all employees globally. Your potential is limitless here.
-* Our Culture: We strive to create an inclusive atmosphere where individuals from all backgrounds feel a strong sense of belonging, can thrive, and do their best work. Your contributions help us innovate and break boundaries.
-* Our Communities: We are dedicated to expanding our engagement with the communities we operate in, creating opportunities for underrepresented talent and driving greater innovation for our clients. Your impact extends beyond Rubrik, contributing to safer and stronger communities.
-
-
- Equal Opportunity Employer/Veterans/Disabled
-   
-
-  
-
- Rubrik is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
-   
-
-  
-
- Rubrik provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Rubrik complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
-   
-
-  
-
- Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please contact us at hr@rubrik.com if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.
-   
-
-  
-
- EEO IS THE LAW
-   
-
-  
-
- NOTIFICATION OF EMPLOYEE RIGHTS UNDER FEDERAL LABOR LAWS","Software Development","https://www.linkedin.com/company/rubrik-inc","https://media.licdn.com/dms/image/v2/C560BAQHY1iEGw-fRpw/company-logo_100_100/company-logo_100_100/0/1656688195686/rubrik_inc_logo?e=2147483647&v=beta&t=9SWZgiLhwnjF1snwJ6G2vinecidUH7mAGeqelSHbfOc","","","","","","","","","","",""
-"li-4386147287","linkedin","https://www.linkedin.com/jobs/view/4386147287","","Dart & Flutter Developer","Micro Integrated Semiconductor Systems Pvt Ltd","Pune District, Maharashtra, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","hr@microintegrated.in","**Experience: 6 months to 1 year** 
-
-
-
-
-**Website** 
- : www.microintegrated.in
- 
-
-
-
-**Role** 
- : Flutter Developer
- 
-
-
-
-**Location: Pune** 
-
-
-
-
-  
-
-
-
-
-
-**Job Location:** 
-
-
-
-
-**AptNo. 4, 1st Floor, Achyut Prasad Apartment, 11 Kishor Bhagirath Tapadia Road,** 
-
-
-
-
-**Behind Anand Veg Restaurant, Bhalekar Chawl, Erandwane, Pune,** 
-
-
-
-
-**Maharashtra \\-411004** 
-
-
-
-
-  
-
-
-
-
-
-**Qualification:** 
- BE, BTech, or Relevantfield.
- 
-
-
-
-**Work Mode:** 
- Work from Office
- 
-
-
-
-  
-
-
-
-
-
-**JobDescription:** 
-
-
-
-
-**We are looking for a motivated Flutter Developer (6–12 months experience) to join our team and work primarily on iOS applications. The candidate should have strong fundamentals in Flutter, clean UI development, API integration, and state management using BLoC. You will work on real product features involving dynamic data, session handling, and scalable UI components.** 
-
-
-
-
-  
-
-
-
-
-
-**Interview Rounds :** 
-
-
-
-
-**1\\. Task Round (Virtual)** 
-
-
-
-
-**2\\. Task Explanation Round (Face to Face)** 
-
-
-
-
-**3\\. HR Round (Face to Face)** 
-
-
-
-
-  
-
-
-
-
-
-**Key Responsibilities:** 
-
-
-
-* Develop and maintain iOS applications using Flutter
-* Implement clean, responsive, and dynamic UI designs
-* Integrate REST APIs and handle complex data flows
-* Use BLoC architecture for scalable state management
-* Implement session handling (login, token storage, auto\\-login, logout)
-* Handle large datasets with optimized UI rendering
-* Work closely with backend and design teams
-* Write clean, maintainable, and well\\-structured code
-* Debug, optimize, and improve application performance
-
-
-
-  
-
-
-
-
-
-**Key Requirements:** 
-
-
-
-* 6–12 months hands\\-on experience with Flutter
-* Strong understanding of Dart fundamentals
-* Experience using BLoC / Cubit
-* REST API integration using Dio or HTTP
-* Knowledge of iOS build \\& testing (simulator, TestFlight basics preferred)
-* Local storage (SharedPreferences / Hive / Secure Storage)
-* Good UI/UX sense and layout structuring
-* Understanding of app navigation and routing
-
-
-
-  
-
-
-
-
-
-**How to Apply:** 
-
-
-
-
-**Mail** 
- : hr@microintegrated.in
- 
-
-
-
-**Whatsapp** 
- : 7385820497","Software Development","https://in.linkedin.com/company/micro-integrated-semiconductor-systems-pvt-ltd","https://media.licdn.com/dms/image/v2/D4D0BAQEy0k1RigLwpA/company-logo_100_100/B4DZt6d_ZpHwAQ-/0/1767286241488?e=2147483647&v=beta&t=5MWpWEmk2dnu7B74OOjRLA7fouiydodDHswevLGcwGo","","","","","","","","","","",""
 "li-4386148311","linkedin","https://www.linkedin.com/jobs/view/4386148311","","Senior Software Developer, Algorithmic Trading (Low-Latency, C++)","BestEx Research","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Other","","","**About BestEx Research**
  BestEx Research is a financial technology and research firm specializing in building sophisticated execution algorithms and transaction cost modeling tools servicing multiple asset classes. The firm provides high\\-performance algorithmic execution services to hedge funds, CTAs, asset managers, and banks through a traditional electronic broker and in a broker\\-neutral Software as a Service (SaaS) model.
    
@@ -1452,7 +1232,144 @@
 * Prior experience developing trading systems or execution algorithms
 * Knowledge of relational databases, database optimizations, and SQL
 * Experience with Python/R","IT Services and IT Consulting","https://www.linkedin.com/company/bestex-research-group","https://media.licdn.com/dms/image/v2/D4E0BAQGLJjWJzBi3Bw/company-logo_100_100/company-logo_100_100/0/1732133302988/bestex_research_group_logo?e=2147483647&v=beta&t=cX8hqi9VJ6j4Ut3mV9LixCQpxEG2_WsaMdrOInjZWAE","","","","","","","","","","",""
-"li-4386143447","linkedin","https://www.linkedin.com/jobs/view/4386143447","","API Developer / Integration Engineer (Apache Camel)","ZettaMine Labs Pvt. Ltd.","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","md.afreen@zettamine.com","Hello ,
+"li-4384799066","linkedin","https://www.linkedin.com/jobs/view/4384799066","","Senior Fullstack Developer (Remote-India)","Outsourced","","","fulltime","","","","","",True,"mid-senior level","Information Technology","","","**Company Overview**
+ Outsourced is a leading ISO certified global offshore outsourcing company that provides dedicated remote staff to some of the world's leading international companies. Outsourced is recognized as one of the Best Places to Work and has achieved Great Place to Work Certification. We are committed to providing a positive and supportive work environment where all staff can thrive. As an Outsourced staff member, you will enjoy a fun and friendly working environment, competitive salaries, opportunities for growth and development, work\\-life balance, and the chance to share your passion with a team of over 1000 talented professionals.
+   
+
+  
+
+ Position Title:
+ **Senior Fullstack Developer**
+ Work Arrangement: Remote \\- India
+   
+
+  
+
+**About The Role**
+ We are seeking a Senior Software Engineer (Contract) to drive the development of core product capabilities across our modern cloud\\-based platform.
+   
+
+  
+
+ This is a hands\\-on, high\\-impact engineering role focused on building scalable backend services and modern web applications that directly support mission\\-critical emergency operations. You will contribute to architectural decisions, deliver production\\-grade solutions, and help lift engineering quality across the platform.
+   
+
+  
+
+**Key Responsibilities**
+ Software Engineering \\& Architecture
+   
+
+  
+
+* Design, develop, and maintain high\\-performance backend services using C\\# and .NET on Google Cloud Platform (GCP)
+* Build modern, responsive front\\-end applications using React and TypeScript
+* Develop and maintain APIs and distributed services supporting real\\-time operational data
+* Contribute to system design and architectural decision\\-making
+
+
+**Cloud \\& Platform Delivery**
+* Implement and optimise cloud\\-native services across GCP
+* Ensure reliability, scalability, security, and performance of production systems
+* Apply best practices for cloud infrastructure, monitoring, and deployment
+
+
+**Quality \\& Collaboration**
+* Write clean, maintainable, well\\-tested code aligned to engineering standards
+* Participate in code reviews and technical design discussions
+* Collaborate closely with product, design, and engineering peers to deliver
+
+
+ customer\\-focused outcomes
+   
+
+  
+
+**Problem Solving \\& Continuous Improvement**
+* Diagnose and resolve complex production and performance issues
+* Proactively identify areas for technical improvement and system resilience
+* Evaluate new technologies where they add measurable value
+
+
+**The Ideal Candidate Will Possess**
+* 8\\+ years professional software engineering experience
+* Strong expertise in C\\#/.NET backend development
+* Proven experience building modern web applications with React and TypeScript
+* Hands\\-on experience with Google Cloud Platform (GCP)
+* Experience designing APIs and distributed systems
+* Strong problem\\-solving and analytical capability
+* Ability to operate autonomously in a fast\\-moving delivery environment
+* Excellent communication and collaboration skills
+
+
+**What We Offer** 
+  
+
+  
+
+* Health Insurance: We provide medical coverage up to 20 lakh per annum, which covers you, your spouse, and a set of parents. This is available after one month of successful engagement.
+* Professional Development: You'll have access to a monthly upskill allowance of ₹5000 for continued education and certifications to support your career growth.
+* Leave Policy: Vacation Leave (VL): 10 days per year, available after probation. You can carry over or encash up to 5 unused days.
++ Casual Leave (CL): 8 days per year for personal needs or emergencies, available from day one.
++ Sick Leave: 12 days per year, available after probation.
+
+* Flexible Work Hours or Remote Work Opportunities \\- Depending on the role and project.
+* Outsourced Benefits such as Paternity Leave, Maternity Leave, etc.","Outsourcing and Offshoring Consulting","https://ph.linkedin.com/company/outsourcedglobal","https://media.licdn.com/dms/image/v2/D560BAQFBXsL_stEAQQ/company-logo_100_100/B56ZlfdDwEKEAQ-/0/1758243077527/outsourcedglobal_logo?e=2147483647&v=beta&t=DGS3F7qDcb8e3aiH9syJCQC5Yzi08vfy1bDCCVMSHnw","","","","","","","","","","",""
+"li-4386311997","linkedin","https://www.linkedin.com/jobs/view/4386311997","","Principal Physical Design Engineer","EnCharge AI","","","fulltime","","","","","",True,"mid-senior level","Research, Engineering, and Design","","_bhaskar@yahoo.com","EnchargeAi.com
+ 
+
+
+
+ Location : Bangalore
+ 
+
+
+
+**Title : Principal Physical Design Engineer ( Hybrid\\-2 days office/3 days home)/ remote ( any where in India)** 
+
+
+
+
+  
+
+
+
+
+
+ Principal Physical Design Engineer (RTL\\-to\\-GDSII)
+ 
+
+
+
+ Bangalore
+ 
+
+
+
+ EnCharge AI is a leader in advanced AI hardware and software systems for edge\\-to\\-cloud computing. EnCharge’s robust and scalable next\\-generation in\\-memory computing technology provides orders\\-of\\-magnitude higher compute efficiency and density compared to today’s best\\-in\\-class solutions. The high\\-performance architecture is coupled with seamless software integration and will enable the immense potential of AI to be accessible in power, energy, and space constrained applications. EnCharge AI launched in 2022 and is led by veteran technologists with backgrounds in semiconductor design and AI systems.
+ 
+
+
+
+**Job Title: Principal Physical Design Engineer (RTL\\-to\\-GDSII)** 
+
+
+
+
+**Experience:** 
+ 14\\+ Years
+ 
+
+
+
+**Technology Focus:** 
+ Sub\\-5nm (3nm/2nm)
+ 
+
+
+
+**Location:** 
+ Bangalore Hybrid
  
 
 
@@ -1463,7 +1380,16 @@
 
 
 
- Greetings From ZettaMine!!!
+**The Vision** 
+
+
+
+
+ We are seeking a
+ **Principal Physical Design Engineer** 
+ who thrives on complexity and rejects the ""black box"" approach to EDA tools. This role is for a
+ **First Principles thinker** 
+ who questions the status quo. If a standard flow isn't yielding the desired PPA (Power, Performance, Area), you dive into the PDK, the tool algorithms, and the methodology to find a better way. You are responsible for transforming raw RTL into world\\-class silicon by eliminating systemic bottlenecks and building a scalable, predictable path to GDSII.
  
 
 
@@ -1474,22 +1400,100 @@
 
 
 
- Hiring for API Developer / Integration Engineer (Apache Camel)
+**Key Responsibilities** 
+
+
+
+* **Full\\-Flow Ownership:** 
+ Lead the implementation of massive, high\\-speed blocks/SoCs from Synthesis through Sign\\-off using the
+ **Cadence Digital Suite** 
+ .
+* **PPA Optimization:** 
+ Push the theoretical limits of the PDK and tools. You will analyze and optimize the interplay between library cells, metal stacks, and tool engines to squeeze out every millivolt and picosecond.
+* **Methodology \\& Scalability:** 
+ Build and refine a ""Push\\-Button"" style execution methodology that is robust, repeatable, and minimizes manual ""human\\-in\\-the\\-loop"" iterations.
+* **Cross\\-Functional ""Left\\-Shift"":** 
+ Collaborate with RTL, Architecture, and DFT teams to influence design decisions early. You will drive a holistic approach where physical constraints inform the architecture, not just react to it.
+* **Bottleneck Elimination:** 
+ Identify ""drag"" in the execution pipeline—whether it’s runtime, convergence issues, or tool limitations—and architect automated solutions to bypass them.
+
+
+
+  
+
+
+
+
+
+**Technical Qualifications** 
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**Experience** 
+
+
+
+
+ 14\\-20 years in Physical Design with a proven track record of multiple
+ **sub\\-5nm** 
+ tape\\-outs.
  
 
 
 
- Experience : 7 to 12 Years
+**Tool Suite** 
+
+
+
+
+ Mastery of
+ **Cadence Innovus** 
+ , Tempus, Joules, Pegasus, and Voltus.
  
 
 
 
- Location: Bangalore
+**Advanced Nodes** 
+
+
+
+
+ Deep understanding of sub\\-5nm physics: EUV constraints, multi\\-patterning, FinFET and IR/EM challenges.
  
 
 
 
- Looking for immediate Joiners
+**Sign\\-off** 
+
+
+
+
+ Expert\\-level knowledge in Static Timing Analysis (STA), Physical Verification (PV), and Power Integrity (PI) and ECO methodology.
+ 
+
+
+
+**Scripting** 
+
+
+
+
+ Proficiency in
+ **Tcl and Python** 
+ to develop custom flow wrappers and data\\-mining tools for PPA analysis.
  
 
 
@@ -1500,14 +1504,479 @@
 
 
 
-**Project\\-Specific Prerequisites:** 
+**Soft Skills \\& Leadership** 
 
 
 
-* Strong hands\\-on experience in
- **Java and Apache Camel**
-* Experience working on
- **API integration and middleware solutions**
+* **Holistic Thinking:** 
+ You look at the ""Big Picture."" You solve timing by fixing the floorplan or the RTL/ARCH
+* **Influence \\& Rapport:** 
+ You can build strong technical bridges with Front\\-End, Foundry, and EDA vendors to align on a unified execution strategy.
+* **Critical Thinking:** 
+ You operate on first principles. You don't just follow a vendor's ""Best Practices"" if they don't make sense for our specific architecture.
+* **Mentorship:** 
+ You act as a force multiplier, elevating the technical competence of the entire PD team.
+
+
+
+  
+
+
+
+
+
+**Why Join This Team?** 
+
+
+
+
+ In this role, you aren't just a ""user"" of tools; you are an engineer who shapes how silicon is built. You will have the autonomy to overhaul legacy flows and the resources to execute on cutting\\-edge nodes that define the industry's future.
+ 
+
+
+
+  
+
+
+
+
+
+**Contact:** 
+
+
+
+
+ Uday
+ 
+
+
+
+ muday\\_bhaskar@yahoo.com
+ 
+
+
+
+ www.mulyatech.com","Semiconductor Manufacturing, Computer Hardware Manufacturing, and Software Development","https://www.linkedin.com/company/encharge-ai","https://media.licdn.com/dms/image/v2/D560BAQE6gFr34Bm0mQ/company-logo_100_100/company-logo_100_100/0/1701214305645/encharge_ai_logo?e=2147483647&v=beta&t=Ofx878sY6Mx54Bjliyn2zntmfRshVS0TzA4x9woBfJc","","","","","","","","","","",""
+"li-4386334097","linkedin","https://www.linkedin.com/jobs/view/4386334097","","Principal Physical Design Engineer","EnCharge AI","","","fulltime","","","","","",True,"mid-senior level","Research, Engineering, and Design","","_bhaskar@yahoo.com","www.EnchargeAi.com
+ 
+
+
+
+ Location : Bangalore (Hybrid\\-2 days office/3 days\\-home)/remote (any where in India)
+ 
+
+
+
+**Title : Principal Physical Design Engineer** 
+
+
+
+
+  
+
+
+
+
+
+ Principal Physical Design Engineer (RTL\\-to\\-GDSII)
+ 
+
+
+
+ Bangalore
+ 
+
+
+
+ EnCharge AI is a leader in advanced AI hardware and software systems for edge\\-to\\-cloud computing. EnCharge’s robust and scalable next\\-generation in\\-memory computing technology provides orders\\-of\\-magnitude higher compute efficiency and density compared to today’s best\\-in\\-class solutions. The high\\-performance architecture is coupled with seamless software integration and will enable the immense potential of AI to be accessible in power, energy, and space constrained applications. EnCharge AI launched in 2022 and is led by veteran technologists with backgrounds in semiconductor design and AI systems.
+ 
+
+
+
+**Job Title: Principal Physical Design Engineer (RTL\\-to\\-GDSII)** 
+
+
+
+
+**Experience:** 
+ 14\\+ Years
+ 
+
+
+
+**Technology Focus:** 
+ Sub\\-5nm (3nm/2nm)
+ 
+
+
+
+**Location:** 
+ Bangalore Hybrid
+ 
+
+
+
+  
+
+
+
+
+
+**The Vision** 
+
+
+
+
+ We are seeking a
+ **Principal Physical Design Engineer** 
+ who thrives on complexity and rejects the ""black box"" approach to EDA tools. This role is for a
+ **First Principles thinker** 
+ who questions the status quo. If a standard flow isn't yielding the desired PPA (Power, Performance, Area), you dive into the PDK, the tool algorithms, and the methodology to find a better way. You are responsible for transforming raw RTL into world\\-class silicon by eliminating systemic bottlenecks and building a scalable, predictable path to GDSII.
+ 
+
+
+
+  
+
+
+
+
+
+**Key Responsibilities** 
+
+
+
+* **Full\\-Flow Ownership:** 
+ Lead the implementation of massive, high\\-speed blocks/SoCs from Synthesis through Sign\\-off using the
+ **Cadence Digital Suite** 
+ .
+* **PPA Optimization:** 
+ Push the theoretical limits of the PDK and tools. You will analyze and optimize the interplay between library cells, metal stacks, and tool engines to squeeze out every millivolt and picosecond.
+* **Methodology \\& Scalability:** 
+ Build and refine a ""Push\\-Button"" style execution methodology that is robust, repeatable, and minimizes manual ""human\\-in\\-the\\-loop"" iterations.
+* **Cross\\-Functional ""Left\\-Shift"":** 
+ Collaborate with RTL, Architecture, and DFT teams to influence design decisions early. You will drive a holistic approach where physical constraints inform the architecture, not just react to it.
+* **Bottleneck Elimination:** 
+ Identify ""drag"" in the execution pipeline—whether it’s runtime, convergence issues, or tool limitations—and architect automated solutions to bypass them.
+
+
+
+  
+
+
+
+
+
+**Technical Qualifications** 
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**Experience** 
+
+
+
+
+ 14\\-20 years in Physical Design with a proven track record of multiple
+ **sub\\-5nm** 
+ tape\\-outs.
+ 
+
+
+
+**Tool Suite** 
+
+
+
+
+ Mastery of
+ **Cadence Innovus** 
+ , Tempus, Joules, Pegasus, and Voltus.
+ 
+
+
+
+**Advanced Nodes** 
+
+
+
+
+ Deep understanding of sub\\-5nm physics: EUV constraints, multi\\-patterning, FinFET and IR/EM challenges.
+ 
+
+
+
+**Sign\\-off** 
+
+
+
+
+ Expert\\-level knowledge in Static Timing Analysis (STA), Physical Verification (PV), and Power Integrity (PI) and ECO methodology.
+ 
+
+
+
+**Scripting** 
+
+
+
+
+ Proficiency in
+ **Tcl and Python** 
+ to develop custom flow wrappers and data\\-mining tools for PPA analysis.
+ 
+
+
+
+  
+
+
+
+
+
+**Soft Skills \\& Leadership** 
+
+
+
+* **Holistic Thinking:** 
+ You look at the ""Big Picture."" You solve timing by fixing the floorplan or the RTL/ARCH
+* **Influence \\& Rapport:** 
+ You can build strong technical bridges with Front\\-End, Foundry, and EDA vendors to align on a unified execution strategy.
+* **Critical Thinking:** 
+ You operate on first principles. You don't just follow a vendor's ""Best Practices"" if they don't make sense for our specific architecture.
+* **Mentorship:** 
+ You act as a force multiplier, elevating the technical competence of the entire PD team.
+
+
+
+  
+
+
+
+
+
+**Why Join This Team?** 
+
+
+
+
+ In this role, you aren't just a ""user"" of tools; you are an engineer who shapes how silicon is built. You will have the autonomy to overhaul legacy flows and the resources to execute on cutting\\-edge nodes that define the industry's future.
+ 
+
+
+
+  
+
+
+
+
+
+**Contact:** 
+
+
+
+
+ Uday
+ 
+
+
+
+ muday\\_bhaskar@yahoo.com
+ 
+
+
+
+ www.mulyatech.com","Semiconductor Manufacturing, Computer Hardware Manufacturing, and Software Development","https://www.linkedin.com/company/encharge-ai","https://media.licdn.com/dms/image/v2/D560BAQE6gFr34Bm0mQ/company-logo_100_100/company-logo_100_100/0/1701214305645/encharge_ai_logo?e=2147483647&v=beta&t=Ofx878sY6Mx54Bjliyn2zntmfRshVS0TzA4x9woBfJc","","","","","","","","","","",""
+"li-4387686079","linkedin","https://www.linkedin.com/jobs/view/4387686079","","Senior Staff Engineer, Static Timing Analysis (STA)","EnCharge AI","","","fulltime","","","","","",False,"mid-senior level","Engineering, Research, and Design","","_bhaskar@yahoo.com","**(www.enchargeai.com)** 
+
+
+
+
+ Senior Staff / Staff Engineer, Static Timing Analysis (STA)
+ 
+
+
+
+**Location: Greater Bengaluru Area (Hybrid\\-2 days office/3 days home)** 
+
+
+
+
+  
+
+
+
+
+
+**About Company:** 
+
+
+
+
+**EnCharge AI is a leader in advanced AI hardware and software systems for edge\\-to\\-cloud computing. EnCharge’s robust and scalable next\\-generation in\\-memory computing technology provides orders\\-of\\-magnitude higher compute efficiency and density compared to today’s best\\-in\\-class solutions. The high\\-performance architecture is coupled with seamless software integration and will enable the immense potential of AI to be accessible in power, energy, and space constrained applications. EnCharge AI launched in 2022 and is led by veteran technologists with backgrounds in semiconductor design and AI systems.** 
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**Staff / Senior Staff Engineer: Static Timing Analysis (STA) Lead.** 
+
+
+
+
+ We are seeking a high\\-caliber
+ **Staff or Senior Staff Engineer** 
+ to lead SOC Timing Convergence. This is a critical leadership role for a driven,
+ **""go\\-getter""** 
+ engineer who excels at navigating the complexities of modern, large\\-scale SOC designs. You will be the bridge between Architecture, RTL, DFT, and Physical Design to ensure a predictable, high\\-performance path to tape\\-out.
+ 
+
+
+
+**The Role** 
+
+
+
+
+ As a lead for SOC Timing or SubChip Timing, you will own the strategy for convergence. You will identify bottlenecks early in the design cycle (""left\\-shifting"") and drive cross\\-functional alignment to meet aggressive Power, Performance, and Area (PPA) targets.
+ 
+
+
+
+**Key Responsibilities** 
+
+
+
+* **Timing Convergence Leadership:** 
+ Drive full\\-chip SOC timing closure across all corners and modes (func, shift, capture, etc.).
+* **Cross\\-Functional Coordination:** 
+ Partner with
+ **Architecture** 
+ to validate timing feasibility,
+ **RTL** 
+ to optimize logic structures, and
+ **DFT** 
+ to streamline test\\-mode timing.
+* **Left\\-Shift Strategy:** 
+ Proactively identify and resolve structural timing issues, congestion, and high\\-latency paths early in the RTL/Synthesis phase to ensure predictable physical design execution.
+* **Advanced Analysis:** 
+ Perform complex timing tasks including
+ **CPPR/CRPR** 
+ analysis,
+ **NoC** 
+ (Network\\-on\\-Chip) timing, and constraint validation (SDC).
+* **Automation \\& Agility:** 
+ Architect and build sophisticated automation utilities (Tcl, Python, Perl) to accelerate timing sign\\-off, reduce manual audits, and improve schedule agility.
+* **PPA Optimization:** 
+ Drive best\\-in\\-class PPA by guiding physical design teams on floorplanning, clock tree synthesis (CTS) strategies, and placement optimizations.
+
+
+
+**Requirements \\& Qualifications** 
+
+
+
+* **Experience:** 
+ 9 to 14 years of hands\\-on experience in STA and Timing Closure on advanced process nodes (7nm, 5nm, or below).
+* **Critical Thinking:** 
+ Proven ability to debug complex timing violations, identify root causes (e.g., data\\-to\\-clock skew, crosstalk), and propose architectural or physical solutions.
+* **Technical Mastery:** 
+ \\* Expertise in industry\\-standard sign\\-off tools (e.g., PrimeTime, Tempus). Preferable Tempus tool.
+* Deep understanding of
+ **Multi\\-Mode Multi\\-Corner (MMMC)** 
+ challenges and Hierarchical vs. Flat timing closure.
+* Proficiency in SDC/CDC constraints.
+* **Soft Skills:** 
+ Strong leadership presence with the ability to influence cross\\-functional teams and drive execution in a fast\\-paced environment.
+* **Education:** 
+ B.Tech/M.Tech in Electrical/Electronics Engineering or a related field.
+
+
+
+**Why Join Us?** 
+
+
+
+
+ You will have the autonomy to define the timing methodology for next\\-generation silicon. This role offers the opportunity to tackle the industry's toughest frequency and power challenges while building the automation infrastructure that defines our engineering excellence.
+ 
+
+
+
+  
+
+
+
+
+
+***Contact***
+
+
+
+
+ Uday
+ 
+
+
+
+ muday\\_bhaskar@yahoo.com
+ 
+
+
+
+***Mulya Technologies***
+
+
+
+
+***""Mining the Knowledge Community""***","Semiconductor Manufacturing, Computer Hardware Manufacturing, and Software Development","https://www.linkedin.com/company/encharge-ai","https://media.licdn.com/dms/image/v2/D560BAQE6gFr34Bm0mQ/company-logo_100_100/company-logo_100_100/0/1701214305645/encharge_ai_logo?e=2147483647&v=beta&t=Ofx878sY6Mx54Bjliyn2zntmfRshVS0TzA4x9woBfJc","","","","","","","","","","",""
+"li-4388267303","linkedin","https://www.linkedin.com/jobs/view/4388267303","","Outsystem Developer","Analyst Anytime","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","","","","**Role Overview:** 
+
+
+
+
+**Seeking a Senior OutSystems Developer with 5\\+ years’ experience to lead end\\-to\\-end development of scalable applications, drive digital transformation, and integrate AI\\-powered solutions. The role involves close collaboration with business teams and ownership of high\\-impact projects.** 
+
+
+
+
+  
+
+
+
+
+
+**Shift: 6 am\\-3 pm** 
+
+
+
+
+  
+
+
 
 
 
@@ -1527,120 +1996,328 @@
 
 
 
+* Lead full lifecycle development (design → development → deployment → optimization)
+* Build and integrate AI features (OpenAI, Azure, AWS)
+* Design scalable architecture, data models, and UI/UX flows
+* Handle system integrations (APIs, databases, enterprise tools)
+* Migrate legacy systems to OutSystems
+* Mentor developers and ensure code quality \\& best practices
+* Manage releases, deployments, and change management
+* Collaborate with cross\\-functional teams and follow Agile practices
+
+
+
+**Required Skills:** 
+
+
+
+* 5\\+ years in OutSystems (O11 \\& ODC – Web/Mobile/Reactive)
+* Strong in architecture, integrations, and performance optimization
+* Experience with APIs, SQL, and software design patterns
+* Knowledge of AI integrations and emerging tech
+* Agile tools experience (ClickUp, Azure DevOps)
+* Strong communication, documentation, and problem\\-solving skills
+
+
+
+**Preferred:** 
+
+
+
+* OutSystems certification (Professional/Reactive/Mobile/Architect)
+
+
+-","Marketing Services","https://in.linkedin.com/company/analystanytime","https://media.licdn.com/dms/image/v2/D4D0BAQHd-zI6Y5pjtw/company-logo_100_100/B4DZxMz1wmGgAQ-/0/1770815184640/analystanytime_logo?e=2147483647&v=beta&t=OqHy1SZClYyjxvytipq8t7HQmejr3prkVTC7WOtZbmI","","","","","","","","","","",""
+"li-4388251873","linkedin","https://www.linkedin.com/jobs/view/4388251873","","Platform Engineering Analyst - req35989","The World Bank","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Platform Engineering Analyst**
+ Job \\#: req35989
+   
 
   
 
-
-
-
-* Design, develop, deploy, and manage
- **RESTful and HTTP APIs** 
- using AWS API Gateway and Apigee
-* Build scalable and secure API solutions integrating with internal and external services
-* Configure API policies including
- **throttling, quota management, and security controls**
-* Implement
- **request/response transformations** 
- and API proxy configurations
-* Manage
- **IAM roles and permissions** 
- for secure API access
-* Develop and maintain API lifecycle including deployment, versioning, and monitoring
-* Collaborate with cross\\-functional teams for
- **component testing and integration validation**
-* Create
- **unit test cases, data validations, and schema contracts**
-* Design and maintain
- **normalized data models** 
- for API interactions
-* Contribute to CI/CD pipeline setup and automation
-
-
+ Organization: World Bank
+   
 
   
 
-
-
-
-
-**Must\\-Have Skills:** 
-
-
-
+ Sector: Information Technology
+   
 
   
 
+ Grade: GE
+   
+
+  
+
+ Term Duration: 3 years 0 months
+   
+
+  
+
+ Recruitment Type: Local Recruitment
+   
+
+  
+
+ Location: Sofia,Bulgaria
+   
+
+  
+
+ Required Language(s): English
+   
+
+  
+
+**Preferred Language(s)**
+ Closing Date: 3/27/2026 (MM/DD/YYYY) at 11:59pm UTC
+   
+
+  
+
+**Description**
+ Do you want to build a career that is truly worthwhile? The World Bank Group is a unique global partnership of five institutions driven by a bold vision to create a world free of poverty on a livable planet. As one of the largest sources of funding and knowledge for developing countries, we help solve the world’s greatest development challenges. When you join the World Bank Group, you become part of a dynamic, diverse organization with 189 member countries and more than 120 offices worldwide. We work with public and private sector partners, invest in groundbreaking projects, and use data, research, and technology to bring tangible and transformative change around the globe. For more information, visit www.worldbank.org .
+   
+
+  
+
+**VPU Context**
+ The Information and Technology Solutions (ITS) Vice Presidential Unit (VPU) enables the World Bank Group to achieve its mission of ending extreme poverty and boost shared prosperity on a livable planet by delivering transformative information and technologies to its staff working in over 150\\+ locations. For more information on ITS, see this video: https://www.youtube.com/watch?reload\\=9\\&v\\=VTFGffa1Y7w
+   
+
+  
+
+**Unit Context**
+**Digital Solutions (ITSDS)**
+ The Digital Solutions team delivers modern productivity, collaboration, and endpoint solutions to over 30,000 users. We support Microsoft 365, WebEx, Power Platform, and AI tools like Copilot, Google Gemini, and Grammarly, while engineering, deploying, and supporting Windows Endpoints. We are a collaborative, customer\\-focused team committed to solving problems with reliable, impactful technology.
+   
+
+  
+
+**Duties And Accountabilities**
+ Role Overview
+   
+
+  
+
+ You'll support the Microsoft 365 service delivery and automation initiatives, ensuring seamless collaboration tools for our global workforce while driving efficiency through innovative solutions.
+   
+
+  
+
+**Duties \\& Responsibilities**
+ The Platform Engineering Analyst, reporting to the ITSDS Team Lead, will play a crucial role in supporting Microsoft365 services including Exchange Online, Teams, OneDrive, SharePoint, etc., as well as Email Security Products like Cisco IronPort and EOP ATP. They will also be responsible for automating routine tasks using Power\\-Automate, PowerApps, PowerShell scripts, or similar technologies. Furthermore, the role involves leading projects or tasks and collaborating with team members to ensure successful completion. This position entails regular interaction with end users and other service providers.
+   
+
+  
+
+ Responsibilities and skills include, but are not limited to the following:
+   
+
+  
+
+* Manage, administer, and optimize the Microsoft 365 suite, including Teams, SharePoint Online, and Exchange Online.
+* Oversee site administration and governance, ensuring adherence to organizational policies and best practices.
+* Leverage Microsoft Graph API to enhance platform automation, integration, and reporting capabilities.
+* Contribute to the design, development, and implementation of scalable platform solutions to improve system
 
 
+ performance and reliability.
+   
 
-* Strong experience in
- **Java** 
+  
+
+* Participate in platform design reviews and ensure alignment with architectural standards and best practices.
+* Collaborate with cross\\-functional teams to define platform requirements and ensure alignment with business objectives and project goals.
+* Design and deliver automation solutions using Power Platform (Power Automate, Power Apps) and PowerShell to streamline operations and improve efficiency.
+* Support the evaluation and integration of new technologies to enhance platform capabilities and drive innovation.
+* Deliver and support email security, compliance, and governance solutions within Microsoft 365\\.
+* Work closely with security teams to implement and maintain platform security controls in line with industry best practices.
+* Assist with vulnerability assessments and contribute to remediation planning and implementation.
+* Monitor platform performance, troubleshoot issues, and ensure high availability and uptime.
+* Conduct regular platform assessments to evaluate effectiveness and identify areas for improvement.
+* Provide operational support for the M365 platform by managing and resolving incidents and service requests logged through ServiceNow in a timely and efficient manner.
+* Develop and maintain Power BI dashboards to provide actionable insights and business intelligence for IT Operations.
+* Support project delivery, including implementation of activities, documentation, and transition to operations.
+* Engage stakeholders to gather requirements, provide updates, and ensure successful adoption of platform solutions.
+
+
+**Technical Competencies**
+* Proven experience as a seasoned Exchange Online Administrator and Microsoft Office 365 SaaS solution applications such OneDrive, Yammer, Teams, SharePoint to maintain stable and effective platform.
+* Configuring, maintaining \\& supporting Microsoft Office 365 productivity tools.
+* Experience with securing Microsoft 365 platform.
+* Strong familiarity with systems administration disciplines like capacity planning, performance analysis, troubleshooting, trend analysis, etc. in enterprise environments.
+
+
+ Selection Criteria
+   
+
+  
+
+**Required Qualifications**
+* Bachelor’s or Master’s degree with 2 years of experience or equivalent combination of education and experience
+* 3\\+ years Microsoft 365 administration expertise
+* Strong background in email security and compliance
+* Programming skills (PowerShell, Python, Power Platform)
+* Excellent communication and problem\\-solving abilities
+* Strong customer focus and ability to manage client expectations
+
+
+**Desired Certifications**
+* Microsoft 365 Certified: Teams Administrator Associate, Messaging Administrator Associate, Security Administrator Associate, Microsoft Fundamentals.
+* ITIL V4 Foundation
+* SAFe Practitioner
+* Cloud Engineer Certification (AWS/Azure/GCP/OCI)
+* DevOps Engineer Certification (AWS/Azure/GCP/OCI)
+
+
+**WBG Culture Attributes**
+* Sense of urgency: Anticipate and quickly respond to the needs of internal and external stakeholders.
+* Thoughtful risk\\-taking: Challenge the status quo and push boundaries to achieve greater impact.
+* Empowerment and accountability: Empower yourself and others to act and hold each other accountable for results.
+
+
+ World Bank Group Core Competencies
+   
+
+  
+
+ The World Bank Group offers comprehensive benefits, including a retirement plan; medical, life and disability insurance; and paid leave, including parental leave, as well as reasonable accommodations for individuals with disabilities.
+   
+
+  
+
+ We are proud to be an equal opportunity and inclusive employer with a dedicated and committed workforce, and do not discriminate based on gender, gender identity, religion, race, ethnicity, sexual orientation, or disability.
+   
+
+  
+
+ Learn more about working at the
+ *World Bank* 
  and
- **Apache Camel**
-* Hands\\-on experience with
- **AWS API Gateway** 
- and cloud\\-native architectures
-* Experience with
- **Apigee API Management**
-* Proficiency in
- **RESTful API design and development**
-* Strong knowledge of
- **API security (OAuth, IAM, API policies)**
-* Experience in
- **Node.js, Java, or Python** 
- for API development
-* Knowledge of
- **JSON, XML, XSLT** 
- and payload transformation
-* Experience with
- **Docker and Kubernetes** 
- for containerization
-* Familiarity with
- **CI/CD pipelines** 
- and
- **GitHub**
-* Understanding of
- **Swagger/OpenAPI standards**
-* Strong working knowledge of
- **Unix/Linux scripting**
-
-
+ *IFC* 
+ including our values and inspiring stories.","International Trade and Development","https://www.linkedin.com/company/the-world-bank","https://media.licdn.com/dms/image/v2/D4E0BAQFpviKDVKdyrQ/company-logo_100_100/company-logo_100_100/0/1697547918462/the_world_bank_logo?e=2147483647&v=beta&t=zVnyKR6qwd7yZ457jt_vM_Qd8Afeck-U5WjmQobusGY","","","","","","","","","","",""
+"li-4388706336","linkedin","https://www.linkedin.com/jobs/view/4388706336","","Lead Software Engineer - SDET, Java, Spring","Wells Fargo","Serilingampalli, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**About This Role**
+ Wells Fargo is seeking a Lead Software Engineer
+   
 
   
 
+**In This Role, You Will**
+* Lead complex technology initiatives including those that are companywide with broad impact
+* Act as a key participant in developing standards and companywide best practices for engineering complex and large scale technology solutions for technology engineering disciplines
+* Design, code, test, debug, and document for projects and programs
+* Review and analyze complex, large\\-scale technology solutions for tactical and strategic business objectives, enterprise technological environment, and technical challenges that require in\\-depth evaluation of multiple factors, including intangibles or unprecedented technical factors
+* Make decisions in developing standard and companywide best practices for engineering and technology solutions requiring understanding of industry best practices and new technologies, influencing and leading technology team to meet deliverables and drive new initiatives
+* Collaborate and consult with key technical experts, senior technology team, and external industry groups to resolve complex technical issues and achieve goals
+* Lead projects, teams, or serve as a peer mentor
 
 
+**Required Qualifications**
+* 5\\+ years of Software Engineering experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education
 
+
+**Desired Qualifications**
+* 11\\+ years of Strong experience with automation tools such as Selenium, Appium, REST Assured, Playwright, or equivalent, with the ability to apply BDD practices when designing test scenarios. Proficient in Java for developing robust automation frameworks.
+* Strong programming skills in Java (primary), Spring and good\\-to\\-have proficiency in Python, with the ability to write clean, maintainable, and modular code
+* Familiarity with MongoDB, including querying, data validation, and understanding of document schemas.
+* Experience in the payments domain with working knowledge of Wires/SWIFT, and ISO 20022 message structures.
+* Familiarity with ElasticSearch, including indexing concepts, search/query validation, and interpreting results.
+* Familiarity with GenAI tools such as GitHub Copilot, Agentic AI workflows, and LLM‑based test generation.
+* Ability to think like a developer — reading logs, debugging issues, analyzing code flow, and understanding data models.
+* Strong problem‑solving ability, analytical thinking, and attention to detail.
+* Experience working in Agile/Scrum environments with shift‑left testing practices and early involvement in requirement refinement.
+
+
+**Automation Engineering \\& Framework Development**
+* Design and maintain scalable automation frameworks for functional, regression, API, integration.
+* Implement automation using Selenium, REST Assured, Playwright automation tools, following BDD practices and writing clear, behavior driven test scenarios
+* Build reusable libraries, utilities, and components aligned with software engineering best practices.
+* Ensure automation solutions are maintainable, modular, and aligned with coding standards.
+
+
+**Developer‑Oriented Skills \\& Technical Depth**
+* Strong programming skills in Java (primary) and good\\-to\\-have proficiency in Python, with the ability to write clean, maintainable, and modular code
+* Familiarity with MongoDB, including basic queries, data validation, and understanding of document schemas.
+* Familiarity with ElasticSearch for indexing concepts, search validation, and working with query DSL.
+* Contribute to design discussions with a developer mindset, understanding system flows, APIs, logs, and data models.
+
+
+**GenAI‑Driven Quality Engineering**
+* Utilize GitHub Copilot, Agentic AI workflows, LLM\\-based test generation, and automation accelerators for QA efficiency.
+* Adopt AI‑assist for writing tests, analyzing logs, debugging failures, and enhancing coverage.
+* Explore innovative GenAI use cases to improve testing productivity and reduce manual effort.
+
+
+**Payments Domain Expertise**
+* Experience working in the payments domain (banking, financial services, or payment processing systems).
+* Good functional understanding of Wires or SWIFT payment flows.
+* Knowledge of ISO 20022 messaging standards, schema elements, and message structures for validation and testing.
+* Ability to interpret payment messages, understand field\\-level rules, and collaborate with developers/business teams on domain logic.
+
+
+**Quality Strategy \\& Collaboration**
+* Define and implement automation strategies that complement functional testing and shift left quality.
+* Participate in requirement reviews, provide testability feedback, and ensure clarity of acceptance criteria.
+* Support modernization and migration initiatives with automated data validation and message testing.
+
+
+**Job Expectations**
+* We are open for both the locations \\- Hyderabad or Bangalore and will be required to work in the office as per organizations In Office Adherence / Return To Office (RTO)
+* Work closely with QA, development, and business teams to align automation goals.
+* Conduct workshops and training sessions on automation tools and practices.
+* Communicate automation progress, risks, and benefits to stakeholders.
+* Mentor junior automation engineers and guide them on frameworks, coding standards, and domain knowledge.
+* Establish best practices for automation development, maintenance, versioning, and troubleshooting.
+* Drive continuous improvement initiatives focused on stability, coverage, relevance, and speed.
+* Excellent leadership, communication, and stakeholder management skills.
+* Ability to manage multiple priorities and deliver in agile environments.
+
+
+**Reference Number**
+ R\\-529493","Financial Services, Investment Management, and Banking","https://www.linkedin.com/company/wellsfargo","https://media.licdn.com/dms/image/v2/C4D0BAQGLxWPpGqaVmw/company-logo_100_100/company-logo_100_100/0/1630471638964/wellsfargo_logo?e=2147483647&v=beta&t=D1e-PmlhlUZN0ekIYF0M9XadtGDukrr58ywiHYGlJ_Y","","","","","","","","","","",""
+"li-4386970420","linkedin","https://www.linkedin.com/jobs/view/4386970420","","Senior Test Engineer - 3 (H/F) - SAFRAN ENGINEERING SERVICES INDIA PVT LTD","AEROCONTACT","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"director","Engineering and Information Technology","","","Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 100 000 collaborateurs pour un chiffre d'affaires de 27,3 milliards d'euros en 2024, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. Safran est la 2ème entreprise du secteur aéronautique et défense du classement « World's Best Companies 2024 » du magazine TIME. Safran Electrical \\& Power est l'un des leaders mondiaux des systèmes électriques aéronautiques. La société est un acteur clé dans le domaine de l'électrification des équipements et de la propulsion électrique et hybride. Elle compte 14 000 collaborateurs répartis dans 13 pays.
+   
 
   
 
-
-
-
-
- Interested candidates can reach on md.afreen@zettamine.com or call on 6302404807
- 
-
-
+ Descriptif mission
+   
 
   
 
+ Main Tasks and Responsibilities: Assisting in establishing and reviewing system and software specifications Preparing and planning test activities, including analysis, development, and documentation of test cases and scenarios Performing test and document test results Reporting test results and documenting test procedures Defining the requirements of existing and future software systems for software tests and test automation Validating of configurations and customer\\-fittings of our products for different aircraft types Maintaining and development of tools of production and testing as part of our aeronautical hardware platform Assisting in the design and implementation methods and procedures for testing and inspecting the quality level of products and equipment Recommending corrective action for procedural, product, or process deficiencies Continuously contribute to improve established testing processes
+   
+
+  
+
+ Preferred Skills: Successfully completed studies in computer sciences / electrical engineering / physics or a comparable study program 6\\+ years of experience working in a similar role A good working knowledge of Linux Particularly good test\\-planning, test\\-design, test\\-development, and test automation skills Experience in testing embedded systems Good command of test\\-process\\-optimization and selection of test methods are advantageous IP\\-Network skills (routing, switching, firewall, network services, tcpdump/Wireshark) are advantageous Experience in Aviation and Aviation standards like DO\\-178 is advantageous Knowledge of script languages, e.g., Python, Bash is advantageous Knowledge of different Linux tools: make, Subversion, Jenkins etc. is advantageous","Staffing and Recruiting","https://fr.linkedin.com/company/aerocontact","https://media.licdn.com/dms/image/v2/C4D0BAQHCZ75udHXn9A/company-logo_100_100/company-logo_100_100/0/1630549641225/aerocontact_logo?e=2147483647&v=beta&t=NqR9i9CndqL2TpBSjZcVfzbQxVfJdMyqnTNXSI7eiRw","","","","","","","","","","",""
+"li-4386959939","linkedin","https://www.linkedin.com/jobs/view/4386959939","","Senior Test Engineer - 4 (H/F) - SAFRAN ENGINEERING SERVICES INDIA PVT LTD","AEROCONTACT","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"director","Engineering and Information Technology","","","Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 100 000 collaborateurs pour un chiffre d'affaires de 27,3 milliards d'euros en 2024, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. Safran est la 2ème entreprise du secteur aéronautique et défense du classement « World's Best Companies 2024 » du magazine TIME. Safran Electrical \\& Power est l'un des leaders mondiaux des systèmes électriques aéronautiques. La société est un acteur clé dans le domaine de l'électrification des équipements et de la propulsion électrique et hybride. Elle compte 14 000 collaborateurs répartis dans 13 pays.
+   
+
+  
+
+ Descriptif mission
+   
+
+  
+
+ Main Tasks and Responsibilities: Assisting in establishing and reviewing system and software specifications Preparing and planning test activities, including analysis, development, and documentation of test cases and scenarios Performing test and document test results Reporting test results and documenting test procedures Defining the requirements of existing and future software systems for software tests and test automation Validating of configurations and customer\\-fittings of our products for different aircraft types Maintaining and development of tools of production and testing as part of our aeronautical hardware platform Assisting in the design and implementation methods and procedures for testing and inspecting the quality level of products and equipment Recommending corrective action for procedural, product, or process deficiencies Continuously contribute to improve established testing processes
+   
+
+  
+
+ Preferred Skills: Successfully completed studies in computer sciences / electrical engineering / physics or a comparable study program 6\\+ years of experience working in a similar role A good working knowledge of Linux Particularly good test\\-planning, test\\-design, test\\-development, and test automation skills Experience in testing embedded systems Good command of test\\-process\\-optimization and selection of test methods are advantageous IP\\-Network skills (routing, switching, firewall, network services, tcpdump/Wireshark) are advantageous Experience in Aviation and Aviation standards like DO\\-178 is advantageous Knowledge of script languages, e.g., Python, Bash is advantageous Knowledge of different Linux tools: make, Subversion, Jenkins etc. is advantageous","Staffing and Recruiting","https://fr.linkedin.com/company/aerocontact","https://media.licdn.com/dms/image/v2/C4D0BAQHCZ75udHXn9A/company-logo_100_100/company-logo_100_100/0/1630549641225/aerocontact_logo?e=2147483647&v=beta&t=NqR9i9CndqL2TpBSjZcVfzbQxVfJdMyqnTNXSI7eiRw","","","","","","","","","","",""
+"li-4388262667","linkedin","https://www.linkedin.com/jobs/view/4388262667","","Flutter Developer","Dreamz Software Solutions Pvt Ltd","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","**Company Description** 
 
 
 
 
- Thanks \\& Regards
- 
-
-
-
- AfreenSaranya","Software Development","https://in.linkedin.com/company/zettamine-technologies","https://media.licdn.com/dms/image/v2/C4D0BAQEbHhoU9Xy86Q/company-logo_100_100/company-logo_100_100/0/1650431022983/zettamine_technologies_logo?e=2147483647&v=beta&t=xH5aT1JcqVFtVu4nLMir1sdlF6XR4XgnNWBJfgkiouI","","","","","","","","","","",""
-"li-4388262469","linkedin","https://www.linkedin.com/jobs/view/4388262469","","Information Technology Service Engineer","Simony Systems & Solutions (P) Ltd","Guwahati, Assam, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","**Company Description** 
 
 
 
 
- Simony Systems \\& Solutions (P) Ltd. is a trusted leader in providing innovative technology solutions, including computer hardware and software, networking, CCTV, EPABX, VoIP, GSM solutions, and barcode systems. Known for its expertise, the company delivers high\\-quality products and services tailored to meet diverse business needs. With a focus on excellence, Simony Systems \\& Solutions serves a growing portfolio of clients with cutting\\-edge technology and reliable support. Join a company committed to innovation and customer success.
+ Dreamz Software Solutions Pvt Ltd has been a trusted provider of adaptive software development services since 2009\\. With expertise in E\\-commerce portal development, ERP solutions, customized CRMs, digital marketing services, and mobility solutions, the company serves over 800 satisfied customers and has successfully delivered more than 1,000 projects. We specialize in developing cutting\\-edge web and mobile applications that are quick\\-to\\-market, scalable, and fault\\-tolerant, enabling businesses to grow and adapt. Our innovative solutions include machine learning\\-based fashion apps, SaaS products, and AI\\-driven applications, among others, tailored to meet unique client needs.
  
 
 
@@ -1656,7 +2333,11 @@
 
 
 
- This full\\-time, on\\-site role is based in Guwahati, where the Information Technology Service Engineer will provide technical support, troubleshoot IT issues, maintain network security, and oversee networking operations. Responsibilities include diagnosing hardware and software problems, implementing effective solutions, and ensuring optimal functioning of IT systems and networks. The engineer will also collaborate with clients and team members to deliver seamless service and maintain high standards of customer satisfaction.
+
+
+
+
+ This is a full\\-time on\\-site role based in Pune for a Flutter Developer. The Flutter Developer will be responsible for designing, developing, and deploying cross\\-platform mobile applications using the Flutter framework. Day\\-to\\-day tasks include writing clean and efficient code, collaborating with designers and backend developers to ensure seamless user experiences, debugging, and optimizing application performance. The developer will also stay updated with Flutter updates and best practices to enhance development efficiency.
  
 
 
@@ -1671,537 +2352,45 @@
 
 
 
-* Proficiency in Troubleshooting and providing Technical Support for IT systems
-* Experience in Networking and Network Security practices
-* Strong knowledge of Information Technology principles and tools
-* Ability to diagnose and resolve hardware and software issues
-* knowledge of CC TV installation and trouble shooting
-* Effective communication skills and a problem\\-solving mindset
-* Bachelor’s degree in Information Technology, Computer Science, or a related field preferred
-* Relevant certifications, such as CompTIA Network\\+, CCNA, or equivalent, are an advantage","Computer Hardware Manufacturing","https://in.linkedin.com/company/simony-systems-&-solutions-p-ltd","https://media.licdn.com/dms/image/v2/C4D0BAQE-6yP3sNxvrA/company-logo_100_100/company-logo_100_100/0/1630537870034/simony_systems__solutions_p_ltd_logo?e=2147483647&v=beta&t=UxhKdgos1sHJjhMHA8LZKf4BD_Oqur9hDd7ps-LpRUI","","","","","","","","","","",""
-"li-4388273062","linkedin","https://www.linkedin.com/jobs/view/4388273062","","User Experience Engineer","Aimplify","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"entry level","Engineering","","","UX DEVELOPER
- 
 
 
 
+
+* Strong foundation in Computer Science concepts and principles
+* Experience in Back\\-End Web Development and general Software Development
+* Proficiency in Programming and Object\\-Oriented Programming (OOP)
+* Hands\\-on experience with developing and deploying Flutter\\-based mobile applications
+* Understanding of cross\\-platform app development challenges and solutions
+* Proven ability to work collaboratively in a team\\-focused environment
+* Bachelor’s degree in Computer Science, Software Engineering, or related field
+* Familiarity with tools like Git and CI/CD pipelines is an advantage
+* Experience with third\\-party libraries, APIs, and integration is a plus","IT Services and IT Consulting","https://in.linkedin.com/company/dreamztechnology","https://media.licdn.com/dms/image/v2/D4D0BAQEERdAbRYVeNw/company-logo_100_100/company-logo_100_100/0/1665675360580?e=2147483647&v=beta&t=4L711mS8vH51bHZRKVxP0YgZ5Hdy-Y_umDGLA8Fcqmo","","","","","","","","","","",""
+"li-4388272084","linkedin","https://www.linkedin.com/jobs/view/4388272084","","Senior Embedded Firmware Engineer | Zephyr RTOS | BLE | ARM Cortex-M","SiyanTech Global Innovations","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Company Description**
   
 
-
-
-
-
- Location: Chennai \\| Experience: 1 years \\| Full\\-time
- 
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
- Title: UX Developer
- 
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
- Responsibilities:
- 
-
-
-
-  
-
-
-
-
-
- \\- Develop and maintain applications using modern technologies
- 
-
-
-
-  
-
-
-
-
-
- \\- Design and implement scalable solutions for business requirements
- 
-
-
-
-  
-
-
-
-
-
- \\- Collaborate with cross\\-functional teams to deliver quality software
- 
-
-
-
-  
-
-
-
-
-
- \\- Participate in code reviews and technical discussions
- 
-
-
-
-  
-
-
-
-
-
- \\- Debug and resolve technical issues efficiently
- 
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
- Skills:
- 
-
-
-
-  
-
-
-
-
-
- \\- Wireframing/Prototyping Tools
- 
-
-
-
-  
-
-
-
-
-
- \\- Adobe Creative Suite
- 
-
-
-
-  
-
-
-
-
-
- \\- JavaScript
- 
-
-
-
-  
-
-
-
-
-
- \\- HTML/CSS
- 
-
-
-
-  
-
-
-
-
-
- \\- User Experience Design
- 
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
- Qualifications:
- 
-
-
-
-  
-
-
-
-
-
- \\- 1 years of relevant experience
- 
-
-
-
-  
-
-
-
-
-
- \\- Bachelor's degree in Computer Science or related field
- 
-
-
-
-  
-
-
-
-
-
- \\- Strong problem\\-solving and analytical skills
- 
-
-
-
-  
-
-
-
-
-
- \\- Excellent communication and teamwork abilities","Software Development","https://www.linkedin.com/company/aimplifytech","https://media.licdn.com/dms/image/v2/D560BAQGovr4JtIupxw/company-logo_100_100/company-logo_100_100/0/1708618538994?e=2147483647&v=beta&t=YkXVAUHFEvfW0b-FQRmzkSu6hWpUKvi2IEXi0UXBSX4","","","","","","","","","","",""
-"li-4386147318","linkedin","https://www.linkedin.com/jobs/view/4386147318","","Senior Quantitative Developer, Algorithmic Trading (Low-Latency, C++)","BestEx Research","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Other","","","**About BestEx Research**
- BestEx Research is a financial technology and research firm specializing in building sophisticated execution algorithms and transaction cost modeling tools servicing multiple asset classes. The firm provides high\\-performance algorithmic execution services to hedge funds, CTAs, asset managers, and banks through a traditional electronic broker and in a broker\\-neutral Software as a Service (SaaS) model.
+ SiyanTech Global Innovations Pvt. Ltd., headquartered in Visakhapatnam, India, is an ISO 9001:2015 and ISO/IEC 27001:2022 certified IT services company offering advanced technology and staffing solutions to diverse industries such as education, healthcare, e\\-commerce, and finance. With a focus on innovation and quality, SiyanTech provides services including AI \\& Machine Learning, Cloud Computing, Custom Software Development, and IT Staffing. The company has built a strong reputation by successfully delivering projects globally, serving clients across India, Canada, and beyond. With a team of experienced professionals, SiyanTech combines technological excellence with end\\-to\\-end solutions tailored to modern organizational challenges.
    
 
   
 
- Its cloud\\-based platform, Algo Management System (AMS), is the first end\\-to\\-end algorithmic trading solution for equities and futures that delivers an entire ecosystem around execution algorithms, including transaction cost analysis (TCA), an algorithm customization tool called Strategy Studio, a trading dashboard, and pre\\-trade analytics in a single platform. The platform is currently live for U.S., Europe, and Canadian equities and global futures trading.
+**Role Description**
+  
+
+ This is a full\\-time, on\\-site role for a Senior Embedded Firmware Engineer, based in Bengaluru. The primary responsibilities include designing, developing, and testing embedded firmware for ARM Cortex\\-M based systems, leveraging Zephyr RTOS and BLE technologies. The role involves debugging hardware and software issues, collaborating with cross\\-functional teams, and ensuring the successful delivery of reliable embedded solutions. Additionally, the candidate will be expected to optimize performance, manage resources, and contribute to technical documentation.
    
 
   
 
- BestEx Research is disrupting a $100 billion industry by challenging the status quo of stale, black\\-box solutions from banks and offering next\\-generation execution algorithms that combine performance improvement with transparency and customization. BestEx Research uses leading\\-edge technology to support its low\\-latency, highly scalable research and trading systems, with its backend in C\\+\\+, research libraries in C\\+\\+/Python and R, and web\\-based technologies for delivering its front\\-end platforms.
-   
-
+**Qualifications**
   
 
- BestEx Research's mission is to become the leader in automation and measurement of execution across asset classes globally and significantly reduce transaction costs for our clients.
-   
-
-  
-
- Visit bestexresearch.com for more information about our mission, products, research, and services.
-   
-
-  
-
-**Why Join Us?**
- BestEx Research's Bangalore office is not an ""offshore center."" It's a core engineering and research hub—working on the exact same problems and projects as our U.S. team. You'll be part of the global brain trust, solving some of the hardest problems in trading, systems, and data science.
-   
-
-  
-
-**What You'll Love:**
-* Zero bureaucracy, zero silos—engineers directly collaborate with traders, researchers, and the CEO
-* Direct ownership and end\\-to\\-end visibility on production systems
-* Daily opportunity to learn from pioneers in HFT, low\\-latency systems, and algo trading
-* A high\\-trust environment where performance speaks louder than hierarchy
-* Competitive compensation in India, including equity and cash bonuses
-* 5\\-week structured training program:
-
-
-**Your Role: Build What Most Engineers Never Get to Touch**
-* Market microstructure and trading mechanics
-* Algorithmic execution and strategy design
-* Exchange simulators and performance testing
-* Market data systems and real\\-time analytics
-* Hands\\-on exercises using production research data
-* Continuous professional development, with refresher courses, advanced sessions, and on\\-demand training tailored to your growth
-* Global exposure: Opportunities to collaborate with, visit, or relocate to our U.S., Singapore, or London offices, based on performance and business needs
-
-
- You'll be part of a lean, focused team building ultra\\-low\\-latency trading systems, real\\-time exchange simulators, execution algorithms, and alpha forecasting models. Our engineers own the stack—from C\\+\\+ nanosecond\\-sensitive infrastructure to Python\\-based research platforms.
-   
-
-  
-
- This role is ideal for someone who thrives at the intersection of research and engineering—comfortable building systems, testing hypotheses, and working directly with data that moves markets.
-   
-
-  
-
-**What You'll Work On**
-* Architect and implement:
-* Execution algorithms across global markets
-* Exchange simulators and tick\\-level backtesting frameworks
-* Smart Order Routing systems across lit and dark venues
-* Models for market impact, price prediction, and volume forecasting
-* High\\-performance trading systems optimized for throughput and latency
-* Core infrastructure to support new asset classes and global markets
-* Collaborate closely with global quants, traders, and senior engineers
-* Analyze system performance across app, OS, and hardware layers
-
-
-**Requirements**
-**You Should Have**
-* Bachelor's or Master's from a top\\-tier CS, Math, or Engineering program (IIT/NIT/BITS preferred but not required)
-* 6\\+ years hands\\-on C\\+\\+ experience (C\\+\\+14/17/20\\) in performance\\-sensitive applications
-* Strong fundamentals in data structures, OS, networks, and concurrency
-* Python fluency for data analysis and prototyping (preferred but not required)
-* Experience with large\\-scale, real\\-time systems (trading experience is a plus but not mandatory)
-* Passion for learning—markets, systems, and modeling
-
-
-**Bonus Points For**
-* Deep experience with TCP/IP, multi\\-threading, and latency optimization
-* Prior work on trading platforms, FIX engines, or exchange protocols
-* SQL optimization and experience with research or market data pipelines
-* Contributions to open\\-source C\\+\\+/Python performance tools
-
-
-**Benefits**
-**Why This Role Is Rare**
-* Exposure to real\\-time trading systems live in global markets
-* Direct mentorship from senior algorithmic trading and software engineering veterans
-* Blend of research, systems design, and algorithm development
-* Equity and cash compensation
-* Zero red tape, no outsourcing mentality","IT Services and IT Consulting","https://www.linkedin.com/company/bestex-research-group","https://media.licdn.com/dms/image/v2/D4E0BAQGLJjWJzBi3Bw/company-logo_100_100/company-logo_100_100/0/1732133302988/bestex_research_group_logo?e=2147483647&v=beta&t=cX8hqi9VJ6j4Ut3mV9LixCQpxEG2_WsaMdrOInjZWAE","","","","","","","","","","",""
-"li-4388257561","linkedin","https://www.linkedin.com/jobs/view/4388257561","","ServiceNow Developer (ITSM + Mobile)","People Prime Worldwide","","","contract","","","","","",False,"mid-senior level","Design, Business Development, and Information Technology","","","**About Company** 
-
-
-
-
-  
-
-
-
-
-
- Our client is a trusted global innovator of IT and business services. We help clients transform through consulting, industry solutions, business process services, digital \\& IT modernisation and managed services. Our client enables them, as well as society, to move confidently into the digital future. We are committed to our clients’ long\\-term success and combine global reach with local client attention to serve them in over 50 countries around the globe.
- 
-
-
-
-  
-
-
-
-
-
- Job Title: Service Now Developer (ITSM \\+ Mobile)
- 
-
-
-
- Location: Pan India/Hybrid
- 
-
-
-
- Experience: 5\\+ yrs
- 
-
-
-
- Job Type : Contract to hire
- 
-
-
-
- Notice Period:\\- Immediate joiner
- 
-
-
-
-  
-
-
-
-
-
-**Mandatory Skills** 
-
-
-
-
-  
-
-
-
-
-
- · Hands\\-on experience with ServiceNow Developer (ITSM \\+ Mobile).
- 
-
-
-
- ITSM \\+ CSA \\& CAD active certification
- 
-
-
-
-  
-
-
-
-
-
-**Essential Responsibilities** 
-
-
-
-
-  
-
-
-
-
-
- • Responsible for designing, developing, testing, operating, and maintaining products
- 
-
-
-
- • Takes full stack ownership by consistently writing production\\-ready and testable code
- 
-
-
-
- • Consistently creates optimal design adhering to architectural best practices; considers scalability, reliability and performance of systems/contexts affected when defining technical designs
- 
-
-
-
- • Performs analysis on failures, propose design changes, and encourage operational improvements
- 
-
-
-
- • Makes sound design/coding decisions keeping customer experience in the forefront
- 
-
-
-
- • Takes feedback from code review and apply changes to meet standards
- 
-
-
-
- • Conducts code reviews to provide guidance on engineering best practices and compliance with development procedures
- 
-
-
-
- • Accountable for ensuring all aspects of product development follow compliance and security best practices
- 
-
-
-
- • Exhibits relentless focus in software reliability engineering standards embedded into development standards
- 
-
-
-
- • Embraces emerging technology opportunities and contributes to the best practices in support of the bank’s technology transformation
- 
-
-
-
- • Contributes to a culture of innovation, collaboration, and continuous improvement
- 
-
-
-
- • Reviews tasks critically and ensures they are appropriately prioritised and sized for incremental delivery; anticipates and communicates blockers and delays before they require escalation.
- 
-
-
-
-  
-
-
-
-
-
-**Responsibilities** 
-
-
-
-
-  
-
-
-
-
-* Writing clean, high\\-quality, high\\-performance, maintainable
-* code Develop and support software including applications, database integration, interfaces, and new functionality enhancements Coordinate cross\\-functionally to insure project meets business objectives and compliance standards Support test and deployment of new products and
-* features Participate in code reviews.
-
-
-
-
-
-
-
-
-**Qualifications** 
-
-
-
-
-  
-
-
-
-
-* Bachelor's degree in Computer Science (or related field)","IT Services and IT Consulting, Design Services, and Information Services","https://in.linkedin.com/company/peopleprimeww","https://media.licdn.com/dms/image/v2/D560BAQFXMNnAtaU2qA/company-logo_100_100/company-logo_100_100/0/1738582300818/peopleprimeww_logo?e=2147483647&v=beta&t=46Euex735XHnnSL-4JCCUWosRqNQHcuDHCtDgn3B-XU","","","","","","","","","","",""
+* Proficiency in Embedded Software development and Debugging techniques
+* Strong experience with ARM Architecture and familiarity with ARM Cortex\\-M microcontrollers
+* Expertise in Software Development for embedded systems, including coding, testing, and optimization
+* Background in Electrical Engineering and hands\\-on experience with hardware integration
+* Experience working with Zephyr RTOS and Bluetooth Low Energy (BLE) technologies
+* Strong analytical and problem\\-solving skills with attention to detail
+* Proficiency in C/C\\+\\+ programming languages and version control systems like Git
+* Excellent written and verbal communication skills
+* Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or a related field
+* Experience with agile development methodologies and familiarity with relevant hardware debugging tools","IT Services and IT Consulting","https://in.linkedin.com/company/siyantech-global-innovations","https://media.licdn.com/dms/image/v2/D560BAQEORGUmDpGGpg/company-logo_100_100/B56ZrgMxo8JwAQ-/0/1764698037382?e=2147483647&v=beta&t=ElAdMng98_V18SLZPilhKfFNP5-LukPP_IZgQl_FxcI","","","","","","","","","","",""
