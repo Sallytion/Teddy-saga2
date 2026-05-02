@@ -1,4 +1,131 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"li-4408326989","linkedin","https://www.linkedin.com/jobs/view/4408326989","","Software Engineer","microfactory.tech","Ahmedabad, Gujarat, India","","fulltime","","","","","",True,"internship","Engineering and Information Technology","","","**Company Description** 
+
+
+
+
+ Microfactory.tech specializes in providing custom manufacturing and engineering solutions to customers across various industries on a global scale. With an extensive, verified supplier network, Microfactory ensures high\\-quality production, from concept design to prototype and final manufacturing, all while maintaining competitive pricing. The company emphasizes end\\-to\\-end value\\-added sourcing services, enabling clients to focus on innovation while Microfactory handles product development, warehousing, and logistics. By leveraging cost\\-effective production hubs such as India, Microfactory helps clients significantly reduce costs and tariffs, especially for Western markets.
+ 
+
+
+
+  
+
+
+
+
+
+**Role Description** 
+
+
+
+
+ This is a full\\-time remote role for a Software Engineer Intern. The intern will be responsible for writing, testing, and debugging code, contributing to projects focused on back\\-end web development, collaborating with team members to create efficient software solutions, and assisting the team in implementing and troubleshooting object\\-oriented programming tasks. The intern will also participate in team meetings, complete technical documentation, and learn essential software development practices. We are deveoping inhouse quoting instant tool. We are developing an order tracking platform along with SaaS development for supplier and customer partners.
+ 
+
+
+
+  
+
+
+
+
+
+ We're building
+ **Microfactory OS** 
+ — the operating system that runs the entire business: customer RFQs and quotes, order management, supplier programs, QC, dispatch, and full order trace visibility. This role owns the platform.
+ 
+
+
+
+  
+
+
+
+
+
+ You will be the founding (or early) software engineer building and scaling Microfactory OS. The platform is already live with real customers, suppliers, and PMs using it daily. You'll work directly with the founder (Mitul) on product, architecture, and execution — shipping features end\\-to\\-end, fixing real bugs that real users report, and building toward a long\\-term vision of an AI\\-assisted global manufacturing platform.
+ 
+
+
+
+ This is not a maintenance role. The codebase is young, the roadmap is wide open, and your judgment on what to build and how will materially shape the company.
+ 
+
+
+
+  
+
+
+
+
+* Customer portal (RFQ submission, quote review, order tracking, document management, PM messaging)
+* Supplier portal (program intake, QC submissions, dispatch confirmations)
+* Admin/PM portal (order lifecycle management, supplier selection, quote generation, team and user management)
+* AI\\-powered features: supplier selection and evaluation, demand planning, RFQ\\-to\\-quote configuration
+* Order Trace Visibility Platform (in progress) — real\\-time visibility from supplier floor to US warehouse to customer dock
+* Integrations with shipping, customs, accounting, and communication tools
+
+
+
+ Tools:
+ 
+
+
+* **Frontend:** 
+ Next.js (App Router), React, TypeScript
+* **Backend:** 
+ Next.js API routes, Supabase (Postgres, Auth, Edge Functions, Storage, RLS)
+* **AI:** 
+ Anthropic API (Claude) for quote configuration, supplier evaluation, demand planning
+* **Email/Comms:** 
+ Resend SMTP via Supabase Auth
+* **Infra:** 
+ Vercel (hosting), GitHub (source control), Supabase Cloud
+* **Future:** 
+ Likely additions in workflow orchestration, observability, mobile
+
+
+
+  
+
+
+
+
+
+**Required** 
+
+
+
+* 2\\+ years of professional software engineering experience shipping production web apps
+* Strong proficiency with TypeScript, React, and Next.js (App Router preferred)
+* Solid SQL skills and hands\\-on Postgres experience — comfortable writing migrations, designing schemas, debugging RLS policies, and reading EXPLAIN plans
+* Experience with Supabase, Firebase, or a comparable BaaS — you understand auth flows, service\\-role vs anon key boundaries, and row\\-level security
+* Comfort owning features end\\-to\\-end: schema → API → UI → deploy → debug in production
+* Clear written communication — you can explain a tradeoff in three sentences
+
+
+
+**Preferred** 
+
+
+
+* Experience integrating LLM APIs (Anthropic, OpenAI) into production features
+* Background in B2B SaaS, ERP, supply chain, manufacturing, or logistics software
+* Familiarity with Vercel deployment workflows, GitHub Actions, and incident debugging
+* Experience with multi\\-tenant architectures and role\\-based access control
+* Comfort working in a small team where priorities shift weekly
+
+
+
+**You'll thrive here if** 
+
+
+
+* You like building zero\\-to\\-one and don't need a 30\\-page spec to start
+* You're comfortable being the person who owns a bug from ""user reports issue"" to ""fix is in production.""
+* You enjoy talking to non\\-technical operators (PMs, customers, suppliers) and translating their problems into software
+* You believe small teams ship faster, and you want to be one of the early names on something that becomes a category\\-defining manufacturing platform","Manufacturing","https://www.linkedin.com/company/microfactorytech","https://media.licdn.com/dms/image/v2/D560BAQHLerZ5YjyouA/company-logo_100_100/company-logo_100_100/0/1693571029719?e=2147483647&v=beta&t=d0viKO0-fmcY9Lu8RygBvFXjR2OBHHxj-c5Ai2ULF_8","","","","","","","","","","",""
 "li-4407291134","linkedin","https://www.linkedin.com/jobs/view/4407291134","","Software Engineer","KLA","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"associate","Engineering and Information Technology","","talent.acquisition@kla.com","**Company Overview**
  KLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice\\-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel displays. The innovative ideas and devices that are advancing humanity all begin with inspiration, research and development. KLA focuses more than average on innovation and we invest 15% of sales back into R\\&D. Our expert teams of physicists, engineers, data scientists and problem\\-solvers work together with the world’s leading technology providers to accelerate the delivery of tomorrow’s electronic devices. Life here is exciting and our teams thrive on tackling really hard problems. There is never a dull moment with us.
    
@@ -120,65 +247,6 @@
 
 
  All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave.","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M","","","","","","","","","","",""
-"li-4408339663","linkedin","https://www.linkedin.com/jobs/view/4408339663","","Custom Software Engineer","Accenture services Pvt Ltd","Gurugram, Haryana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Project Role :** 
- Custom Software Engineer
-   
-
-  
-
-**Project Role Description :** 
- Design, build and configure applications to meet business process and application requirements.
-   
-
-  
-
-**Must have skills :** 
- SAP ABAP Cloud
-   
-
-  
-
-**Good to have skills :** 
- SAP ABAP Development for HANA
-   
-
-  
-
-**Minimum 7\\.5 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
-   
-
-  
-
-**Summary**
- As an Application Developer, you will design, build, and configure applications to meet business process and application requirements. A typical day involves collaborating with various teams to understand their needs, developing solutions that align with business objectives, and ensuring that applications are optimized for performance and usability. You will also engage in problem\\-solving activities, providing support and enhancements to existing applications while staying updated with the latest technologies and methodologies in application development.
-   
-
-  
-
-**Roles \\& Responsibilities**
-* Expected to be an SME.
-* Collaborate and manage the team to perform.
-* Responsible for team decisions.
-* Engage with multiple teams and contribute on key decisions.
-* Provide solutions to problems for their immediate team and across multiple teams.
-* Facilitate knowledge sharing sessions to enhance team capabilities.
-* Monitor project progress and ensure timely delivery of application features.
-
-
-**Professional \\& Technical Skills**
-* Must To Have Skills: Proficiency in SAP ABAP Cloud.
-* Good To Have Skills: Experience with SAP ABAP Development for HANA.
-* Strong understanding of application design principles and methodologies.
-* Experience in developing and configuring applications in cloud environments.
-* Familiarity with integration techniques and tools for seamless application connectivity.
-
-
-**Additional Information**
-* The candidate should have minimum 7\\.5 years of experience in SAP ABAP Cloud.
-* This position is based at our Bengaluru office.
-* A 15 years full time education is required.","Information Technology & Services","https://www.linkedin.com/company/syntel-private-limited","https://media.licdn.com/dms/image/v2/D560BAQHeHXRmBrVsMw/img-crop_100/img-crop_100/0/1727546037692?e=2147483647&v=beta&t=tlvjKb8MI71XxJUHkN2ECInoR7g5fcz4W4M0mrD2H5k","","","","","","","","","","",""
 "li-4408338645","linkedin","https://www.linkedin.com/jobs/view/4408338645","","JAVA Data Engineering/Associate Director Software Engineering","hackajob","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","***hackajob** 
  is collaborating with
  **HSBC** 
@@ -241,6 +309,185 @@
   
 
  Issued by \\- HSBC Software Development India","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M","","","","","","","","","","",""
+"li-4408345102","linkedin","https://www.linkedin.com/jobs/view/4408345102","","Custom Software Engineer","Accenture services Pvt Ltd","Gurugram, Haryana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Project Role :** 
+ Custom Software Engineer
+   
+
+  
+
+**Project Role Description :** 
+ Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high\\-performing solutions tailored to specific business needs.
+   
+
+  
+
+**Must have skills :** 
+ ServiceNow
+   
+
+  
+
+**Good to have skills :** 
+ NA
+   
+
+  
+
+**Minimum 2 Year(s) Of Experience Is Required**
+**Educational Qualification :** 
+ 15 years full time education
+   
+
+  
+
+* 2 to 3 years experience in ITSM, CMDB, TNI or HAM and/or ITOM development and support projects
+* 1 \\- 3 years in working experience in ATF, ITSM, CMDB, Manual Testing, ETL, Integrations Hub, TNI, HAM, ITOM, Workspace, Flow Designer and/or Change Management
+* Experience in working in ServiceNow projects with indepth knowledge and hands\\-on
+* Good communication skills
+
+
+**Summary**
+ As a Custom Software Engineer, a typical day involves creating tailored software solutions by designing, coding, and improving various components within systems or applications. The role requires working closely with team members to ensure that the solutions are scalable and perform efficiently. The work environment embraces modern development frameworks and agile methodologies, fostering continuous collaboration and iterative progress to meet unique business requirements effectively.
+   
+
+  
+
+**Roles \\& Responsibilities**
+* Expected to perform independently and become an SME.
+* Required active participation/contribution in team discussions.
+* Contribute in providing solutions to work related problems.
+* Collaborate with cross\\-functional teams to understand project requirements and deliver high\\-quality software components.
+* Maintain and update existing software to improve functionality and resolve issues.
+* Document development processes and code changes to support knowledge sharing and future maintenance.
+* Assist junior team members by providing guidance and support to enhance their technical skills.
+
+
+**Professional \\& Technical Skills**
+* Must To Have Skills: Proficiency in ServiceNow.
+* Experience in customizing and configuring ServiceNow applications to meet business needs.
+* Strong understanding of software development lifecycle and agile methodologies.
+* Ability to troubleshoot and resolve technical issues within ServiceNow environments.
+* Familiarity with scripting languages and integration techniques related to ServiceNow.
+
+
+**Additional Information**
+* The candidate should have minimum 2 years of experience in ServiceNow.
+* This position is based at our Hyderabad office.
+* A 15 years full time education is required.","Information Technology & Services","https://www.linkedin.com/company/syntel-private-limited","https://media.licdn.com/dms/image/v2/D560BAQHeHXRmBrVsMw/img-crop_100/img-crop_100/0/1727546037692?e=2147483647&v=beta&t=tlvjKb8MI71XxJUHkN2ECInoR7g5fcz4W4M0mrD2H5k","","","","","","","","","","",""
+"li-4408344107","linkedin","https://www.linkedin.com/jobs/view/4408344107","","Custom Software Engineer","Accenture services Pvt Ltd","Gurugram, Haryana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Project Role :** 
+ Custom Software Engineer
+   
+
+  
+
+**Project Role Description :** 
+ Design, build and configure applications to meet business process and application requirements.
+   
+
+  
+
+**Must have skills :** 
+ Salesforce Lightning Web Components
+   
+
+  
+
+**Good to have skills :** 
+ NA
+   
+
+  
+
+**Minimum 3 Year(s) Of Experience Is Required**
+**Educational Qualification :** 
+ 15 years full time education
+   
+
+  
+
+**Summary**
+ As an Application Developer, you will design, build, and configure applications to meet business process and application requirements. A typical day involves collaborating with team members to understand project needs, developing innovative solutions, and ensuring that applications are aligned with business objectives. You will engage in problem\\-solving discussions and contribute to the overall success of the projects you are involved in.
+   
+
+  
+
+**Roles \\& Responsibilities**
+* Expected to perform independently and become an SME.
+* Required active participation/contribution in team discussions.
+* Contribute in providing solutions to work related problems.
+* Assist in the documentation of application processes and workflows.
+* Engage in code reviews to ensure quality and adherence to best practices.
+
+
+**Professional \\& Technical Skills**
+* Must To Have Skills: Proficiency in Salesforce Lightning Web Components.
+* Good To Have Skills: Experience with Apex programming and Salesforce APIs.
+* Strong understanding of web development technologies such as HTML, CSS, and JavaScript.
+* Experience with version control systems like Git.
+* Familiarity with Agile development methodologies.
+
+
+**Additional Information**
+* The candidate should have minimum 3 years of experience in Salesforce Lightning Web Components.
+* This position is based at our Bengaluru office.
+* A 15 years full time education is required.","Information Technology & Services","https://www.linkedin.com/company/syntel-private-limited","https://media.licdn.com/dms/image/v2/D560BAQHeHXRmBrVsMw/img-crop_100/img-crop_100/0/1727546037692?e=2147483647&v=beta&t=tlvjKb8MI71XxJUHkN2ECInoR7g5fcz4W4M0mrD2H5k","","","","","","","","","","",""
+"li-4408326979","linkedin","https://www.linkedin.com/jobs/view/4408326979","","Custom Software Engineer","Accenture services Pvt Ltd","Gurugram, Haryana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Project Role :** 
+ Custom Software Engineer
+   
+
+  
+
+**Project Role Description :** 
+ Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high\\-performing solutions tailored to specific business needs.
+   
+
+  
+
+**Must have skills :** 
+ SAP BTP Integration Suite
+   
+
+  
+
+**Good to have skills :** 
+ NA
+   
+
+  
+
+**Educational Qualification :** 
+ 15 years full time education
+   
+
+  
+
+**Summary**
+ As a Custom Software Engineer, a typical day involves creating tailored software solutions by designing, coding, and improving various components within systems or applications. The role requires working with contemporary development frameworks and following agile methodologies to ensure the delivery of scalable and efficient solutions that meet unique business requirements. Collaboration with cross\\-functional teams and continuous refinement of software elements to enhance performance and adaptability are integral parts of the daily workflow.
+   
+
+  
+
+**Roles \\& Responsibilities**
+* Expected to perform independently and become an SME.
+* Required active participation/contribution in team discussions.
+* Contribute in providing solutions to work related problems.
+* Collaborate with team members to ensure alignment of software components with project goals and timelines.
+* Assist in troubleshooting and resolving technical issues to maintain system reliability and performance.
+* Support junior team members by sharing knowledge and providing guidance on best practices.
+
+
+**Professional \\& Technical Skills**
+* Must To Have Skills: Proficiency in SAP BTP Integration Suite.
+* Experience with integration patterns and middleware technologies related to SAP Business Technology Platform.
+* Strong understanding of cloud\\-native application development and deployment.
+* Familiarity with API management and event\\-driven architectures.
+* Ability to work with various data formats and protocols to enable seamless system integration.
+
+
+**Additional Information**
+* The candidate should have minimum 3 years of experience in SAP BTP Integration Suite.
+* This position is based at our Gurugram office.
+* A 15 years full time education is required.","Information Technology & Services","https://www.linkedin.com/company/syntel-private-limited","https://media.licdn.com/dms/image/v2/D560BAQHeHXRmBrVsMw/img-crop_100/img-crop_100/0/1727546037692?e=2147483647&v=beta&t=tlvjKb8MI71XxJUHkN2ECInoR7g5fcz4W4M0mrD2H5k","","","","","","","","","","",""
 "li-4408347002","linkedin","https://www.linkedin.com/jobs/view/4408347002","","Custom Software Engineer","Accenture services Pvt Ltd","Gurugram, Haryana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Project Role :** 
  Custom Software Engineer
    
@@ -537,128 +784,6 @@
 * The candidate should have minimum 12 years of experience in Workday Project Management (PM).
 * This position is based at our Chennai office.
 * A 15 years full time education is required.","Information Technology & Services","https://www.linkedin.com/company/syntel-private-limited","https://media.licdn.com/dms/image/v2/D560BAQHeHXRmBrVsMw/img-crop_100/img-crop_100/0/1727546037692?e=2147483647&v=beta&t=tlvjKb8MI71XxJUHkN2ECInoR7g5fcz4W4M0mrD2H5k","","","","","","","","","","",""
-"li-4408344107","linkedin","https://www.linkedin.com/jobs/view/4408344107","","Custom Software Engineer","Accenture services Pvt Ltd","Gurugram, Haryana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Project Role :** 
- Custom Software Engineer
-   
-
-  
-
-**Project Role Description :** 
- Design, build and configure applications to meet business process and application requirements.
-   
-
-  
-
-**Must have skills :** 
- Salesforce Lightning Web Components
-   
-
-  
-
-**Good to have skills :** 
- NA
-   
-
-  
-
-**Minimum 3 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
-   
-
-  
-
-**Summary**
- As an Application Developer, you will design, build, and configure applications to meet business process and application requirements. A typical day involves collaborating with team members to understand project needs, developing innovative solutions, and ensuring that applications are aligned with business objectives. You will engage in problem\\-solving discussions and contribute to the overall success of the projects you are involved in.
-   
-
-  
-
-**Roles \\& Responsibilities**
-* Expected to perform independently and become an SME.
-* Required active participation/contribution in team discussions.
-* Contribute in providing solutions to work related problems.
-* Assist in the documentation of application processes and workflows.
-* Engage in code reviews to ensure quality and adherence to best practices.
-
-
-**Professional \\& Technical Skills**
-* Must To Have Skills: Proficiency in Salesforce Lightning Web Components.
-* Good To Have Skills: Experience with Apex programming and Salesforce APIs.
-* Strong understanding of web development technologies such as HTML, CSS, and JavaScript.
-* Experience with version control systems like Git.
-* Familiarity with Agile development methodologies.
-
-
-**Additional Information**
-* The candidate should have minimum 3 years of experience in Salesforce Lightning Web Components.
-* This position is based at our Bengaluru office.
-* A 15 years full time education is required.","Information Technology & Services","https://www.linkedin.com/company/syntel-private-limited","https://media.licdn.com/dms/image/v2/D560BAQHeHXRmBrVsMw/img-crop_100/img-crop_100/0/1727546037692?e=2147483647&v=beta&t=tlvjKb8MI71XxJUHkN2ECInoR7g5fcz4W4M0mrD2H5k","","","","","","","","","","",""
-"li-4408345102","linkedin","https://www.linkedin.com/jobs/view/4408345102","","Custom Software Engineer","Accenture services Pvt Ltd","Gurugram, Haryana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Project Role :** 
- Custom Software Engineer
-   
-
-  
-
-**Project Role Description :** 
- Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high\\-performing solutions tailored to specific business needs.
-   
-
-  
-
-**Must have skills :** 
- ServiceNow
-   
-
-  
-
-**Good to have skills :** 
- NA
-   
-
-  
-
-**Minimum 2 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
-   
-
-  
-
-* 2 to 3 years experience in ITSM, CMDB, TNI or HAM and/or ITOM development and support projects
-* 1 \\- 3 years in working experience in ATF, ITSM, CMDB, Manual Testing, ETL, Integrations Hub, TNI, HAM, ITOM, Workspace, Flow Designer and/or Change Management
-* Experience in working in ServiceNow projects with indepth knowledge and hands\\-on
-* Good communication skills
-
-
-**Summary**
- As a Custom Software Engineer, a typical day involves creating tailored software solutions by designing, coding, and improving various components within systems or applications. The role requires working closely with team members to ensure that the solutions are scalable and perform efficiently. The work environment embraces modern development frameworks and agile methodologies, fostering continuous collaboration and iterative progress to meet unique business requirements effectively.
-   
-
-  
-
-**Roles \\& Responsibilities**
-* Expected to perform independently and become an SME.
-* Required active participation/contribution in team discussions.
-* Contribute in providing solutions to work related problems.
-* Collaborate with cross\\-functional teams to understand project requirements and deliver high\\-quality software components.
-* Maintain and update existing software to improve functionality and resolve issues.
-* Document development processes and code changes to support knowledge sharing and future maintenance.
-* Assist junior team members by providing guidance and support to enhance their technical skills.
-
-
-**Professional \\& Technical Skills**
-* Must To Have Skills: Proficiency in ServiceNow.
-* Experience in customizing and configuring ServiceNow applications to meet business needs.
-* Strong understanding of software development lifecycle and agile methodologies.
-* Ability to troubleshoot and resolve technical issues within ServiceNow environments.
-* Familiarity with scripting languages and integration techniques related to ServiceNow.
-
-
-**Additional Information**
-* The candidate should have minimum 2 years of experience in ServiceNow.
-* This position is based at our Hyderabad office.
-* A 15 years full time education is required.","Information Technology & Services","https://www.linkedin.com/company/syntel-private-limited","https://media.licdn.com/dms/image/v2/D560BAQHeHXRmBrVsMw/img-crop_100/img-crop_100/0/1727546037692?e=2147483647&v=beta&t=tlvjKb8MI71XxJUHkN2ECInoR7g5fcz4W4M0mrD2H5k","","","","","","","","","","",""
 "li-4408328965","linkedin","https://www.linkedin.com/jobs/view/4408328965","","Custom Software Engineer","Accenture services Pvt Ltd","Gurugram, Haryana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Project Role :** 
  Custom Software Engineer
    
@@ -882,63 +1007,6 @@
   
 
  15 years of full\\-time education is mandatory","Information Technology & Services","https://www.linkedin.com/company/syntel-private-limited","https://media.licdn.com/dms/image/v2/D560BAQHeHXRmBrVsMw/img-crop_100/img-crop_100/0/1727546037692?e=2147483647&v=beta&t=tlvjKb8MI71XxJUHkN2ECInoR7g5fcz4W4M0mrD2H5k","","","","","","","","","","",""
-"li-4408326979","linkedin","https://www.linkedin.com/jobs/view/4408326979","","Custom Software Engineer","Accenture services Pvt Ltd","Gurugram, Haryana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Project Role :** 
- Custom Software Engineer
-   
-
-  
-
-**Project Role Description :** 
- Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high\\-performing solutions tailored to specific business needs.
-   
-
-  
-
-**Must have skills :** 
- SAP BTP Integration Suite
-   
-
-  
-
-**Good to have skills :** 
- NA
-   
-
-  
-
-**Educational Qualification :** 
- 15 years full time education
-   
-
-  
-
-**Summary**
- As a Custom Software Engineer, a typical day involves creating tailored software solutions by designing, coding, and improving various components within systems or applications. The role requires working with contemporary development frameworks and following agile methodologies to ensure the delivery of scalable and efficient solutions that meet unique business requirements. Collaboration with cross\\-functional teams and continuous refinement of software elements to enhance performance and adaptability are integral parts of the daily workflow.
-   
-
-  
-
-**Roles \\& Responsibilities**
-* Expected to perform independently and become an SME.
-* Required active participation/contribution in team discussions.
-* Contribute in providing solutions to work related problems.
-* Collaborate with team members to ensure alignment of software components with project goals and timelines.
-* Assist in troubleshooting and resolving technical issues to maintain system reliability and performance.
-* Support junior team members by sharing knowledge and providing guidance on best practices.
-
-
-**Professional \\& Technical Skills**
-* Must To Have Skills: Proficiency in SAP BTP Integration Suite.
-* Experience with integration patterns and middleware technologies related to SAP Business Technology Platform.
-* Strong understanding of cloud\\-native application development and deployment.
-* Familiarity with API management and event\\-driven architectures.
-* Ability to work with various data formats and protocols to enable seamless system integration.
-
-
-**Additional Information**
-* The candidate should have minimum 3 years of experience in SAP BTP Integration Suite.
-* This position is based at our Gurugram office.
-* A 15 years full time education is required.","Information Technology & Services","https://www.linkedin.com/company/syntel-private-limited","https://media.licdn.com/dms/image/v2/D560BAQHeHXRmBrVsMw/img-crop_100/img-crop_100/0/1727546037692?e=2147483647&v=beta&t=tlvjKb8MI71XxJUHkN2ECInoR7g5fcz4W4M0mrD2H5k","","","","","","","","","","",""
 "li-4408346009","linkedin","https://www.linkedin.com/jobs/view/4408346009","","Senior Software Engineer - Network Integration","hackajob","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","***hackajob** 
  is collaborating with
  **Barclays** 
@@ -1245,138 +1313,3 @@
 * The candidate should have minimum 3 years of experience in SAP ABAP Cloud.
 * This position is based at our Gurugram office.
 * A 15 years full time education is required.","Information Technology & Services","https://www.linkedin.com/company/syntel-private-limited","https://media.licdn.com/dms/image/v2/D560BAQHeHXRmBrVsMw/img-crop_100/img-crop_100/0/1727546037692?e=2147483647&v=beta&t=tlvjKb8MI71XxJUHkN2ECInoR7g5fcz4W4M0mrD2H5k","","","","","","","","","","",""
-"li-4408339635","linkedin","https://www.linkedin.com/jobs/view/4408339635","","Developer - Shotscope™ (.NET Full Stack) - Husky (Guindy,Chennai)","Husky Technologies","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
-**Title:** 
- Developer \\- Shotscope™ (.NET Full Stack) \\- Husky (Guindy,Chennai)
-   
-
-  
-
-**Id:** 
- 20909
-   
-
-  
-
-**Type:** 
- FullTime
-   
-
-  
-
-**Location:** 
- Chennai, India
-   
-
-  
-
- At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
-   
-
-  
-
- Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state\\-of\\-the\\-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
-   
-
-  
-
- Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
-   
-
-  
-
- Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
-   
-
-  
-
-****Job Description****
- Do you want to work an industrial‑grade software solution powering real‑time manufacturing intelligence on factory floors worldwide?
-   
-
-  
-
- As a Developer on our Shotscope™ team, you will help build and maintain industrial\\-grade manufacturing intelligence software used by customers worldwide. You will implement features and components on a .NET and Azure\\-based full stack, contribute clean and reliable code, and support the continuous evolution of a mission\\-critical product that connects machines, processes, and data.
-   
-
-  
-
- This role is ideal for a motivated engineer who enjoys hands\\-on development, learning from experienced teammates, and seeing their work deployed in real production environments—with clear opportunities to grow toward senior and lead roles.
-   
-
-  
-
- If you want your code to have visible impact on how factories operate, Shotscope™ is where software meets the real world.
-   
-
-  
-
-****Responsibilities****
-**Technical Implementation**
-* Implement software components and features based on provided designs, specifications, and guidance.
-* Contribute to the development of reliable, maintainable, and secure code within the assigned scope.
-* Apply agreed coding standards, patterns, and best practices in daily development work.
-* Make basic technical decisions within assigned tasks, escalating questions or uncertainties when needed.
-
-
-**Delivery \\& Execution Excellence**
-* Translate assigned requirements and tasks into working software.
-* Complete development work in alignment with sprint goals and delivery commitments.
-* Contribute to task breakdowns and effort estimates for assigned work.
-* Proactively raise risks, blockers, or implementation issues to the team.
-
-
-**Quality, Standards \\& Engineering Practices**
-* Write clean, testable code and contribute to unit and integration tests.
-* Participate in code reviews, incorporating feedback and learning from peers.
-* Ensure individual contributions meet Definition of Ready (DoR) and Definition of Done (DoD) criteria.
-* Follow established DevOps, security, and quality practices.
-
-
-**Incident \\& Operational Support**
-* Assist in troubleshooting defects and issues in development and production environments.
-* Support corrective (bug fixes) and evolutive (enhancements) maintenance of existing solutions.
-
-
-**Collaboration \\& Growth**
-* Collaborate effectively with other developers, QA, Product Owners, and Tech Leads.
-* Seeking feedback and guidance to continuously improve technical skills.
-* Actively learn the systems, tools, and technologies used by the team.
-* Contribute positively to team culture and shared ownership of outcomes.
-
-
-****Qualifications****
-* Bachelor’s degree in computer science, IT, or related field.
-* 4\\+ years’ professional experience in software development.
-* Proficiency in .NET technologies (C\\#, ASP.NET Core, SQL, .NET Framework, Entity Framework).
-* Strong grasp of Agile methodologies, DevOps principles, application security and version control systems (e.g., Azure DevOps).
-* Proficiency in modern front\\-end frameworks (e.g., preference: React; Angular).
-* Clean Code Development and working experience with Unit Testing, and Test\\-driven Development.
-* Familiarity with source code version control, branching strategies, CI/CD pipelines and other DevOps practices.
-* Working knowledge of Agile development practices.
-* Excellent communication skills and ability to work in a team.
-* Fluency in English (spoken and written).
-* Strong problem\\-solving skills and attention to detail.
-* Ability to adjust quickly to changing assignments, and priorities.
-
-
-**Assets**
-* Familiarity with CI/CD and pipelines.
-* Experience using AI‑assisted coding tools (e.g. GitHub Copilot) responsibly, with full accountability for code quality, security, and compliance.
-* Familiarity with Microsoft Azure, with experience in leveraging key services (e.g., Azure App Services, Azure Functions).
-* Exposure to Microsoft SQL Server BI stack, including SSAS (OLAP cube design), SSRS (report development), and SSIS (ETL processes and data integration).
-
-
-**Why Husky?**
-* Regulated Working Hours: Enjoy a structured work schedule that promotes a healthy work\\-life balance, allowing you to excel professionally while maintaining personal well\\-being.
-* Visible Impact: Experience the satisfaction of seeing the direct outcomes of your work, as you contribute to projects that visibly enhance our company's technological capabilities and efficiency.
-* Strategic Influence: Participate in architectural and technical reviews, contributing to the strategic direction of our cloud initiatives and making a tangible impact on our company's technological landscape.
-* Empowered Involvement: Take an active role in decision\\-making processes and architectural reviews, where your expertise helps shape the future of our cloud solutions and overall business strategy.
-* Valued Contributions: Be more than just a number in a large organization; at our company, every individual's input is valued and can lead to significant, tangible improvements in our operations and services.
-* Impactful Role: Play a crucial part in both developing new applications and maintaining existing systems, ensuring their optimal performance and reliability.
-* Cutting\\-Edge Projects: Work on innovative cloud solutions that are transforming our and our customer’s business, giving you the opportunity to be at the forefront of technological advancements.
-* Supportive Community: Work in an environment that recognizes and celebrates individual achievements, fostering a sense of community and mutual respect among team members.
-* Collaborative Environment: Join a global team of skilled professionals around the globe where your ideas are valued, and collaboration is encouraged to solve complex challenges and drive success.
-
-
- Husky TechnologiesTM offers a competitive compensation and benefits package and excellent opportunities for growth and advancement. We are committed to equal employment opportunity and respect, value and welcome diversity in our workplace. Husky TechnologiesTM also values being a great place to work and strives to maintain a safe workplace. Accordingly, Husky TechnologiesTM conditions all offers of employment on satisfactory completion of background checks. No agency or telephone inquiries please.","Machinery Manufacturing","https://ca.linkedin.com/company/husky-technologies","https://media.licdn.com/dms/image/v2/C4D0BAQHsvZ0ebIsc4w/company-logo_100_100/company-logo_100_100/0/1636124255401/husky_injection_molding_systems_logo?e=2147483647&v=beta&t=DOW-hRVyemixk1uzPur_5PLKICQw58KUNmIrpYtA4rk","","","","","","","","","","",""
