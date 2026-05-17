@@ -1,926 +1,526 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4404599708","linkedin","https://www.linkedin.com/jobs/view/4404599708","","Software Engineer III, ITC","Nike","Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Who You’ll Work With**
-* Collaborate with and consult Architecture, Security, Privacy, and other subject matter experts within Nike
-* Act as the subject matter expert for resilience and high availability of consumer facing (e\\-commerce) systems/applications
-* Communicate to leadership the status of recovery time (RTO), recovery point objectives (RPO) for critical systems
-
-
-**Who We Are Looking For**
- Within the Reliability Engineering our goal is to provide technical solutions to complex production problems with a focus on reduction of incident and problem toil, speeding detection and recovery of critical incidents through observability and continuous improvement through operational health measurement and sharing.
+"li-4374136816","linkedin","https://www.linkedin.com/jobs/view/4374136816","","Lead Software Engineer - Data Engineering, ITC","Nike","Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Who You’ll Work With**
+ At Nike, we leverage the power of data and technology to serve athletes\\* around the world. The Data \\& AI (DAI) team is at the forefront of this mission—building scalable, secure, and intelligent platforms that power decision\\-making and personalized experiences across the Nike ecosystem.
    
 
   
 
-* Ability to lead assessments of applications and infrastructure components to identify gaps related to high availability/disaster recovery
-* 5\\+ years of software development experience
-* 5 years’ experience in building cloud\\-based enterprise systems, ideally on AWS.
-* Proficient in Java 8 and newer
-* Proficient with JavaScript on frontend (React, Angular, etc.) and backend (Node.js) components.
-* Demonstrable knowledge of Linux operating system internals, TCP/IP, filesystems, disk/storage technologies
-* Basic understanding of DNS, Networking, Virtualization
-* ˀExperience with Docker and/or serverless patterns.
-* Expertise in designing and building scalable Micro Services
-* Expertise in web and web\\-app patterns
-* Expertise in SQL and NoSQL datastore systems to build highly scalable solutions
-* Experience with expertise in other modern enterprise languages (functional or other – Python, Golang, etc.)
-* Experience with securing Restful APIs and Apps using OAuth and OpenID Connect and JWT
-* Good understanding of async/non\\-blocking Restful APIs approaches and frameworks
-* Experience within messaging (pub\\-sub) patterns
-* Demonstrated negotiation and influencing skills
-* Basic understanding of most of the following: ServiceNow, Jira, Jenkins, GitHub, Splunk, New Relic, or equivalent Application Performance Monitoring Tool
+**Who We Are Looking For**
+ We are looking for an experienced software engineer with a passion for designing and building robust data platforms and solutions. You thrive in a fast\\-paced, collaborative environment and have a proven track record of delivering scalable and reliable data platforms and services.
+   
+
+  
+
+**Skillset Required**
+* 7\\+ years of experience in software development, with a strong foundation in distributed systems, cloud\\-native architectures, and data platforms.
+* Advanced Knowledge in API services
+* Expertise in CI/CD process.
+* Expertise in big data technologies such as Apache Spark and real\\-time streaming technologies like Apache Kafka.
+* Strong programming skills in Python, Java or similar language
+* Strong Knowledge of SQL.
+* Advanced knowledge of a major cloud platform (AWS, Azure, GCP) and its ecosystem of data services.
+* Proficiency with Infrastructure as Code (IaC) tools like Terraform or AWSCloudFormation, Docker, or Kubernetes
+* Strong understanding of advanced data modeling techniques and modern data warehouses and strong Medallion architecture expertise
+* Ability to design scalable, fault\\-tolerant, and maintainable distributed systems.
+* Excellent communication and stakeholder management skills.
 
 
 **What You’ll Work On**
- The following are a High Availability Engineer’s responsibility for this role but is not limited to:
+ What You’ll Do
    
 
   
 
-* Plan and lead chaos engineering exercises to expose weaknesses in Nike production systems, uncover any gaps in monitoring and observability, and put in place solutions to lower the effects of any failures on consumers
-* Partner with infrastructure and application engineering teams to ensure solutions meet high availability/disaster recovery requirements, including gap identification, assessment, and remediation
-* Assess current disaster recovery strategy, impacts, and risks including business, legal, and IT perspectives
-* Propose various application design patterns and develop disaster recovery scenarios/resilience requirements
-* Act as a subject matter expert to system owners on industry standards and best practices for disaster recovery
-* Lead technical recovery efforts in the event of a site outage","Retail","https://www.linkedin.com/company/nike","https://media.licdn.com/dms/image/v2/D560BAQHJk7IdfuV1Dw/company-logo_100_100/company-logo_100_100/0/1732131503851/nike_logo?e=2147483647&v=beta&t=qF7rqr8Es8BnExo0QJcZr_vvtzGkir2vjZAg4fcS9hY","","","","","","","","","","",""
-"li-4412097525","linkedin","https://www.linkedin.com/jobs/view/4412097525","","Software Developer Intern","Gensolutions","Aurangabad, Maharashtra, India","","fulltime","","","","","",True,"internship","Engineering and Information Technology","","","About the Role
+* Design, build, deploy, and own complete, scalable, and reliable end to end, software to data platforms and solutions.
+* Lead the technical design of new API services, data pipelines, and systems.
+* Build reusable frameworks, libraries, and data management SDKs to improve productivity.
+* Build Data Mesh Data products with abstraction.
+* Optimize performance and cost\\-efficiency of Services workload, data workflows and compute layers.
+* Collaborate with stakeholders such as data scientists, business analysts, and product managers to understand and translate business requirements into technical solutions.
+* Provide technical leadership and mentorship to junior engineers.
+* Ensure the uptime, reliability, and monitoring of the systems you build and own.","Retail","https://www.linkedin.com/company/nike","https://media.licdn.com/dms/image/v2/D560BAQHJk7IdfuV1Dw/company-logo_100_100/company-logo_100_100/0/1732131503851/nike_logo?e=2147483647&v=beta&t=qF7rqr8Es8BnExo0QJcZr_vvtzGkir2vjZAg4fcS9hY","","","","","","","","","","",""
+"li-4416008655","linkedin","https://www.linkedin.com/jobs/view/4416008655","","Software Engineer, GCP & Java, VP","NatWest Group","Gurugram, Haryana, India","","fulltime","","","","","",False,"executive","Information Technology","","","Join us as a Software Engineer
    
 
- As an SDE Intern, you will work closely with the core team to build scalable products, experiment with new technologies, and contribute to real\\-world projects from day one.
-   
-
-  
-
- This is not a “watch and learn” internship — you will actively build, ship, and improve systems.
-   
-
- Responsibilities
-   
-
- Develop and maintain web applications and backend systems.
-   
-
-  
-
- Work on APIs, databases, and scalable architectures
-   
-
- Collaborate with the team on product features and improvements.
-   
-
-  
-
- Debug, test, and optimize applications
-   
-
- Participate in brainstorming and technical discussions
-   
-
- Learn and adapt quickly in a startup environment
-   
-
- Requirements.
-   
-
-  
-
- Basic understanding of programming fundamentals
-   
-
- Knowledge of at least one language: JavaScript, Python, Java, or C\\+\\+.
-   
-
   
-
- Familiarity with Git and GitHub
-   
 
- Interest in software engineering and problem solving
-   
+* This is an opportunity for a technically minded individual to join us as a Software Engineer
+* You’ll be designing, producing, testing and implementing working software, working across the lifecycle of the system
+* Hone your existing software engineering skills and advance your career in this critical role
+* We're offering this role at vice president level
 
- Willingness to learn fast and take ownership
-   
 
- Good communication and teamwork skills
+ What you'll do
    
 
   
 
- Preferred Skills:
+ Working in a permanent feature team, you’ll be developing knowledge of aspects of the associated platform across the disciplines of business, applications, data and infrastructure. You’ll also be liaising with principal engineers, architects in the domain and other key stakeholders to understand how the platform works and how it supports business objectives.
    
 
- React.js / Next.js
-   
-
- Node.js / Express
-   
-
- MongoDB / SQL
-   
-
- REST APIs
-   
-
   
-
- AI tools \\& modern developer workflows
-   
 
- What You’ll Gain
+ You’ll also be:
    
 
   
-
- Real startup experience
-   
 
-  
+* Applying Agile methods to the development of software on the backlog
+* Producing resilient and long\\-lived software and acting flexibly to cope with future needs
+* Delivering intentional architecture and formulating emergent design through innovative ideas, experimentation and prototyping
+* Designing and developing software with a focus on the automation of build, test and deployment activities, using executable patterns
 
- Opportunity to work on impactful projects
-   
 
- Mentorship and hands\\-on learning.
+ The skills you'll need
    
 
   
-
- Fast growth environment
-   
 
- Certificate \\+ Letter of Recommendation based on performance.
+ We’re looking for someone with strong full stack experience in software design and implementation, including being able to exploit programming languages to solve complex problems. You’ll also need to be capable of complex requirements analysis capture and validation against and with business and systems requirements.
    
 
   
-
- Internship Details
-   
 
- Role: Software Development Engineer (SDE) Intern
+ Additionally, you’ll demonstrate:
    
 
- Location: Remote
-   
-
- Duration: 2–6 Months
-   
-
- Type: Internship","IT Services and IT Consulting","https://www.linkedin.com/company/hellogensolutions","https://media.licdn.com/dms/image/v2/D560BAQEt5JPj9vDWZQ/company-logo_100_100/B56ZZwh3HdGQAQ-/0/1745644647791/hellogensolutions_logo?e=2147483647&v=beta&t=BhGA6h9xxNLL2l40KL-YYRwNrBHdEm-tibl7MOETEIo","","","","","","","","","","",""
-"li-4398763438","linkedin","https://www.linkedin.com/jobs/view/4398763438","","Software Engineer Agentic AI","hackajob","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","***hackajob** 
- is collaborating with
- **Barclays** 
- to connect them with exceptional professionals for this role.*
- Join us as a Software Engineer Agentic AI at Barclays, where you'll spearhead the evolution of our digital landscape, driving innovation and excellence. You'll harness cutting\\-edge technology to revolutionize our digital offerings, ensuring unapparelled customer experiences. The ideal candidate will have deep expertise in cloud\\-native technologies, distributed streaming platforms, Kubernetes orchestration, and multi\\-region architecture patterns.
-   
-
   
 
- To be a successful as Software Engineer Agentic AI you should have experience with:
+* Expertise in Java and Microservices
+* Experience with Google Cloud Platform services and cloud\\-native development along with knowledge of Python programming
+* Strong database proficiency, with a preference for experience in Sybase and PostgreSQL
+* Proven experience in designing, developing and deploying Microservices architectures
+* Knowledge of using industry recognised frameworks and development tooling","Banking, Software Development, and Investment Banking","https://uk.linkedin.com/company/natwest-group","https://media.licdn.com/dms/image/v2/C4E0BAQEA8k9x0NLXVw/company-logo_100_100/company-logo_100_100/0/1658409007559/natwest_group_logo?e=2147483647&v=beta&t=77U4pn7D2sdoWVtDxd-1OFNiFco375nnYIWapD6QRBA","","","","","","","","","","",""
+"li-4415895730","linkedin","https://www.linkedin.com/jobs/view/4415895730","","Technical Delivery Manager, VP","NatWest Group","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"executive","Information Technology","","","Join us as a Principal Engineer
    
 
   
-
-* Lead the design and development of agentic AI systems, leveraging modern frameworks such as LangChain, LangGraph, CrewAI, and similar orchestration libraries to build autonomous, goal‑driven AI workflows.
-* Drive hands‑on development of multi‑agent systems, including agent collaboration, task delegation, memory management, and tool integration patterns.
-* Act as a hands‑on expert in Python‑based AI/ML development, using industry‑standard libraries such as NumPy, Pandas, Scikit‑learn, TensorFlow, PyTorch, Keras, and associated tooling.
-* Apply strong fundamentals in machine learning, deep learning, and data processing, ensuring models and agents are explainable, testable, and maintainable.
-* Guide teams on model lifecycle management, inference optimisation, and production readiness of AI solutions.
-* Lead integration of Large Language Models (LLMs) into enterprise systems, including prompt engineering, tool‑calling, retrieval‑augmented generation (RAG), and agent reasoning strategies.
-* Ensure AI solutions align with responsible AI principles, data privacy, security, and regulatory expectations.
-* Evaluate and influence adoption of latest AI innovations, including Speculative AI techniques, reasoning‑augmented agents, and hybrid symbolic‑LLM approaches.
-* Champion modern AI‑assisted engineering practices, including familiarity with tools such as Claude Code, GitHub Copilot, and similar coding assistants, to improve developer productivity and code quality.
-* Set standards for engineering quality, testing, observability, and operational readiness in AI‑driven systems.
-* Experience working in cloud environments, with hands‑on exposure to AWS Bedrock or similar managed AI platforms.
-* Deliver software using Agile methodologies, actively participating in sprint planning, reviews, retrospectives, and continuous improvement.
-* Apply DORA metrics (deployment frequency, lead time for change, change failure rate, MTTR) to drive delivery predictability and engineering health.
-* Strong familiarity with modern developer tooling including GitLab, DevSecOps pipelines, and secure CI/CD practices.
-* Hands‑on experience with: Docker Desktop for local containerized development, IntelliJ IDEA or equivalent enterprise IDEs and Secure source control, branching strategies, and automated quality gates
-* Drive a test‑first, quality‑driven engineering culture, with hands‑on experience in – Contract Testing (PACT), Unit Testing (Junit), Performance and Load testing (Jmeter), Mutation Testing.
-
-
-**Some Other Highly Valued Skills May Include**
-* Contributes as an Individual Contributor (ICE) in the delivery of agentic AI solutions, owning end‑to‑end technical implementation of autonomous and multi‑agent systems, including design, development, integration, testing, and production readiness, while operating with minimal supervision and strong engineering accountability.
-* Work effectively within Agile/Scrum delivery models, using Jira for backlog management, delivery tracking, and sprint execution.
-* Apply strong analytical and troubleshooting skills to diagnose and resolve complex issues in distributed, event‑driven systems.
-* Demonstrate excellent verbal and written communication, producing clear architecture designs, decision records, and technical documentation.
-* Collaborate closely with cross‑functional teams (engineering, DevOps, security, architecture) to deliver integrated, enterprise‑ready solutions.
-* Exhibit strong ownership, self‑drive, and innovation mindset, staying current with cloud‑native technologies and modern engineering best practices.
 
+* This is a challenging role that will see you design and engineer software with the customer or user experience as the primary objective
+* You’ll be playing a major role in the engineering centre of excellence, collaborating to improve the bank’s overall software engineering capability
+* You’ll gain valuable stakeholder exposure as you build and leverage relationships, as well as the opportunity to hone your technical talents
+* We're offering this role at vice president level
 
- You may be assessed on key critical skills relevant for success in role, such as risk and controls, change and transformation, business acumen, strategic thinking and digital and technology, as well as job\\-specific technical skills.
-   
-
-  
 
- This role is based out of Bengaluru.
+ What you'll do
    
 
   
 
-**Purpose of the role**
- To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues.
+ As a Principal Engineer, you’ll be creating great customer outcomes via engineering and innovative solutions to existing and new challenges, and technology designs which are innovative, customer centric, high performance, secure and robust. You’ll be defining, creating and providing oversight and governance of engineering and design solutions with a focus on end\\-to\\-end automation, simplification, resilience, security, performance, scalability and reusability.
    
 
   
-
-**Accountabilities**
-* Development and delivery of high\\-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance.
-* Cross\\-functional collaboration with product managers, designers, and other engineers to define software requirements, devise solution strategies, and ensure seamless integration and alignment with business objectives.
-* Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing.
-* Stay informed of industry technology trends and innovations and actively contribute to the organization’s technology communities to foster a culture of technical excellence and growth.
-* Adherence to secure coding practices to mitigate vulnerabilities, protect sensitive data, and ensure secure software solutions.
-* Implementation of effective unit testing practices to ensure proper code design, readability, and reliability.
 
-
-**Assistant Vice President Expectations**
-* To advise and influence decision making, contribute to policy development and take responsibility for operational effectiveness. Collaborate closely with other functions/ business divisions.
-* Lead a team performing complex tasks, using well developed professional knowledge and skills to deliver on work that impacts the whole business function. Set objectives and coach employees in pursuit of those objectives, appraisal of performance relative to objectives and determination of reward outcomes
-* If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.
-* OR for an individual contributor, they will lead collaborative assignments and guide team members through structured assignments, identify the need for the inclusion of other areas of specialisation to complete assignments. They will identify new directions for assignments and/ or projects, identifying a combination of cross functional methodologies or practices to meet required outcomes.
-* Consult on complex issues; providing advice to People Leaders to support the resolution of escalated issues.
-* Identify ways to mitigate risk and developing new policies/procedures in support of the control and governance agenda.
-* Take ownership for managing risk and strengthening controls in relation to the work done.
-* Perform work that is closely related to that of other areas, which requires understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub\\-function.
-* Collaborate with other areas of work, for business aligned support areas to keep up to speed with business activity and the business strategy.
-* Engage in complex analysis of data from multiple sources of information, internal and external sources such as procedures and practises (in other areas, teams, companies, etc).to solve problems creatively and effectively.
-* Communicate complex information. 'Complex' information could include sensitive information or information that is difficult to communicate because of its content or its audience.
-* Influence or convince stakeholders to achieve outcomes.
-
-
- All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave.","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M","","","","","","","","","","",""
-"li-4405099575","linkedin","https://www.linkedin.com/jobs/view/4405099575","","Software Engineer II","hackajob","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","***hackajob** 
- is collaborating with
- **J.P. Morgan** 
- to connect them with exceptional professionals for this role.*
-**Job Description**
- Are you looking for an exciting opportunity to join a dynamic and growing team in a fast paced and challenging area? This is a unique opportunity for you to work in our team to partner with the Business to provide a comprehensive view.
+ You’ll also be:
    
 
   
 
- As a Software Engineer II at JPMorgan Chase within the Chief Data Office (CDO), you will promote meaningful business impact through the transformation of Data Management across JPMorgan Chase's Commercial \\& Investment Bank (CIB).
-   
+* Defining and developing architecture models and roadmaps of application and software components to meet business and technical requirements, driving common usability across products and domains
+* Working with the various feature teams to produce software rapidly and of high quality which adds value to the business
+* Determining the design and delivery approach for all of the platform’s software throughout its life
+* Working within a platform or feature team along with software engineers to design and engineer complex software, scripts and tools to enable the delivery of bank platforms, applications and services, acting as a point of contact for solution design considerations
 
-  
 
- You'll play a critical role in managing and measuring the implementation, adoption, and compliance of Firmwide and CIB Data Standards and associated controls. Your work will involve designing, building, and deploying dashboards and reportsâprimarily using Qlikâthat track key Objectives \\& Key Results (OKR), Key Performance Indicators (KPI), and Key Risk Indicators (KRI) metrics essential to Data Management and Governance objectives.
+ The skills you'll need
    
 
   
 
- Collaboration is at the heart of this role. You'll partner with stakeholders across the CIB, including CIB CDO team members, Data Technology Governance Leads, Business Analysts, Data Owners, Application Owners, CIB Information Architecture (CIB IA) team and other areas of Technology and Business.
+ You’ll come with a background in software engineering, software or database design and architecture, as well as significant experience developing software within an SOA or microservices paradigm.You should have at least 5 years of Banking domain and a total of 12 years' experience.
    
 
   
 
- This position provides exceptional exposure to Data Management and Governance as a discipline, offering a strategic, higher\\-level view of data and processing that's rare in development roles. You'll be part of a high\\-profile team supporting some of the bank's most significant programs, with opportunities to make a visible impact on enterprise\\-wide data initiatives.
+ Along with development experience in one or more programming languages, you’ll bring an excellent understanding of implementing programming best practice, especially around scalability, availability and performance.
    
 
   
 
-**Job Responsibilities**
-* Support and Enhance Controls \\& Reporting: Maintain, develop, and extend the existing CIB controls and reporting processes using Jira, Python, and Qlik, while leveraging APIs to source data from various firmwide metadata systems of record (SORs)
-* Design and Maintain Data Integration Pipelines: Build and optimize processes to aggregate, transform, and load data from multiple firmwide metadata systems into a consistent reporting data model
-* Build Best\\-in\\-Class Metadata Reporting: Influence and deliver a production\\-grade metadata reporting capability that enables ad\\-hoc, dynamic, and self\\-service reporting across diverse data sources
-* Drive Data Standard Compliance: Design, build, and deploy dashboards and reports that track OKR, KPI, and KRI metrics to measure implementation progress, adoption, and compliance with the CIB Data Standard and Technical Control Procedures
-* Enable Data\\-Driven Decision Making: Design and deliver intuitive visualizations and reporting solutions that provide stakeholders with clear visibility into metadata quality, lineage, and governance metricsâhighlighting areas requiring attention and driving prioritized action on remediation and compliance
-* Collaborate Across the Enterprise: Partner with Business Analysts, Data Management Owners, Application Owners, CIB Information Architecture teams, and other Lines of Business to understand requirements and deliver impactful solutions
-
-
-**Required Qualifications, Capabilities, And Skills**
-* Ideally the candidate will have minimum 3 years of experience in data integration, reporting, and/or analytics development.
-* Strong skills and demonstrable knowledge of developing metrics, dashboards, and reports using Qlik (primarily QlikSense) and Tableau
-* Experience in aggregating data from multiple sources (direct database access, API, files, etc.) into a consistent reporting data model
-* Use of ETL and ELT tools such as Pentaho, Informatica, Apache Spark, etc. Experience of and confidence in using SQL and Python to implement data integration and reporting solutions
-* Experience working with OLTP and OLAP databases as well as NoSQL databases
-* Understanding of Data Lake, Data Warehouse, and Data Lakehouse patterns, with experience working on implementations of these
-* Understanding of how to create reporting templates that are configurable
-* Experience reporting on metrics that measure how well teams are adopting and adhering to data standards and policies
-* An interest in data and an appreciation of the value it can bring to an organization when it is properly understood, organized, and governed
-* An understanding of the importance that Data Management and Governance play in the organization
-* Experience communicating unambiguously through multiple channels such as presentations, documents, workshops, and meetings
-
-
-**Preferred Qualifications, Capabilities, And Skills**
-* Self\\-starter with adaptability and comfort working in ambiguous, evolving environments
-* An understanding of and ideally experience and application of AI/ML techniques
-* Knowledge and experience of the Software Engineering Methodologies (e.g. Agile)
-* Understanding of regulatory frameworks and industry standards such as BCBS 239 (Basel Committee on Banking Supervision \\- Principles for effective risk data aggregation and risk reporting), GDPR, CCPA, or other relevant data governance and risk management standards
-* A curious and adaptable mindset, with the flexibility to navigate shifting priorities across concurrent workstreams and a willingness to challenge assumptions and bring fresh perspectives
-* An ability to envisage and compare potential solutions prior to implementation
-* Understanding of modern front\\-end frameworks and libraries such as React, along with UI toolkits like Bootstrap, to either create new or customize an existing reporting UX (e.g., dashboards)
-
-
-**ABOUT US**
- JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the worldâs most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+ You’ll also need:
    
 
   
 
- We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicantsâ and employeesâ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+* A strong background in leading software development teams, introducing and executing technical strategies especially in the space of online banking and mobile banking platforms
+* Knowledge of using industry recognised frameworks and development tooling especially in the banking and finance industry
+* Experience of test\\-driven development and using automated test frameworks, mocking and stubbing and unit testing tools
+* A background in designing or implementing APIs
+* Experience of supporting, modifying and maintaining systems and code developed by teams other than your own
+* The ability to rapidly and effectively understand and translate product and business requirements into technical solutions","Banking, Software Development, and Investment Banking","https://uk.linkedin.com/company/natwest-group","https://media.licdn.com/dms/image/v2/C4E0BAQEA8k9x0NLXVw/company-logo_100_100/company-logo_100_100/0/1658409007559/natwest_group_logo?e=2147483647&v=beta&t=77U4pn7D2sdoWVtDxd-1OFNiFco375nnYIWapD6QRBA","","","","","","","","","","",""
+"li-4416002736","linkedin","https://www.linkedin.com/jobs/view/4416002736","","Senior software Engineer - ServiceNow Technology Engineer","CGI","Hyderabad, Telangana, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Position Description
    
 
   
 
-**About The Team**
- J.P. Morganâs Commercial \\& Investment Bank is a global leader across banking, markets, securities services and payments. Corporations, governments and institutions throughout the world entrust us with their business in more than 100 countries. The Commercial \\& Investment Bank provides strategic advice, raises capital, manages risk and extends liquidity in markets around the world.","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M","","","","","","","","","","",""
-"li-4404440382","linkedin","https://www.linkedin.com/jobs/view/4404440382","","Software Engineer III","hackajob","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","***hackajob** 
- is collaborating with
- **J.P. Morgan** 
- to connect them with exceptional professionals for this role.*
-**Job Description**
- We know that people want great value combined with an excellent experience from a bank they can trust, so we launched our digital bank, Chase UK, to revolutionise mobile banking with seamless journeys that our customers love. We're already trusted by millions in the US and we're quickly catching up in the UK – but how we do things here is a little different. We're building the bank of the future from scratch, channelling our start\\-up mentality every step of the way – meaning you'll have the opportunity to make a real impact.
+ At CGI, we’re a team of builders. We call our employees members because all who join CGI are building their own company \\- one that has grown to 72,000 professionals located in 40 countries. Founded in 1976, CGI is a leading IT and business process services firm committed to helping clients succeed. We have the global resources, expertise, stability and dedicated professionals needed to achieve. At CGI, we’re a team of builders. We call our employees members because all who join CGI are building their own company \\- one that has grown to 72,000 professionals located in 40 countries. Founded in 1976, CGI is a leading IT and business process services firm committed to helping clients succeed. We have the global resources, expertise, stability and dedicated professionals needed to achieve results for our clients \\- and for our members. Come grow with us. Learn more at www.cgi.com.
    
 
   
 
- As a Software Engineer III at JPMorgan Chase within the International Consumer Bank, you will be joining our Cloud Platform Engineering tribe, which is at the heart of a cutting\\-edge cloud\\-native AWS infrastructure that powers the Chase UK bank that is trusted by over 2 million customers. You will be exposed to a wide spectrum of technologies such as Kubernetes clusters, connectivity, databases, kafka clusters, as well as numerous opportunities to create automations to eliminate toil and improve developer experience.
+ This is a great opportunity to join a winning team. CGI offers a competitive compensation package with opportunities for growth and professional development. Benefits for full\\-time, permanent members start on the first day of employment and include a paid time\\-off program and profit participation and stock purchase plans. We wish to thank all applicants for their interest and effort in applying for this position, however, only candidates selected for interviews will be contacted. No unsolicited agency referrals please.
    
 
   
 
- We're looking for people who have a curious mindset, thrive in collaborative squads, and are passionate about new technology. By their nature, our people are also solution\\-oriented, commercially savvy and have a head for fintech. We work in tribes and squads that focus on specific products and projects – and depending on your strengths and interests, you'll have the opportunity to move among squads within the tribe.
+ Role: Service now developer
    
 
   
-
-**Job Responsibilities**
-* Maintain our AWS cloud infrastructure to ensure the bank’s 24/7 operation with a focus on stability, performance, security and compliance
-* Maintain and improve stability, security and performance of connectivity for our customers, in\\-between AWS accounts, as well as in\\-between Chase and third parties
-* Maintain existing deployment pipeline and migrate to strategic CI/CD tooling using a variety of programming languages (Bash/Python/Go) as necessary
-* Maintain a cloud platform for application developers and provide support to improve their SDLC and developer experience
-* Participate in on\\-call rota
-
-
-**Required Qualifications, Capabilities, And Skills**
-* Experience developing and maintaining applications in the public cloud (we use AWS)
-* Experience managing public cloud infrastructure using infra\\-as\\-code technologies (we use Terraform)
-* Good knowledge of AWS Networking
-* Good knowledge of Kubernetes clusters' operations (we use EKS)
-* Good knowledge of programming using a modern language (Python/Go)
-* Experience in developing and maintaining CI/CD pipelines that covers the full SDLC
-* Excellent understanding of DevOps principles and SDLC best practices
-* Excellent communication and collaboration skills
-* Strong analytical and problem\\-solving abilities
 
-
-**Preferred Qualifications, Capabilities, And Skills**
-* Familiar with software engineering security best practices in a cloud environment
-* Experience developing unit, integration and end\\-to\\-end software tests
-
-
- \\#ICBCareers \\#ICBEngineering
+ Years of experience: 5\\+ years
    
 
   
 
-**About Us**
- JPMorganChase, one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world’s most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+ Work location: Hyderabad
    
 
   
 
- We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants’ and employees’ religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+**Job Summary**
+ The ServiceNow Technology professional is responsible for the design, development, configuration, administration, and operational governance of the ServiceNow platform. This role ensures stable, scalable, and secure delivery of ServiceNow capabilities across IT Service Management (ITSM), IT Operations Management (ITOM), IT Asset Management (ITAM), and related enterprise workflows. The position partners closely with infrastructure, application, security, and business teams to enable standardized processes, automation, and data integrity across environments.
    
 
   
 
-**About The Team**
- Our Corporate Technology team relies on smart, driven people like you to develop applications and provide tech support for all our corporate functions across our network. Your efforts will touch lives all over the financial spectrum and across all our divisions: Global Finance, Corporate Treasury, Risk Management, Human Resources, Compliance, Legal, and within the Corporate Administrative Office. You’ll be part of a team specifically built to meet and exceed our evolving technology needs, as well as our technology controls agenda.","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M","","","","","","","","","","",""
-"li-4415409308","linkedin","https://www.linkedin.com/jobs/view/4415409308","","Software Engineer","hackajob","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"director","Engineering and Information Technology","","","***hackajob** 
- is collaborating with
- **Barclays** 
- to connect them with exceptional professionals for this role.*
- Join us as a Software Engineer at Barclays, where you'll spearhead the evolution of our digital landscape, driving innovation and excellence. You'll harness cutting\\-edge technology to revolutionise our digital offerings, ensuring unparalleled customer experiences. As a part of the team, you will deliver technology stack, using strong analytical and problem solving skills to understand the business requirements and deliver quality solutions. You'll be working on complex technical problems that will involve detailed analytical skills and analysis. This will be done in conjunction with fellow engineers, business analysts and business stakeholders.
+ Key Responsibilities
    
 
   
 
- To be successful as a Software Engineer, you should have experience with:
+ Platform Engineering, Development \\& Administration
    
 
   
-
-**Essential Skills**
-* Strong software engineering experience with strong depth in Android development.
-* Expert\\-level experience in Kotlin, Android SDK, and modern Android app architecture.
-* Hands\\-on experience with Jetpack components (ViewModel, LiveData/Flow, Navigation, Compose is a plus).
-* Strong understanding of mobile security, secure storage, encryption, certificates, and OWASP Mobile Top 10\\.
-* Experience integrating with RESTful APIs, OAuth2/OpenID Connect, and event\\-driven backends.
-* Proven experience leading teams and owning delivery for business\\-critical mobile applications.
-* Solid understanding of CI/CD pipelines, Git\\-based workflows, and automation\\-first engineering.
 
+* Design, develop, configure, and customize ServiceNow applications and platform capabilities using industry best practices.
+* Configure and extend core ServiceNow modules such as Incident, Problem, Change, Request, Service Catalog, CMDB, and Knowledge Management.
+* Develop and maintain workflows, Flow Designer flows, business rules, UI policies, client scripts, and server\\-side scripts using JavaScript.
 
-**Desired Skills**
-* Experience in banking, financial services, or regulated environments.
-* Exposure to super\\-apps, micro\\-frontend / modular mobile architecture, or multi\\-journey apps.
-* Familiarity with DORA metrics, engineering productivity metrics, and reliability engineering.
-* Experience with crash analytics tools, performance monitoring, and feature toggles.
-* Knowledge of accessibility standards (WCAG) and inclusive design.
 
-
- You may be assessed on key critical skills relevant for success in role, such as risk and controls, change and transformation, business acumen, strategic thinking and digital and technology, as well as job\\-specific technical skills.
+ Your future duties and responsibilities
    
 
   
 
- This role is based in Pune.
-   
+* Design and support integrations with enterprise systems using REST, SOAP, APIs, MID Server, and data sources.
+* Support CMDB and CSDM implementations, including data modeling, reconciliation, discovery, and data integrity.
+* Enable automation and orchestration to reduce manual effort and improve service delivery efficiency.
 
-  
 
-**Purpose of the role**
- Facilitates and supports Agile teams by ensuring they follow Scrum principles. To remove obstacles, enhance team collaboration, and ensure smooth communication, enabling the team to focus on delivering high\\-quality, iterative results. Facilitate Scrum events, promote continuous improvement, and act as a bridge between the team and external stakeholders.
+ Platform Operations \\& Stability
    
 
   
 
-**Accountabilities**
-* Facilitate Events: Facilitate events, as needed, and ensure that all events take place and are positive, productive, and kept within the timebox
-* Support Iteration Execution: Ensure quality of ceremony artefacts and continuous customer value through iteration execution, maintain backlog refinement, and iterate on stakeholder feedback
-* Optimize Flow: Identify and facilitate the removal of conflict impacting team flow, utilizing metrics to empower the team to communicate effectively, making all work visible
-* Mitigate Risks: Identify and escalate risks to remove impediments and shield the Squad from interruptions
-* Build High\\-Performing Teams: Foster and coach Agile Team attributes and continuous improvement, encourage stakeholder collaboration, deputise ‘in the moment leadership’, and drive high\\-performing team attributes
-* Stakeholder Management: Facilitate stakeholder collaboration (e.g., business stakeholders, product teams, vendors) and build trust with stakeholders
-* Governance and Reporting: Ensure data quality and provide representation at required governance forums, if applicable
+* Support ServiceNow environment health across development, test, and production instances.
+* Perform platform upgrades, patching, and release management activities in alignment with organizational change controls.
+* Monitor system performance and availability, proactively addressing risks to reduce service degradation or outages.
 
 
-**Assistant Vice President Expectations**
- To advise and influence decision making, contribute to policy development and take responsibility for operational effectiveness. Collaborate closely with other functions/ business divisions.
+ Reporting, Dashboards \\& Analytics
    
 
   
 
- Lead a team performing complex tasks, using well developed professional knowledge and skills to deliver on work that impacts the whole business function. Set objectives and coach employees in pursuit of those objectives, appraisal of performance relative to objectives and determination of reward outcomes
-   
+* Develop dashboards, KPIs, and reports to provide operational visibility into service performance, compliance, and risk.
+* Partner with stakeholders to translate business requirements into measurable ServiceNow outcomes.
 
-  
 
- If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.
+ Collaboration \\& Delivery
    
 
   
 
- OR for an individual contributor, they will lead collaborative assignments and guide team members through structured assignments, identify the need for the inclusion of other areas of specialisation to complete assignments. They will identify new directions for assignments and/ or projects, identifying a combination of cross functional methodologies or practices to meet required outcomes.
-   
+* Work closely with product owners, architects, infrastructure teams, and business stakeholders to gather requirements and deliver technical solutions.
+* Participate in Agile/Scrum ceremonies, including grooming, sprint planning, testing, and retrospectives.
+* Create and maintain technical documentation for configurations, integrations, and platform standards.
 
-  
 
- Consult on complex issues; providing advice to People Leaders to support the resolution of escalated issues.
+**Required Qualifications To Be Successful In This Role**
+ Must ot have skills:
    
 
   
 
- Identify ways to mitigate risk and developing new policies/procedures in support of the control and governance agenda.
-   
+* Hands\\-on experience developing and supporting the ServiceNow platform.
+* Strong knowledge of ServiceNow scripting (JavaScript, Glide API).
+* Experience with ITSM and ITOM concepts and enterprise service workflows.
+* Experience with ServiceNow integrations (REST, SOAP, MID Server).
+* Working knowledge of CMDB, CSDM, and service data models.
 
-  
 
- Take ownership for managing risk and strengthening controls in relation to the work done.
+ Good to have :
    
 
   
 
- Perform work that is closely related to that of other areas, which requires understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub\\-function.
+ Familiarity with Agile and ITIL\\-based service delivery models.
    
 
   
 
- Collaborate with other areas of work, for business aligned support areas to keep up to speed with business activity and the business strategy.
+**Together, as owners, let’s turn meaningful insights into action.**
+ Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
    
 
   
 
- Engage in complex analysis of data from multiple sources of information, internal and external sources such as procedures and practises (in other areas, teams, companies, etc).to solve problems creatively and effectively.
+ You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
    
 
   
 
- Communicate complex information. 'Complex' information could include sensitive information or information that is difficult to communicate because of its content or its audience.
+ Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
    
 
   
 
- Influence or convince stakeholders to achieve outcomes.
+ You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well\\-being and provide you with opportunities to deepen your skills and broaden your horizons.
    
 
   
 
- All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave.","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M","","","","","","","","","","",""
-"li-4415897383","linkedin","https://www.linkedin.com/jobs/view/4415897383","","MTS/SMTS/LMTS - Software Engineer","Informatica Brasil","Hyderabad, Telangana, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","**Description**
- About Salesforce
+ Come join our team—one of the largest IT and business consulting services firms in the world.","IT Services and IT Consulting","https://ca.linkedin.com/company/cgi","https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI","","","","","","","","","","",""
+"li-4415896749","linkedin","https://www.linkedin.com/jobs/view/4415896749","","Agentic AI/ML Engineer with Telecommunications (Telco - OSS)","CGI","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Position Description
    
 
   
 
- We’re Salesforce, the Customer Company, inspiring the future of business with AI\\+ Data \\+CRM. Leading with our core values, we help companies across every industry blaze new trails and connect with customers in a whole new way. And, we empower you to be a Trailblazer, too — driving your performance and career growth, charting new paths, and improving the state of the world. If you believe in business as the greatest platform for change and in companies doing well and doing good– you’ve come to the right place.
+ Company Profile:
    
 
   
 
- Role Description
+ Founded in 1976, CGI is among the largest independent IT and business consulting services firms in the world. With 94,000 consultants and professionals across the globe, CGI delivers an end\\-to\\-end portfolio of capabilities, from strategic IT and business consulting to systems integration, managed IT and business process services and intellectual property solutions. CGI works with clients through a local relationship model complemented by a global delivery network that helps clients digitally transform their organizations and accelerate results. CGI Fiscal 2024 reported revenue is CA$14\\.68 billion and CGI shares are listed on the TSX (GIB.A) and the NYSE (GIB). Learn more at cgi.com.
    
 
   
 
- Salesforce has immediate opportunities for software developers who want their lines of code to have significant and measurable positive impact for users, the company's bottom line, and the industry. You will be working with a group of world\\-class engineers to build the breakthrough features our customers will love, adopt, and use while keeping our trusted CRM platform stable and scalable. The software engineer role at Salesforce encompasses architecture, design, implementation, and testing to ensure we build products right and release them with high quality.
+ Your future duties and responsibilities
    
 
   
 
- We pride ourselves on writing high quality, maintainable code that strengthens the stability of the product and makes our lives easier. We embrace the hybrid model and celebrate the individual strengths of each team member while cultivating everyone on the team to grow into the best version of themselves. We believe that autonomous teams with the freedom to make decisions will empower the individuals, the product, the company, and the customers they serve to thrive.
+ Job Title: Agentic AI/ML Engineer
    
 
   
 
- Your Impact
+ Position: Senior Software Engineer
    
 
   
 
- As a Senior Member of Technical Staff (SMTS), Software Engineering, your job responsibilities will include:
+ Experience: 4 \\- 7 Years
    
 
   
-
-* Build and ship high\\-quality, production\\-grade software using modern engineering practices, with AI as a core part of your development workflow by pushing the boundaries of AI development tools to deliver secure, optimized, and high\\-quality code.
-* Design and orchestrate complex systems where AI agents integrate seamlessly into human workflows, driving efficiency and innovation at scale.
-* Contribute to building and maintaining the shared system context, an explicit repository of system designs, constraints, and standards that enables AI to operate accurately and reliably.
-* Critically evaluate code (Human or AI\\-generated) for correctness, quality, security, and performance.
-
-
-**Required Skills**
-* A demonstrated, genuine AI\\-first approach to engineering. Using AI to move faster, build fluency across the stack, and contribute well beyond your core specialty.
-* Experience using AI tools (e.g., Claude Code, GitHub Copilot, Codex, Cursor, etc.) in development workflows.
-* Advanced prompt engineering skills and the ability to write precise, structured prompts and cultivate the system context that makes AI outputs reliable, secure, and production\\-ready.
-
-
-**Preferred Skills**
-* Experience with Big\\-Data/ML and S3
-* Hands\\-on experience with Streaming technologies like Kafka
-* Experience with Elastic Search
-* Experience with Terraform, Kubernetes, Docker
-* Experience working in a high\\-paced and rapidly growing multinational organization
 
-
-**Benefits \\& Perks**
-* Comprehensive benefits package including well\\-being reimbursement, generous parental leave, adoption assistance, fertility benefits, and more!
-* World\\-class enablement and on\\-demand training with Trailhead.com
-* Exposure to executive thought leaders and regular 1:1 coaching with leadership
-* Volunteer opportunities and participation in our 1:1:1 model for giving back to the community
-* For more details, visit https://www.salesforcebenefits.com/
-
-
- Unleash Your Potential
+ Position ID: J0526\\-0788
    
 
   
 
- When you join Salesforce, you’ll be limitless in all areas of your life. Our benefits and resources support you to find balance and be your best, and our AI agents accelerate your impact so you can do your best. Together, we’ll bring the power of Agentforce to organizations of all sizes and deliver amazing experiences that customers love. Apply today to not only shape the future — but to redefine what’s possible — for yourself, for AI, and the world.
+ Category: Software Development
    
 
   
 
- At Salesforce, we strive to create an accessible and inclusive experience for all candidates.
+ Shift: General Shift
    
 
   
 
- If you need a reasonable accommodation during the application or the recruiting process, please submit a request via this Accommodation Request Form.
+ Work Mode: Work from office all 5 Days
    
 
   
 
- Please note that Salesforce uses artificial intelligence (AI) tools to help our recruiters assess and evaluate candidates’ resumes and qualifications throughout the recruiting process. Humans will always make any candidate selection and hiring decisions. Please see our Candidate Privacy Statement for more information about how we use your personal data and your rights, including with regard to use of AI tools and opt out options.
+ Primary location: Chennai, India
    
 
   
 
- Equal Opportunity Statement.
+ CGI Office: DLF Chennai
    
 
   
 
- Salesforce is an equal opportunity employer and maintains a policy of non\\-discrimination with all employees and applicants for employment. What does that mean exactly? It means that at Salesforce, we believe in equality for all. And we believe we can lead the path to equality in part by creating a workplace that’s inclusive, and free from discrimination. Know your rights: workplace discrimination is illegal. Any employee or potential employee will be assessed on the basis of merit, competence and qualifications – without regard to race, religion, color, national origin, sex, sexual orientation, gender expression or identity, transgender status, age, disability, veteran or marital status, political viewpoint, or other classifications protected by law. This policy applies to current and prospective employees, no matter where they are in their Salesforce employment journey. It also applies to recruiting, hiring, job assignment, compensation, promotion, benefits, training, assessment of job performance, discipline, termination, and everything in between. Recruiting, hiring, and promotion decisions at Salesforce are fair and based on merit. The same goes for compensation, benefits, promotions, transfers, reduction in workforce, recall, training, and education.
+ Client location: Kandanchavady, Old Mahabalipuram Road, Chennai
    
 
   
 
-**Salesforce welcomes all.**
- In the United States, compensation offered will be determined by factors such as location, job level, job\\-related knowledge, skills, and experience. Salesforce offers a variety of benefits to help you live well including: time off programs, medical, dental, vision, mental health support, paid parental leave, life and disability insurance, 401(k), and an employee stock purchasing program. More details about company benefits can be found at the following link: https://www.salesforcebenefits.com.","Software Development","https://br.linkedin.com/showcase/informatica-brasil/","https://media.licdn.com/dms/image/v2/C4D0BAQEv2wNYjnHRWQ/company-logo_100_100/company-logo_100_100/0/1631302305781?e=2147483647&v=beta&t=YfZvVq5Hs66V13yrMZfst7_uZbEDMPn2xFsxx1tYyYQ","","","","","","","","","","",""
-"li-4415411255","linkedin","https://www.linkedin.com/jobs/view/4415411255","","Software Engineer - FullStack","hackajob","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","***hackajob** 
- is collaborating with
- **Barclays** 
- to connect them with exceptional professionals for this role.*
- Join us as an Engineering Lead. At Barclays, innovation isn’t just encouraged; it’s expected. You will be required to have an experience in SOLD Simplification. It is a multiyear initiative to make the platform compliant to most valuable environment, hardware refresh and removing redundant functionalities. You will be required to lead the overall engineering \\& development of this initiative. You will be an Engineering Lead and required to coordinate \\& support requirement Discovery, initiative \\& delivery planning, roadmap and stakeholder management.
+ Employment Type: Full Time
    
 
   
 
- To be successful as an Engineering Lead
- **,** 
- you should have experience with:
+ Education : BE/B.tech/ME/M.Tech
    
 
   
-
-* You should be required to be proficient in Java/J2EE tech stack.
-* Must have expertise in “Agile” Software development methodology.
-* Good hands\\-on designing and development using SOLID Design principles.
-* Exposure to new age tech\\-stack like Spring AI.
-* Hands on experience on software development consisting of the following languages and technologies:
-+ Java, J2EE, Spring Boot.
-+ Angular CLI, React.
-+ CSS. CSS pre\\-processors.
-+ Node.js.
 
-* You should be expected to have excellent communication skills and stakeholder management skills.
-* Also required an exposure of migrating legacy platforms to modern stack.
-
-
-**Some Other Highly Valued Skills May Include**
-* Java 21, good experience in Core Java, multi\\-threading processing.
-* RESTful API, Spring Batch, Microservices Architecture.
-* Good experience in Database queries and Unix commands.
-* Build and Deployment tools (CI/CD, Jenkins, Team\\-city).
-* Understanding of JIRA and Confluence process.
-
-
- You may be assessed on the key critical skills relevant for success in role, such as risk and controls, change and transformation, business acumen strategic thinking and digital and technology, as well as job\\-specific technical skills.
+**Required Qualifications To Be Successful In This Role**
+ Position Description:
    
 
   
 
- This role is based in our Pune office.
+ We are looking for an experienced Agentic AI/ML Engineer with strong Telecom Network domain expertise to drive intelligent automation and analytics across network operations. The role focuses on applying AI/ML techniques to OSS platforms (e.g., NetAct), RAN/Core networks, and network data to improve performance, reliability, and operational efficiency.
    
 
   
 
-**Purpose of the role**
- To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues.
+ The ideal candidate should have a blend of AI/ML capabilities, telecom domain understanding, and data engineering exposure, with the ability to convert business/network problems into scalable AI solutions.
    
 
   
-
-**Accountabilities**
-* Development and delivery of high\\-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance.
-* Cross\\-functional collaboration with product managers, designers, and other engineers to define software requirements, devise solution strategies, and ensure seamless integration and alignment with business objectives.
-* Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing.
-* Stay informed of industry technology trends and innovations and actively contribute to the organization’s technology communities to foster a culture of technical excellence and growth.
-* Adherence to secure coding practices to mitigate vulnerabilities, protect sensitive data, and ensure secure software solutions.
-* Implementation of effective unit testing practices to ensure proper code design, readability, and reliability.
 
-
-**Vice President Expectations**
-* To contribute or set strategy, drive requirements and make recommendations for change. Plan resources, budgets, and policies; manage and maintain policies/ processes; deliver continuous improvements and escalate breaches of policies/procedures..
-* If managing a team, they define jobs and responsibilities, planning for the department’s future needs and operations, counselling employees on performance and contributing to employee pay decisions/changes. They may also lead a number of specialists to influence the operations of a department, in alignment with strategic as well as tactical priorities, while balancing short and long term goals and ensuring that budgets and schedules meet corporate requirements..
-* If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others..
-* OR for an individual contributor, they will be a subject matter expert within own discipline and will guide technical direction. They will lead collaborative, multi\\-year assignments and guide team members through structured assignments, identify the need for the inclusion of other areas of specialisation to complete assignments. They will train, guide and coach less experienced specialists and provide information affecting long term profits, organisational risks and strategic decisions..
-* Advise key stakeholders, including functional leadership teams and senior management on functional and cross functional areas of impact and alignment.
-* Manage and mitigate risks through assessment, in support of the control and governance agenda.
-* Demonstrate leadership and accountability for managing risk and strengthening controls in relation to the work your team does.
-* Demonstrate comprehensive understanding of the organisation functions to contribute to achieving the goals of the business.
-* Collaborate with other areas of work, for business aligned support areas to keep up to speed with business activity and the business strategies.
-* Create solutions based on sophisticated analytical thought comparing and selecting complex alternatives. In\\-depth analysis with interpretative thinking will be required to define problems and develop innovative solutions.
-* Adopt and include the outcomes of extensive research in problem solving processes.
-* Seek out, build and maintain trusting relationships and partnerships with internal and external stakeholders in order to accomplish key business objectives, using influencing and negotiating skills to achieve outcomes.
-
-
- All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave.","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M","","","","","","","","","","",""
-"li-4415412238","linkedin","https://www.linkedin.com/jobs/view/4415412238","","Software Engineer-JAVA Full stack Developer","hackajob","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","***hackajob** 
- is collaborating with
- **Barclays** 
- to connect them with exceptional professionals for this role.*
- Join us as a Software Engineer\\-JAVA Full stack Developer at Barclays, where you'll spearhead the evolution of our digital landscape, driving innovation and excellence. You'll harness cutting\\-edge technology to revolutionize our digital offerings, ensuring unapparelled customer experiences. You will be involved in design, develop and improve software, utilizing various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues.
+ Analyse existing applications and systems to identify opportunities for AI\\-driven enhancements, and drive AI\\-led innovation by proposing high\\-impact use cases to improve operational efficiency, automation, and overall system performance.
    
 
   
 
- To be a successful Software Engineer\\-JAVA Full stack Developer, you should have experience with:
+ Key Responsibilities :
    
 
   
-
-* Development, and delivery of high quality AEM solutions using industry aligned technologies including AEM Sites, Adobe Core Components, OSGi, Sling, JCR, Java (8–21\\), HTL, client side frameworks, and cloud native patterns. Ensure code is scalable, maintainable, secure, and optimized for performance.
-* Implement complex AEM capabilities such as multisite management (MSM), language copy, live copy customization, editable templates, and experience fragments.
-* Technical leadership across the full AEM development lifecycle, including estimations, development, code reviews, CI/CD pipelines, deployments, LTS upgrades, and production support across Author and Publish environments.
-* Cross functional collaboration with product owners, architects, QA, DevOps, and other engineering teams to define requirements, and ensure seamless integration aligned with business and platform objectives.
-* Lead and mentor development teams, promoting engineering best practices, reusable components, AEM patterns, performance optimization, and a strong quality first mindset.
-* Code quality and governance ownership, enforcing standards through peer reviews, static analysis, secure coding practices, and adherence to enterprise AEM development and release guidelines.
-* Stay informed of AEM platform evolution, including LTS releases, service packs, Java upgrades, Cloud Manager changes, deprecations, and Adobe recommended best practices. Contribute to internal communities and knowledge sharing initiatives.
-* Security and compliance responsibility, ensuring secure handling of content and data using XSS protection, Anti Samy, Granite security framework, ACLs, service users, and secret management.
-* Testing and reliability, implementing effective unit, integration, and automated testing strategies using JUnit 5, Mockito, AEM Mocks, Sling Testing Tools, and UI/functional automation.
 
+* AI/ML Solution Development for Telecom
+* Design and implement AI/ML models for telecom use cases such as
+* Network anomaly detection
+* Fault prediction and root cause analysis
+* Traffic forecasting and capacity optimization
+* Predictive maintenance
+* Work with structured and unstructured network data (KPIs, alarms, logs, performance metrics)
+* Telecom Domain Integration (OSS / RAN / Core)
+* Work closely with OSS platforms (e.g., NetAct), SON, and network management systems
+* Understand RAN/Core network architecture and integrate AI models into operational workflows
+* Translate network\\-level challenges into data\\-driven solutions
+* AI\\-Driven Automation \\& AIOps
+* Implement AIOps capabilities for:
+* Enable closed\\-loop automation using AI insights
+* Data Engineering \\& Pipeline Development
+* Build and manage data pipelines for ingesting telecom data from multiple sources
+* Work with big data technologies (e.g., Spark, Kafka, Hadoop – preferred)
+* Ensure data quality, preprocessing, and feature engineering
+* AI Integration in DevOps / CI\\-CD
+* Integrate AI models into CI/CD pipelines for continuous deployment and monitoring
+* Enable model lifecycle management (MLOps)
+* Work with containerized environments (Docker, Kubernetes)
+* Stakeholder Collaboration
+* Collaborate with:
+* Participate in use case identification, solution design, and implementation discussions
+* Governance, Security \\& Compliance
+* Ensure compliance with data privacy, security, and telecom regulations
+* Implement best practices for model governance and explainability
 
-**Some Other Highly Valued Skills May Include**
-* Development and delivery of high\\-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance.
-* Cross\\-functional collaboration with product managers, designers, and other engineers to define software requirements, devise solution strategies, and ensure seamless integration and alignment with business objectives.
-* Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing.
-
-
- You may be assessed on key critical skills relevant for success in role, such as risk and controls, change and transformation, business acumen, strategic thinking and digital and technology, as well as job\\-specific technical skills.
-   
-
-  
 
- This role is based out of Bangalore.
+ Must\\-Have Skills :
    
 
   
 
-**Purpose of the role**
- To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues.
+ AI / ML
    
 
   
 
-**Accountabilities**
-* Development and delivery of high\\-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance.
-* Cross\\-functional collaboration with product managers, designers, and other engineers to define software requirements, devise solution strategies, and ensure seamless integration and alignment with business objectives.
-* Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing.
-* Stay informed of industry technology trends and innovations and actively contribute to the organization’s technology communities to foster a culture of technical excellence and growth.
-* Adherence to secure coding practices to mitigate vulnerabilities, protect sensitive data, and ensure secure software solutions.
-* Implementation of effective unit testing practices to ensure proper code design, readability, and reliability.
+* Strong experience in Machine Learning / Deep Learning
+* Hands\\-on with Python (NumPy, Pandas, Scikit\\-learn, TensorFlow/PyTorch)
+* Experience in time\\-series analysis, anomaly detection, predictive modeling
 
 
-**Assistant Vice President Expectations**
-* To advise and influence decision making, contribute to policy development and take responsibility for operational effectiveness. Collaborate closely with other functions/ business divisions.
-* Lead a team performing complex tasks, using well developed professional knowledge and skills to deliver on work that impacts the whole business function. Set objectives and coach employees in pursuit of those objectives, appraisal of performance relative to objectives and determination of reward outcomes
-* If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.
-* OR for an individual contributor, they will lead collaborative assignments and guide team members through structured assignments, identify the need for the inclusion of other areas of specialisation to complete assignments. They will identify new directions for assignments and/ or projects, identifying a combination of cross functional methodologies or practices to meet required outcomes.
-* Consult on complex issues; providing advice to People Leaders to support the resolution of escalated issues.
-* Identify ways to mitigate risk and developing new policies/procedures in support of the control and governance agenda.
-* Take ownership for managing risk and strengthening controls in relation to the work done.
-* Perform work that is closely related to that of other areas, which requires understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub\\-function.
-* Collaborate with other areas of work, for business aligned support areas to keep up to speed with business activity and the business strategy.
-* Engage in complex analysis of data from multiple sources of information, internal and external sources such as procedures and practises (in other areas, teams, companies, etc).to solve problems creatively and effectively.
-* Communicate complex information. 'Complex' information could include sensitive information or information that is difficult to communicate because of its content or its audience.
-* Influence or convince stakeholders to achieve outcomes.
-
-
- All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave.","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M","","","","","","","","","","",""
-"li-4415403397","linkedin","https://www.linkedin.com/jobs/view/4415403397","","Software Engineer II - Java & AWS, OPICS/Murex/Calypso","hackajob","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","***hackajob** 
- is collaborating with
- **J.P. Morgan** 
- to connect them with exceptional professionals for this role.*
-**Job Description**
- Youâre ready to gain the skills and experience needed to grow within your role and advance your career â and we have the perfect software engineering opportunity for you.
-   
-
-  
-
- As a Software Engineer II at JPMorganChase within the Commercial \\& Investment Bank, you are part of an agile team that works to enhance, design, and deliver the software components of the firmâs state\\-of\\-the\\-art technology products in a secure, stable, and scalable way. As an emerging member of a software engineering team, you execute software solutions through the design, development, and technical troubleshooting of multiple components within a technical product, application, or system, while gaining the skills and experience needed to grow within your role.
+ Telecom Domain
    
 
   
-
-**Job Responsibilities**
-* Executes standard software solutions, design, development, and technical troubleshooting
-* Writes secure and high\\-quality code using the syntax of at least one programming language with limited guidance
-* Designs, develops, codes, and troubleshoots with consideration of upstream and downstream systems and technical implications
-* Applies knowledge of tools within the Software Development Life Cycle toolchain to improve the value realized by automation
-* Applies technical troubleshooting to break down solutions and solve technical problems of basic complexity
-* Gathers, analyzes, and draws conclusions from large, diverse data sets to identify problems and contribute to decision\\-making in service of secure, stable application development
-* Learns and applies system processes, methodologies, and skills for the development of secure, stable code and systems
-* Adds to team culture of diversity, opportunity, inclusion, and respect
-
-
-**Required Qualifications, Capabilities, And Skills**
-* Formal training or certification on software engineering concepts and 2\\+ years applied experience
-* Hands\\-on practical experience in system design, application development, testing, and operational stability
-* Experience in developing, debugging, and maintaining code in a large corporate environment with one or more modern programming languages and database querying languages
-* Demonstrable ability to code in Java, Spring Boot, RDBMS, MSSQL
-* Prior experience with Treasury / Trading systems (OPICS, Murex, Calypso, or similar)
-* Experience with AI/ML tooling and automation â LLMs, GitHub Copilot, intelligent agents
-* Experience across the whole Software Development Life Cycle
-* Exposure to agile methodologies such as CI/CD, Application Resiliency, and Security
-* Emerging knowledge of software applications and technical processes within a technical discipline (e.g., cloud, artificial intelligence, machine learning, mobile, etc.)
 
+* Strong understanding of:
+* Hands\\-on exposure to OSS tools (e.g., NetAct, SON, EMS/NMS) is a strong advantage
 
-**Preferred Qualifications, Capabilities, And Skills**
-* Familiarity with modern front\\-end technologies
-* Exposure to cloud technologies
-* Knowledge of Fixed Income instruments â Money Markets, Repos, Bonds, Derivatives
 
-
-**ABOUT US**","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M","","","","","","","","","","",""
-"li-4416005253","linkedin","https://www.linkedin.com/jobs/view/4416005253","","Senior Software Engineer","Clarivate","","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Responsibilities**
-* Write clean, efficient, and maintainable code in accordance with coding standards.
-* Review other code to ensure clean, efficient, and maintainable code.
-* Define architecture of software solution.
-* Suggest alternative methodologies or techniques to achieve desired results.
-* Develop and maintain understanding of software development lifecycle and delivery methodology.
-* Review and revise new procedures as needed for the continuing development of high\\-quality systems.
-* Maintain knowledge of technical advances and evaluates new hardware / software for company use.
-* Follow departmental policies, procedures, and work instructions.
-* Work closely with higher\\-level engineers to increase functional knowledge.
-* Automate tests and unit test all assigned applications.
-* Participate as a team member on various engineering projects.
-* Write application technical documentation.
-
-
-**Minimum Qualifications**
-* Bachelor’s Degree or equivalent in Computer Science, Software Engineering, or related field
-* 3 Years of Relevant Experience
-
-
-**Job Category Summary**
- Designs, develops, codes and customizes software applications from product conception to end user interface. Analyzes and understands customer requirements and preferences, incorporating these into the design and development process.
-   
-
-  
-
- At Clarivate, we are committed to providing equal employment opportunities for all qualified persons with respect to hiring, compensation, promotion, training, and other terms, conditions, and privileges of employment. We comply with applicable laws and regulations governing non\\-discrimination in all locations.","Information Services","https://uk.linkedin.com/company/clarivate","https://media.licdn.com/dms/image/v2/D4E0BAQGK6Nxi15JuTQ/company-logo_100_100/company-logo_100_100/0/1719738209431/clarivate_logo?e=2147483647&v=beta&t=qg7_stRWj-fXHzFyDDtUD-_TWF_zBnbfvztAvDERAHY","","","","","","","","","","",""
-"li-4408508096","linkedin","https://www.linkedin.com/jobs/view/4408508096","","Cutover Manager","Capgemini","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Other","","","**Job Description**
- Works in the area of Software Engineering which encompasses the development maintenance and optimization of software solutions and applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He or she is responsible for the development and application of software engineering practice and knowledge in research design development and maintenance.3\\. He or she work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his or her software engineering discipline to reach standard software engineer skills expectations for the applicable role as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.Works in the area of Software Engineering, which encompasses the development, maintenance and optimization of software solutionsorapplications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. Heorshe is responsible for the development and application of software engineering practice and knowledge, in research, design, development and maintenance.3\\. Hisorher work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of hisorher software engineering discipline to reach standard software engineer skills expectations for the applicable role, as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
+ Data \\& Platforms
    
 
   
 
-**Job Description \\- Grade Specific**
- Is highly respected, experienced and trusted. Masters all phases of the software development lifecycle and applies innovation and industrialization. Shows a clear dedication and commitment to business objectives and responsibilities and to the group as a whole. Operates with no supervision in highly complex environments and takes responsibility for a substantial aspect of Capgeminis activity. Is able to manage difficult and complex situations calmly and professionally. Considers ˜the bigger picture when making decisions and demonstrates a clear understanding of commercial and negotiating principles in less easy situations. Focuses on developing long term partnerships with clients. Demonstrates leadership that balances business, technical and people objectives. Plays a significant part in the recruitment and development of people.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
-"li-4415406359","linkedin","https://www.linkedin.com/jobs/view/4415406359","","Sr. ServiceNow Business Analyst","Kyndryl India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Who We Are**
- At Kyndryl, we run and reimagine the mission\\-critical technology systems that drive advantage for the world’s leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI\\-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edge. For our people—Kyndryls—that means doing purposeful work that powers human progress. Join us and experience a flexible, supportive environment where your well\\-being is prioritized and your potential can thrive.
-   
+* Experience with:
+* Understanding of data pipelines and ETL processes
 
-  
 
-**The Role**
- Are you passionate about solving complex problems? Do you thrive in a fast\\-paced environment? Then there’s a good chance you will love being a part of our Software Engineering – Development team at Kyndryl, where you will be able to see the immediate value of your work.
+ DevOps / Cloud
    
 
   
 
- As a Software Engineering \\- Developer at Kyndryl, you will be at the forefront of designing, developing, and implementing cutting\\-edge software solutions. Your work will play a critical role in our business offering, your code will deliver value to our customers faster than ever before, and your attention to detail and commitment to quality will be critical in ensuring the success of our products.
-   
+* Exposure to:
+* Understanding of MLOps concepts
 
-  
 
- Using design documentation and functional programming specifications, you will be responsible for implementing identified components. You will ensure that implemented components are appropriately documented, unit\\-tested, and ready for integration into the final product. You will have the opportunity to architect the solution, test the code, and deploy and build a CI/CD pipeline for it.
+ Good\\-to\\-Have Skills
    
 
   
 
- As a valued member of our team, you will provide work estimates for assigned development work, and guide features, functional objectives, or technologies being built for interested parties. Your contributions will have a significant impact on our products' success, and you will be part of a team that is passionate about innovation, creativity, and excellence. Above all else, you will have the freedom to drive innovation and take ownership of your work while honing your problem\\-solving, collaboration, and automation skills. Together, we can make a difference in the world of cloud\\-based managed services.
-   
+* Experience with AIOps platforms or observability tools
+* Knowledge of 5G / ORAN ecosystems
+* Exposure to GenAI use cases (log analysis, RCA, automation assistants)
+* Familiarity with cloud platforms (AWS/Azure/GCP)
+* Understanding of network automation frameworks
 
-  
 
- Your Future at Kyndryl
+ Soft Skills
    
 
   
 
- The career path ahead is full of exciting opportunities to grow and advance within the job family. With dedication and hard work, you can climb the ladder to higher bands, achieving coveted positions such as Principal Engineer or Vice President of Software. These roles not only offer the chance to inspire and innovate, but also bring with them a sense of pride and accomplishment for having reached the pinnacle of your career in the software industry.
-   
+* Strong analytical and problem\\-solving mindset
+* Ability to work in cross\\-functional and global teams
+* Effective communication with both technical and business stakeholders
+* Proactive and ownership\\-driven approach
 
-  
 
-**Who You Are**
- You’re good at what you do and possess the required experience to prove it. However, equally as important – you have a growth mindset; keen to drive your own personal and professional development. You are customer\\-focused – someone who prioritizes customer success in their work. And finally, you’re open and borderless – naturally inclusive in how you work with others.
+ Key Success Metrics
    
 
   
-
-**Required Technical And Professional Experience**
-* X years of experience working as a software engineer on complex software projects
-* Excellent coding skills and solid development experience (Java, Python, .Net etc.) with debugging and problem\\-solving skills
-* Software development methodologies, with demonstrated experience developing scalable and robust software
-* Experienced in relational and NoSQL databases, data mapping, XML/JSON, Rest based web services
-* Knowledge of architecture design \\- Microservices architecture, containers (Docker \\& k8s), messaging queues
-* Deep understanding of OOP and Design patterns
-
 
-**Preferred Technical And Professional Experience**
-* Bachelor's degree in Computer Science, related technical field, or equivalent practical experience
-* Certification in one or more of the hyperscalers (Azure, AWS, and Google GCP) \\- otherwise, you can obtain certifications with Kyndryl
-* Experience with DevOps tools and modern engineering practices
+* Reduction in network incidents and MTTR
+* Improved prediction accuracy and model performance
+* Increased automation in network operations
+* Faster issue detection and resolution
+* Business impact through AI\\-driven insights
 
 
-**Being You**
- The “Kyn” in Kyndryl means kinship, which represents the strong bonds we have with each other, our customers and our communities. We focus on ensuring all Kyndryls feel included and we welcome people of all cultures, backgrounds, and experiences. Even if you don’t meet every requirement, we encourage you to apply. We believe in growth, and we’re excited to see what you can bring. At Kyndryl, employee feedback has told us that our number one driver of employee engagement is belonging. That sense of belonging — being a valued, respected, trusted member of the team — is fundamental to our culture and fueling great experiences for our customers. This dedication to welcoming everyone into our company means that Kyndryl gives you the ability to thrive and contribute to our culture of empathy and shared success. That’s The Kyndryl Way.
+ CGI is an equal opportunity employer. In addition, CGI is committed to providing accommodations for people with disabilities in accordance with provincial legislation. Please let us know if you require a reasonable accommodation due to a disability during any aspect of the recruitment process and we will work with you to address your needs.
    
 
   
 
-**What You Can Expect**
- Your career with us isn’t just a job—it’s an adventure with purpose. We offer a dynamic, hybrid\\-friendly culture that supports your well\\-being and empowers you to grow. Our Be Well programs are thoughtfully designed to support your financial, mental, physical, and social health—because we know that when you feel your best, you do your best.
+**Together, as owners, let’s turn meaningful insights into action.**
+ Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
    
 
   
 
- From your very first day, you’ll dive into impactful work that powers the systems our customers rely on every day. You won’t just contribute—you’ll make a difference, tackling meaningful projects that sharpen your skills and fuel your growth.
+ You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
    
 
   
 
- We’re here to champion your journey. With powerful tools to chart your career path, personalized development goals aligned with your ambitions, and continuous feedback to keep you inspired and on track, you’ll have everything you need to thrive and evolve. You’ll develop in\\-demand skills to grow your career and achieve your ambitions with access to cutting\\-edge learning opportunities—from certifications with Microsoft, Google, and Amazon to coaching and hands\\-on experiences. And through it all, you’ll be part of a culture that values empathy, restless learning, and a devotion to shared success.
+ Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
    
 
   
 
- We want you to thrive here—and we’re committed to helping you do just that. Ready to make an impact? Join us and help shape what’s next.
+ You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well\\-being and provide you with opportunities to deepen your skills and broaden your horizons.
    
 
   
 
-**Get Referred!**
- If you know someone that works at Kyndryl, when asked ‘How Did You Hear About Us’ during the application process, select ‘Employee Referral’ and enter your contact's Kyndryl email address.","IT Services and IT Consulting","https://in.linkedin.com/company/kyndryl-india","https://media.licdn.com/dms/image/v2/C4E0BAQGWCh-69Ran9Q/company-logo_100_100/company-logo_100_100/0/1639145885790?e=2147483647&v=beta&t=KuUT1PksGXChzkSHL-ghsrqbOZwYPyj0lqAGVFu7Vx0","","","","","","","","","","",""
+ Come join our team—one of the largest IT and business consulting services firms in the world.","IT Services and IT Consulting","https://ca.linkedin.com/company/cgi","https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI","","","","","","","","","","",""
