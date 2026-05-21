@@ -1,1513 +1,905 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4417396662","linkedin","https://www.linkedin.com/jobs/view/4417396662","","Devops Engineer - SDE-2","SiteRecon","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Following selection criteria will be followed \\-**
-* 4\\-7 YOE
-* Atleast 3 years of experience in the DevOps/Platform Engineering Role
-* Comfortable with WFO in Noida
-* Can join within 15 days
+"li-4417450363","linkedin","https://www.linkedin.com/jobs/view/4417450363","","Software Engineer (Backend, 1-3 YOE)","CredHive","Delhi, India","","fulltime","","","","","",False,"associate","Engineering and Information Technology","","","**Position Overview** 
 
 
-**About Us**
- SiteRecon is a B2B SaaS platform transforming property measurements for landscapers and snow removal contractors in the $176B US market. Using advanced AI on high\\-resolution aerial imagery, we’ve reduced measurement time from 1 week to 1 day, aiming for 1 hour with upcoming AI advancements.
-   
 
-  
 
-**Role Overview**
- We're looking for our founding Platform Engineer to build our infrastructure from the ground up. This isn't about maintaining existing systems \\- it's about architecting the foundation that will scale from thousands to millions of property measurements.
-   
+ We are a seed\\-funded startup focused on using state\\-of\\-the\\-art AI technologies to revolutionize the credit industry. Our team consists of experts in machine learning and software engineers who have worked at top\\-tier US tech companies like Apple, Amazon, etc , and we are passionate about using AI to improve access to credit information and due diligence for businesses. We have the product on the market, the first clients, and sufficient runway. We are looking for a skilled Software Engineer with a strong foundation in Python and experience in backend development and data processing. The ideal candidate will have at least two years of professional experience in software development, with a significant portion dedicated to Python programming.
+ 
+
+
 
   
 
- As our first dedicated Platform Engineer, you'll have the rare opportunity to make architectural decisions that will impact the company for years to come. You'll transform our current infrastructure into a world\\-class platform that balances the speed of a startup with the security standards of an enterprise.
-   
+
+
+
+
+**Key Responsibilities** 
+
+
+
+* **Backend Development:** 
+ Build, maintain, and optimize backend systems using Python. Ensure the reliability, efficiency, and scalability of our data services.
+* **Data Processing:** 
+ Develop and maintain processes for handling large datasets, including data collection, storage, transformation, and analysis.
+* **API Development:** 
+ Design and implement APIs that enable seamless data retrieval and manipulation for frontend applications.
+* **Collaboration and Integration:** 
+ Work with cross\\-functional teams to integrate backend services with other software systems and solutions within the company.
+* **Performance Tuning:** 
+ Monitor system performance, troubleshoot issues, and implement optimizations to improve system efficiency.
+* **Code Quality:** 
+ Maintain high code standards, write clean, well\\-documented, and testable code, and contribute to code reviews.
+
+
 
   
 
- You'll work directly with our CTO and engineering leadership to define our infrastructure philosophy. Every decision you make \\- from our CI/CD pipeline to our security architecture \\- will set the standard for how we build and ship software. This is a role for someone who wants to own outcomes, not just execute tasks.
-   
+
+
+
+
+**Qualifications** 
+
+
+
+* Bachelor’s degree in Computer Science, Engineering, or a related field.
+* At least 2 years of professional software development experience with a focus on Python.
+* Proven track record of backend development and creating efficient data processing pipelines.
+* Experience with RESTful API design and development.
+* Familiarity with SQL and NoSQL databases, as well as data modeling techniques.
+* Knowledge of software best practices, like Test\\-Driven Development (TDD) and Continuous Integration (CI).
+* Strong analytical skills and the ability to work in a team environment.
+* Excellent problem\\-solving abilities and attention to detail.
+
+
 
   
 
-**What Makes This Different**
-* Greenfield Opportunity: Design our platform architecture from first principles, making technology choices that will define our engineering culture
-* Direct Impact: Your work directly affects every engineer's productivity and our ability to serve customers. When you improve deployment time by 50%, everyone feels it
-* Full Ownership: Own the entire platform stack \\- from infrastructure to developer tools. No bureaucracy, no legacy systems, just building the right thing
-* Shape Engineering Culture: Define how we approach security, reliability, and developer experience. Your practices become our standards
 
+
+
+
+**What We Offer** 
+
+
+
+* An opportunity to work on challenging problems at the intersection of data and backend development.
+* A dynamic environment that fosters professional growth and learning.
+* Competitive salary and benefits package.","Financial Services","https://www.linkedin.com/company/credhive-fintech","https://media.licdn.com/dms/image/v2/D560BAQGa8ZA2uuWA7A/company-logo_100_100/company-logo_100_100/0/1726646137075/credhive_fintech_logo?e=2147483647&v=beta&t=SI9tfL7fm3XL-nq2-NoaV3vqM4yPcLBU3CfIGpvSQWo","","","","","","","","","","",""
+"li-4416362150","linkedin","https://www.linkedin.com/jobs/view/4416362150","","Graduate Engineer Trainee","Syensqo","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"internship","Analyst, Information Technology, and Engineering","","","Join us at Syensqo, where our IT team is gearing up to enhance its capabilities. We play a crucial role in the group's transformation—accelerating growth, reshaping progress, and creating sustainable shared value.
+   
+
+ Here at Syensqo, we're one strong team! Our commitment to accountability drives us as we work hard to deliver value for our customers and stakeholders. In our dynamic and collaborative work environment, we add a touch of enjoyment while staying true to our motto: reinvent progress.
+   
+
+ Come be part of our transformation journey and contribute to the change as a future team member.
+   
+
+**We are looking for:**
+ We are looking for passionate, driven, and curious graduating students to join our engineering team. As a Software Engineer, you will be part of a collaborative environment where you will design, develop, and deploy scalable software solutions that impact millions of users.
+   
 
 **Key Responsibilities**
-* Foundation Building
-* Architect our cloud platform on GCP from scratch, making crucial decisions on everything from network topology to data encryption strategies
-* Design and implement our first proper CI/CD pipeline that takes us from 30\\-minute deployments to sub\\-5 minute deployments
-* Build our infrastructure\\-as\\-code foundation using Terraform, establishing patterns that will be used for years
-* Security \\& Compliance Architecture
-* Lead our SOC2 compliance journey by building security into every layer of our infrastructure
-* Implement customer\\-managed encryption and zero\\-trust networking as foundational principles, not afterthoughts
-* Create automated security scanning and remediation systems that make compliance invisible to developers
-* Developer Platform Creation
-* Build the self\\-service platform that lets developers provision infrastructure in minutes, not days
-* Create golden paths that make the secure, scalable choice the default choice
-* Design observability systems that give developers superpowers in production
-* Scale Preparation
-* Architect systems that can handle 100x growth without major rewrites
-* Build cost optimization into our DNA \\- making smart resource decisions early
-* Create disaster recovery and backup systems before we need them
+* Software Development: Write clean, maintainable, and efficient code in languages such as Java, C\\+\\+, Python, or Go.
+* System Design: Assist in designing and documenting architectural components and APIs.
+* Problem Solving: Collaborate with senior engineers to troubleshoot complex technical issues and optimize system performance.
+* Quality Assurance: Participate in code reviews and write unit tests to ensure high software quality.
+* Continuous Learning: Stay up\\-to\\-date with emerging technologies and apply them to improve our product ecosystem.
 
 
-**You're Right For This If You**
-* Want to be ""the DevOps person"" everyone comes to, not just another engineer on the team
-* Get excited about making architectural decisions that will matter for years
-* Believe infrastructure should be invisible when it works and helpful when it doesn't
-* Can balance startup speed with enterprise reliability
-* Want to build the platform you wish you had at your last company
+**Education And Experience**
+* Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Information Technology, or a related technical field (Graduating in 2026\\).
+* Core Fundamentals: Strong understanding of Data Structures, Algorithms, and Object\\-Oriented Programming (OOP) principles
+* Technical Skills: Familiarity with at least one modern programming language.
+* Communication: Excellent verbal and written communication skills with the ability to explain technical concepts clearly.
+* Language skills Fluent English
 
 
- What You'll Build in Year One
+**What’s In It For The Candidate**
+* Be part of a highly motivated global team of explorers
+* Mentorship: Direct guidance from industry veterans and structured onboarding.
+* Growth: A clear career path with opportunities for rapid advancement.
+
+
+**Culture:** 
+ A diverse, inclusive, and high\\-energy workplace that values innovation over hierarchy.","Chemical Manufacturing","https://be.linkedin.com/company/syensqo","https://media.licdn.com/dms/image/v2/D4E0BAQHpj1OMA4ZELw/company-logo_100_100/B4EZbngZP2HMAQ-/0/1747640751537/syensqo_logo?e=2147483647&v=beta&t=Cc106nNLxcrYLmlhjzII-L1uoAd5Rg4yxIF1VqVtdhQ","","","","","","","","","","",""
+"li-4416366058","linkedin","https://www.linkedin.com/jobs/view/4416366058","","Graduate Engineer Trainee","Syensqo","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"internship","Analyst, Information Technology, and Engineering","","","Syensqo is all about chemistry. We’re not just referring to chemical reactions here, but also to the magic that occurs when the brightest minds get to work together. This is where our true strength lies. In you. In your future colleagues and in all your differences. And of course, in your ideas to improve lives while preserving our planet’s beauty for the generations to come.
+   
+
+ Join us at Syensqo, where our IT team is gearing up to enhance its capabilities. We play a crucial role in the group's transformation—accelerating growth, reshaping progress, and creating sustainable shared value.
+   
+
+ Here at Syensqo, we're one strong team! Our commitment to accountability drives us as we work hard to deliver value for our customers and stakeholders. In our dynamic and collaborative work environment, we add a touch of enjoyment while staying true to our motto: reinvent progress.
+   
+
+ Come be part of our transformation journey and contribute to the change as a future team member.
+   
+
+**We are looking for:**
+ We are looking for passionate, driven, and curious graduating students to join our engineering team. As a Software Engineer, you will be part of a collaborative environment where you will design, develop, and deploy scalable software solutions that impact millions of users.
+   
+
+**Key Responsibilities**
+* Software Development: Write clean, maintainable, and efficient code in languages such as Java, C\\+\\+, Python, or Go.
+* System Design: Assist in designing and documenting architectural components and APIs.
+* Problem Solving: Collaborate with senior engineers to troubleshoot complex technical issues and optimize system performance.
+* Quality Assurance: Participate in code reviews and write unit tests to ensure high software quality.
+* Continuous Learning: Stay up\\-to\\-date with emerging technologies and apply them to improve our product ecosystem.
+
+
+**Education And Experience**
+* Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Information Technology, or a related technical field (Graduating in 2026\\).
+* Core Fundamentals: Strong understanding of Data Structures, Algorithms, and Object\\-Oriented Programming (OOP) principles
+* Technical Skills: Familiarity with at least one modern programming language.
+* Communication: Excellent verbal and written communication skills with the ability to explain technical concepts clearly.
+* Language skills Fluent English
+
+
+**What’s In It For The Candidate**
+* Be part of a highly motivated global team of explorers
+* Mentorship: Direct guidance from industry veterans and structured onboarding.
+* Growth: A clear career path with opportunities for rapid advancement.
+
+
+**Culture:** 
+ A diverse, inclusive, and high\\-energy workplace that values innovation over hierarchy.
+   
+
+**About Us**
+* Syensqo is a science company developing groundbreaking solutions that enhance the way we live, work, travel and play. Inspired by the scientific councils which Ernest Solvay initiated in 1911, we bring great minds together to push the limits of science and innovation for the benefit of our customers, with a diverse, global team of more than 13,000 associates. Our solutions contribute to safer, cleaner, and more sustainable products found in homes, food and consumer goods, planes, cars, batteries, smart devices and health care applications. Our innovation power enables us to deliver on the ambition of a circular economy and explore breakthrough technologies that advance humanity.
+* At Syensqo, we seek to promote unity and not uniformity. We value the diversity that individuals bring and we invite you to consider a future with us, regardless of background, age, gender, national origin, ethnicity, religion, sexual orientation, ability or identity. We encourage individuals who may require any assistance or accommodations to let us know to ensure a seamless application experience. We are here to support you throughout the application journey and want to ensure all candidates are treated equally. If you are unsure whether you meet all the criteria or qualifications listed in the job description, we still encourage you to apply.
+
+
+ \\#","Chemical Manufacturing","https://be.linkedin.com/company/syensqo","https://media.licdn.com/dms/image/v2/D4E0BAQHpj1OMA4ZELw/company-logo_100_100/B4EZbngZP2HMAQ-/0/1747640751537/syensqo_logo?e=2147483647&v=beta&t=Cc106nNLxcrYLmlhjzII-L1uoAd5Rg4yxIF1VqVtdhQ","","","","","","","","","","",""
+"li-4416367042","linkedin","https://www.linkedin.com/jobs/view/4416367042","","Graduate Engineer Trainee","Syensqo","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"internship","Analyst, Information Technology, and Engineering","","","Syensqo is all about chemistry. We’re not just referring to chemical reactions here, but also to the magic that occurs when the brightest minds get to work together. This is where our true strength lies. In you. In your future colleagues and in all your differences. And of course, in your ideas to improve lives while preserving our planet’s beauty for the generations to come.
+   
+
+ Join us at Syensqo, where our IT team is gearing up to enhance its capabilities. We play a crucial role in the group's transformation—accelerating growth, reshaping progress, and creating sustainable shared value.
+   
+
+ Here at Syensqo, we're one strong team! Our commitment to accountability drives us as we work hard to deliver value for our customers and stakeholders. In our dynamic and collaborative work environment, we add a touch of enjoyment while staying true to our motto: reinvent progress.
+   
+
+ Come be part of our transformation journey and contribute to the change as a future team member.
+   
+
+**We are looking for:**
+ We are looking for passionate, driven, and curious graduating students to join our engineering team. As a Software Engineer, you will be part of a collaborative environment where you will design, develop, and deploy scalable software solutions that impact millions of users.
+   
+
+**Key Responsibilities**
+* Software Development: Write clean, maintainable, and efficient code in languages such as Java, C\\+\\+, Python, or Go.
+* System Design: Assist in designing and documenting architectural components and APIs.
+* Problem Solving: Collaborate with senior engineers to troubleshoot complex technical issues and optimize system performance.
+* Quality Assurance: Participate in code reviews and write unit tests to ensure high software quality.
+* Continuous Learning: Stay up\\-to\\-date with emerging technologies and apply them to improve our product ecosystem.
+
+
+**Education And Experience**
+* Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Information Technology, or a related technical field (Graduating in 2026\\).
+* Core Fundamentals: Strong understanding of Data Structures, Algorithms, and Object\\-Oriented Programming (OOP) principles
+* Technical Skills: Familiarity with at least one modern programming language.
+* Communication: Excellent verbal and written communication skills with the ability to explain technical concepts clearly.
+* Language skills Fluent English
+
+
+**What’s In It For The Candidate**
+* Be part of a highly motivated global team of explorers
+* Mentorship: Direct guidance from industry veterans and structured onboarding.
+* Growth: A clear career path with opportunities for rapid advancement.
+
+
+**Culture:** 
+ A diverse, inclusive, and high\\-energy workplace that values innovation over hierarchy.
+   
+
+**About Us**
+* Syensqo is a science company developing groundbreaking solutions that enhance the way we live, work, travel and play. Inspired by the scientific councils which Ernest Solvay initiated in 1911, we bring great minds together to push the limits of science and innovation for the benefit of our customers, with a diverse, global team of more than 13,000 associates. Our solutions contribute to safer, cleaner, and more sustainable products found in homes, food and consumer goods, planes, cars, batteries, smart devices and health care applications. Our innovation power enables us to deliver on the ambition of a circular economy and explore breakthrough technologies that advance humanity.
+* At Syensqo, we seek to promote unity and not uniformity. We value the diversity that individuals bring and we invite you to consider a future with us, regardless of background, age, gender, national origin, ethnicity, religion, sexual orientation, ability or identity. We encourage individuals who may require any assistance or accommodations to let us know to ensure a seamless application experience. We are here to support you throughout the application journey and want to ensure all candidates are treated equally. If you are unsure whether you meet all the criteria or qualifications listed in the job description, we still encourage you to apply.
+
+
+ \\#","Chemical Manufacturing","https://be.linkedin.com/company/syensqo","https://media.licdn.com/dms/image/v2/D4E0BAQHpj1OMA4ZELw/company-logo_100_100/B4EZbngZP2HMAQ-/0/1747640751537/syensqo_logo?e=2147483647&v=beta&t=Cc106nNLxcrYLmlhjzII-L1uoAd5Rg4yxIF1VqVtdhQ","","","","","","","","","","",""
+"li-4416368010","linkedin","https://www.linkedin.com/jobs/view/4416368010","","Graduate Engineer Trainee","Syensqo","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"internship","Analyst, Information Technology, and Engineering","","","Syensqo is all about chemistry. We’re not just referring to chemical reactions here, but also to the magic that occurs when the brightest minds get to work together. This is where our true strength lies. In you. In your future colleagues and in all your differences. And of course, in your ideas to improve lives while preserving our planet’s beauty for the generations to come.
+   
+
+ Join us at Syensqo, where our IT team is gearing up to enhance its capabilities. We play a crucial role in the group's transformation—accelerating growth, reshaping progress, and creating sustainable shared value.
+   
+
+ Here at Syensqo, we're one strong team! Our commitment to accountability drives us as we work hard to deliver value for our customers and stakeholders. In our dynamic and collaborative work environment, we add a touch of enjoyment while staying true to our motto: reinvent progress.
+   
+
+ Come be part of our transformation journey and contribute to the change as a future team member.
+   
+
+**We are looking for:**
+ We are looking for passionate, driven, and curious graduating students to join our engineering team. As a Software Engineer, you will be part of a collaborative environment where you will design, develop, and deploy scalable software solutions that impact millions of users.
+   
+
+**Key Responsibilities**
+* Software Development: Write clean, maintainable, and efficient code in languages such as Java, C\\+\\+, Python, or Go.
+* System Design: Assist in designing and documenting architectural components and APIs.
+* Problem Solving: Collaborate with senior engineers to troubleshoot complex technical issues and optimize system performance.
+* Quality Assurance: Participate in code reviews and write unit tests to ensure high software quality.
+* Continuous Learning: Stay up\\-to\\-date with emerging technologies and apply them to improve our product ecosystem.
+
+
+**Education And Experience**
+* Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Information Technology, or a related technical field (Graduating in 2026\\).
+* Core Fundamentals: Strong understanding of Data Structures, Algorithms, and Object\\-Oriented Programming (OOP) principles
+* Technical Skills: Familiarity with at least one modern programming language.
+* Communication: Excellent verbal and written communication skills with the ability to explain technical concepts clearly.
+* Language skills Fluent English
+
+
+**What’s In It For The Candidate**
+* Be part of a highly motivated global team of explorers
+* Mentorship: Direct guidance from industry veterans and structured onboarding.
+* Growth: A clear career path with opportunities for rapid advancement.
+
+
+**Culture:** 
+ A diverse, inclusive, and high\\-energy workplace that values innovation over hierarchy.
+   
+
+**About Us**
+* Syensqo is a science company developing groundbreaking solutions that enhance the way we live, work, travel and play. Inspired by the scientific councils which Ernest Solvay initiated in 1911, we bring great minds together to push the limits of science and innovation for the benefit of our customers, with a diverse, global team of more than 13,000 associates. Our solutions contribute to safer, cleaner, and more sustainable products found in homes, food and consumer goods, planes, cars, batteries, smart devices and health care applications. Our innovation power enables us to deliver on the ambition of a circular economy and explore breakthrough technologies that advance humanity.
+* At Syensqo, we seek to promote unity and not uniformity. We value the diversity that individuals bring and we invite you to consider a future with us, regardless of background, age, gender, national origin, ethnicity, religion, sexual orientation, ability or identity. We encourage individuals who may require any assistance or accommodations to let us know to ensure a seamless application experience. We are here to support you throughout the application journey and want to ensure all candidates are treated equally. If you are unsure whether you meet all the criteria or qualifications listed in the job description, we still encourage you to apply.
+
+
+ \\#","Chemical Manufacturing","https://be.linkedin.com/company/syensqo","https://media.licdn.com/dms/image/v2/D4E0BAQHpj1OMA4ZELw/company-logo_100_100/B4EZbngZP2HMAQ-/0/1747640751537/syensqo_logo?e=2147483647&v=beta&t=Cc106nNLxcrYLmlhjzII-L1uoAd5Rg4yxIF1VqVtdhQ","","","","","","","","","","",""
+"li-4414460238","linkedin","https://www.linkedin.com/jobs/view/4414460238","","Software Engineer (Java Full Stack Developer)","GlobalFoundries","Bangalore Urban, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Title: Software Engineer (Java Full Stack Developer)**
+**About GlobalFoundries**
+ GlobalFoundries is a leading full\\-service semiconductor foundry providing a unique combination of design, development, and fabrication services to some of the world’s most inspired technology companies. With a global manufacturing footprint spanning three continents, GlobalFoundries makes possible the technologies and systems that transform industries and give customers the power to shape their markets. For more information, visit www.gf.com.
    
 
   
 
-* Complete infrastructure migration to Infrastructure\\-as\\-Code
-* Sub\\-5 minute deployments with automatic rollbacks
-* 99\\.9% uptime with comprehensive monitoring
-* Full SOC2 compliance with automated controls
-* Self\\-service platform used by every engineer daily
-* 50% reduction in infrastructure costs through optimization
-
-
- Technical Requirements
+**Introduction**
+ As part of the global manufacturing systems engineering team, you are responsible for developing and maintaining software automation solutions in highly complex semiconductor factories. You will interface closely with the engineers from the manufacturing modules in Dresden/Singapore as well as with the partners of other international locations. After initial training, the successful applicant will have the opportunity to grow responsibility for projects and processes of strategic importance within the GlobalFoundries Manufacturing cluster.
    
 
   
 
-* Deep expertise with GCP services and cloud architecture
-* Strong experience with Terraform, Kubernetes, and container orchestration
-* Proficiency in Go or Python for automation
-* Understanding of security best practices and compliance frameworks
-* Track record of building platforms that scale
-
-
-**Why This Role Matters?**
- Every hour you save our engineers is multiplied across the team. Every security issue you prevent protects thousands of customers. Every system you build becomes the foundation for our next phase of growth. This isn't just a DevOps role \\- it's a chance to define how a successful AI company builds and ships software.
+ This position is open to experienced engineers as well as to entry level candidates, including University or College Masters.
    
 
   
 
- Join us as we transform an entire industry, one measurement at a time.","Software Development","https://www.linkedin.com/company/siterecon","https://media.licdn.com/dms/image/v2/D4D0BAQHflbIef4-DXQ/company-logo_100_100/company-logo_100_100/0/1662540242947/siterecon_logo?e=2147483647&v=beta&t=VoAduS9S_8cBzXee-MUDGgyR6jIGTgrqAU3zNTUhRks","","","","","","","","","","",""
-"li-4408759645","linkedin","https://www.linkedin.com/jobs/view/4408759645","","Lead Software Engineer","Capgemini","Kanchipuram, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
- Works in the area of Software Engineering which encompasses the development maintenance and optimization of software solutions and applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He or she is responsible for the development and application of software engineering practice and knowledge in research design development and maintenance.3\\. He or she work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his or her software engineering discipline to reach standard software engineer skills expectations for the applicable role as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
-   
-
-  
-
-**Job Description \\- Grade Specific**
- Is highly respected, experienced and trusted. Masters all phases of the software development lifecycle and applies innovation and industrialization. Shows a clear dedication and commitment to business objectives and responsibilities and to the group as a whole. Operates with no supervision in highly complex environments and takes responsibility for a substantial aspect of Capgeminis activity. Is able to manage difficult and complex situations calmly and professionally. Considers ˜the bigger picture when making decisions and demonstrates a clear understanding of commercial and negotiating principles in less easy situations. Focuses on developing long term partnerships with clients. Demonstrates leadership that balances business, technical and people objectives. Plays a significant part in the recruitment and development of people.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
-"li-4408763587","linkedin","https://www.linkedin.com/jobs/view/4408763587","","Lead Software Engineer","Capgemini","Kanchipuram, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
- Works in the area of Software Engineering which encompasses the development maintenance and optimization of software solutions and applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He or she is responsible for the development and application of software engineering practice and knowledge in research design development and maintenance.3\\. He or she work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his or her software engineering discipline to reach standard software engineer skills expectations for the applicable role as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
-   
-
-  
-
-**Job Description \\- Grade Specific**
- Is highly respected, experienced and trusted. Masters all phases of the software development lifecycle and applies innovation and industrialization. Shows a clear dedication and commitment to business objectives and responsibilities and to the group as a whole. Operates with no supervision in highly complex environments and takes responsibility for a substantial aspect of Capgeminis activity. Is able to manage difficult and complex situations calmly and professionally. Considers ˜the bigger picture when making decisions and demonstrates a clear understanding of commercial and negotiating principles in less easy situations. Focuses on developing long term partnerships with clients. Demonstrates leadership that balances business, technical and people objectives. Plays a significant part in the recruitment and development of people.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
-"li-4416338408","linkedin","https://www.linkedin.com/jobs/view/4416338408","","Software Engineer III","American Express","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Job Description**
- ELF (Enterprise Logging Framework) team which help teams achieve observability for their application, by offering logging and tracing functionalities. It provides a End\\-to\\-end Correlation of application logs across tiers in a journey, derives and aggregates journey metrics, and provide Baseline monitor and alert with anomaly detection
-   
-
-  
-
-**Responsibilities**
-* Software Engineer III leads the full software development lifecycle, ensuring high reliability and efficiency through collaboration, innovative solutions, and rigorous code standards.
-* Advances the design, development, testing, and deployment of software applications and systems
-* Drives the modification, documentation, and maintenance of software to ensure high reliability and availability
-* Collaborates with cross\\-functional teams to address advanced technical challenges and optimize application performance
-* Analyzes system requirements and delivers innovative technical solutions to enhance software quality and efficiency
-* Completes code reviews and automated testing to maintain high\\-quality code standards
-* Collaborates and co\\-creates effectively with teams in product and the business to align technology initiatives with business objectives
+**Your Job**
+* Build and support various full\\-stack applications running in our Manufacturing locations.
+* Responsibility for analysis, design, and implementation of automation software solutions in a highly automated manufacturing environment.
+* Maintenance and continuous improvement of existing factory automation software solutions.
+* Provide Second Level support for the applications owned by the team.
+* Continuously learn leading technologies and trends in the software industry.
+* Mentor other team\\-members on areas of competency.
 
 
-**Qualifications**
-* Experience 5 \\-8 Years
-* Strong grasp of data structures and algorithms
-* Strong hands\\-on experience in Java with extensive understanding of the JVM and garbage collectors and JVM memory model
-* Extensive experience in designing and implementing large scale distributed data intensive platforms with high resiliency, availability, and reliability
-* Strong experience in maintaining high throughput, low latency applications
-* Strong written, verbal communications, presentation skills, leadership, problem solving and analytical skills
-* Proven collaboration skills along with the ability to influence without authority
-* Bachelor's Degree in Computer Science, Computer Science Engineering, or related field required; Advanced Degree preferred, with 8 or more years of experience in software engineering, design and architecture .
+**Required Qualifications**
+* BS with 5\\-6 years of experience or MS with 3\\-4 years of experience or PhD with 1\\-2 years of experience.
+* Programming skills in a high\\-level language (Java, C \\#).
+* Good knowledge of SQL and relational databases.
+* Basic knowledge of a scripting language (TCL, Perl, Python).
+* Fluent in speaking and writing in English and work with pleasure in international teams.
+* Analytical thinking, high affinity for working in complex systems.
+* Enthusiasm for the combination of software development with factory automation
 
 
 **Preferred Qualifications**
-* Hands on experience with Java , J2EE
-* Experience with micro services architectures and service mesh technologies
-* Experience configuring and administering EKS clusters in AWS
-* Strong knowledge of observability concepts and troubleshooting experience
-* Experience in implementing comprehensive monitoring and logging solutions in AWS using CloudWatch
-* Experience in Terraform and Infrastructure as code.
-* Experience in Helm
-* Strong scripting skills in Shell and/or python
-* Experience with large\\-scale distributed systems and architecture knowledge (Linux/UNIX and Windows operating systems, networking, storage) in a cloud computing or traditional IT infrastructure environment
-* Must have a good understanding of cloud concepts (Storage /compute/network)
-* Experience with Git and GitHub
-* Experience with code build and deployment using GitHub actions, and Artifact Registry
-* Proficient in developing and maintaining technical documentation, ADRs, and runbooks
+* Proficient in Java 8\\+ or latest version programming as per the user story and hands\\-on with the technical skills necessary for delivering the module.
+* Java/J2EE, REST, SOAP, Spring Boot, Spring JPA, Hibernate/JPA
+* Knowledge on front end framework like ReactJS, typescript, Angular
+* Aware of different techniques and tools available within DevOps. Contribute to the devOps team for implementation and execution.
+* Maintaining source code \\& documentation as per defined Configuration Management process \\[E.g.: Bitbucket, GitHub].
+* Good to have knowledge of Linux commands.
+* Experience with Manufacturing Domain and ERP solutions will be helpful.
+* Good knowledge of the application server configuration.
 
 
-**About Us**
- At American Express, our culture is built on a 175\\-year history of innovation, shared values and Leadership Behaviors, and an unwavering commitment to back our customers, communities, and colleagues. From delivering differentiated products to providing world\\-class customer service, we operate with a strong risk mindset, ensuring we continue to uphold our brand promise of trust, security, and service.
+ GlobalFoundries is an equal opportunity employer, cultivating a diverse and inclusive workforce. We believe having a multicultural workplace enhances productivity, efficiency and innovation whilst our employees feel truly respected, valued and heard. As an affirmative employer, all qualified applicants are considered for employment regardless of age, ethnicity, marital status, citizenship, race, religion, political affiliation, gender, sexual orientation and medical and/or physical abilities. All offers of employment with GlobalFoundries are conditioned upon the successful completion of background checks, medical screenings as applicable and subject to the respective local laws and regulations.
    
 
   
 
- As part of Team Amex, you’ll experience our powerful backing with comprehensive support for your holistic well\\-being and many opportunities to learn new skills, develop as a leader, and grow your career. Here, your voice and ideas matter, your work makes an impact, and together, you will help us define the future of American Express.
+ To ensure that we maintain a safe and healthy workplace for our GlobalFoundries employees, please note that offered candidates who have applied for jobs in India will have to be fully vaccinated prior to their targeted start date. For new hires, the appointment is contingent upon the provision of a copy of their COVID\\-19 vaccination document, subject to any written request for medical or religious accommodation
    
 
   
 
-**About The Team**
- We back you with benefits that support your holistic well\\-being so you can be and deliver your best. This means caring for you and your loved ones' physical, financial, and mental health, as well as providing the flexibility you need to thrive personally and professionally:
+ Information about our benefits you can find here: https://gf.com/about\\-us/careers/opportunities\\-asia","Semiconductor Manufacturing","https://www.linkedin.com/company/globalfoundries","https://media.licdn.com/dms/image/v2/D4E0BAQGDhN1SH5KYew/company-logo_100_100/B4EZnFTIacHoAQ-/0/1759951751145/globalfoundries_logo?e=2147483647&v=beta&t=YwizWe-Q4jMkqgzg3RTEj51-RXRN7h50DpNJ7-AuO9w","","","","","","","","","","",""
+"li-4417457163","linkedin","https://www.linkedin.com/jobs/view/4417457163","","Sr Backend & Platform Engineer","Shipmentia","Ahmedabad, Gujarat, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","hardik@waveinnova.com","🚀 We’re Hiring: Senior Platform \\& Software Engineer (5\\+ Years)
    
 
-  
-
-* Competitive base salaries
-* Bonus incentives
-* Support for financial\\-well\\-being and retirement
-* Comprehensive medical, dental, vision, life insurance, and disability benefits (depending on location)
-* Flexible working model with hybrid, onsite or virtual arrangements depending on role and business need
-* Generous paid parental leave policies (depending on your location)
-* Free access to global on\\-site wellness centers staffed with nurses and doctors (depending on location)
-* Free and confidential counseling support through our Healthy Minds program
-* Career development and training opportunities
-
-
- American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, age, or any other status protected by law.
-   
-
-  
-
- Offer of employment with American Express is conditioned upon the successful completion of a background verification check, subject to applicable laws and regulations.","Financial Services","https://www.linkedin.com/company/american-express","https://media.licdn.com/dms/image/v2/C4D0BAQGRhsociEn4gQ/company-logo_100_100/company-logo_100_100/0/1631367875582?e=2147483647&v=beta&t=bk_i8KnJwZyUrbBXvWK0NMb6W3nPq64rupEGTrKvxYU","","","","","","","","","","",""
-"li-4408772334","linkedin","https://www.linkedin.com/jobs/view/4408772334","","Lead Software Engineer","Capgemini","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
- Works in the area of Software Engineering which encompasses the development maintenance and optimization of software solutions and applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He or she is responsible for the development and application of software engineering practice and knowledge in research design development and maintenance.3\\. He or she work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his or her software engineering discipline to reach standard software engineer skills expectations for the applicable role as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
-   
-
-  
-
-**Job Description \\- Grade Specific**
- Is highly respected, experienced and trusted. Masters all phases of the software development lifecycle and applies innovation and industrialization. Shows a clear dedication and commitment to business objectives and responsibilities and to the group as a whole. Operates with no supervision in highly complex environments and takes responsibility for a substantial aspect of Capgeminis activity. Is able to manage difficult and complex situations calmly and professionally. Considers ˜the bigger picture when making decisions and demonstrates a clear understanding of commercial and negotiating principles in less easy situations. Focuses on developing long term partnerships with clients. Demonstrates leadership that balances business, technical and people objectives. Plays a significant part in the recruitment and development of people.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
-"li-4417404406","linkedin","https://www.linkedin.com/jobs/view/4417404406","","Software Engineer - SDK Developer - C++, Networking - 8 to 13 years","Cisco","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Meet the Team**
- We are thrilled to announce an exciting opportunity joining Silicon One as a Senior C\\+\\+ SW Engineer. Join our rapidly growing SDK Silicon One team at Cisco.
-   
-
-  
-
- The Cisco Silicon\\-One team develops breakthrough next\\-generation silicon products, at the heart of the most important activities of Cisco. If you want to work with amazing people, developing leading world\\-class products changing the Internet, join us!
-   
-
-  
-
-**Your Impact**
- You'll develop core software technologies at the heart of tomorrow's leading infrastructure solutions, tackling the entire range of challenges from user\\-facing API\\-s, through high\\-level algorithms, all the way down to firmware.
-   
-
-  
-
-* Craft and develop software driving the world's most complex infrastructures
-* Gain intimate knowledge of world\\-class silicon and programming models
-* Work with architecture and design teams to define the next generation of ASIC products being developed.
-* You'll be joining Cisco Silicon One Bangalore team which is the core center of Cisco’s SW and ASIC design.
-* You'll be part of the group driving our groundbreaking next\\-generation network devices \\- Cisco Silicon One.
-* Our unique team works in a startup atmosphere inside a stable and leading corporate and develops the full software stack enabling the Silicon One ASICs. Join a team of dedicated engineers with a proven track\\-record at delivering breakthrough products.
-* Our R\\&D center is outstanding \\- hosting all silicon HW and SW development teams inside one site.
-* We are transforming the industry and building a new AI/ML Networks, as well as providing a unified, programmable silicon architecture that is the foundation of all Cisco's future routing products.
-* Our devices are crafted to be universally adaptable across service providers and web\\-scale markets, designed for fixed and modular platforms. Our devices deliver high speed (50\\+ Terabits per second) without sacrificing programmability, buffering, power efficiency, scale or feature flexibility.
-* Cisco Silicon One is a revolutionary, ground\\-breaking technology for our customers and end users for decades to come! The Internet now has a new faster, better, safer engine!
-* You have a unique opportunity to join the core center of Cisco silicon SW development and work with us to design and deliver breakthrough technologies.
-
-
-**Minimum Requirements**
-* B.E or higher degree in Computer Science or a related field, from one of the top universities, with excellence
-* Strong background in C\\+\\+
-* 8\\+ years of experience in Software Development, 5\\+ years of experience in C\\+\\+ or Embedded Development
-* Familiar with Networking technologies and concepts
-* Excellent communication and strategic planning skills, while being self\\-motivated with a focus on execution.
-
-
-**Preferred Requirements**
-* Experience in Python
-* Ability to quickly ramp on multiple, interdisciplinary domains
-* Love for solving complex problems
-
-
- Why Cisco?
-   
-
-  
-
- At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.
-   
-
-  
-
- Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.
-   
-
-  
-
- We are Cisco, and our power starts with you.","Software Development","https://www.linkedin.com/company/cisco","https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE","","","","","","","","","","",""
-"li-4408766484","linkedin","https://www.linkedin.com/jobs/view/4408766484","","Lead Software Engineer","Capgemini","Kanchipuram, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
- Works in the area of Software Engineering which encompasses the development maintenance and optimization of software solutions and applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He or she is responsible for the development and application of software engineering practice and knowledge in research design development and maintenance.3\\. He or she work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his or her software engineering discipline to reach standard software engineer skills expectations for the applicable role as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
-   
-
-  
-
-**Job Description \\- Grade Specific**
- Is highly respected, experienced and trusted. Masters all phases of the software development lifecycle and applies innovation and industrialization. Shows a clear dedication and commitment to business objectives and responsibilities and to the group as a whole. Operates with no supervision in highly complex environments and takes responsibility for a substantial aspect of Capgeminis activity. Is able to manage difficult and complex situations calmly and professionally. Considers ˜the bigger picture when making decisions and demonstrates a clear understanding of commercial and negotiating principles in less easy situations. Focuses on developing long term partnerships with clients. Demonstrates leadership that balances business, technical and people objectives. Plays a significant part in the recruitment and development of people.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
-"li-4408760561","linkedin","https://www.linkedin.com/jobs/view/4408760561","","Lead Software Engineer","Capgemini","Kanchipuram, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
- Works in the area of Software Engineering which encompasses the development maintenance and optimization of software solutions and applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He or she is responsible for the development and application of software engineering practice and knowledge in research design development and maintenance.3\\. He or she work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his or her software engineering discipline to reach standard software engineer skills expectations for the applicable role as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
-   
-
-  
-
-**Job Description \\- Grade Specific**
- Is highly respected, experienced and trusted. Masters all phases of the software development lifecycle and applies innovation and industrialization. Shows a clear dedication and commitment to business objectives and responsibilities and to the group as a whole. Operates with no supervision in highly complex environments and takes responsibility for a substantial aspect of Capgeminis activity. Is able to manage difficult and complex situations calmly and professionally. Considers ˜the bigger picture when making decisions and demonstrates a clear understanding of commercial and negotiating principles in less easy situations. Focuses on developing long term partnerships with clients. Demonstrates leadership that balances business, technical and people objectives. Plays a significant part in the recruitment and development of people.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
-"li-4408755720","linkedin","https://www.linkedin.com/jobs/view/4408755720","","Lead Software Engineer","Capgemini","Kanchipuram, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
- Works in the area of Software Engineering which encompasses the development maintenance and optimization of software solutions and applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He or she is responsible for the development and application of software engineering practice and knowledge in research design development and maintenance.3\\. He or she work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his or her software engineering discipline to reach standard software engineer skills expectations for the applicable role as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
-   
-
-  
-
-**Job Description \\- Grade Specific**
- Is highly respected, experienced and trusted. Masters all phases of the software development lifecycle and applies innovation and industrialization. Shows a clear dedication and commitment to business objectives and responsibilities and to the group as a whole. Operates with no supervision in highly complex environments and takes responsibility for a substantial aspect of Capgeminis activity. Is able to manage difficult and complex situations calmly and professionally. Considers ˜the bigger picture when making decisions and demonstrates a clear understanding of commercial and negotiating principles in less easy situations. Focuses on developing long term partnerships with clients. Demonstrates leadership that balances business, technical and people objectives. Plays a significant part in the recruitment and development of people.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
-"li-4408756650","linkedin","https://www.linkedin.com/jobs/view/4408756650","","Lead Software Engineer","Capgemini","Kanchipuram, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
- Works in the area of Software Engineering which encompasses the development maintenance and optimization of software solutions and applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He or she is responsible for the development and application of software engineering practice and knowledge in research design development and maintenance.3\\. He or she work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his or her software engineering discipline to reach standard software engineer skills expectations for the applicable role as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
-   
-
-  
-
-**Job Description \\- Grade Specific**
- Is highly respected, experienced and trusted. Masters all phases of the software development lifecycle and applies innovation and industrialization. Shows a clear dedication and commitment to business objectives and responsibilities and to the group as a whole. Operates with no supervision in highly complex environments and takes responsibility for a substantial aspect of Capgeminis activity. Is able to manage difficult and complex situations calmly and professionally. Considers ˜the bigger picture when making decisions and demonstrates a clear understanding of commercial and negotiating principles in less easy situations. Focuses on developing long term partnerships with clients. Demonstrates leadership that balances business, technical and people objectives. Plays a significant part in the recruitment and development of people.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
-"li-4408752772","linkedin","https://www.linkedin.com/jobs/view/4408752772","","Lead Software Engineer","Capgemini","Kanchipuram, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
- Works in the area of Software Engineering which encompasses the development maintenance and optimization of software solutions and applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He or she is responsible for the development and application of software engineering practice and knowledge in research design development and maintenance.3\\. He or she work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his or her software engineering discipline to reach standard software engineer skills expectations for the applicable role as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
-   
-
-  
-
-**Job Description \\- Grade Specific**
- Is highly respected, experienced and trusted. Masters all phases of the software development lifecycle and applies innovation and industrialization. Shows a clear dedication and commitment to business objectives and responsibilities and to the group as a whole. Operates with no supervision in highly complex environments and takes responsibility for a substantial aspect of Capgeminis activity. Is able to manage difficult and complex situations calmly and professionally. Considers ˜the bigger picture when making decisions and demonstrates a clear understanding of commercial and negotiating principles in less easy situations. Focuses on developing long term partnerships with clients. Demonstrates leadership that balances business, technical and people objectives. Plays a significant part in the recruitment and development of people.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
-"li-4398857937","linkedin","https://www.linkedin.com/jobs/view/4398857937","","Custom Software Engineer","Accenture in India","","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
- Custom Software Engineer
-   
-
-  
-
-**Project Role Description :** 
- Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high\\-performing solutions tailored to specific business needs.
-   
-
-  
-
-**Must have skills :** 
- Unix Shell Scripting
-   
-
-  
-
-**Good to have skills :** 
- Linux
-   
-
-  
-
-**Minimum 5 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
-   
-
-  
-
- Summary:
-   
-
-  
-
- As a Custom Software Engineer, a typical day involves developing tailored software solutions by designing, coding, and improving various components within systems or applications. The role requires working with modern frameworks and following agile methodologies to ensure the delivery of scalable and efficient software that meets unique business requirements. Collaboration with different teams and continuous enhancement of software components are integral parts of the daily workflow, fostering innovation and responsiveness to evolving project needs.
+ 📍 Ahmedabad, Gujarat, India \\| Full\\-time
    
 
-  
-
- Roles \\& Responsibilities:
+ 🏢 WaveInnova Shipmentia
    
 
   
 
-* Expected to be an SME, collaborate and manage the team to perform.
-* Responsible for team decisions.
-* Engage with multiple teams and contribute on key decisions.
-* Provide solutions to problems for their immediate team and across multiple teams.
-* Lead efforts to identify and implement process improvements that enhance team productivity and software quality.
-* Mentor junior team members to support their professional growth and integration within the team.
-* Coordinate cross\\-functional communication to ensure alignment on project goals and deliverables.
-
-
- Professional \\& Technical Skills:
+ WaveInnova is building the intelligence layer for the physical world.
    
-
-  
-
-* Must To Have Skills: Proficiency in Unix Shell Scripting.
-* Good To Have Skills: Experience with Linux.
-* Strong knowledge of scripting techniques to automate system tasks and streamline workflows.
-* Ability to troubleshoot and debug complex software issues in Unix\\-based environments.
-* Familiarity with version control systems and collaborative development practices.
-* Experience in integrating custom scripts with larger software systems to enhance functionality.
 
-
- Additional Information:
+ We are looking for a Senior Platform \\& Software Engineer to help architect and scale the core software platform powering real\\-time asset visibility, intelligent telemetry systems, and AI\\-driven operational workflows.
    
 
   
 
-* The candidate should have minimum 5 years of experience in Unix Shell Scripting.
-* This position is based at our Chennai office.
-* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
-"li-4414630805","linkedin","https://www.linkedin.com/jobs/view/4414630805","","Cloud Software Test Engineer II","Abbott","","","fulltime","","","","","",False,"entry level","Information Technology","","","MAIN PURPOSE OF THE ROLE
+ What You’ll Work On
    
-
-  
 
- Individual contributor with comprehensive knowledge in the specific area.
+ \\- Build scalable distributed backend systems
    
 
-  
-
- Ability to execute highly complex or specialised work.
+ \\- Develop real\\-time telemetry and event\\-processing pipelines
    
 
-  
-
- Knowledge acquired from several years of experience or specialist training in particular area.
+ \\- Design APIs, workflows, alerts, and customer integrations
    
-
-  
 
- Responsible for designing, developing, implementing and updating electronic data systems in accordance with the needs of the organisation.
+ \\- Work on cloud\\-native infrastructure and platform services
    
-
-  
 
-**Main Responsibilities**
-* Develops more complex design for a unit, code and test by working independently, applying standards, and yet adapting precedent to make departures from established processes to resolve problems.
-* Documents the work as per standards and may guide more junior colleagues on how to follow established procedures.
-* Help build a robust module meeting more complex design specifications.
-
-
-**Qualifications**
- Education
+ \\- Build AI\\-powered operational workflows and intelligent services
    
-
-  
 
- Education Level Major/Field of Study or Equivalent
+ \\- Collaborate with hardware, firmware, cloud, and frontend teams
    
 
   
 
- High School Diploma / GED
+ Required Skills
    
-
-  
 
- Experience/Background
+ ✅ 5\\+ years of software engineering experience
    
-
-  
 
- Experience Experience Details
+ ✅ Strong experience with distributed systems
    
 
-  
-
- Minimum 1 year","Hospitals and Health Care","https://www.linkedin.com/company/abbott-","https://media.licdn.com/dms/image/v2/D560BAQFgKiVB5rm6zQ/company-logo_100_100/B56Zi9acl2HMAQ-/0/1755524485091/abbott__logo?e=2147483647&v=beta&t=DGP3UC753Z_3loRAudC6V5JuXBxEYqRObh5RVhTO-OE","","","","","","","","","","",""
-"li-4347358471","linkedin","https://www.linkedin.com/jobs/view/4347358471","","Software Engineer, Principal I (Java )","Progress Software","Hyderabad, Telangana, India","","fulltime","","","","","",False,"not applicable","Information Technology and Engineering","","","We are Progress (Nasdaq: PRGS) \\- a trusted provider of software that enables our customers to develop, deploy and manage responsible, AI powered applications and experiences with agility and ease.
+ ✅ TypeScript / Node.js expertise
    
-
-  
 
- We’re proud to have a diverse, global team where we value the individual and enrich our culture by considering varied perspectives because we believe people power progress. Join us as a
- **Software Engineer, Principal I** 
- and help us do what we do best: propelling business forward. Know more about us.
+ ✅ Experience with React
    
-
-  
 
-**In This Role, You Will**
-* Architect, design, and develop features related to OpenEdge Development Tools, demonstrating strong analytical and problem\\-solving skills.
-* Lead the evolution of development features, enhancing performance, usability, and diagnostic capabilities.
-* Drive the integration of AI\\-powered features within the OpenEdge Developer Tools ecosystem and understanding of RAG, MCP etc.
-* Provide technical leadership and mentorship to the development team, applying systems thinking to solve business and technical problems while ensuring adherence to best coding and design practices.
-* Collaborate closely with Product Owners, Architects, QA, and UX teams to deliver robust, scalable, and user\\-centric solutions.
-* Analyze and optimize performance issues using profiling tools and diagnostic frameworks.
-* Ensure quality and maintainability through automated testing, code reviews, and continuous integration pipelines.
-* Stay current with emerging technologies in IDE tooling, AI\\-assisted development, and performance optimization.
-* Adhere to Agile practices and methodologies, actively participating in all Agile ceremonies.
-
-
-**Your Background**
-* Bachelor’s or Master’s degree in Computer Science or equivalent is required.
-* 8\\+ years of professional experience in a product development organization, with a strong background in designing and delivering scalable, high\\-quality software solutions.
-* Proficient in Java, with openness to learn and adopt other relevant technologies such as JavaScript and TypeScript.
-* Proven experience in developing VS Code extensions or Eclipse plugins, with solid understanding of Language Server Protocol (LSP) and Debug Adapter Protocol (DAP).
-* Strong foundation in web development, including HTML, CSS, JavaScript, RESTful services, and modern front\\-end frameworks such as React or Angular.
-* Deep understanding of algorithms, data structures, object\\-oriented design, and software architecture principles.
-* Strong knowledge of database concepts, query optimization, and performance tuning for scalability and reliability.
-* Hands\\-on experience with AI\\-assisted development tools such as GitHub Copilot, ChatGPT, or similar, leveraging them to enhance productivity, testing, and documentation workflows.
-* Familiarity with Node.js and modern JavaScript frameworks used in IDE tooling or developer platforms.
-* Working knowledge of CI/CD pipelines, build automation, and version control systems such as Git.
-* Expertise in profiling, diagnostics, and memory performance optimization on the JVM or similar platforms.
-* Awareness of software security best practices and ability to identify, assess, and mitigate vulnerabilities (e.g., OWASP Top 10, dependency scanning, secure coding standards).
-* Experience applying static and dynamic analysis tools to ensure code and dependency security.
-* Comfortable working on both Unix/Linux and Windows operating systems.
-* Demonstrated ability to lead, mentor, and collaborate within cross\\-functional teams to design, plan, and deliver new features.
-* Strong analytical, problem\\-solving, and communication skills, with the ability to apply systems thinking to technical and business challenges.
-* Commitment to Agile practices and methodologies, actively participating in Agile ceremonies and promoting continuous improvement and engineering excellence.
-
-
-**Compensation**
-**If this sounds like you and fits your experience and career goals, we’d be happy to chat. What we offer in return is the opportunity to experience a great company culture with wonderful colleagues to learn from and collaborate with and also to enjoy:**
-* Competitive remuneration package
-* Employee Stock Purchase Plan Enrolment
-
-
-**Vacation, Family, and Health**
-* 30 days of earned leave
-* An extra day off for your birthday
-* Various other leaves like marriage leave, casual leave, maternity, and paternity leave
-* Premium Group Medical Insurance for employees and five dependents, personal accident insurance coverage, life insurance coverage
-* Professional development reimbursement
-* Interest subsidy on loans \\- either vehicle or personal loans
-* Health club reimbursement
-
-
-**Apply now!**","Software Development, IT Services and IT Consulting, and Technology, Information and Internet","https://www.linkedin.com/company/progress-software","https://media.licdn.com/dms/image/v2/D4E0BAQGldm6803bfwQ/company-logo_100_100/company-logo_100_100/0/1719852274348/progress_software_logo?e=2147483647&v=beta&t=JC2M0-hY8R7uJbFdO1ZkRZyStzr9QyQKPIhI7-8R4c8","","","","","","","","","","",""
-"li-4413409460","linkedin","https://www.linkedin.com/jobs/view/4413409460","","Software Engineer III","R1 RCM","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","R1 RCM India is proud to be recognized amongst India's Top 50 Best Companies to Work For™ 2023 by Great Place To Work® Institute. We are committed to transform the healthcare industry with our innovative revenue cycle management services. Our goal is to ‘make healthcare simpler’ and enable efficiency for healthcare systems, hospitals, and physician practices. With over 30,000 employees globally, we are about 14,000 strong in India with offices in Delhi NCR, Hyderabad, Bangalore, and Chennai. Our inclusive culture ensures that every employee feels valued, respected, and appreciated with a robust set of employee benefits and engagement activities Key duties \\& responsibilities Directly contributes as a member of a scrum team to the test\\-driven development of software features and non\\-functional quality attributes, applying software engineering best practices and authoring integration tests. Provides thoughtful recommendations in sessions with scrum team members to structure solution source code and implementation approaches — emphasizing the need to optimize code that follows engineering best practices, and maximizes maintainability, testability and performance. Ensures SOLID principles and standard design patterns are applied to system architectures and implementations. Drive adoption of modern engineering practices such as Continuous Integration, Continuous Deployment, Code Reviews, TDD, Functional\\\\Non\\-Functional testing, Test Automation, Performance Engineering etc. to deliver high\\-quality, high\\-value software Works with product management, business stakeholders and application architects to understand software requirements and helps estimate epics, features and stories. Scripts and maintains automated build steps, continuous integration systems and staging environments. Provides skillful communication and respectful listening — conveying logical and structured thoughts, truthfulness, empathy, confidence and friendliness. Applies consistent levels of strategic thinking, judgment, decision making, attention to detail, teamwork, organization, innovation and initiative. Foster a culture and mindset of continuous learning to develop agility using the three pillars transparency, inspection and adaptation across levels and geographies. Mentors other members of the development team. Evaluates, understands and recommends new technology, languages or development practices that have benefits for implementing. Experience, Skills and Knowledge 12\\+ years of experience designing and developing n\\-tier Web applications Well versed with C\\#, modern UI technologies and database, ORM technologies. Must have solid understanding of modern architectural and design patterns. Advanced knowledge of general engineering concepts like design patterns, OO programming, and SOLID principles, HTTP, MVC, APIs, data structures, and algorithms. Advanced knowledge and experience with automated test tools and techniques including test\\-driven development, behavior\\-driven development, automated acceptance testing, Gherkin \\& Given/When/Then. Advanced knowledge and experience with Microsoft development technologies and tools: C\\#, Visual Studio or Visual Studio Code, .NET Framework/Core, and Entity Framework. Advanced knowledge and experience with REST and WebAPIs including but not limited to Web Sockets, JSON, RAML, Swagger, OData, or GraphQL. Good working understanding and experience with DevOps practices in source code management, continuous build and deployment tools including but not limited to git, Jira, Jenkins, Docker, Kubernetes, APM tools. Working understanding and experience with secure coding practices: OWASP, XSS, CSRF, SSO/Authentication, static code analysis tools, ethical hacking. Working understanding of application architecture concepts like microservices, Domain\\-Driven Design, broker pattern/message bus, event\\-driven, CQRS, ports \\& adapters/hexagonal/onion, SOA. Deep expertise in one or more Clouds (Azure, AWS, Google Cloud) Strong exposure to Agile software development methodologies and enabling tools such as Jira, Confluence Excellent communicator with demonstrable ability of influencing decisions Knowledge of healthcare revenue cycle management, HL7, EMR systems, HIPAA, FHIR would be preferred. Good working understanding of application architecture concepts like microservices, Domain\\-Driven Design, broker pattern/message bus, event\\-driven, CQRS, ports \\& adapters/hexagonal/onion, SOA would be preferred Key competency profile Spot new opportunities by anticipating change and planning accordingly Find ways to better serve customers and patients. Be accountable for customer service of highest quality Create connections across teams by valuing differences and including others Own your development by implementing and sharing your learnings Motivate each other to perform at our highest level Help people improve by learning from successes and failures Work the right way by acting with integrity and living our values every day Succeed by proactively identifying problems and solutions for yourself and others.
+ ✅ Experience in Go, Python, or Rust
    
 
-  
-
- Working in an evolving healthcare setting, we use our shared expertise to deliver innovative solutions. Our fast\\-growing team has opportunities to learn and grow through rewarding interactions, collaboration and the freedom to explore professional interests.
+ ✅ AWS and/or GCP cloud infrastructure
    
-
-  
 
- Our associates are given valuable opportunities to contribute, to innovate and create meaningful work that makes an impact in the communities we serve around the world. We also offer a culture of excellence that drives customer success and improves patient care. We believe in giving back to the community and offer a competitive benefits package. To learn more, visit: r1rcm.com
+ ✅ Kafka or event\\-driven systems
    
-
-  
 
- Visit us on Facebook","Hospitals and Health Care","https://www.linkedin.com/company/r1-rcm","https://media.licdn.com/dms/image/v2/D4E0BAQEwFXvOsaxNOQ/company-logo_100_100/B4EZoLha9GKgAQ-/0/1761129902288/r1_rcm_logo?e=2147483647&v=beta&t=MhL4gkz0-qBlns6JvGeZB1Xwmn44ZJyD6Moed4PxoW8","","","","","","","","","","",""
-"li-4410905240","linkedin","https://www.linkedin.com/jobs/view/4410905240","","Software Engineer (I) - Established Engineer III","TekWissen India","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Overview**
- TekWissen is a global workforce management provider throughout India and many other countries in the world. The below client is a global company with shared ideals and a deep sense of family. From our earliest days as a pioneer of modern transportation, we have sought to make the world a better place – one that benefits lives, communities and the planet
+ ✅ PostgreSQL and production\\-grade APIs
    
-
-  
-
-**Job Title: Software Engineer (I) \\- Established Engineer III**
-**Location: Chennai**
-**Work Type: Hybrid**
-**Position Description**
-* Employees in this job function are responsible for designing, developing, testing and maintaining software applications and products to meet customer needs.
-* They are involved in the entire software development lifecycle including designing software architecture, writing code, testing for quality and deploying the software to meet customer requirements.
-* Full\\-stack software engineering roles, who can develop all components of software including user interface and server side also fall within this job function.
-
-
-**Key Responsibilities**
-* Engage with customers to deeply understand their use\\-cases, pain points, and requirements, showcasing empathy and advocating for user\\-centric software solutions
-* Solve complex problems by designing, developing, and delivering using various tools, languages, frameworks, methodologies (like agile) and technologies
-* Assess the requirements of the software application or service and determine the most suitable technology stack, integration method, deployment strategy, etc.
-* Create high\\-level software architecture designs that outline the overall structure, components, and interfaces of the application
-* Collaborate with cross functional teams like product owners, designers, architects etc.
-* Define and implement software test strategy, guidelines, policies and processes in line with organization vision, industry regulations and market best practices.
-* Work on continuously improving performance and optimizing the application and implement new technologies to maximize development efficiency
-* Familiar with programming practices, such as test\\-driven development, continuous integration, and continuous delivery
-* Support security practices to safeguard user data including encryption and anonymization.
-* Create user\\-friendly and interactive interfaces
-* Develop and maintain back\\-end applications like APIs and microservices using server\\-side languages
-* Evaluate and incorporate emerging technologies and capabilities to deliver their solutions, and are monitoring and participating in solutions for new stack layers, often involving industry collaboration
-
-
-**Skills Required**
-* Mainframe Systems (COBOL, DB2, JCL, IMS)
 
-
-**Skills Preferred**
-* Big Query,
-
-
-**Experience Required**
-* Engineer III Exp: Prac. In 2 coding lang. or adv. Prac. in 1 lang.
-* 6\\+ years in IT; 4\\+ years in development
-
-
-**Experience Preferred**
-* 1\\+ years of experience working with BigQuery and GCP services
-
-
-**Education Required**
-* Bachelor's Degree
-
-
-**TekWissen® Group is an equal opportunity employer supporting workforce diversity.**","IT Services and IT Consulting","https://in.linkedin.com/company/tekwissenindia","https://media.licdn.com/dms/image/v2/D560BAQHo1e1dk_56Pg/company-logo_100_100/company-logo_100_100/0/1699651809502?e=2147483647&v=beta&t=_aOpmYEhtoGohPFwFpHUIpAIdD7c8z19Anx4jWK5YEs","","","","","","","","","","",""
-"li-4413638817","linkedin","https://www.linkedin.com/jobs/view/4413638817","","Custom Software Engineer","Accenture in India","","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
- Custom Software Engineer
+ ✅ Strong debugging, monitoring, and reliability engineering skills
    
 
   
 
-**Project Role Description :** 
- Lead the effort to design, build and configure applications, acting as the primary point of contact.
+ Why Join Us?
    
-
-  
 
-**Must have skills :** 
- Spring Boot
+ Work on cutting\\-edge IoT \\+ AI products
    
 
-  
-
-**Good to have skills :** 
- NA
+ Solve large\\-scale real\\-world engineering challenges
    
 
-  
-
-**Minimum 7\\.5 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
+ Opportunity to shape platform architecture from the ground up
    
-
-  
 
- Summary:
+ Fast\\-moving engineering culture with high ownership
    
 
   
 
- As an Application Lead, you will lead the effort to design, build, and configure applications, acting as the primary point of contact. Your typical day will involve collaborating with various teams to ensure project milestones are met, facilitating discussions to address challenges, and guiding your team in implementing effective solutions. You will also engage in strategic planning sessions to align project goals with organizational objectives, ensuring that all stakeholders are informed and involved in the development process. Your role will be pivotal in driving innovation and efficiency within the application development lifecycle, fostering a collaborative environment that encourages creativity and problem\\-solving.
+ 📍 Location: Ahmedabad (Work from Office)
    
-
-  
 
- Roles \\& Responsibilities:
+ 📩 Interested candidates can apply by sharing their resume at hardik@waveinnova.com or DM me.
    
 
   
 
-* Designing, coding, and testing Java\\-based applications and APIs using the Spring Boot framework.
-* Testing: Experience with unit testing, debugging, and troubleshooting application modules
-* Performance Optimization: Identifying and resolving performance bottlenecks, implementing performance tuning techniques
-* Team handling and hands on
-* Must have skills to take up architectural decision
-
-
- Professional \\& Technical Skills:
+ \\#Hiring \\#AhmedabadJobs \\#SoftwareEngineer \\#BackendEngineer \\#PlatformEngineer \\#NodeJS \\#ReactJS \\#AWS \\#Kafka \\#DistributedSystems \\#IoT \\#AI \\#CloudEngineering \\#TechHiring \\#WaveInnova","Transportation, Logistics, Supply Chain and Storage","https://www.linkedin.com/company/shipmentia","https://media.licdn.com/dms/image/v2/D560BAQERwrk8E_aMfw/company-logo_100_100/company-logo_100_100/0/1706641956699/shipmentia_logo?e=2147483647&v=beta&t=u1AzFzCr-_c45awho4mwFaP1InIyOo9hNDyVRwukF9k","","","","","","","","","","",""
+"li-4417458113","linkedin","https://www.linkedin.com/jobs/view/4417458113","","Senior Software Engineer, Global Converse, ITC","Converse","Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Who You’ll Work With**
+ This role typically reports to Manager Software Engineering within Global Converse, ITC within the Supply chain, Planning and Corporate Functions
    
 
   
 
-* Must have worked in creating Spring Boot applications and deploying in OpenShift Cluster
-* Must have experience in designing, developing, and deploying RESTful APIs, working with databases, and ensuring applications are scalable, efficient, and secure.x
-* Java: Strong core Java programming skills
+* Product Managers, Designers, and Program/Portfolio partners
+* Platform and Site Reliability Engineering (SRE) teams
+* Engineers, Security, and Architecture partners
+* External technology partners and vendors
 
 
- REST APIs: Experience with designing and developing RESTful APIs.
+**Who We Are Looking For**
+ We are seeking a We are seeking a Senior Software Engineer\\- QM \\+ Dev Ops for Global Converse within the Supply Chain, Planning, and Corporate Functions. You are a strategic thinker with hands‑on expertise in systems orchestration and simplification. You thrive in complex environments, bring strong cross‑functional partnership, and could translate business needs into scalable, reliable technical solutions. You will support the engineering team by providing technical direction, architectural guidance, and delivery maturity, helping deliver high‑impact consumer and enterprise experiences. You lead with curiosity, problem‑solving rigor, and a commitment to elevating the maturity of Supply Chain, Planning, and Corporate technology capabilities across the enterprise.
    
 
   
-
- Databases: Familiarity with database design, SQL, and ORM frameworks like Hibernate.
-   
 
-  
+**Details On Qualifications**
+* Bachelor’s degree in computer science, Engineering, or a related field.
+* 7\\+ years of professional software engineering experience building and operating production systems.
+* Experience in microservices architecture, domain driven design, and RESTful API’s using languages such as Node.js and python
+* Experience using cloud services to build an integrated application (AWS \\- EC2, ECS, API gateway, Lambda, Relational and Non\\-relational Databases), and container orchestration (Docker/Kubernetes).
+* Hands on experience with automated testing frameworks for API, UI, and service level testing (e.g., Selenium, Cypress, Playwright, REST assured, Postman, Karate).
+* Experience with implementing CI/CD and leading teams with DevOps responsibilities of deploying and supporting the software in production
+* Proven delivery excellence in highly collaborative, multi\\-disciplinary teams.
+* Expertise in microservices architecture, domain driven design, RESTful services,
+* Proficiency in one or more of: Java/Kotlin, JavaScript/TypeScript, Python, or Go.
+* Good to have experience with observability \\& monitoring tools (e.g., Splunk, SignalFx)
+* Familiarity with messaging and streaming platforms (e.g., Kafka, Event Hubs).
+* Knowledge of secure coding practices, identity and access management, and compliance considerations.
+* Exposure to Supply Chain and Corporate domains, such as inventory, order management, logistics, warehouse management, and financial systems.
+* Experience implementing or integrating with ERP platforms.
+* Strong problem\\-solving skills, with experience troubleshooting complex, distributed systems.
+* Excellent verbal and written communication skills, with the ability to engage both technical and business stakeholders.
+* Eagerness to learn and apply AI driven solutions to improve engineering productivity and system outcomes, and operational efficiency
+* Strong collaboration and A growth mindset — curious, adaptable, and energized by evolving technology.
 
- Microservices: Understanding of microservices architecture and experience with building microservices
-   
 
-  
+**What You’ll Work On**
+* Design \\& Develop: Build, test, and maintain React applications and Node services providing functionality necessary to enable our software Engineering efforts.
+* Collaborate: Work closely with product managers, engineers to understand requirements, technical specifications, and deliver quality software.
+* Design, develop, and execute test strategies, test plans, and test cases across functional, integration, system, and regression testing.
+* Write and maintain automated tests (API, service level, UI, and data validation) using modern frameworks and tooling.
+* Test and validate end to end business workflows across Supply Chain, Planning, Finance, and Corporate systems.
+* Validate integrations and data flows between systems such as ERP, OMS, WMS, Planning tools, and Finance platforms (REST APIs, events, batch jobs).
+* Front\\-End Development: Design and implement RESTful APIs, microservices, services using technologies like Node.js
+* Review code developed by other developers and provide feedback to ensure best practices
+* Database Management: Develop databases, ensuring efficient data storage and retrieval.
+* Testing \\& Quality Assurance: Write unit tests, integration tests, and maintain high code quality standards using tools such as Jest, Mocha, or similar.
+* Performance Optimization: Identify and fix performance bottlenecks across the full stack, ensuring high availability and responsiveness.
+* CI/CD Integration: Integrate with and maintain continuous integration/continuous deployment (CI/CD) pipelines for seamless software delivery.
+* Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+* Provide technical leadership and mentorship to engineers, analysts, and partner teams.
+* Partner with business and technology teams to define product features, and design, build, and launch new products or enhance existing platforms.
+* Contribute to architecture evolution, security by design, and cost\\-efficient solutions.","Retail","https://www.linkedin.com/company/converse","https://media.licdn.com/dms/image/v2/C4E0BAQHISfoboErPKA/company-logo_100_100/company-logo_100_100/0/1630586251759/converse_logo?e=2147483647&v=beta&t=OySP0WTRBL46eiw_dCuoet98pJn0PPImc_Aujn8IUmI","","","","","","","","","","",""
+"li-4416363197","linkedin","https://www.linkedin.com/jobs/view/4416363197","","Senior Software Engineer","Applied Systems India","Bangalore Urban, Karnataka, India","","fulltime","","","","","",True,"not applicable","Engineering and Information Technology","","","**Amazing Career Moments Happen Here** 
 
-* Must have good communication skills
-* Must be interacting with team members, product owners and other stakeholders to complete the work
 
 
- Additional Information:
-   
 
   
 
-* The candidate should have minimum 7\\.5 years of experience in Spring Boot.
-* This position is based in Chennai.
-* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
-"li-4416335268","linkedin","https://www.linkedin.com/jobs/view/4416335268","","Lead Software Engineer","Lowe's India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Innovate in Bengaluru**
- This position is based at our on\\-site office in Bengaluru. Lowe's offers an ultramodern work environment, complete with cutting\\-edge technology, collaborative workspaces, an on\\-site gym and clinic, and other perks to enhance your work experience.
-   
 
-  
 
-**About Lowe’s**
- Lowe’s is a FORTUNE® 100 home improvement company serving approximately 16 million customer transactions a week in the United States. With total fiscal year 2024 sales of more than $83 billion, Lowe’s operates over 1,700 home improvement stores and employs approximately 300,000 associates. Based in Mooresville, N.C., Lowe’s supports the communities it serves through programs focused on creating safe, affordable housing, improving community spaces, helping to develop the next generation of skilled trade experts and providing disaster relief to communities in need. For more information, visit Lowes.com.
-   
 
-  
 
- Lowe’s India, the Global Capability Center of Lowe’s Companies Inc., is a hub for driving our technology, business, analytics, and shared services strategy. Based in Bengaluru with over 4,500 associates, it powers innovations across omnichannel retail, AI/ML, enterprise architecture, supply chain, and customer experience. From supporting and launching homegrown solutions to fostering innovation through its Catalyze platform, Lowe’s India plays a pivotal role in transforming home improvement retail while upholding strong commitment to social impact and sustainability. For more information, visit Lowes India.
-   
+ Transforming the insurance industry is ambitious, we know. That’s why at Applied Systems India Pvt Ltd., an Applied Systems company, we’re building a team that shows up every day ready to learn, willing to try new things, and driven to deliver innovative software and services that make us indispensable to our customers – all within a culture built on values that make us indispensable to each other too. With 40\\+ years of experience in the Insurtech game, we’re not just redefining what’s achievable, we’re creating a place where amazing career moments are made possible.
+ 
 
-  
 
-**About The Team**
- The TMS (Transportation Management System) team builds and operates the platforms that orchestrate shipment execution across our supply chain—tendering, tracking, appointments, and freight workflows.
-   
 
   
-
- We deliver scalable, resilient microservices and integrations that connect carriers, distribution centers, and downstream systems through API\\-first and event\\-driven architectures.
-   
 
-  
 
- Our work directly impacts on\\-time delivery, transportation cost, and customer experience, especially during peak volume and high\\-availability events.
-   
 
-  
 
-**Job Summary**
- Provide technical leadership and hands\\-on engineering for complex, business\\-critical Java platforms and services. Translate business requirements and functional specifications into resilient, scalable, and maintainable program designs; lead implementation and ongoing maintenance of enterprise software solutions; and serve as a technical expert across the delivery lifecycle. This role designs and develops complex code modules and integrated microservices, drives engineering excellence (quality, security, and reliability), and mentors engineers while aligning solutions to Lowe’s enterprise architecture standards and recommended engineering platforms.
-   
 
   
-
-**Roles \\& Responsibilities**
-**Core Responsibilities:**
-* Lead the design and development of integrated enterprise applications and microservices to meet scalability, performance, security, availability, and maintainability requirements.
-* Design, develop, and maintain distributed systems and event\\-driven applications.
-* Build scalable APIs and backend platforms capable of handling high transaction volumes.
-* Develop complex Java applications using Spring Boot and modern engineering practices such as SOLID, Clean Architecture, and DDD.
-* Provide technical leadership through HLD/LLD creation, API contracts, data modeling, and integration design.
-* Drive architecture discussions and ensure alignment with enterprise architecture standards and reference architectures.
-* Resolve complex cross\\-application issues and lead initiatives with significant business impact.
-* Collaborate closely with product managers and business stakeholders to translate product roadmaps into scalable technical solutions.
-* Design and optimize NoSQL and relational database solutions.
-* Build event\\-driven and reactive solutions using Kafka, asynchronous processing, and non\\-blocking patterns.
-* Implement and enforce engineering best practices including code reviews, static analysis, automated testing, and secure coding standards.
-* Ensure adherence to security best practices including authentication, authorization, least privilege access, and OWASP guidelines.
-* Partner with DevOps/SRE teams to improve CI/CD pipelines, deployment automation, environment configuration, and production monitoring.
-* Drive operational excellence through disaster recovery planning, capacity planning, observability, performance testing, and incident management.
-* Support production systems, troubleshoot critical issues, conduct root\\-cause analysis, and implement permanent fixes.
-* Build and maintain observability dashboards, alerts, and operational runbooks.
-* Participate in code reviews, troubleshooting, and performance optimization activities.
-* Mentor and coach junior and mid\\-level engineers through technical guidance, pair programming, and structured feedback.
-* Collaborate effectively with global cross\\-functional teams in Agile environments.
-* Conduct Proof of Concepts (POCs) and evaluate new technologies, frameworks, and engineering capabilities.
-* Continuously improve engineering processes, simplify solutions, and remove technical bottlenecks.
-* Drive adoption of enterprise\\-recommended frameworks, tools, engineering platforms, and architectural standards.
-* Ensure solutions are scalable, resilient, secure, and highly available.
-
-
-**Years Of Experience**
-* 8\\+ years of experience in software engineering and backend development.
-* 5\\+ years of experience building microservices and distributed systems.
-* Strong experience in enterprise\\-scale product development.
-* Experience working in Retail or Supply Chain domains preferred.
-* Transportation and logistics domain knowledge is an added advantage.
 
 
-**Required Minimum Qualifications**
-* Bachelor's degree in computer science, Information Systems, Engineering, or related field.
 
 
-**Preferred Qualifications / Certifications**
-* Master’s degree in Computer Science, CIS, or related field.
-* Cloud certifications (e.g., AWS Certified Developer/Architect) and/or Kubernetes certifications (CKA/CKAD) are a plus.
-* Security and quality certifications (e.g., Secure Coding, OWASP training) are a plus.
 
+**Position Overview** 
 
-**Skill Set Required**
-**Primary Skills (must have)**
-* Java 11\\+, Spring Boot, REST API Development
-* Microservices \\& Distributed Systems
-* NoSQL Databases (MongoDB, Cassandra, DynamoDB, Couchbase, etc.)
-* Relational Databases (PostgreSQL, MySQL, Oracle)
-* Event\\-Driven Architecture
-* Reactive/non\\-blocking programming
-* Kafka, RabbitMQ, Pub/Sub
-* Docker \\& Kubernetes
-* CI/CD Pipelines (Jenkins, GitHub Actions)
-* Cloud Platforms (GCP, AWS, Azure)
-* System Design, Scalability \\& Performance Optimization
-* Agile Development \\& SDLC Best Practices
-* Git \\& Version Control
-* Production Support \\& Observability
-* API Security \\& Secure Coding Practices
-* High Traffic Enterprise Application Design
-* Security fundamentals: authentication/authorization protocols, secure API design, secrets management, and vulnerability remediation.
-* Agile delivery (Scrum/Kanban), estimation, prioritization, and stakeholder communication.
 
 
-**Secondary Skills (desired)**
-* Retail Domain Experience
-* Supply Chain \\& Transportation Knowledge
-* AI/Agentic Workflow Exposure
-* ReactJS, NextJS, JavaScript, TypeScript, HTML5, CSS3
-* IAM \\& Application Security Concepts
-* Workflow/Rules Engine Experience
-* ReactJS / NextJS Awareness
-* Cloud \\& Architecture Certifications
-* Monolith to Microservices Migration Experience
-* Strong Communication \\& Leadership Skills
-* Mentoring and Team Collaboration Experience
-* Domain\\-Driven Design (DDD) and/or event sourcing patterns in large\\-scale systems.
-* Cloud\\-native architecture (AWS/Azure/GCP), infrastructure\\-as\\-code, and platform engineering concepts.
-* Leadership Expectations
-* Ability to lead technical discussions and architecture reviews.
-* Strong mentoring and coaching mindset.
-* Excellent communication and stakeholder management skills.
-* Ability to work effectively in globally distributed teams.
-* Strong ownership, accountability, and problem\\-solving skills.
 
-
-*Lowe's is an equal opportunity employer and administers all personnel practices without regard to race, color, religious creed, sex, gender, age, ancestry, national origin, mental or physical disability or medical condition, sexual orientation, gender identity or expression, marital status, military or veteran status, genetic information, or any other category protected under federal, state, or local law.*
- Starting rate of pay may vary based on factors including, but not limited to, position offered, location, education, training, and/or experience. For information regarding our benefit programs and eligibility, please visit https://talent.lowes.com/us/en/benefits.","Retail","https://in.linkedin.com/company/lowe-s-india","https://media.licdn.com/dms/image/v2/C4E0BAQHoNPNGRZYG-w/company-logo_100_100/company-logo_100_100/0/1630617454317/lowes_india_logo?e=2147483647&v=beta&t=V2blyxQNtBHHqgDqDg-WADh2r2MvLpg4fLsnuqmMICs","","","","","","","","","","",""
-"li-4410914018","linkedin","https://www.linkedin.com/jobs/view/4410914018","","Software Engineer (I) - Established Engineer III","TekWissen India","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Overview**
- TekWissen is a global workforce management provider throughout India and many other countries in the world. The below client is a global company with shared ideals and a deep sense of family. From our earliest days as a pioneer of modern transportation, we have sought to make the world a better place – one that benefits lives, communities and the planet
-   
-
   
-
-**Job Title: Software Engineer (I) \\- Established Engineer III**
-**Location: Chennai**
-**Work Type: Hybrid (4 Days work From Office)**
-**Position Description**
-* Employees in this job function are responsible for designing, developing, testing and maintaining software applications and products to meet customer needs.
-* They are involved in the entire software development lifecycle including designing software architecture, writing code, testing for quality and deploying the software to meet customer requirements.
-* Full\\-stack software engineering roles, who can develop all components of software including user interface and server side also fall within this job function.
-
-
-**Key Responsibilities**
-* Engage with customers to deeply understand their use\\-cases, pain points, and requirements, showcasing empathy and advocating for user\\-centric software solutions
-* Solve complex problems by designing, developing, and delivering using various tools, languages, frameworks, methodologies (like agile) and technologies
-* Assess the requirements of the software application or service and determine the most suitable technology stack, integration method, deployment strategy, etc.
-* Create high\\-level software architecture designs that outline the overall structure, components, and interfaces of the application
-* Collaborate with cross functional teams like product owners, designers, architects etc.
-* Define and implement software test strategy, guidelines, policies and processes in line with organization vision, industry regulations and market best practices.
-* Work on continuously improving performance and optimizing the application and implement new technologies to maximize development efficiency
-* Familiar with programming practices, such as test\\-driven development, continuous integration, and continuous delivery
-* Support security practices to safeguard user data including encryption and anonymization.
-* Create user\\-friendly and interactive interfaces
-* Develop and maintain back\\-end applications like APIs and microservices using server\\-side languages
-* Evaluate and incorporate emerging technologies and capabilities to deliver their solutions, and are monitoring and participating in solutions for new stack layers, often involving industry collaboration
-
-
-**Skills Required**
-* DB2, Big Query,, COBOL, Mainframe Systems, JCL
-
-
-**Experience Required**
-* Engineer III Exp: Prac. In 2 coding lang. or adv. Prac. in 1 lang. 6\\+ years in IT; 4\\+ years in development
-
 
-**Education Required**
-* Bachelor's Degree
 
 
-**Education Preferred**
-* Bachelor's Degree
 
 
-**TekWissen® Group is an equal opportunity employer supporting workforce diversity.**","IT Services and IT Consulting","https://in.linkedin.com/company/tekwissenindia","https://media.licdn.com/dms/image/v2/D560BAQHo1e1dk_56Pg/company-logo_100_100/company-logo_100_100/0/1699651809502?e=2147483647&v=beta&t=_aOpmYEhtoGohPFwFpHUIpAIdD7c8z19Anx4jWK5YEs","","","","","","","","","","",""
-"li-4413658027","linkedin","https://www.linkedin.com/jobs/view/4413658027","","Custom Software Engineer","Accenture in India","Pune City, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
- Custom Software Engineer
-   
-
-  
-
-**Project Role Description :** 
- Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high\\-performing solutions tailored to specific business needs.
-   
+ We’re searching for a
+ **Senior Software Engineer** 
+ to join our
+ **Engineering team** 
+ in Bengaluru location. This role is purpose\\-built around an AI\\-first engineering mindset – you will leverage AI tools and AI SDLC best practices across the entire product development lifecycle to accelerate delivery, elevate code quality, and drive innovation. You’ll be a full\\-stack engineer at heart, writing production\\-grade code in .NET and React while championing a quality\\-first development culture. This role bridges product engineering and quality engineering — you'll build features and own their quality end\\-to\\-end. To keep us headed in the right direction, we’re looking for people who understand winning is a team sport, who value and seek to learn from our team’s diverse experiences and backgrounds, who welcome a challenge and take risks in the pursuit of creating better outcomes for our customers, and who can, at any given time, step back to laugh and have some fun.
+ 
 
-  
-
-**Must have skills :** 
- Android Application Development
-   
 
-  
-
-**Good to have skills :** 
- NA
-   
 
   
 
-**Minimum 5 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
-   
-
-  
 
- Summary:
-   
 
-  
 
- As a Custom Software Engineer, a typical day involves creating tailored software solutions by designing, coding, and improving various components within systems or applications. The role requires working with contemporary frameworks and following agile methodologies to ensure the delivery of scalable and efficient software that meets unique business requirements. Collaboration with different teams and continuous refinement of software elements are integral parts of the daily workflow, fostering innovation and responsiveness to evolving project demands.
-   
 
   
-
- Roles \\& Responsibilities:
-   
 
-  
 
-* Participate in the design and build of the new UBS Mobile Banking
-* Native Android (Kotlin/Java) development experience, familiar with design principles, knowledge of version control system (Git)
-* Understanding of Google's Android design principles and design guidelines
-* Experience in test driven development, continuous integration and deployment
-* code and ship new features to production
-* work with external data sources and APIs
-* continuously discover, evaluate, and implement new technologies to maximize development efficiency
-* providing tech solutions and ensuring adherence to good software practices
-* partner with UX designers, architects, back\\-end development teams and QA to deliver a high quality product
-* create, manage and automate continuous testing of the features you delivered
-* be part of a strong international team and contribute to success of Mobile Excellence in UBS
 
 
- Professional \\& Technical Skills:
-   
 
-  
+**Required Skills:** 
 
-* a graduate degree in IT Software Engineering
-* fundamental experience in designing secure, robust and scalable applications
-* a positive attitude and a great interest in shaping the future of technology in banking
-* native Android (Java/Kotlin) development experience
-* Experience with Android/JetPack Compose
-* Familiar with design principles
-* Knowledge of Version Control System (Git)
-* understanding of Google s Android design principles and interface guidelines
-* experience in test driven development, continuous Integration and Deployment
-* a strong software engineer with high dedication app development
-* showing high degree of creativity by designing user\\-friendly applications
-* a good team player
-* a strong written and verbal communicator, comfortable interacting with colleagues in English
-* analytical skilled person who manages to cope with complex challenges in software engineering
 
 
- Additional Information:
-   
+* Education: BE, B. Tech, M. Tech, MCA, MSc or equivalent
+* Experience Level: 5\\+ Years of hands\\-on software engineering experience
 
-  
 
-* The candidate should have minimum 5 years of experience in Android Application Development.
-* This position is based at our Pune office.
-* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
-"li-4413641826","linkedin","https://www.linkedin.com/jobs/view/4413641826","","Custom Software Engineer","Accenture in India","","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
- Custom Software Engineer
-   
 
   
-
-**Project Role Description :** 
- Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high\\-performing solutions tailored to specific business needs.
-   
 
-  
 
-**Must have skills :** 
- Oracle GoldenGate
-   
 
-  
 
-**Good to have skills :** 
- NA
-   
 
   
-
-**Minimum 5 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
-   
 
-  
 
- Summary:
-   
 
-  
 
- As a Custom Software Engineer, a typical day involves designing and developing tailored software solutions that enhance various system components and applications. The role requires working closely with different teams to ensure the delivery of scalable and efficient software products. The engineer applies modern development frameworks and agile methodologies to continuously improve and adapt solutions to meet evolving business requirements, ensuring high performance and reliability throughout the software lifecycle.
-   
 
-  
+**Mandatory Skills (Full\\-Stack \\+ Quality \\& Product Engineering)** 
 
- Roles \\& Responsibilities:
-   
 
-  
 
-* Expected to be an SME, collaborate and manage the team to perform.
-* Responsible for team decisions.
-* Engage with multiple teams and contribute on key decisions.
-* Provide solutions to problems for their immediate team and across multiple teams.
-* Lead efforts to identify and implement process improvements that enhance team productivity and software quality.
-* Mentor junior team members to support their professional growth and integration within the team.
-* Coordinate cross\\-functional collaboration to align software development activities with organizational goals.
+* Strong proficiency in .NET framework (C\\#, ASP.NET, .NET Core) for backend development.
+* Proficiency with ReactJS and related ecosystem (Redux, React Router, hooks, context API).
+* Strong knowledge of HTML5, CSS3, and modern JavaScript/TypeScript.
+* Proficiency with microservice architecture, event\\-driven programming, and async design patterns.
+* Hands\\-on experience designing and consuming RESTful APIs.
+* Solid experience with relational databases such as SQL Server, MySQL, or PostgreSQL.
+* Demonstrated quality\\-first mindset: experience writing unit tests, integration tests, and automated test suites as part of the development workflow. Ability to own quality end\\-to\\-end, not just hand off to QA.
+* Familiarity with CI/CD pipelines and embedding automated quality gates (linting, static analysis, test coverage thresholds).
+* Strong understanding of quality management principles — defect prevention, root cause analysis, test planning, and quality metrics tracking across the product engineering lifecycle.
+* Hands\\-on experience with quality engineering practices: test automation frameworks, performance/load testing, API contract testing, and shift\\-left testing strategies to catch defects early in the SDLC.
+* Proven ability to use AI\\-powered development tools (e.g., Claude, GitHub Copilot, ChatGPT, AI code\\-review/test\\-generation tools) to accelerate and improve the SDLC.
+* Strong troubleshooting, debugging, and research abilities.
+* Excellent communication skills and ability to work collaboratively in a team\\-oriented environment.
+* Strong work ethic and ability to deliver solutions within committed timeframes.
 
 
- Professional \\& Technical Skills:
-   
 
   
 
-* Must To Have Skills: Proficiency in Oracle GoldenGate.
-* Strong knowledge of data replication and real\\-time data integration techniques.
-* Experience with troubleshooting and optimizing data synchronization processes.
-* Familiarity with database management systems and performance tuning.
-* Ability to work with distributed systems and ensure data consistency across platforms.
-* Skilled in scripting and automation to support deployment and monitoring tasks.
 
-
- Additional Information:
-   
 
-  
 
-* The candidate should have minimum 5 years of experience in Oracle GoldenGate.
-* This position is based at our Chennai office.
-* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
-"li-4413650719","linkedin","https://www.linkedin.com/jobs/view/4413650719","","Custom Software Engineer","Accenture in India","Pune City, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
- Custom Software Engineer
-   
 
   
 
-**Project Role Description :** 
- Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high\\-performing solutions tailored to specific business needs.
-   
-
-  
 
-**Must have skills :** 
- Oracle Data Integrator (ODI)
-   
 
-  
 
-**Good to have skills :** 
- NA
-   
 
-  
+**What You’ll Do** 
 
-**Minimum 5 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
-   
 
-  
 
- Summary:
-   
+* Design, develop, and maintain full\\-stack web applications using .NET (C\\#, ASP.NET Core) for backend and ReactJS for frontend development.
+* Integrate and champion AI\\-powered development tools (e.g., Claude, GitHub Copilot, AI code\\-review assistants, AI test generators) across the SDLC to boost team velocity and code quality.
+* Utilize and enforce AI SDLC best practices – from AI\\-assisted requirements analysis and design through AI\\-augmented testing, deployment, and monitoring.
+* Drive a quality\\-first development culture: author comprehensive unit, integration, and end\\-to\\-end tests; embed automated quality gates in CI/CD pipelines.
+* Work on all phases of the development lifecycle, including requirement gathering, analysis, design, coding, testing, and deployment.
+* Collaborate with product managers, designers, QA engineers, and fellow developers to deliver high\\-quality software solutions on time.
+* Architect and build microservice\\-based, event\\-driven systems with async design patterns for scale and resilience.
+* Ensure code quality by writing clean, maintainable, and efficient code. Conduct and participate in code reviews, providing constructive feedback to peers.
+* Prepare and maintain technical documentation for code, architecture decisions, and design patterns.
+* Mentor junior engineers on AI tool adoption, testing strategies, and full\\-stack best practices.
+* Stay updated with emerging AI/ML tools, frameworks, and industry trends to continuously improve engineering practices.
 
-  
 
- As a Custom Software Engineer, a typical day involves designing and developing tailored software components that integrate seamlessly within larger systems or applications. The role requires continuous collaboration with various teams to ensure that solutions meet evolving business requirements. Throughout the day, the engineer focuses on enhancing existing functionalities and implementing new features using contemporary development methodologies. This position emphasizes delivering scalable and efficient software that aligns with organizational goals while adapting to changing project demands and priorities.
-   
 
   
-
- Roles \\& Responsibilities:
-   
 
-  
 
-* Expected to be an SME, collaborate and manage the team to perform.
-* Responsible for team decisions.
-* Engage with multiple teams and contribute on key decisions.
-* Provide solutions to problems for their immediate team and across multiple teams.
-* Lead efforts to identify and resolve technical challenges that impact project delivery and quality.
-* Mentor junior team members to support their professional growth and enhance team capabilities.
-* Coordinate cross\\-functional activities to ensure alignment and timely completion of project milestones.
 
 
- Professional \\& Technical Skills:
-   
 
-  
+**You may have other skills, including** 
 
-* 5–8 years of experience in ETL/ELT development, with at least 3–5 years in ODI.
-* Strong experience with ODI 12c
-* Knowledge Modules (IKM, LKM, CKM, RKM, JKM)
-* ODI architecture and components
-* Strong knowledge of data warehousing concepts.
-* Proficiency in SQL and PL/SQL.
-* Hands\\-on experience with SCD Type 2 implementation in ODI.
-* Experience with Linux/Unix environments.
 
 
- Additional Information:
-   
 
   
 
-* The candidate should have minimum 5 years of experience in Oracle Data Integrator (ODI).
-* This position is based at our Pune office.
-* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
-"li-4413642832","linkedin","https://www.linkedin.com/jobs/view/4413642832","","Custom Software Engineer","Accenture in India","","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
- Custom Software Engineer
-   
 
-  
 
-**Project Role Description :** 
- Design, build and configure applications to meet business process and application requirements.
-   
 
-  
 
-**Must have skills :** 
- Oracle Planning and Budgeting (EPBCS)
-   
+ Experience with the following technologies a plus
+ 
 
-  
 
-**Good to have skills :** 
- NA
-   
+* Experience with AWS cloud services (EC2, Lambda, S3, RDS, ECS/EKS, CloudWatch).
+* Experience with containerization and orchestration tools – Docker \\& Kubernetes.
+* Familiarity with GitLab CI/CD, Apigee API management, and Tilt for local development workflows.
+* Experience with observability platforms such as Datadog or similar.
+* Knowledge of AI/ML frameworks or platforms and their application in software engineering workflows.
+* Experience with infrastructure\\-as\\-code or cloud\\-native development patterns.
 
-  
 
-**Minimum 5 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
-   
 
   
 
- Summary:
-   
-
-  
 
- As a Custom Software Engineer, you will engage in the design, construction, and configuration of applications tailored to meet specific business processes and application requirements. Your typical day will involve collaborating with various stakeholders to gather requirements, developing innovative solutions, and ensuring that applications function seamlessly within the existing infrastructure. You will also be responsible for troubleshooting issues and implementing enhancements to improve application performance and user experience, all while adhering to best practices in software development.
-   
 
-  
 
- Roles \\& Responsibilities:
-   
 
-  
+**When You Join Team Applied, You Can Expect:** 
 
-* Expected to be an SME.
-* Collaborate and manage the team to perform.
-* Responsible for team decisions.
-* Engage with multiple teams and contribute on key decisions.
-* Provide solutions to problems for their immediate team and across multiple teams.
-* Facilitate knowledge sharing sessions to enhance team capabilities.
-* Monitor project progress and ensure alignment with business objectives.
 
 
- Professional \\& Technical Skills:
-   
 
   
 
-* Must To Have Skills: Proficiency in Oracle Planning and Budgeting (EPBCS).
-* Strong understanding of application design principles and methodologies.
-* Experience with integration of Oracle Planning and Budgeting with other enterprise systems.
-* Ability to analyze business requirements and translate them into technical specifications.
-* Familiarity with performance tuning and optimization techniques for Oracle applications.
 
 
- Additional Information:
-   
-
-  
 
-* The candidate should have minimum 5 years of experience in Oracle Planning and Budgeting (EPBCS).
-* This position is based at our Chennai office.
-* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
-"li-4417403417","linkedin","https://www.linkedin.com/jobs/view/4417403417","","Lead Software Engineer - Oracle Integration Cloud (OIC)","Societe Generale Global Solution Centre","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","Reference 2600054N
-   
 
-  
+**A culture that values who you are** 
+ and recognizes that you aren’t just an employee; you are a teammate, and you matter. We thrive on the benefits of our different experiences and celebrate the uniqueness our teammates bring to work with them every day.
+ 
 
-**Responsibilities**
-**Lead Software Engineer \\- 7\\-10yrs Oracle Integration Cloud**
- Should have 7 to 10 years of Oracle Integration Cloud (OIC) experience with at least 2 end to end implementation expertise on Oracle HCM interfaces using OIC.. Techno functional professional who understands solutions, industry best practices, well coordination with the clients, multiple business processes or technology designs within a product/technology family. Operates independently to provide quality work products to an engagement. Performs varied and complex duties and tasks that need independent judgment and technology to meet customer needs. Should act as the Techno functional consultant on Oracle Integration projects. Effectively consults with management of customer organizations. Participates in business development activities. Develops and configures detailed solutions for complex projects.
-   
 
-  
 
-**Roles \\& Responsibilities:**
-* In\\-depth working experience on Oracle Integration Cloud integrations on Oracle HCM \\=\\=\\> Core HR, Absences, and OTL modules.
-* Expected to have good articulation and presentation skills in both verbal and written
-* The candidate must have Techno Functional expertise on the below OIC technologies
+**We flex our time together** 
+ , collaborating remotely and in\\-person to empower our teams to work in the ways that work best for them.
+ 
 
 
- Designing, developing, and implementing OIC integration solutions using OIC pre\\-built adapters, REST/SOAP web services, File based data import/export (FBDI), HDL)
-   
 
   
 
- Handling Transformations and orchestration of interfaces between systems
-   
 
-  
 
- Implementing fault handling and error resolution mechanisms
-   
 
-  
 
- Developing customizations using Visual Builder or APEX or VBCS
-   
+**Learn more about the people behind our products at** 
+ –
+ 
 
-  
 
- Experience in SQL and PL/SQL for data manipulation
-   
+* LinkedIn Page Applied Systems India
+* https://www1\\.appliedsystems.com/en\\-us/about\\-us/jobs/
 
-  
 
- Experience in ATP DB (Oracle Autonomous DB)
-   
 
   
 
- Configuring OIC connections (SOAP, REST, FTR, etc)
-   
 
-  
 
- Documentation \\- Maintain detailed technical documents.
-   
 
-  
 
- Troubleshooting \\& Support : Raising SR, Coordination with Oracle on issue resolution, Assist in the identification and resolution of complex issues/problems on integrations
-   
+**Your Security Matters:** 
 
-  
 
-* Good to have skills:
 
 
- Having understanding of Oracle HCM modules is added advantage.
-   
+ Our candidates’ personal information and online safety are top of mind for us. At Applied, we proactively protect your personal information and only communicate with candidates via a secure @appliedsystems.com email or through our official careers’ portal.
+ 
 
-  
 
- Experience on HCM Extracts and BI Reports
-   
 
   
-
- Agile Methodology of working, Jira Board
-   
 
-  
 
-* Should have completed at least 2 projects on the above\\-mentioned mandatory skills and should be an independent contributor
-* The candidate should have been in client facing roles and interacted with customers in requirement gathering workshops.
-* Should have strong written and verbal communication skills, personal drive, flexibility, team player, problem solving, influencing and negotiating skills and organizational awareness and sensitivity, engagement delivery, continuous improvement and knowledge sharing and client management. Interact with client frequently around specific work efforts/deliverables
-* Willing to work in shifts, if required in future.
 
 
-**Required**
-**Profile required**
- Should have 7 to 10 years of Oracle experience in Oracle HCM report development using BIP with at least 2 end to end implementation expertise. Techno functional professional who understands solutions, industry best practices, well coordination with the clients, multiple business processes or technology designs within a product/technology family. Operates independently to provide quality work products to an engagement
-   
 
   
 
-**Why join us**
- ""We are committed to creating a diverse environment and are proud to be an equal opportunity employer. All qualified applicants receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status”.
-   
 
-  
 
-**Business insight**
- At Société Générale, we are convinced that people are drivers of change, and that the world of tomorrow will be shaped by all their initiatives, from the smallest to the most ambitious. Whether you’re joining us for a period of months, years or your entire career, together we can have a positive impact on the future. Creating, daring, innovating, and taking action are part of our DNA. If you too want to be directly involved, grow in a stimulating and caring environment, feel useful on a daily basis and develop or strengthen your expertise, you will feel right at home with us!
-   
 
-  
 
- Still hesitating?
-   
+**EEO Statement** 
 
-  
 
- You should know that our employees can dedicate several days per year to solidarity actions during their working hours, including sponsoring people struggling with their orientation or professional integration, participating in the financial education of young apprentices, and sharing their skills with charities. There are many ways to get involved.
-   
 
-  
 
- We are committed to support accelerating our Group’s ESG strategy by implementing ESG principles in all our activities and policies. They are translated in our business activity (ESG assessment, reporting, project management or IT activities), our work environment and in our responsible practices for environment protection.","IT Services and IT Consulting","https://in.linkedin.com/company/societe_generale_global_solution_centre","https://media.licdn.com/dms/image/v2/C510BAQFwBvGQK2NyEA/company-logo_100_100/company-logo_100_100/0/1630620434106/societe_generale_global_solution_centre_logo?e=2147483647&v=beta&t=JLVeP7Wt4mveji2MHGGJKTK-7LZYVstKBki3yCG64XA","","","","","","","","","","",""
-"li-4413657046","linkedin","https://www.linkedin.com/jobs/view/4413657046","","Application Support Engineer","Accenture in India","","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
- Application Support Engineer
+ Applied Systems is proud to be an Equal Employment Opportunity Employer. Diversity and Inclusion is a business imperative and is a part of building our brand and reputation. At Applied, we don’t discriminate, and we are committed to recruit, develop, retain, and promote regardless of race, religion, color, national origin, sexual orientation, gender identity, disability, age, veteran status, and other protected status as required by applicable law.","Insurance","https://in.linkedin.com/company/applied-systems-india","https://media.licdn.com/dms/image/v2/D560BAQHUmh-kQiOTkA/company-logo_100_100/company-logo_100_100/0/1694153133346/applied_systems_india_logo?e=2147483647&v=beta&t=vPbfmWw9q335hxfJeLB7szhqJvHMf8Cwi1Veihay1kY","","","","","","","","","","",""
+"li-4417445303","linkedin","https://www.linkedin.com/jobs/view/4417445303","","Lead Full Stack Software Engineer (807)","Protegrity","Navi Mumbai, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","At Protegrity, we lead innovation by using AI and quantum\\-resistant cryptography to transform data protection across cloud\\-native, hybrid, on\\-premises, and open source environments. We leverage advanced cryptographic methods such as tokenization, format\\-preserving encryption, and quantum\\-resilient techniques to protect sensitive data. As a global leader in data security, our mission is to ensure that data isn’t just valuable but also usable, trusted, and safe.
    
 
   
 
-**Project Role Description :** 
- Act as software detectives, provide a dynamic service identifying and solving issues within multiple components of critical business systems.
+ Protegrity offers the opportunity to work at the intersection of innovation and collaboration, with the ability to make a meaningful impact on the industry while working alongside some of the brightest minds. Together, we are redefining how the world safeguards data, enabling organizations to thrive in a GenAI era where data is the ultimate currency. If you're ready to shape the future of data security, Protegrity is the place for you.
    
 
   
 
-**Must have skills :** 
- Electronic Medical Records (EMR)
+**About The Role**
+ As a Lead Full Stack Engineer
+ **,** 
+ you operate as a senior technical leader and delivery enabler across our visual tools, UI Shells, and SaaS\\-like capabilities in the Front\\-End organization. You own and evolve complex, high‑impact UI systems and related Back\\-End services while shaping the standards, workflows, and release practices that allow teams to deliver reliably, consistently, and at scale across multiple products and pipelines.
    
 
   
 
-**Good to have skills :** 
- NA
+ This role is front\\-end focused with strong openness to full stack capabilities where they meaningfully improve architecture, reliability, performance, and delivery velocity. You bring deep expertise in modern Front‑End systems and apply Back\\-End knowledge to influence API design, data flows, authentication, and system behavior in ways that result in more resilient and cohesive user experiences.
    
 
   
 
-**Minimum 5 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
-   
+**What You'll Do**
+* Serve as a core member of the centralized Front\\-End organization, driving consistent, scalable branding, interaction patterns, and visual identity across a global portfolio of security products.
+* Collaborate deeply with cross‑functional partners through engineering standups, sprint planning, design reviews, UX scrub sessions, demos, team forums, and 1:1s to ensure strong alignment, high quality, and predictable delivery.
+* Demonstrate curiosity and practical adoption of agent‑based and AI‑assisted development tools, using automation and intelligent workflows to streamline development, improve reliability, and shift focus toward high‑leverage architectural and product work.
+* Own and evolve shared Front‑End platforms and frameworks, driving architecture, infrastructure, and DevOps practices that enable reliable, scalable delivery across multiple products, pipelines, and teams.
+* Set and uphold a high bar for functional, intuitive user experiences, delivering successful end‑to‑end user journeys while maintaining excellence in UI quality, WCAG 2\\.2 Level AA Accessibility, performance, security, and visual consistency at scale.
+* Provide architectural leadership across UI and Back\\-End integration (APIs, auth, contracts, and operability) to ensure reliable UI solutions at scale.
+* Set direction for next‑generation UI architecture in cloud environments (Azure, AWS), aligning Front‑End systems with cloud‑native design patterns, modern security standards, and operational practices.
+* Identify and reduce friction across build, review, testing, and release workflows, driving durable improvements that enable predictable, low‑stress, repeatable release and operational practices at scale.
 
-  
 
- Summary:
-   
+**What You'll Need**
+* 6\\+ years of experience in modern Front‑End engineering (HTML5, CSS/SASS, React.js, TypeScript), with complementary full‑stack experience in Back\\-End services, and databases.
+* Strong foundation in computer science fundamentals, including data structures, algorithms, and system design.
+* Demonstrated knowledge and experience implementing client‑side security best practices to protect user data, application integrity, and trust.
+* Ownership of shared systems and long‑term architectural decisions, with architectural leadership that balances Front‑End needs, Back\\-End constraints, and overall system reliability.
+* Strong collaboration and mentorship skills, with experience working across global teams and flexibly navigating time zone constraints to support effective communication and delivery.
+* Comfort with critical thinking and creative problem‑solving in complex system and architectural contexts.
+* High competence in verbal and written communication is essential.
+* Ability to multiply the abilities and skills of others.
 
-  
 
- As an Application Support Engineer, a typical day involves acting as a software detective by investigating and resolving issues that arise within various components of essential business systems. This role requires a proactive approach to identifying problems, analyzing system behavior, and ensuring the smooth operation of critical applications. The position demands continuous interaction with different teams to understand system intricacies and deliver timely solutions that maintain business continuity and enhance system reliability.
-   
+**Nice To Have**
+* Experience working in data security focused environments and products.
+* Experience using AI and ML to process data, prompts, and documents in support of intelligent, user focused product experiences. Curiosity and enthusiasm for learning and applying natural language processing (NLP) concepts to enable effective human‑AI interaction.
+* DevOps and operational experience supporting UI systems, including CI/CD pipelines, build and release automation, containerization with Docker, orchestration with Kubernetes, environment management, monitoring, and production support.
+* Experience with code quality inspection, security scanning, and monitoring tools such as JFrog Xray and SonarQube.
 
-  
 
- Roles \\& Responsibilities:
+ We offer a competitive salary and comprehensive benefits with generous vacation and holiday time off. All employees are also provided access to ongoing learning \\& development.
    
 
   
 
-* Expected to be an SME, collaborate and manage the team to perform.
-* Responsible for team decisions.
-* Engage with multiple teams and contribute on key decisions.
-* Provide solutions to problems for their immediate team and across multiple teams.
-* Coordinate with stakeholders to prioritize and address system issues effectively.
-* Mentor junior team members to support their professional growth and improve team capabilities.
-* Monitor system performance and recommend improvements to prevent future disruptions.
-
-
- Professional \\& Technical Skills:
+ Ensuring a diverse and inclusive workplace is our priority. We are committed to an environment of acceptance where you are free to bring your full self to work. All qualified applicants and current employees will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, age, national origin, disability or veteran status.
    
 
   
-
-* Must To Have Skills: Proficiency in Electronic Medical Records (EMR).
-* Must To Have Skills: Onbase
-* Strong analytical skills to diagnose and troubleshoot complex software issues within critical business systems.
-* Experience in managing and supporting multi\\-component software environments to ensure high availability and reliability.
-* Ability to communicate technical information clearly and collaborate effectively with cross\\-functional teams.
-* Familiarity with incident management processes and tools to track and resolve system problems efficiently.
-* Capability to document solutions and maintain knowledge bases for ongoing team reference.
 
-
- Additional Information:
+ Please reference Section 12: Supplemental Notice for Job Applicants in our Privacy Policy to inform you of the categories of personal information that we collect from individuals who inquire about and/or apply to work for Protegrity USA, Inc., or its parent company, subsidiaries or affiliates, and the purposes for which we use such personal information.","Computer and Network Security","https://www.linkedin.com/company/protegrity","https://media.licdn.com/dms/image/v2/D560BAQEjzkD3AIx29w/company-logo_100_100/company-logo_100_100/0/1697749697495/protegrity_logo?e=2147483647&v=beta&t=QE8SK2VHsmJBImfsVPQk2a_x7rNjtiuK_P9ECf3btic","","","","","","","","","","",""
+"li-4416354622","linkedin","https://www.linkedin.com/jobs/view/4416354622","","Developer - Shotscope™ (.NET Full Stack) - Husky(Guindy, Chennai)","Husky Technologies","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
+**Title:** 
+ Developer \\- Shotscope™ (.NET Full Stack) \\- Husky(Guindy, Chennai)
    
 
   
 
-* The candidate should have minimum 5 years of experience in Electronic Medical Records (EMR).
-* This position is based at our Chennai office.
-* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
-"li-4417387932","linkedin","https://www.linkedin.com/jobs/view/4417387932","","Lead Software Engineer - Monitoring Engineer","Societe Generale Global Solution Centre","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","Reference 260006IC
+**Id:** 
+ 20959
    
 
   
-
-**Responsibilities**
-* Proficient in Java versions : 8, 11, 17, 21;
-* Technologies:
-* Back\\-end :
-* Spring Boot (v2\\.x, v3\\.x);
-* Spring Framework (Web MVC v5\\.x, v6\\.x);
-* Spring Data;
-* Spring Cloud;
-* Spring Security;
-* Spring Integration;
-* Spring AMQP;
-* Front\\-end :
-* Angular (v\\>12\\) \\-\\> this is a “nice to have”;
-
 
-**Required**
-**Profile required**
-* Good knowledge of microservice development patterns;
-* Good knowledge of microservice architectures;
-* Good knowledge of Docker, Kubernetes or Openshift (v3/4\\);
-* Knowledge of pair programming, continuous integration and test\\-driven development;
-* Knowledge of design and modeling relational databases (Oracle, PostgreSQL, MySQL) and NoSQL databases;
-* Working collaboratively / Tools: GIT;
-* Methodologies: Agile;
-* Ability to work in a team, acting proactively;
-* Solution oriented person, with ability to work under pressure and respect deadlines;
-* Analytical and good communication skills.
-
-
- EXPERIENCE:
+**Type:** 
+ FullTime
    
 
   
 
-* minimum 3 years in developments using Spring (Boot \\& Cloud) framework \\& microservices;
-* minimum 4 years in IT project
-
-
-**Why join us**
-*“We are committed to creating a diverse environment and are proud to be an equal opportunity employer. All qualified applicants receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status”.*
-**Business insight**
-**At Société Générale, we are convinced that people are drivers of change, and that the world of tomorrow will be shaped by all their initiatives, from the smallest to the most ambitious. Whether you’re joining us for a period of months, years or your entire career, together we can have a positive impact on the future. Creating, daring, innovating, and taking action are part of our DNA. If you too want to be directly involved, grow in a stimulating and caring environment, feel useful on a daily basis and develop or strengthen your expertise, you will feel right at home with us!**
-**Still hesitating?**
-**You should know that our employees can dedicate several days per year to solidarity actions during their working hours, including sponsoring people struggling with their orientation or professional integration, participating in the financial education of young apprentices, and sharing their skills with charities. There are many ways to get involved.**
-**We are committed to support accelerating our Group’s ESG strategy by implementing ESG principles in all our activities and policies. They are translated in our business activity (ESG assessment, reporting, project management or IT activities), our work environment and in our responsible practices for environment protection.**","IT Services and IT Consulting","https://in.linkedin.com/company/societe_generale_global_solution_centre","https://media.licdn.com/dms/image/v2/C510BAQFwBvGQK2NyEA/company-logo_100_100/company-logo_100_100/0/1630620434106/societe_generale_global_solution_centre_logo?e=2147483647&v=beta&t=JLVeP7Wt4mveji2MHGGJKTK-7LZYVstKBki3yCG64XA","","","","","","","","","","",""
-"li-4416335300","linkedin","https://www.linkedin.com/jobs/view/4416335300","","Configuration Management Engineer II – Modeler (ST2)","Cadence","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Quality Assurance","","","**At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.**
-**OpenEye, Cadence Molecular Sciences** 
- – a division of Cadence Design Systems – is an industry leader in computational molecular design through rapid, robust, and scalable software, consulting services, and Orion®, the only cloud\\-native fully integrated software\\-as\\-a\\-service molecular modeling platform. Combining unlimited computation and storage with powerful tools for data sharing, visualization and analysis in a customizable development platform, Orion offers unprecedented capabilities for the advancement of pharmaceuticals, biologics, agrochemicals, and flavors and fragrances. OpenEye, Cadence Molecular Sciences is headquartered in Santa Fe, N.M., with offices in Boston, Mass.; Cologne, Germany; and Tokyo, Japan.
+**Location:** 
+ Chennai, India
    
 
   
 
- We are looking for a highly motivated, well\\-qualified software engineer to help develop and maintain build configurations for a large, multi\\-platform, suite of drug discovery scientific software. The qualified individual will also be working on continuous integration setup, build and test automation, and deployment of the software suite. The ability to work on multiple platforms, troubleshoot complex software systems, multi\\-task, and write robust software solutions would be key to being successful in this position. The configuration management engineer is also expected to interact and work alongside the scientific developers and key players in the IT group.
+ At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
    
 
   
-
-**What You’ll Do**
-* Work alongside highly skilled software engineers and scientific developers providing solutions for drug discovery modeling to accelerate efforts to design and discovery novel pharmaceutical compounds for human health.
-* Manage and extend the automated build and testing framework to support all applications and toolkits in the OpenEye suite.
-* Work with scientific developers to understand and troubleshoot platform\\-specific issues in their code.
-* Modernize existing build infrastructure to ensure we keep pace with changes operating systems, languages, etc.
 
-
-**What You Should Have**
-* Bachelor’s or Master’s in Computer Science, Engineering, or related field
-* 1\\-3\\+ years relevant experience developing in modern scientific languages (Python/C\\+\\+/etc.)
-* Experience with build scripts, build management and continuous integration
-* Good people/communication skills and ability to work as a part of a team
-* Ability to work under a development schedule, balancing features with delivery
-
-
-**The Following Are a PLUS, But Not Required**
-* 3\\-5\\+ years experience developing in C/C\\+\\+ and related build systems with CMake
-* Experience with build management of large scale, complex code base
-* Continuous Integration experience with TeamCity
-
-
-**We’re doing work that matters. Help us solve what others can’t.**","Software Development","https://www.linkedin.com/company/cadence","https://media.licdn.com/dms/image/v2/C560BAQFORFBYBIoPHQ/company-logo_100_100/company-logo_100_100/0/1630668285973?e=2147483647&v=beta&t=2J-kabPjQZhiv-NQmJBV5GTY1H_oVFa73HtuaA2-b0M","","","","","","","","","","",""
-"li-4413638972","linkedin","https://www.linkedin.com/jobs/view/4413638972","","Application Support Engineer","Accenture in India","Navi Mumbai, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
- Application Support Engineer
+ Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state\\-of\\-the\\-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
    
 
   
 
-**Project Role Description :** 
- Act as software detectives, provide a dynamic service identifying and solving issues within multiple components of critical business systems.
+ Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
    
 
   
 
-**Must have skills :** 
- Oracle Sales Cloud Sales Force Automation
+ Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
    
 
   
 
-**Good to have skills :** 
- NA
+****Job Description****
+ Do you want to work an industrial grade software solution powering real time manufacturing intelligence on factory floors worldwide?
    
 
   
 
-**Minimum 5 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
+ As a Developer on our Shotscope™ team, you will help build and maintain industrial\\-grade manufacturing intelligence software used by customers worldwide. You will implement features and components on a .NET and Azure\\-based full stack, contribute clean and reliable code, and support the continuous evolution of a mission\\-critical product that connects machines, processes, and data.
    
 
   
 
- Summary:
+ This role is ideal for a motivated engineer who enjoys hands\\-on development, learning from experienced teammates, and seeing their work deployed in real production environments—with clear opportunities to grow toward senior and lead roles.
    
 
   
 
- As an Application Support Engineer, a typical day involves acting as a software detective by investigating and resolving issues across various components of essential business systems. This role requires a proactive approach to identifying problems, analyzing system behavior, and ensuring smooth operation of critical applications. The position demands continuous monitoring, collaboration with different teams, and delivering timely solutions to maintain business continuity and system reliability.
+ If you want your code to have visible impact on how factories operate, Shotscope™ is where software meets the real world.
    
 
   
 
- Roles \\& Responsibilities:
-   
+****Responsibilities****
+**Technical Implementation**
+* Implement software components and features based on provided designs, specifications, and guidance.
+* Contribute to the development of reliable, maintainable, and secure code within the assigned scope.
+* Apply agreed coding standards, patterns, and best practices in daily development work.
+* Make basic technical decisions within assigned tasks, escalating questions or uncertainties when needed.
 
-  
 
-* Expected to be an SME, collaborate and manage the team to perform.
-* Responsible for team decisions.
-* Engage with multiple teams and contribute on key decisions.
-* Provide solutions to problems for their immediate team and across multiple teams.
-* Coordinate with stakeholders to prioritize and address system issues effectively.
-* Mentor junior team members to enhance their problem\\-solving capabilities and technical knowledge.
-* Ensure documentation of incidents and resolutions to support knowledge sharing and future troubleshooting.
+**Delivery \\& Execution Excellence**
+* Translate assigned requirements and tasks into working software.
+* Complete development work in alignment with sprint goals and delivery commitments.
+* Contribute to task breakdowns and effort estimates for assigned work.
+* Proactively raise risks, blockers, or implementation issues to the team.
 
 
- Professional \\& Technical Skills:
-   
+**Quality, Standards \\& Engineering Practices**
+* Write clean, testable code and contribute to unit and integration tests.
+* Participate in code reviews, incorporating feedback and learning from peers.
+* Ensure individual contributions meet Definition of Ready (DoR) and Definition of Done (DoD) criteria.
+* Follow established DevOps, security, and quality practices.
 
-  
 
-* Must To Have Skills: Proficiency in Oracle Sales Cloud Sales Force Automation.
-* \\- Must To Have Skills: Proficiency in Oracle Sales Cloud Sales Force Automation.
-* Implement and configure Oracle Enterprise Contracts modules.
-* Integrate OKC with other Oracle modules (e.g., Procurement, Order Management, AR/AP)
-* Support contract migration, data conversion, and reporting
-* Implement and configure Oracle Sales Cloud components:
+**Incident \\& Operational Support**
+* Assist in troubleshooting defects and issues in development and production environments.
+* Support corrective (bug fixes) and evolutive (enhancements) maintenance of existing solutions.
 
 
- Leads and opportunities management
-   
+**Collaboration \\& Growth**
+* Collaborate effectively with other developers, QA, Product Owners, and Tech Leads.
+* Seeking feedback and guidance to continuously improve technical skills.
+* Actively learn the systems, tools, and technologies used by the team.
+* Contribute positively to team culture and shared ownership of outcomes.
 
-  
 
- Accounts and contacts
-   
+****Qualifications****
+* Bachelor’s degree in computer science, IT, or related field.
+* 4\\+ years’ professional experience in software development.
+* Proficiency in .NET technologies (C\\#, ASP.NET Core, SQL, .NET Framework, Entity Framework).
+* Strong grasp of Agile methodologies, DevOps principles, application security and version control systems (e.g., Azure DevOps).
+* Proficiency in modern front\\-end frameworks (e.g., preference: React; Angular).
+* Clean Code Development and working experience with Unit Testing, and Test\\-driven Development.
+* Familiarity with source code version control, branching strategies, CI/CD pipelines and other DevOps practices.
+* Working knowledge of Agile development practices.
+* Excellent communication skills and ability to work in a team.
+* Fluency in English (spoken and written).
+* Strong problem\\-solving skills and attention to detail.
+* Ability to adjust quickly to changing assignments, and priorities.
 
-  
 
- Sales forecasting and pipeline management
-   
+**Assets**
+* Familiarity with CI/CD and pipelines.
+* Experience using AI‑assisted coding tools (e.g. GitHub Copilot) responsibly, with full accountability for code quality, security, and compliance.
+* Familiarity with Microsoft Azure, with experience in leveraging key services (e.g., Azure App Services, Azure Functions).
+* Exposure to Microsoft SQL Server BI stack, including SSAS (OLAP cube design), SSRS (report development), and SSIS (ETL processes and data integration).
 
-  
 
- Additional Information:
-   
+**Why Husky?**
+* Regulated Working Hours: Enjoy a structured work schedule that promotes a healthy work\\-life balance, allowing you to excel professionally while maintaining personal well\\-being.
+* Visible Impact: Experience the satisfaction of seeing the direct outcomes of your work, as you contribute to projects that visibly enhance our company's technological capabilities and efficiency.
+* Strategic Influence: Participate in architectural and technical reviews, contributing to the strategic direction of our cloud initiatives and making a tangible impact on our company's technological landscape.
+* Empowered Involvement: Take an active role in decision\\-making processes and architectural reviews, where your expertise helps shape the future of our cloud solutions and overall business strategy.
+* Valued Contributions: Be more than just a number in a large organization; at our company, every individual's input is valued and can lead to significant, tangible improvements in our operations and services.
+* Impactful Role: Play a crucial part in both developing new applications and maintaining existing systems, ensuring their optimal performance and reliability.
+* Cutting\\-Edge Projects: Work on innovative cloud solutions that are transforming our and our customer’s business, giving you the opportunity to be at the forefront of technological advancements.
+* Supportive Community: Work in an environment that recognizes and celebrates individual achievements, fostering a sense of community and mutual respect among team members.
+* Collaborative Environment: Join a global team of skilled professionals around the globe where your ideas are valued, and collaboration is encouraged to solve complex challenges and drive success.
 
-  
 
-* The candidate should have minimum 5 years of experience in Oracle Sales Cloud Sales Force Automation.
-* This position is based at our Mumbai office.
-* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
+ Husky TechnologiesTM offers a competitive compensation and benefits package and excellent opportunities for growth and advancement. We are committed to equal employment opportunity and respect, value and welcome diversity in our workplace. Husky TechnologiesTM also values being a great place to work and strives to maintain a safe workplace. Accordingly, Husky TechnologiesTM conditions all offers of employment on satisfactory completion of background checks. No agency or telephone inquiries please.","Machinery Manufacturing","https://ca.linkedin.com/company/husky-technologies","https://media.licdn.com/dms/image/v2/C4D0BAQHsvZ0ebIsc4w/company-logo_100_100/company-logo_100_100/0/1636124255401/husky_injection_molding_systems_logo?e=2147483647&v=beta&t=DOW-hRVyemixk1uzPur_5PLKICQw58KUNmIrpYtA4rk","","","","","","","","","","",""
