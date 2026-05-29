@@ -1,2562 +1,1209 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4421214859","linkedin","https://www.linkedin.com/jobs/view/4421214859","","Software Engineer","Caterpillar Inc.","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Career Area**
- Technology, Digital and Data
+"li-4421243627","linkedin","https://www.linkedin.com/jobs/view/4421243627","","Software Development Engineer 2","WEX","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Software Development Engineers \\[Integrated Engineers] are responsible for development of computer programming systems and applications including the design, coding, testing and deployment of products and solutions to meet firm obligations. The Software Development Engineering focus specializes in the design, development and testing of software systems for software enhancements and new products including cloud\\-based or internet\\-related tools. conducts, and evaluates application audits and testing processes and ensures the applications or products meet those defined quality standards. May also create documentation so that future managers and engineers know how to solve potential issues. In addition to software design and development skill sets, employees in these roles should have in\\-depth knowledge of automated testing tools and traditional quality assurance approaches.
+   
+
+  
+
+ Cloud Development: Focus specializes in the development, deployment and maintenance of applications and computing solutions that can be hosted and operated entirely on web based platforms. Plans, designs, develops, tests and troubleshoots cloud based application, works across the complete cloud stack i.e. Software as a Service (SaaS), and/or Platform as a Service (PaaS) and/or Infrastructure as a Service (IaaS) leveraging suites like Salesforce.com, cloud platform, Microsoft Office 365, Windows Azure, Google App Engine and Amazon Web Services/EC2\\. Interacts with project managers to drive an optimized solution within known constraints. The job also requires in\\-depth understanding of cloud storage services such as EBS, Amazon S3, EFS etc. Involves integration of cloud applications and require knowledge of APIs, pre\\-scripting, post\\-scripting and integration testing.
+   
+
+  
+
+ Mobile Development: Focus specializes in the development of software applications for proprietary/ licensable mobile devices and mobile platforms. Plans, designs, develops and tests applications for Android, iOS and other mobile platforms. Collaborates with analysts, other developers and project managers to determine the requirements for custom mobile applications, the mobile program's appearance, the functions that the application must perform and the integration requirements. Designs and codes the application using knowledge of the mobile platform, cross\\-platform development tools and relevant software languages. May also work on mobile security areas such as mobile data management required for the application. During these processes, modifications may be made until the application functions as planned. Provides support for released applications by fixing bugs and uploading upgraded versions. Requires expert knowledge of integrated development platforms such as Xamarin, Kony, Appcelerator, EMM/MDM, iOS SDK, Android SDK etc.
+   
+
+  
+
+ Intermediate Professionals typically have a minimum of 3 \\- 5 years of related experience""","Software Development","https://www.linkedin.com/company/wexinc","https://media.licdn.com/dms/image/v2/D560BAQEqDSQp6mtoSw/company-logo_100_100/B56Zx8YMCPJUAU-/0/1771613242228/wexinc_logo?e=2147483647&v=beta&t=HD3q48Iqn9MJQl0QhO15ssrmACKKsAMvG481SGeVebg","","","","","","","","","","",""
+"li-4417978908","linkedin","https://www.linkedin.com/jobs/view/4417978908","","Senior Software Engineer - Agentic Systems","Mastercard","","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Our Purpose**
+*Mastercard powers economies and empowers people in 200\\+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.*
+**Title And Summary**
+ Senior Software Engineer \\- Agentic Systems
+   
+
+  
+
+ Who is Mastercard?
+   
+
+  
+
+ Mastercard is a global technology company in the payments industry, building digital platforms that securely power commerce at global scale. Our technology enables innovation across financial services, data, AI, and digital experiences, while maintaining the highest standards of reliability, security, and trust.
+   
+
+  
+
+ Business \\& Market Insights (B\\&MI) is Mastercard’s data, analytics, and intelligence organization, responsible for transforming vast, global data assets into actionable insights and decision support products for customers across industries. B\\&MI builds platforms and products that move beyond static analytics, embedding AI, advanced modeling, and increasingly agentic systems directly into customer workflows to help clients understand what is happening, what will happen next, and what actions to take. The team operates at global scale, partnering closely with product, engineering, and data teams to deliver secure, governed, and production ready intelligence solutions that drive measurable business outcomes.
+   
+
+  
+
+ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+   
+
+  
+
+**Overview**
+ Mastercard is seeking a Senior Software Engineer (Level 7\\) with experience designing and building agentic systems, treating AI agents as production software components rather than experimental artifacts.
+   
+
+  
+
+ In this role, you will focus on building the platform, orchestration, and runtime capabilities that allow AI agents and tools to execute safely and observably inside market\\-facing products. You will partner closely with AI Engineers but retain ownership of system level concerns such as identity, authorization, attribution, reliability, and operational controls.
+   
+
+  
+
+ This role is ideal for engineers who excel in building distributed systems and are motivated by applying those fundamentals to modern AI driven architectures.
+   
+
+  
+
+ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+   
+
+  
+
+ Role \\& Responsibilities
+   
+
+  
+
+**As a Senior Software Engineer – Agentic Systems, You Will**
+* Design and build scalable, resilient software systems that orchestrate AI agents, tools, and services within enterprise environments.
+* Treat agents as execution primitives, ensuring each action is explicitly attributable, authorized, auditable, and observable.
+* Implement orchestration patterns such as supervisors, routers, planners, and stateful workflows for multi step agent execution.
+* Build frameworks for tool invocation, error handling, retries, and compensating actions in agent driven workflows.
+* Integrate identity, permissions, and policy enforcement directly into agent execution paths.
+* Ensure systems meet Mastercard standards for reliability, security, compliance, and performance.
+* Collaborate with AI Engineers to integrate models and prompts as components within larger systems.
+* Own operational aspects of agentic platforms, including logging, monitoring, tracing, and incident response.
+* Review code, mentor peers, and contribute to shared engineering standards and architectural decisions.
+
+
+ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+   
+
+  
+
+**Required Experience \\& Skills**
+* Bachelor’s degree in Computer Science, Engineering, or equivalent practical experience.
+* Significant professional experience building distributed, production grade software systems.
+* Strong proficiency in backend software development (e.g., Java, Kotlin, Python, or similar).
+* Experience designing APIs, services, and asynchronous workflows.
+* Deep understanding of authentication, authorization, and secure service to service communication.
+* Experience operating systems with high reliability, availability, and regulatory requirements.
+* Ability to work effectively in ambiguous problem spaces and evolve systems iteratively.
+
+
+ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+   
+
+  
+
+ Nice to Have
+   
+
+  
+
+* Experience building systems that integrate LLMs or AI services.
+* Familiarity with agent frameworks, workflow engines, or orchestration platforms.
+* Experience designing audit friendly, policy driven platforms.
+
+
+ \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+   
+
+  
+
+ Leveling \\& Scope
+   
+
+  
+
+ This role aligns to Senior Software Engineer (Level 7\\) within Mastercard’s Software Engineering job family, emphasizing technical leadership, architectural contribution, and ownership of complex systems without people management responsibilities.
+   
+
+  
+
+**Corporate Security Responsibility**
+ All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:
+   
+
+  
+
+* Abide by Mastercard’s security policies and practices;
+* Ensure the confidentiality and integrity of the information being accessed;
+* Report any suspected information security violation or breach, and
+* Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.","Financial Services, IT Services and IT Consulting, and Technology, Information and Internet","https://www.linkedin.com/company/mastercard","https://media.licdn.com/dms/image/v2/C560BAQGOW4NIyYRRqQ/company-logo_100_100/company-logo_100_100/0/1631340300330?e=2147483647&v=beta&t=xq1ySX9pM18Xr0xQJaRgCbH1ap_xO8Yn0h21FM105Ls","","","","","","","","","","",""
+"li-4414581564","linkedin","https://www.linkedin.com/jobs/view/4414581564","","Tool Support","Capgemini","Bengaluru, Karnataka, India","","fulltime","","","","","",True,"mid-senior level","Other","","","At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life\\-saving robots, our digital and software technology experts think outside the box as they provide unique R\\&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.
    
 
   
 
 **Job Description**
-**Your Work Shapes the World at Caterpillar Inc.**
- When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.
+**Software Engineer – Python \\& C\\+\\+**
+**Location :\\-** 
+ Bangalore
    
 
   
 
-**About Caterpillar**
- Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off\\-highway diesel and natural gas engines, industrial gas turbines and diesel\\-electric locomotives.
+**Experience :\\-** 
+ 4–8 years
    
 
   
 
- For nearly 100 years, we’ve been helping customers build a better, more sustainable world and are committed and contributing to a reduced\\-carbon future. Our innovative products and services, backed by our global dealer network, provide exceptional value that helps customers succeed.
+*Choosing Capgemini means choosing a place where you’ll be empowered to shape your career, supported by a collaborative global community, and inspired to reimagine what’s possible. Join us to help organizations build scalable, high\\-performance software systems and unlock innovation through engineering excellence.*
+**Your Role**
+ As a Software Engineer specializing in Python and C\\+\\+, you will be responsible for developing high\\-quality applications, building reliable systems, and ensuring robust testing practices. You will collaborate closely with cross\\-functional teams to design, develop, and deliver scalable solutions.
    
 
   
 
-**Your Impact Shapes the World at Caterpillar Inc**
- When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.
-   
-
-  
-
- We are seeking a skilled
- **Software Engineer** 
- to join our
- **P\\&E IT \\- CPD and COGMD Applications CAT IT Division**
- This role will be based out of
- **Bangalore\\-Whitefield PSN office\\-KA, India**
-**What Will You Do**
-* This position will help Caterpillar solve its customers’ toughest challenges while building a better and more sustainable world.
-* This person will deliver technological initiatives inside of the Commercial Process Division (CPD), part of the Power and Energy Group. This business segment focuses on the development and delivery of services, solutions, and processes to support the Caterpillar commitment to our customers including our Dealer Network.
-* The incumbent will collaborate with business partners and enterprise teams in creation of Business relevant IT \\& Business Strategies for CPD.
-* Expected to work across multiple teams, understanding requirements and technology capabilities.
-* Designing, modifying, developing, writing and implementing software programming applications for target system using agile methods.
-* Acquiring client requirements; resolving workflow problems through automation optimization.
-* Writing source codes for new applications, and/or generating and enhancing code samples for existing applications.
-* Utilizing automated testing tools to perform the testing and maintenance.
-
-
-**What You Will Have**
-* Agile Mindset and experience working in Product Teams.
-* Experience working in Azure DevOps Framework.
-* Experience working .NET Framework.
-* Automation \\& AI first thinking is a must.
-* Cyber Safe approach.
-* Dev Ops, CI/CD practices, and Automated Testing.
-* Engineering languages (Angular, Python, Java/JavaScript, C\\#, PHP, Ruby, SQL, ASP.Net, Snaplogic, DataStage)
-* This position requires candidate to work a 5\\-day \\-a \\-week schedule in the office.
-
-
-**Skills Descriptors**
-* Decision Making and Critical Thinking: Knowledge of the decision\\-making process and associated tools and techniques; ability to accurately analyze situations and reach productive decisions based on informed judgment.
-* Effective Communications: Understanding effective communication concepts, tools, and techniques; ability to effectively transmit, receive, and accurately interpret ideas, information, and needs through the application of appropriate communication behaviors.
-* Software Development: Knowledge of software development tools and activities; ability to produce software products or systems in line with product requirements.
-* Software Development Life Cycle: Knowledge of software development life cycle; ability to use a structured methodology for delivering and managing new or enhanced software products to the marketplace.
-* Software Integration Engineering: Knowledge of software integration processes and functions; ability to design, develop and maintain interfaces and link to alternative platforms and software packages.
-* Software Product Design/Architecture: Knowledge of software product design; ability to convert market requirements into software product design.
-* Software Product Technical Knowledge: Knowledge of technical aspects of a software product; ability to design, configure and integrate technical aspects of software products.
-* Software Product Testing: Knowledge of software product testing; ability to design, plan, and execute testing strategies and tactics to ensure software product quality and adherence to stated requirements.
+**In this role, you will:**
+* Design and develop scalable applications using Python and C\\+\\+
+* Build and manage project configurations using CMake
+* Develop and execute unit tests using Google Test (GTest)
+* Implement and maintain GitHub workflows, including CI processes
+* Collaborate with cross\\-functional teams to deliver high\\-quality solutions
+* Perform code reviews, debugging, and performance optimization
+* Ensure adherence to best practices in software development and testing
+* Contribute to continuous improvement initiatives and engineering standards
 
 
-**What You Will Get**
-* Work Life Harmony
-* Earned and medical leave.
-* Relocation assistance
+**Your Profile**
+* 4–8 years of hands\\-on experience in software development
+* Strong expertise in Python and C\\+\\+ programming
+* Experience with CMake build systems
+* Solid understanding of unit testing frameworks, especially Google Test
+* Experience with GitHub workflows / GitHub Actions
+* Strong problem\\-solving and analytical skills
+* Excellent communication and stakeholder collaboration abilities
+* Bachelor’s degree in Computer Science, Engineering, or related field
 
 
-**Holistic Development**
-* Personal and professional development through Caterpillar ‘s employee resource groups across the globe
-* Career developments opportunities with global prospects
+**Good To Have Skills**
+* Experience with Jenkins
+* Knowledge of CI/CD pipelines
+* Familiarity with Jira / Scrum (Agile methodologies)
+* Experience in stakeholder alignment and communication
+* Exposure to Bazel build system
 
 
-**Health and Wellness**
-* Medical coverage \\-Medical, life and personal accident coverage
-* Employee mental wellness assistance program
-
-
-**Financial Wellness**
-* Employee investment plan
-* Pay for performance \\-Annual incentive Bonus plan.
-
-
-**Additional Information**
- Caterpillar is not currently hiring individuals for this position who now or in the future require sponsorship for employment visa status; however, as a global company, Caterpillar offers many job opportunities outside of the U.S. which can be found through our employment website at www.caterpillar.com/careers
+**What You’ll Love About Working Here**
+ We value flexibility and support our employees with remote work options and adaptable schedules to maintain a healthy work\\-life balance.
    
 
   
 
-**Caterpillar is an Equal Opportunity Employer (EEO)**
- EEO/AA Employer. All qualified individuals, including minorities, females, veterans and individuals with disabilities \\- are encouraged to apply.
+ Our inclusive culture brings together diverse professionals committed to growth, innovation, and excellence.
    
 
   
 
-**Posting Dates**
- May 29, 2026 \\- June 11, 2026
+ You’ll have access to continuous learning opportunities and cutting\\-edge technologies.
    
 
   
 
- Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply
+**About Us**
+ At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From next\\-gen applications to high\\-performance systems, our experts provide cutting\\-edge engineering solutions across industries. Join us for a career full of opportunities—where you can make a difference every day.
    
 
   
 
- Not ready to apply? Join our Talent Community.","Construction and Machinery Manufacturing","https://www.linkedin.com/company/caterpillar-inc","https://media.licdn.com/dms/image/v2/D4E0BAQGezvfCH-inoA/company-logo_100_100/B4EZuz4cAhKgAU-/0/1768249475691/caterpillar_inc_logo?e=2147483647&v=beta&t=lWh93R_F-WvaRwOz6OwdZdT7vigzIsyVWpNqEXHfM7w","","","","","","","","","","",""
-"li-4422037746","linkedin","https://www.linkedin.com/jobs/view/4422037746","","Software Engineer - Backend","Veeam Software","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands.
+**Job Description \\- Grade Specific**
+ Focus on Digital Continuity and Manufacturing. Develops competency in own area of expertise. Shares expertise and provides guidance and support to others. Interprets clients needs. Completes own role independently or with minimum supervision. Identifies problems and relevant issues in straight forward situations and generates solutions. Contributes in teamwork and interacts with customers.
    
 
   
 
-**About The Role**
- You will be working as a part of a distributed agile team, building a new SaaS platform that underpins a suite of enterprise applications solving a variety of hard data analytics and enterprise problems. You will be responsible for ensuring that the framework and products we develop meet the established design, implementation and quality goals.
+ At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life\\-saving robots, our digital and software technology experts think outside the box as they provide unique R\\&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
+"li-4417994160","linkedin","https://www.linkedin.com/jobs/view/4417994160","","Custom Software Engineer","Accenture in India","Pune City, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
+ Custom Software Engineer
    
 
   
 
-**What You’ll Do**
-* Be a part of a globally distributed team of backend engineers to design/develop/architect Securiti's core backend platform
-* Help create architecture documents, functional specifications, design documents and developer test plans
-* Write reliable, secure, performant, and scalable code
-* Perform code reviews and analysis
-* Monitor platform performance and be on\\-call to address any urgent issues
-* Work with customer support and address customer issues
-* Integrate new technologies into back\\-end cloud infrastructure
-* Evaluate and adapt new technologies where they provide value
-
-
-**Technologies You’ll Work With**
- GoLang, Java
+**Project Role Description :** 
+ Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high\\-performing solutions tailored to specific business needs.
    
 
   
-
-**What You’ll Bring**
-* Minimum 3 years experience developing software, with some experience using container technologies like Docker
-* Experience in building highly available and scalable distributed systems for the cloud
-* Professional development experience in GoLang, Python or Java
-* Good knowledge of Linux and Bash scripting
-* Good software development practices: should thrive in an environment of rapid development, peer code reviews, and write good functional/unit tests
-* Experience with Microservices and REST based HTTP/2 architectures
-* Experience with SQL (Postgres) and NoSQL (Mongo/Elasticsearch) technologies
-* Knowledge and use of performance tuning, profiling, and software metrics tools
-* Very strong diagnostic and troubleshooting skills
-* Proven ability to utilize creative thinking to solve complex engineering problems
-* High level of energy, teamwork, can\\-do attitude and willingness to learn new technologies
-* Working knowledge of networks and web concepts
-* Strong attention to detail, curiosity, and a willingness to learn.
-
 
-**Bonus Skills**
-* Experience building distributed systems
-* Experience with cloud platforms such as AWS, GCP , and Azure
-* Experience with Containerization technologies (Kubernetes, Docker)
-* Experience with tools like Terraform, Helm
-* Understanding of Network Services \\- Load\\-Balancers, Security, QOS, etc.
-* Understanding of platform level concerns, such as configuration management, network request routing, blue/green or canary deployments, in\\-service software upgrade etc
-* Experience in building API based connectors to cloud\\-based SaaS services is a big plus
-* Ability to work independently
-
-
-**What You’ll Get**
-* 18 paid vacation days, plus 4 extra global VeeaMe Days for self\\-care and 24 paid volunteer hours annually through Veeam Cares
-* Private medical coverage for you and up to four dependents
-* Life, accident, and disability insurance with enhanced coverage
-* Annual flexible wellbeing allowance for physical and mental wellness
-* Free confidential counselling and coaching via Employee Assistance Program (EAP), including legal and financial advice
-* Meal, fuel, and transportation benefits based on work arrangement
-* Daycare reimbursement and safe cab facility for eligible employees
-* Opportunities to learn and grow through on\\-demand libraries (LinkedIn Learning, O’Reilly), mentoring, workshops, and learning events like our annual Global Day of Learning
-
-
-**Veeam Software is an equal opportunity employer** 
- and does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept confidential.
+**Must have skills :** 
+ API Testing
    
 
   
 
- Please note that any personal data collected from you during the recruitment process will be processed in accordance with our Recruiting Privacy Notice.
+**Good to have skills :** 
+ NA
    
 
   
 
- The Privacy Notice sets out the basis on which the personal data collected from you, or that you provide to us, will be processed by us in connection with our recruitment processes.
+**Minimum 5 Year(s) Of Experience Is Required**
+**Educational Qualification :** 
+ 15 years full time education
    
 
   
 
- By applying for this position, you consent to the processing of your personal data in accordance with our Recruiting Privacy Notice.
+ Summary:
    
 
   
 
-**By submitting your application, you acknowledge that the information provided in your job application and any supporting documents is complete and accurate to the best of your knowledge. Any misrepresentation, omission, or falsification of information may result in disqualification from consideration for employment or, if discovered after employment begins, termination of employment.**","Software Development","https://www.linkedin.com/company/veeam-software","https://media.licdn.com/dms/image/v2/D560BAQEo31UwFwPSTQ/company-logo_100_100/company-logo_100_100/0/1698148838439/veeam_software_logo?e=2147483647&v=beta&t=Ln19solcIN-LUSwRLgNch-039Au4vvzDvzj6VSsj5IA","","","","","","","","","","",""
-"li-4419814687","linkedin","https://www.linkedin.com/jobs/view/4419814687","","C++ Developer","Caterpillar Inc.","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"not applicable","Engineering","","","**Career Area**
- Engineering
+ As a Custom Software Engineer, you will engage in the development of custom software solutions that involve designing, coding, and enhancing various components across systems or applications. Your typical day will include collaborating with cross\\-functional teams, utilizing modern frameworks, and applying agile practices to deliver scalable and high\\-performing solutions that meet specific business requirements. You will be involved in problem\\-solving and innovation, ensuring that the software solutions are tailored to the unique needs of the organization and its clients.
    
 
   
 
-**Job Description**
-**Your Work Shapes the World at Caterpillar Inc.**
- When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.
+ Roles \\& Responsibilities:
    
 
   
 
- Role Definition
-   
+* Expected to be an SME.
+* Collaborate and manage the team to perform.
+* Responsible for team decisions.
+* Engage with multiple teams and contribute on key decisions.
+* Provide solutions to problems for their immediate team and across multiple teams.
+* Mentor junior team members to enhance their skills and knowledge.
+* Continuously evaluate and improve software development processes to increase efficiency.
 
-  
 
- Assists in the design, definition, and development of software systems using C\\+\\+; collaborates with senior engineers to ensure that internal and external clients' needs are met. Contributes to building high\\-performance, reliable, and scalable system\\-level software solutions.
+ Professional \\& Technical Skills:
    
 
   
 
- Shape
-   
+* Must To Have Skills: Proficiency in API Testing.
+* Strong understanding of software development life cycle methodologies.
+* Experience with automated testing frameworks and tools.
+* Familiarity with RESTful and SOAP web services.
+* Ability to write clear and concise documentation for testing processes.
 
-  
 
-**Responsibilities**
- Participating in the design and development of application software, system components, and algorithms using C\\+\\+.
+ Additional Information:
    
 
   
 
- Utilizing appropriate tools to debug, test, and maintain software systems.
+* The candidate should have minimum 5 years of experience in API Testing.
+* This position is based at our Bengaluru office.
+* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
+"li-4417998009","linkedin","https://www.linkedin.com/jobs/view/4417998009","","Custom Software Engineer","Accenture in India","Pune City, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
+ Custom Software Engineer
    
 
   
 
- Ensuring adherence to coding standards, design practices, and quality processes throughout the development lifecycle.
+**Project Role Description :** 
+ Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high\\-performing solutions tailored to specific business needs.
    
 
   
 
- Documenting architecture specifications, software design descriptions, test cases, operating procedures, and safety procedures.
+**Must have skills :** 
+ Business Requirements Analysis
    
 
   
 
- Collecting and analyzing data related to system performance and user experience; preparing reports and insights for management.
+**Good to have skills :** 
+ NA
    
 
   
 
- Shape
+**Minimum 5 Year(s) Of Experience Is Required**
+**Educational Qualification :** 
+ 15 years full time education
    
 
   
 
- Degree Requirement
+ Summary:
    
 
   
 
- Degree required
+ As a Custom Software Engineer, a typical day involves creating tailored software solutions by designing, coding, and improving various components within systems or applications. The role requires working closely with different teams to ensure that the software meets specific business requirements. The work environment is dynamic, often involving iterative development cycles and collaboration to deliver scalable and efficient software products that align with organizational goals and client expectations.
    
 
   
 
- Shape
+ Roles \\& Responsibilities:
    
 
   
 
- Skill Descriptors
-   
+* Expected to be an SME, collaborate and manage the team to perform.
+* Responsible for team decisions.
+* Engage with multiple teams and contribute on key decisions.
+* Provide solutions to problems for their immediate team and across multiple teams.
+* Lead efforts to identify and resolve technical challenges that impact project delivery.
+* Mentor junior team members to support their professional growth and skill development.
+* Coordinate cross\\-functional communication to ensure alignment on project objectives and timelines.
 
-  
 
- Programming
+ Professional \\& Technical Skills:
    
 
   
 
- Level: Working Knowledge
-   
+* Must To Have Skills: Proficiency in Business Requirements Analysis.
+* Strong analytical skills to interpret and translate business needs into technical specifications.
+* Experience in collaborating with stakeholders to gather and validate requirements.
+* Ability to document and communicate complex processes clearly and effectively.
+* Familiarity with software development lifecycle and agile methodologies.
+* Skilled in identifying gaps and proposing practical solutions to improve system functionality.
 
-  
 
- Interprets system designs and develops structured C\\+\\+ implementations.
+ Additional Information:
    
 
   
 
- Writes efficient, maintainable, and modular code following best practices.
+* The candidate should have minimum 5 years of experience in Business Requirements Analysis.
+* This position is based at our Pune office.
+* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
+"li-4421246689","linkedin","https://www.linkedin.com/jobs/view/4421246689","","Latest Work From Home Jobs in Salem You Shouldn’t Miss","Career Cartz","Patel Nagar, Delhi, India","","fulltime","","","","","",True,"entry level","Other","","","The rise of remote work has transformed the job market, offering unprecedented flexibility and opportunities for professionals across various fields. For residents of Salem, Tamil Nadu, the availability of work\\-from\\-home (WFH) jobs in 2026 is a game\\-changer. Whether you’re a fresher, a seasoned professional, or someone looking to re\\-enter the workforce, Salem’s job market is brimming with exciting remote opportunities. This article explores the latest WFH jobs in Salem, why they’re worth pursuing, and how you can land your dream role. With a focus on diverse industries, flexible schedules, and competitive salaries, these opportunities are too good to miss.
    
 
   
 
- Demonstrates proficiency in modern C\\+\\+ (C\\+\\+11/14/17\\), including memory management and concurrency.
+**Table of Contents** 
+ hide
    
 
   
 
- Applies structured programming techniques and adheres to coding standards.
+ 1 Why Work From Home in Salem?
    
 
   
 
- Debugs and enhances existing codebases to improve performance and reliability.
+ 2 Top Industries Offering Work From Home Jobs in Salem
    
 
   
 
- Shape
+ 3 1\\. Information Technology (IT) and Software Development
    
 
   
 
- Technical Troubleshooting
+ 4 2\\. Data Entry and Back Office
    
 
   
 
- Level: Working Knowledge
+ 5 3\\. Digital Marketing
    
 
   
 
- Identifies and resolves software and system\\-level issues through debugging and analysis.
+ 6 4\\. Customer Service and Telecalling
    
 
   
 
- Uses diagnostic tools, logs, and profiling techniques to isolate root causes.
+ 7 5\\. Education and Training
    
 
   
 
- Works with debugging utilities and development environments.
+ 8 6\\. Freelancing and Creative Roles
    
 
   
 
- Analyzes code behavior and system performance issues.
+ 9 Top Platforms to Find WFH Jobs in Salem
    
 
   
 
- Documents issues, root causes, and resolution steps.
+ 10 How to Land a Work From Home Job in Salem
    
 
   
 
- Shape
+ 11 Benefits of Work From Home Jobs for Salem Residents
    
 
   
 
- Problem Solving
+ 12 Challenges and How to Overcome Them
    
 
   
 
- Level: Working Knowledge
+ 13 Success Stories from Salem’s WFH Professionals
    
 
   
 
- Identifies and documents defects, performance issues, and resolution alternatives.
+ 14 Conclusion – Work From Home Jobs in Salem
    
 
   
 
- Analyzes problems using multiple perspectives, including system behavior.
+ 15 FAQs – Work From Home Jobs in Salem
    
 
   
 
- Applies fact\\-finding techniques (logs, debugging tools, profiling).
+**16 Related Posts**
+ Why Work From Home in Salem?
    
 
   
 
- Evaluates trade\\-offs and risks between different solutions.
+ Salem, a Bustling City Known For Its Industrial And Cultural Significance, Is Home To a Growing Number Of Remote Job Opportunities. The Shift To Remote Work Has Been Fueled By Advancements In Technology, Changing Employer Priorities, And a Growing Demand For Work\\-life Balance. Here’s Why WFH Jobs In Salem Are Worth Considering
    
 
   
 
- Recommends optimal solutions based on constraints.
-   
+* Flexibility: Remote jobs allow you to set your own schedule, making it easier to balance personal and professional responsibilities.
+* Cost Savings: Eliminate commuting costs and save on expenses like fuel, public transport, or professional attire.
+* Access to Diverse Roles: From tech to customer service, Salem’s remote job market spans multiple industries.
+* Career Growth: Many WFH roles offer opportunities for skill development and career advancement without the need for relocation.
+* Empowering Women and Freshers: Initiatives like Internshala’s “Internships for Women” provide flexible options for women and freshers to restart or begin their careers.
 
-  
 
- Shape
+ With platforms like Shine.com, QuikrJobs, and Internshala reporting hundreds of WFH openings in Salem, now is the perfect time to explore these opportunities.
    
 
   
 
- Artificial Intelligence
+ Top Industries Offering Work From Home Jobs in Salem
    
 
   
 
- Level: Basic Understanding
+**Education**
+ Salem’s job market is diverse, with industries ranging from IT to education and customer service. Below are the top sectors offering WFH opportunities in 2026:
    
 
   
 
- Understands basic AI/ML concepts and terminology.
-   
+* Information Technology (IT) and Software Development
 
-  
 
- Recognizes AI use cases in software systems.
+ The IT sector in Salem is thriving, with companies seeking remote professionals for roles like web development, software engineering, and UI/UX design.
    
 
   
 
- Identifies learning resources for emerging technologies.
-   
-
-  
+* Popular Roles:
++ Web Developer (HTML, CSS, JavaScript, React)
++ Software Engineer (.NET, Python, Java)
++ UI/UX Designer
 
- Provides examples of AI\\-driven applications.
-   
+* Skills Required: Proficiency in programming languages, knowledge of frameworks like Bootstrap or React, and familiarity with tools like Chrome Developer Console.
+* Salary Range: ₹15,000–₹50,000/month for freshers; higher for experienced professionals.
+* Data Entry and Back Office
 
-  
 
- Shape
+ Data entry roles are ideal for those seeking entry\\-level WFH jobs with minimal experience requirements.
    
 
   
-
- Application Development Tools
-   
 
-  
+* Popular Roles:
++ Data Entry Operator
++ Back Office Executive
++ Computer Operator
 
- Level: Working Knowledge
-   
+* Skills Required: Basic computer skills, typing speed, and attention to detail.
+* Salary Range: ₹5,000–₹30,000/month, depending on the role and hours.
+* Digital Marketing
 
-  
 
- Uses tools such as Git, CMake/Make, GDB, and IDEs effectively.
+ Digital marketing is a booming field, with companies hiring for remote roles in SEO, content creation, and social media management.
    
 
   
-
- Follows standards and guidelines for development tool usage.
-   
 
-  
+* Popular Roles:
++ Digital Marketing Executive
++ Content Writer
++ Social Media Manager
 
- Works across different toolchains and development environments.
-   
+* Skills Required: Knowledge of SEO tools, content creation, and social media platforms.
+* Salary Range: ₹10,000–₹35,000/month for part\\-time or full\\-time roles.
+* Customer Service and Telecalling
 
-  
 
- Understands capabilities of development and debugging tools.
+ Customer service roles are in high demand, offering flexible hours and remote work options.
    
 
   
-
- Shape
-   
 
-  
+* Popular Roles:
++ Customer Service Representative
++ BPO/Telecaller
++ Account Executive
 
- Software Development Life Cycle
-   
+* Skills Required: Communication skills, problem\\-solving, and fluency in Tamil or English.
+* Salary Range: ₹8,000–₹20,000/month, with bonuses for performance.
+* Education and Training
 
-  
 
- Level: Working Knowledge
+ Online teaching and training roles are growing, especially for those with expertise in specific subjects or skills.
    
 
   
 
- Understands lifecycle phases (development, integration, release, maintenance).
-   
-
-  
+* Popular Roles:
++ Online Tutor
++ Tally Trainer
++ Content Developer for E\\-Learning
 
- Works within structured development methodologies (Agile/Waterfall).
-   
+* Skills Required: Subject expertise, communication skills, and familiarity with online teaching platforms.
+* Salary Range: ₹8,000–₹25,000/month for part\\-time roles.
+* Freelancing and Creative Roles
 
-  
 
- Identifies dependencies, risks, and deliverables.
+ Freelancing offers flexibility for creative professionals like graphic designers and videographers.
    
 
   
 
- Interprets product requirements and design documentation.
-   
+* Popular Roles:
++ Graphic Designer
++ Videographer
++ Freelance Content Writer
 
-  
+* Skills Required: Creativity, proficiency in tools like Adobe Suite, and time management.
+* Salary Range: ₹10,000–₹40,000/month, depending on project volume.
+
 
- Shape
+ Top Platforms to Find WFH Jobs in Salem
    
 
   
 
- Software Product Testing
+ Finding The Right WFH Job Requires Knowing Where To Look. Here Are The Top Platforms To Explore For Remote Opportunities In Salem
    
 
   
 
- Level: Working Knowledge
-   
+* Shine.com: Offers over 60 part\\-time and online WFH jobs, including data entry, digital marketing, and accounting roles.
+* QuikrJobs: Lists around 39 WFH jobs in Salem, with roles in marketing, data entry, and videography.
+* Internshala: Features 752 WFH jobs for freshers, including HR, content writing, and IT roles, with a focus on empowering women.
+* Naukri.com: A trusted platform for IT and software development roles, with filters for WFH jobs in Salem.
+* SimplyHired: Lists 37 part\\-time WFH jobs, including customer service and medical\\-related roles.
+* WorkIndia: Offers a range of technical and non\\-technical WFH jobs, with free registration and job alerts.
+* OLX: Features local WFH job listings, including data entry and telecalling roles.
+* PlacementIndia: Provides over 100 WFH job openings, focusing on data entry and back\\-office roles.
+* NithraJobs: Specializes in Salem\\-specific jobs, offering both technical and non\\-technical roles with daily updates.
+* EvaniosJobs: Lists over 2,481 job vacancies, including WFH roles for freshers and experienced professionals.
 
-  
 
- Performs functional and performance testing of software components.
+ Pro Tip: Register on these platforms, update your profile with relevant skills, and set job alerts to stay informed about new openings.
    
 
   
 
- Validates implementations against requirements and design specifications.
+**Also Read:** 
+ Top Remote Work From Home Jobs in Moradabad Hiring Now
    
 
   
 
- Documents test activities and identified defects.
+ How to Land a Work From Home Job in Salem
    
 
   
 
- Understands testing principles and practices.
+ Securing a WFH job requires preparation and strategy. Follow these steps to increase your chances of success:
    
 
   
 
- Shape
-   
+* Build a Strong Resume: Highlight relevant skills, certifications, and experience. Tailor your resume to the job role.
+* Upskill: Take online courses in high\\-demand skills like digital marketing, coding, or customer service. Platforms like Internshala offer certified courses to boost your profile.
+* Create a Professional Profile: Platforms like Shine.com and Naukri.com allow you to create detailed profiles. Include a professional photo, skills, and work samples.
+* Apply Strategically: Use filters on job portals to find WFH roles in Salem that match your skills and experience.
+* Prepare for Interviews: Practice common interview questions and ensure a stable internet connection for virtual interviews.
+* Beware of Scams: Avoid job postings that ask for payment or promise guaranteed jobs. Reputable platforms like QuikrJobs and Shine.com emphasize avoiding such scams.
 
-  
 
- Industry Knowledge
+ Benefits of Work From Home Jobs for Salem Residents
    
 
   
 
- Level: Working Knowledge
+ WFH jobs offer unique advantages for Salem residents, making them an attractive career choice:
    
 
   
 
- Demonstrates awareness of software engineering trends and system\\-level practices.
-   
+* Work\\-Life Balance: Flexible schedules allow you to manage household responsibilities, especially for women and parents.
+* Access to Global Opportunities: Work for companies outside Salem without relocating.
+* Skill Development: Many roles provide training, helping you stay competitive in the job market.
+* Reduced Stress: Eliminate long commutes and workplace pressures, leading to a healthier work environment.
+* Diverse Opportunities: From part\\-time to full\\-time roles, there’s something for everyone, including freshers and homemakers.
 
-  
 
- Understands applicable compliance and regulatory considerations.
+ Challenges and How to Overcome Them
    
 
   
 
- Relates system development work to broader product goals.
+ While WFH jobs offer numerous benefits, they come with challenges. Here’s how to address them:
    
 
   
 
- Engages in continuous learning through industry sources.
-   
+* Distractions at Home: Set up a dedicated workspace and maintain a schedule to stay focused.
+* Limited Social Interaction: Join online communities or attend virtual networking events to stay connected.
+* Technical Issues: Invest in a reliable internet connection and backup devices to ensure uninterrupted work.
+* Time Management: Use tools like Trello or Google Calendar to prioritize tasks and meet deadlines.
 
-  
 
- This position requires working onsite five days a week.
+ Success Stories from Salem’s WFH Professionals
    
 
   
 
- Relocation is available for this position.
-   
+* Priya, Digital Marketing Executive: After a career break, Priya found a part\\-time digital marketing role through Internshala. She now earns ₹25,000/month while managing her family responsibilities.
+* Arjun, Data Entry Operator: A fresher, Arjun secured a WFH data entry job via QuikrJobs, earning ₹15,000/month with flexible hours.
+* Lakshmi, Online Tutor: Lakshmi transitioned to online teaching through Shine.com, leveraging her teaching experience to earn ₹20,000/month part\\-time.
 
-  
 
- Visa Sponsorship is not available for this position.
+ These success stories highlight the potential of WFH jobs to transform lives in Salem.
    
 
   
 
-**Posting Dates**
- May 27, 2026 \\- June 2, 2026
+ Conclusion – Work From Home Jobs in Salem
    
 
   
 
- Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply
+ Don’t miss out on the incredible work\\-from\\-home opportunities waiting for you in Salem! Whether you’re a fresher, a professional, or looking to restart your career, now is the time to act. Register on platforms like CareerCartz.com, Internshala, and NithraJobs today, update your resume, and start applying for roles that match your skills. Take control of your career, achieve work\\-life balance, and unlock your potential with a rewarding WFH job. Apply now and land your dream job before these opportunities are gone!
    
 
   
-
- Not ready to apply? Join our Talent Community.","Construction and Machinery Manufacturing","https://www.linkedin.com/company/caterpillar-inc","https://media.licdn.com/dms/image/v2/D4E0BAQGezvfCH-inoA/company-logo_100_100/B4EZuz4cAhKgAU-/0/1768249475691/caterpillar_inc_logo?e=2147483647&v=beta&t=lWh93R_F-WvaRwOz6OwdZdT7vigzIsyVWpNqEXHfM7w","","","","","","","","","","",""
-"li-4422054415","linkedin","https://www.linkedin.com/jobs/view/4422054415","","Full Stack Engineer","OneDAO","","","fulltime","","","","","",True,"entry level","Engineering and Information Technology","","","**Have you ever built a fundraising platform with wallet functionality? OR have you been involved in building ERP systems with double entry applications? If yes, then this is the role for you.** 
-
 
-
+ FAQs – Work From Home Jobs in Salem
+   
 
   
-
-
 
+* What types of work\\-from\\-home jobs are available in Salem?
 
 
-**About Our Organisation:** 
- OneDAO is a decentralized fundraising and shareholder management platform designed to empower founders in Australia and New Zealand by providing seamless access to international capital markets. It functions as both a fundraising and governance solution, enabling businesses to manage shareholder activities, conduct compliant investor onboarding, and facilitate transparent voting—all within a secure environment.
- 
-
-
+ Salem offers a variety of WFH jobs, including data entry, digital marketing, customer service, software development, and online teaching. Platforms like Shine.com and Internshala list roles across these categories.
+   
 
   
-
 
+* Are WFH jobs in Salem suitable for freshers?
 
 
-
-**About the Role:** 
- We are looking for a highly experienced
- **Full Stack Developer** 
- with strong backend expertise in
- **Java and Spring Boot** 
- and solid experience in modern frontend frameworks.
- 
-
-
+ Yes, many WFH jobs, such as data entry, customer service, and HR roles, are ideal for freshers. Internshala lists over 752 fresher\\-friendly WFH jobs in Salem.
+   
 
   
-
-
-
-
 
- Other attributes:
- 
+* What is the salary range for WFH jobs in Salem?
 
 
-* **Must have** 
- at least 10 years' experience in Java Spring Boot, PostgreSQL, Azure
-* An understanding of both monolithic and microservices architecture
-* Must have managed a remote team
-* Ideally must have fintech experience \\- especially in fundraising, wallet infrastructure, double entry book\\-keeping
-* This role is ideal for someone who has solid experience working in a startup environment, enjoys working across the full technology stack, and is excited by the opportunity to build secure, scalable, blockchain\\-integrated applications.","Technology, Information and Media","https://au.linkedin.com/company/onedao-the-future-of-blockchain-fundraising","https://media.licdn.com/dms/image/v2/D560BAQHJkUPPpB_MtA/company-logo_100_100/company-logo_100_100/0/1691240746179/onedao_the_future_of_blockchain_fundraising_logo?e=2147483647&v=beta&t=KpuPnKnMfBcNqOAUlyVsQ1jvgSnNk9d5-eHASQuEKNA","","","","","","","","","","",""
-"li-4334323095","linkedin","https://www.linkedin.com/jobs/view/4334323095","","Principal Software Engineer, ITC","Nike","Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Who You’ll Work With**
- We are seeking a highly skilled Full Stack Principal Engineer with advanced AI capabilities to lead the design, development, and deployment of innovative solutions across our technology stack. The ideal candidate will possess deep experience in SDLC and demonstrate a strong ability to architect and implement scalable applications that leverage the latest advancements in artificial intelligence.
+ Salaries vary by role. Data entry jobs pay ₹5,000–₹30,000/month, while IT roles can offer ₹15,000–₹50,000/month. Check platforms like Naukri.com for specific salary details.
    
 
   
 
-**Who We Are Looking For**
-* 10\\+ years of professional software engineering experience.
-* Extensive experience in full stack development (e.g., JavaScript, Python, Java, cloud platforms) including familiarity with frontend designs.
-* Proven expertise in Databricks for large\\-scale data processing and analytics.
-* Strong understanding and hands\\-on experience with Generative AI technologies (e.g., LLMs, text/image generation), including retrieval\\-augmented generation, vector search, semantic/hybrid retrieval, or recommendation\\-system design.
-* Familiarity with Agentic AI concepts, including autonomous agents and multi\\-agent systems, orchestration and tool\\-calling design.
-* Ability to design, train, and deploy machine learning models in production environments.
-* Excellent problem\\-solving, communication, and leadership skills.
-* Bachelor’s or master’s degree in computer science, Engineering, or related field.
-* Experience with cloud\\-based AI deployment (AWS, Azure, GCP).
-* Knowledge of LLMOps, MLOps, DevOps, and CI/CD pipelines.
-* Background in data security and compliance including familiarity with enterprise auth patterns like bearer/OBO auth, JWT pass\\-through, service principals, secrets management, and row\\-level access patterns.
-* Observability, tracing, and operational debugging.
-* Performance testing and scalability tuning.
-* AI eval harnesses, canary/golden datasets, guardrails, faithfulness checks, and regression monitoring and systems.
-* Ability to drive reusable standards, shared patterns, and platform leverage across multiple products/teams.
+* How can I avoid scams when applying for WFH jobs?
 
 
-**What You Will Work On**
-* Lead the development and integration of full stack solutions, including front\\-end, back\\-end, and data engineering components.
-* Architect and implement AI\\-powered features using Databricks, Generative AI models, and Agentic AI frameworks.
-* Collaborate with cross\\-functional teams to identify opportunities for automation and intelligent systems within business processes.
-* Mentor and guide engineering teams, fostering best practices in software development and AI integration.
-* Ensure robust security, scalability, and performance of deployed applications.
-* 10\\+ years of professional software engineering experience.
-* Extensive experience in full stack development (e.g., JavaScript, Python, Java, cloud platforms) including familiarity with frontend designs.
-* Proven expertise in Databricks for large\\-scale data processing and analytics.
-* Strong understanding and hands\\-on experience with Generative AI technologies (e.g., LLMs, text/image generation), including retrieval\\-augmented generation, vector search, semantic/hybrid retrieval, or recommendation\\-system design.
-* Familiarity with Agentic AI concepts, including autonomous agents and multi\\-agent systems, orchestration and tool\\-calling design.
-* Ability to design, train, and deploy machine learning models in production environments.
-* Excellent problem\\-solving, communication, and leadership skills.
-* Bachelor’s or master’s degree in computer science, Engineering, or related field.","Retail","https://www.linkedin.com/company/nike","https://media.licdn.com/dms/image/v2/D560BAQHJk7IdfuV1Dw/company-logo_100_100/company-logo_100_100/0/1732131503851/nike_logo?e=2147483647&v=beta&t=qF7rqr8Es8BnExo0QJcZr_vvtzGkir2vjZAg4fcS9hY","","","","","","","","","","",""
-"li-4362630948","linkedin","https://www.linkedin.com/jobs/view/4362630948","","ServiceNow Developer","Xerox","","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**About Xerox Holdings Corporation**
- At Xerox,
- **we make work, work!** 
- For more than 100 years, Xerox has continually redefined the workplace experience. From the office to industrial environments, our differentiated business and technology offerings and financial services are essential workplace technology solutions that drive success for our clients and within our culture. Learn more at www.xerox.com and explore our commitment to diversity, inclusion and belonging.
+ Stick to reputable platforms like QuikrJobs and Shine.com, and never pay for job applications or interviews. Verify job postings and contact employers directly if suspicious.
    
 
   
-
-**Overview:**
- Lexmark, now part of Xerox, brings together decades of innovation to deliver connected technologies that transform how businesses operate. As a Core ServiceNow Developer, you will play a key role in designing, developing, and supporting solutions that connect systems, data, and users globally. This role offers the opportunity to collaborate across teams and contribute to scalable, business\\-driven technology solutions.
-   
-
-  
-
-**Why Join This Team:**
-* Work within a global technology ecosystem supporting enterprise platforms and services
-* Contribute to impactful ServiceNow solutions aligned with business objectives
-* Collaborate with cross\\-functional teams across regions and functions
-* Engage with a broad range of modern technologies and integrations
-* Be part of a culture focused on continuous learning and innovation
-
-
-**What You Will Do:**
-* Develop, configure, and support ServiceNow platform capabilities across modules
-* Collaborate with global business users and IT teams to deliver effective solutions
-* Participate in SCRUM ceremonies, sprint planning, and ongoing team discussions
-* Investigate and resolve incidents, including root cause analysis for major issues
-* Build and maintain workflows, business rules, UI policies, and client scripts
-
 
-**What You Need to Succeed:**
-* Bachelor’s or Master’s degree in Engineering, Computer Science, or related field
-* 5 to 6 years of experience working with the ServiceNow platform
-* Strong understanding of IT Service Management processes such as incident, change, and problem management
-* Experience with scripting languages including JavaScript, HTML, CSS, XML, or JSON
-* Ability to communicate effectively and collaborate with global stakeholders
+* Do I need specific skills for WFH jobs in Salem?
 
 
-**How We Set You Up for Success:**
-* Opportunities to work with diverse technologies and enterprise platforms
-* Collaborative team environment with shared problem\\-solving and knowledge exchange
-* Exposure to global projects and cross\\-functional initiatives
-* Ongoing learning through hands\\-on experience and evolving technical challenges
-* Support for professional growth and skill development","IT Services and IT Consulting, Software Development, and Retail Office Equipment","https://www.linkedin.com/company/xerox","https://media.licdn.com/dms/image/v2/D560BAQHPCGjkcKuDsw/company-logo_100_100/B56ZVU0ifUGUAU-/0/1740884814086/xerox_logo?e=2147483647&v=beta&t=JVVinN9m_eSfF_I0oEqxW10hAbmz2q6jRawiSSHrVn4","","","","","","","","","","",""
-"li-4422043593","linkedin","https://www.linkedin.com/jobs/view/4422043593","","Software Engineer - Frontend","Veeam Software","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands.
+ Skills depend on the role. Basic computer knowledge is sufficient for data entry, while IT roles require programming skills. Platforms like Internshala offer courses to upskill.
    
 
   
 
-**About The Role**
- You will work with the UI/UX framework team to build software components and tools that solve a variety of hard data analytics and enterprise problems. You will build high\\-performance front\\-end web applications to support analytics requirements and glue together various backend services to enable complete end\\-to\\-end workflows.
-   
-
-  
-
-**What You’ll Do**
-* Develop responsive front end applications using Vuejs JavaScript framework, HTML, CSS
-* Integrate with APIs by defining the contract and also building out APIs when required
-* Collaborate effectively with product owners, design, and platform teams to define specifications and deliver features iteratively
-* Be passionate about code quality, security, testing and performance
-* Work on features from end to end from design to launching it in production
+* Are there WFH jobs for women in Salem?
 
 
-**Technologies You’ll Work With**
- Vuejs JavaScript framework, HTML, CSS
+ Yes, initiatives like Internshala’s “Internships for Women” offer flexible WFH roles for women, including part\\-time and full\\-time options.
    
 
   
-
-**What You’ll Bring**
-* Full stack or front\\-end engineer with solid understanding of modern single\\-page web apps
-* JavaScript with in\\-depth grasp on asynchronous programming
-* 3\\+ years experience in building responsive applications
-* 3\\+ years experience working with React/Angular/Vue.js or similar frameworks, developing single\\-page apps
-* Working experience with build systems like gulp/grunt, webpack, continuous integration (Jenkins)
-* Experience with relational database / NoSQL database is a plus
-* Experience with one more scripting/programming language besides JavaScript is a plus
-* BS in Computer Science or related engineering qualification
-* Strong problem\\-solving and troubleshooting skills
-
-
-**What You’ll Get**
-* 18 paid vacation days, plus 4 extra global VeeaMe Days for self\\-care and 24 paid volunteer hours annually through Veeam Cares
-* Private medical coverage for you and up to four dependents
-* Life, accident, and disability insurance with enhanced coverage
-* Annual flexible wellbeing allowance for physical and mental wellness
-* Free confidential counselling and coaching via Employee Assistance Program (EAP), including legal and financial advice
-* Meal, fuel, and transportation benefits based on work arrangement
-* Daycare reimbursement and safe cab facility for eligible employees
-* Opportunities to learn and grow through on\\-demand libraries (LinkedIn Learning, O’Reilly), mentoring, workshops, and learning events like our annual Global Day of Learning
-
 
-**Veeam Software is an equal opportunity employer** 
- and does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept confidential.
-   
+* What equipment do I need for WFH jobs?
 
-  
 
- Please note that any personal data collected from you during the recruitment process will be processed in accordance with our Recruiting Privacy Notice.
+ Most roles require a laptop, stable internet, and a quiet workspace. Some IT roles may need specific software like Adobe Suite or coding tools.
    
 
   
 
- The Privacy Notice sets out the basis on which the personal data collected from you, or that you provide to us, will be processed by us in connection with our recruitment processes.
-   
+* Can I work part\\-time from home in Salem?
 
-  
 
- By applying for this position, you consent to the processing of your personal data in accordance with our Recruiting Privacy Notice.
+ Absolutely! Platforms like SimplyHired and Shine.com list over 60 part\\-time WFH jobs in Salem, including data entry and teaching roles.
    
 
   
 
-**By submitting your application, you acknowledge that the information provided in your job application and any supporting documents is complete and accurate to the best of your knowledge. Any misrepresentation, omission, or falsification of information may result in disqualification from consideration for employment or, if discovered after employment begins, termination of employment.**","Software Development","https://www.linkedin.com/company/veeam-software","https://media.licdn.com/dms/image/v2/D560BAQEo31UwFwPSTQ/company-logo_100_100/company-logo_100_100/0/1698148838439/veeam_software_logo?e=2147483647&v=beta&t=Ln19solcIN-LUSwRLgNch-039Au4vvzDvzj6VSsj5IA","","","","","","","","","","",""
-"li-4422050468","linkedin","https://www.linkedin.com/jobs/view/4422050468","","Developer – Azure Full Stack / IoT Platform (Adv+Elite) - Husky (Guindy, Chennai)","Husky Technologies","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
-**Title:** 
- Developer – Azure Full Stack / IoT Platform (Adv\\+Elite) \\- Husky (Guindy, Chennai)
-   
+* How do I apply for WFH jobs in Salem?
 
-  
 
-**Id:** 
- 20843
+ Register on job portals like NithraJobs or EvaniosJobs, create a profile, and apply to roles matching your skills. Follow application instructions carefully.
    
 
   
 
-**Type:** 
- FullTime
-   
+* Are there WFH internships available in Salem?
 
-  
 
-**Location:** 
- Chennai, India
+ Yes, Internshala offers numerous WFH internships in Salem for freshers and students in fields like HR, digital marketing, and IT.
    
 
   
 
- At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
+**Related Posts**
+ Top 10 Remote Customer Service Jobs You Can Start Today The Pros and Cons of Working Remote Data Entry Jobs How to Land Your First Remote Entry\\-Level Job: Tips and Tricks How to Thrive in Remote Customer Service Jobs: Tips for Success Best Remote Customer Success Jobs You Can Work From Anywhere Top Remote Front End Developer Jobs Hiring in 2026 Top 10 Work from Home Jobs in Delhi Hiring Now Legit Work From Home Jobs for Stepmoms: Real Opportunities \\& Flexible Roles in 2025","Education","https://in.linkedin.com/company/careercartz","https://media.licdn.com/dms/image/v2/C510BAQHKPD4XpFWa1Q/company-logo_100_100/company-logo_100_100/0/1631398655979/careercartz_logo?e=2147483647&v=beta&t=iYg6FMJHFGbESUPCk-wwjyYBeV9ZlBzJn5s0wxqXCvM","","","","","","","","","","",""
+"li-4417986416","linkedin","https://www.linkedin.com/jobs/view/4417986416","","Custom Software Engineer","Accenture in India","Pune City, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
+ Custom Software Engineer
    
 
   
 
- Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state\\-of\\-the\\-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
+**Project Role Description :** 
+ Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high\\-performing solutions tailored to specific business needs.
    
 
   
 
- Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
+**Must have skills :** 
+ SAP UI5 Development
    
 
   
 
- Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
+**Good to have skills :** 
+ NA
    
 
   
 
-****Job Description****
- Do you want to work on cloud\\-based IoT software that connects real machines with real\\-time insights?
+**Minimum 5 Year(s) Of Experience Is Required**
+**Educational Qualification :** 
+ 15 years full time education
    
 
   
 
- As a Developer on the Advantage\\+ Elite IoT platform, you will be part of a team building and evolving Azure\\-based IoT solutions used by customers worldwide. You will implement features and components based on defined designs, contribute clean and reliable code, and help keep a mission critical platform running and improving every day.
+ Key Responsibilities
    
 
   
 
- This role is ideal for a motivated engineer who enjoys hands\\-on development, learning from experienced peers, and seeing their work deployed in production, at scale, and close to the physical world—with clear opportunities to grow toward senior and lead roles.
+ a Technical leading and managing the Fiori/oData team across towers
    
 
   
 
- If you want to build software where cloud technology meets industrial reality, Advantage\\+ Elite is where it happens.
+ b Offshore SPOC for Fiori / SAPUI5 / NetWeaver Gateway
    
 
   
 
-****Responsibilities****
-**Technical Implementation**
-* Implement software components and features based on provided designs, specifications, and guidance.
-* Contribute to the development of reliable, maintainable, and secure code within the assigned scope.
-* Apply agreed coding standards, patterns, and best practices in daily development work.
-* Make basic technical decisions within assigned tasks, escalating questions or uncertainties when needed.
-
-
-**Delivery \\& Execution Excellence**
-* Translate assigned requirements and tasks into working software.
-* Complete development work in alignment with sprint goals and delivery commitments.
-* Contribute to task breakdowns and effort estimates for assigned work.
-* Proactively raise risks, blockers, or implementation issues to the team.
-
-
-**Quality, Standards \\& Engineering Practices**
-* Write clean, testable code and contribute to unit and integration tests.
-* Participate in code reviews, incorporating feedback and learning from peers.
-* Ensure individual contributions meet Definition of Ready (DoR) and Definition of Done (DoD) criteria.
-* Follow established DevOps, security, and quality practices.
-
-
-**Incident \\& Operational Support**
-* Assist in troubleshooting defects and issues in development and production environments.
-* Support corrective (bug fixes) and evolutive (enhancements) maintenance of existing solutions.
-
-
-**Collaboration \\& Growth**
-* Collaborate effectively with other developers, QA, Product Owners, and Tech Leads.
-* Seeking feedback and guidance to continuously improve technical skills.
-* Actively learn the systems, tools, and technologies used by the team.
-* Contribute positively to team culture and shared ownership of outcomes.
-
-
-****Qualifications****
-* Bachelor’s degree in computer science, IT, or related field.
-* 4\\+ years’ professional experience in software development.
-* Experience with programming languages like C\\#, PowerShell, JavaScript, TypeScript, Python, or others relevant to Azure development.
-* Experience using Microsoft .NET, Angular, React or similar frontend frameworks.
-* Experience working with web services / APIs (e.g., REST).
-* Experience with SQL or NoSQL databases, particularly those offered on Azure.
-* Proficiency in using various Azure services like Azure App Service, Azure Functions, Azure Cosmos DB, Azure Storage, etc.
-* Understanding and knowledge of cloud security best practices.
-* Clean Code Development and working experience with Unit Testing, and Test\\-driven Development.
-* Familiarity with source code version control, branching strategies, CI/CD pipelines and other DevSecOps practices.
-* Working knowledge of Agile development practices.
-* Excellent communication skills and ability to work in a team.
-* Fluency in English (spoken and written).
-* Strong problem\\-solving skills and attention to detail.
-* Ability to adjust quickly to changing assignments, and priorities.
-
-
-**Assets**
-* Experience using AI assisted coding tools (e.g. GitHub Copilot) responsibly, with full accountability for code quality, security, and compliance.
-* Hands\\-on experience with Azure IoT Hub and Azure Data Explorer.
-* Experience with Edge Device development and support of IoT based, event driven applications.
-* Experience working with and contributing to UX designs.
-* Working experience with infrastructure as code (IaC) tools such as Terraform or ARM templates.
-* Relevant certifications (e.g. Azure Developer Associate, Azure IoT Developer Specialty, Azure Cosmos DB Developer Specialty).
-
-
-**Why Husky?**
-**Regulated Working Hours:** 
- Enjoy a structured work schedule that promotes a healthy work\\-life balance, allowing you to excel professionally while maintaining personal well\\-being.
+ c Mature understanding of Fiori and Gateway architecture and their interface with other environments
    
 
   
 
-**Visible Impact:** 
- Experience the satisfaction of seeing the direct outcomes of your work, as you contribute to projects that visibly enhance our company's technological capabilities and efficiency.
+ d Interaction with onshore/client on functional requirement understanding and solutioning
    
 
   
 
-**Strategic Influence:** 
- Participate in architectural and technical reviews, contributing to the strategic direction of our cloud initiatives and making a tangible impact on our company's technological landscape.
+ e Preparing various management\\-related reports
    
 
   
 
-**Empowered Involvement:** 
- Take an active role in decision\\-making processes and architectural reviews, where your expertise helps shape the future of our cloud solutions and overall business strategy.
+ Technical Experience
    
 
   
 
-**Valued Contributions:** 
- Be more than just a number in a large organization; at our company, every individual's input is valued and can lead to significant, tangible improvements in our operations and services.
+ a Experience in leading a team and multi\\-skilled across skills like Fiori/SAPUI5/Web Technologies/oData/ABAP
    
 
   
 
-**Impactful Role:** 
- Play a crucial part in both developing new applications and maintaining existing systems, ensuring their optimal performance and reliability.
+ b Technical expertise in Fiori/SAPUI5/JavaScript/CSS/HTML5/Web Framework/JQuery
    
 
   
 
-**Cutting\\-Edge Projects:** 
- Work on innovative cloud solutions that are transforming our and our customer’s business, giving you the opportunity to be at the forefront of technological advancements.
+ c Good knowledge in ABAP and NetWeaver Gateway
    
 
   
 
-**Supportive Community:** 
- Work in an environment that recognizes and celebrates individual achievements, fostering a sense of community and mutual respect among team members.
+ d Understanding on HANA services integration using XSOData/XSJS e Experience working in Agile software development environment, various UX design technologies and exposure to ISU are good to have
    
 
   
 
-**Collaborative Environment:** 
- Join a global team of skilled professionals around the globe where your ideas are valued, and collaboration is encouraged to solve complex challenges and drive success.
+ Professional Attributes
    
 
   
 
- Husky TechnologiesTM offers a competitive compensation and benefits package and excellent opportunities for growth and advancement. We are committed to equal employment opportunity and respect, value and welcome diversity in our workplace. Husky TechnologiesTM also values being a great place to work and strives to maintain a safe workplace. Accordingly, Husky TechnologiesTM conditions all offers of employment on satisfactory completion of background checks. No agency or telephone inquiries please.","Machinery Manufacturing","https://ca.linkedin.com/company/husky-technologies","https://media.licdn.com/dms/image/v2/C4D0BAQHsvZ0ebIsc4w/company-logo_100_100/company-logo_100_100/0/1636124255401/husky_injection_molding_systems_logo?e=2147483647&v=beta&t=DOW-hRVyemixk1uzPur_5PLKICQw58KUNmIrpYtA4rk","","","","","","","","","","",""
-"li-4422058281","linkedin","https://www.linkedin.com/jobs/view/4422058281","","Developer – Azure Full Stack / Custom Business Applications - Husky (Guindy, Chennai)","Husky Technologies","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
-**Title:** 
- Developer – Azure Full Stack / Custom Business Applications \\- Husky (Guindy, Chennai)
+ a Experience in leading a team and multi\\-skilled across skills like Fiori/SAPUI5/Web Technologies/oData/ABAP
    
 
   
 
-**Id:** 
- 20136
+ b Technical expertise in Fiori/SAPUI5/JavaScript/CSS/HTML5/Web Framework/JQuery
    
 
   
 
-**Type:** 
- FullTime
+ c Good knowledge in ABAP and NetWeaver Gateway","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
+"li-4417997041","linkedin","https://www.linkedin.com/jobs/view/4417997041","","Custom Software Engineer","Accenture in India","","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
+ Custom Software Engineer
    
 
   
 
-**Location:** 
- Chennai, India
+**Project Role Description :** 
+ Lead the effort to design, build and configure applications, acting as the primary point of contact.
    
 
   
 
- At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
+**Must have skills :** 
+ SAP ABAP Development for HANA
    
 
   
 
- Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state\\-of\\-the\\-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
+**Good to have skills :** 
+ NA
    
 
   
 
- Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
+**Minimum 5 Year(s) Of Experience Is Required**
+**Educational Qualification :** 
+ 15 years full time education
    
 
   
 
- Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
+ Summary:
    
 
   
 
-****Job Description****
- Do you want to build custom business applications that directly support and improve how the company operates every day —from launching new capabilities to keeping critical systems stable and evolving?
+ As an Application Lead, you will lead the effort to design, build, and configure applications, acting as the primary point of contact. Your typical day will involve collaborating with various teams to ensure that application development aligns with business objectives, overseeing project timelines, and facilitating communication among stakeholders to drive successful outcomes. You will also engage in problem\\-solving activities, providing guidance and support to your team while ensuring adherence to best practices in application development.
    
 
   
 
- As a Developer in our Custom Business Applications team, you’ll work hands\\-on across an Azure full\\-stack to implement and evolve applications used by teams across the organization. You’ll develop features based on defined designs, write clean and reliable code, and contribute to keeping business\\-critical systems stable, secure, and continuously improving.
+ Roles \\& Responsibilities:
    
 
   
 
- This role is ideal for an engineer who enjoys practical, hands\\-on development, learning from experienced peers, and seeing the immediate impact of their work on how the business operates—while growing toward senior and lead responsibilities over time.
-   
+* Expected to be an SME.
+* Collaborate and manage the team to perform.
+* Responsible for team decisions.
+* Engage with multiple teams and contribute on key decisions.
+* Provide solutions to problems for their immediate team and across multiple teams.
+* Mentor junior team members to enhance their skills and knowledge.
+* Continuously assess and improve team processes to increase efficiency.
 
-  
 
- If you want to build software where your code makes everyday work better, this is the team to join.
+ Professional \\& Technical Skills:
    
 
   
 
-****Responsibilities****
-**Technical Implementation**
-* Implement software components and features based on provided designs, specifications, and guidance.
-* Contribute to the development of reliable, maintainable, and secure code within the assigned scope.
-* Apply agreed coding standards, patterns, and best practices in daily development work.
-* Make basic technical decisions within assigned tasks, escalating questions or uncertainties when needed.
+* Must To Have Skills: Proficiency in SAP ABAP Development for HANA.
+* Good To Have Skills: Experience with SAP Fiori and UI5\\.
+* Strong understanding of database management and optimization techniques.
+* Experience in application lifecycle management and deployment strategies.
+* Familiarity with Agile methodologies and project management tools.
 
 
-**Delivery \\& Execution Excellence**
-* Translate assigned requirements and tasks into working software.
-* Complete development work in alignment with sprint goals and delivery commitments.
-* Contribute to task breakdowns and effort estimates for assigned work.
-* Proactively raise risks, blockers, or implementation issues to the team.
-
-
-**Quality, Standards \\& Engineering Practices**
-* Write clean, testable code and contribute to unit and integration tests.
-* Participate in code reviews, incorporating feedback and learning from peers.
-* Ensure individual contributions meet Definition of Ready (DoR) and Definition of Done (DoD) criteria.
-* Follow established DevOps, security, and quality practices.
-
-
-**Incident \\& Operational Support**
-* Assist in troubleshooting defects and issues in development and production environments.
-* Support corrective (bug fixes) and evolutive (enhancements) maintenance of existing solutions.
-
-
-**Collaboration \\& Growth**
-* Collaborate effectively with other developers, QA, Product Owners, and Tech Leads.
-* Seeking feedback and guidance to continuously improve technical skills.
-* Actively learn the systems, tools, and technologies used by the team.
-* Contribute positively to team culture and shared ownership of outcomes.
-
-
-****Qualifications****
-* Bachelor’s degree in computer science, IT, or related field.
-* 4\\+ years’ professional experience in software development.
-* Experience with programming languages like C\\#, PowerShell, JavaScript, TypeScript, Python, or others relevant to Azure development.
-* Experience using Microsoft .NET, Angular, or similar frontend frameworks.
-* Experience working with web services / APIs (e.g., REST).
-* Experience with SQL or NoSQL databases, particularly those offered on Azure.
-* Proficiency in using various Azure services like Azure App Service, Azure Functions, Azure Cosmos DB, Azure Storage, etc.
-* Understanding and knowledge of cloud security best practices.
-* Clean Code Development and working experience with Unit Testing, and Test\\-driven Development.
-* Familiarity with source code version control, branching strategies, CI/CD pipelines and other DevSecOps practices.
-* Working knowledge of Agile development practices.
-* Excellent communication skills and ability to work in a team.
-* Fluency in English (spoken and written).
-* Strong problem\\-solving skills and attention to detail.
-* Ability to adjust quickly to changing assignments, and priorities.
-
-
-**Assets**
-* Experience using AI assisted coding tools (e.g. GitHub Copilot) responsibly, with full accountability for code quality, security, and compliance.
-* Experience working with and contributing to UX designs.
-* Hands on experience designing and operating event driven systems using Event Sourcing and CQRS.
-* Experience with React, Next.js, GraphQL, and TypeScript.
-* Working experience with infrastructure as code (IaC) tools such as Terraform or ARM templates.
-* Relevant certifications (e.g. Azure Developer Associate, Azure Cosmos DB Developer Specialty).
-
-
-**Why Husky?**
-* Regulated Working Hours: Enjoy a structured work schedule that promotes a healthy work\\-life balance, allowing you to excel professionally while maintaining personal well\\-being.
-* Visible Impact: Experience the satisfaction of seeing the direct outcomes of your work, as you contribute to projects that visibly enhance our company's technological capabilities and efficiency.
-* Strategic Influence: Participate in architectural and technical reviews, contributing to the strategic direction of our cloud initiatives and making a tangible impact on our company's technological landscape.
-* Empowered Involvement: Take an active role in decision\\-making processes and architectural reviews, where your expertise helps shape the future of our cloud solutions and overall business strategy.
-* Valued Contributions: Be more than just a number in a large organization; at our company, every individual's input is valued and can lead to significant, tangible improvements in our operations and services.
-* Impactful Role: Play a crucial part in both developing new applications and maintaining existing systems, ensuring their optimal performance and reliability.
-* Cutting\\-Edge Projects: Work on innovative cloud solutions that are transforming our and our customer’s business, giving you the opportunity to be at the forefront of technological advancements.
-* Supportive Community: Work in an environment that recognizes and celebrates individual achievements, fostering a sense of community and mutual respect among team members.
-* Collaborative Environment: Join a global team of skilled professionals around the globe where your ideas are valued, and collaboration is encouraged to solve complex challenges and drive success.
-
-
- Husky TechnologiesTM offers a competitive compensation and benefits package and excellent opportunities for growth and advancement. We are committed to equal employment opportunity and respect, value and welcome diversity in our workplace. Husky TechnologiesTM also values being a great place to work and strives to maintain a safe workplace. Accordingly, Husky TechnologiesTM conditions all offers of employment on satisfactory completion of background checks. No agency or telephone inquiries please.","Machinery Manufacturing","https://ca.linkedin.com/company/husky-technologies","https://media.licdn.com/dms/image/v2/C4D0BAQHsvZ0ebIsc4w/company-logo_100_100/company-logo_100_100/0/1636124255401/husky_injection_molding_systems_logo?e=2147483647&v=beta&t=DOW-hRVyemixk1uzPur_5PLKICQw58KUNmIrpYtA4rk","","","","","","","","","","",""
-"li-4421221731","linkedin","https://www.linkedin.com/jobs/view/4421221731","","Software Engineer(Business System Analyst)","Caterpillar Inc.","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Career Area**
- Technology, Digital and Data
+ Additional Information:
    
 
   
 
-**Job Description**
-**Your Work Shapes the World at Caterpillar Inc.**
- When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.
+* The candidate should have minimum 5 years of experience in SAP ABAP Development for HANA.
+* This position is based in Hyderabad.
+* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
+"li-4422065073","linkedin","https://www.linkedin.com/jobs/view/4422065073","","Senior Software Engineer_Oracle Cloud Fusion","Lowe's India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Innovate in Bengaluru**
+ This position is based at our on\\-site office in Bengaluru. Lowe's offers an ultramodern work environment, complete with cutting\\-edge technology, collaborative workspaces, an on\\-site gym and clinic, and other perks to enhance your work experience.
    
 
   
 
-**About Caterpillar**
- Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off\\-highway diesel and natural gas engines, industrial gas turbines and diesel\\-electric locomotives.
+**About Lowe’s**
+ Lowe’s is a FORTUNE® 100 home improvement company serving approximately 16 million customer transactions a week in the United States. With total fiscal year 2024 sales of more than $83 billion, Lowe’s operates over 1,700 home improvement stores and employs approximately 300,000 associates. Based in Mooresville, N.C., Lowe’s supports the communities it serves through programs focused on creating safe, affordable housing, improving community spaces, helping to develop the next generation of skilled trade experts and providing disaster relief to communities in need. For more information, visit Lowes.com
    
 
   
 
- For nearly 100 years, we’ve been helping customers build a better, more sustainable world and are committed and contributing to a reduced\\-carbon future. Our innovative products and services, backed by our global dealer network, provide exceptional value that helps customers succeed.
+ Lowe’s India, the Global Capability Center of Lowe’s Companies Inc., is a hub for driving our technology, business, analytics, and shared services strategy. Based in Bengaluru with over 4,500 associates, it powers innovations across omnichannel retail, AI/ML, enterprise architecture, supply chain, and customer experience. From supporting and launching homegrown solutions to fostering innovation through its Catalyze platform, Lowe’s India plays a pivotal role in transforming home improvement retail while upholding strong commitment to social impact and sustainability. For more information, visit Lowes India
    
 
   
 
-**Your Impact Shapes the World at Caterpillar Inc**
- When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.
+**About The Team**
+ We are a high\\-performing global engineering team focused on delivering reliable and scalable ERP Finance solutions that support critical business operations. The team collaborates closely with business stakeholders and vendor partners across the US and Bangalore to provide 24x7 production support, drive new feature development, and explore innovative AI capabilities around ERP financial data.
    
 
   
 
- We are seeking a skilled
- **Software Engineer(Business System Analyst)** 
- to join our
- **P\\&E IT \\- CPD and COGMD Applications CAT IT Division**
- This role will be based out of
- **Bangalore\\-Whitefield PSN office\\-KA,India**
-**What Will You Do**
- This position will help Caterpillar solve its customers’ toughest challenges while building a better and more sustainable world. This person will deliver technological initiatives inside of the Commercial Process Division (CPD), part of the Power and Energy Group. This business segment focuses on the development and delivery of services, solutions, and processes to support the Caterpillar commitment to our customers including our Dealer Network. The incumbent will collaborate with business partners and enterprise teams in creation of Business relevant IT \\& Business Strategies for CPD.
+ Team members have opportunities to work across cross\\-functional initiatives, gain exposure to Core Finance ERP modules, and contribute to key activities such as sprint planning, quarterly patching, observability and monitoring, performance optimization, and ensuring business\\-critical SLA commitments are met. We strongly emphasize individual growth through cross\\-learning, collaboration, and continuous innovation.
    
 
   
 
- Expected to work across multiple teams, understanding requirements and technology capabilities.
+**Job Summary**
+ The primary purpose of this role is to translate business requirements and functional specifications into logical program designs and to deliver code modules, stable application systems, and software solutions. This includes developing, configuring, or modifying complex integrated business and/or enterprise application solutions within various computing environments. This role facilitates the implementation and maintenance of complex business and enterprise software solutions to ensure successful deployment of released applications.
    
 
   
-
-* Designing, modifying, developing, writing and implementing software programming applications for target system using agile methods.
-* Acquiring client requirements; resolving workflow problems through automation optimization.
-* Writing source codes for new applications, and/or generating and enhancing code samples for existing applications.
-* Utilizing automated testing tools to perform the testing and maintenance.
-
 
-**What You Will Have**
-* Agile Mindset and experience working in Product Teams.
-* Experience working in Azure DevOps Framework.
-* Experience working .NET Framework.
-* Automation \\& AI first thinking is a must
-* Cyber Safe approach.
-* Dev Ops, CI/CD practices, and Automated Testing.
-* This position requires candidate to work a 5\\-day \\-a \\-week schedule in the office.
+**Roles \\& Responsibilities**
+* Translates complex business requirements and functional specifications into executable stories, designs, and code modules; partners with product teams to understand business needs and functional specifications.
+* Independently writes high quality, maintainable, and robust code by building adequate test suits and observability framework.
+* Guides application and software development teams in the design and build of complex solutions and ensures teams are in alignment with the architecture blueprint, standards, and strategies.
+* Participates and mentor’s other engineers in software development technologies and processes by creating onboarding documents, root cause analysis, key learnings, demos, and share\\-out sessions.
+* Automates and simplifies team development, tests, and operations processes for efficiency of delivering the work.
+* Evaluates modern software, tools, and technologies to provide objective analysis and recommendations to the team.
 
 
-**Skills Descriptors**
-* Decision Making and Critical Thinking: Knowledge of the decision\\-making process and associated tools and techniques; ability to accurately analyze situations and reach productive decisions based on informed judgment.
-* Effective Communications: Understanding effective communication concepts, tools, and techniques; ability to effectively transmit, receive, and accurately interpret ideas, information, and needs through the application of appropriate communication behaviors.
-* Software Development: Knowledge of software development tools and activities; ability to produce software products or systems in line with product requirements.
-* Software Development Life Cycle: Knowledge of software development life cycle; ability to use a structured methodology for delivering and managing new or enhanced software products to the marketplace.
-* Software Integration Engineering: Knowledge of software integration processes and functions; ability to design, develop and maintain interfaces and link to alternative platforms and software packages.
-* Software Product Design/Architecture: Knowledge of software product design; ability to convert market requirements into software product design.
-* Software Product Technical Knowledge: Knowledge of technical aspects of a software product; ability to design, configure and integrate technical aspects of software products.
-* Software Product Testing: Knowledge of software product testing; ability to design, plan, and execute testing strategies and tactics to ensure software product quality and adherence to stated requirements.
+**Years Of Experience**
+* Minimum 5 years of experience in software development or a related field.
 
 
-**What You Will Get**
-* Work Life Harmony
-* Earned and medical leave.
-* Relocation assistance
+**Education Qualification \\& Certifications**
+* Bachelor’s degree in computer science, computer information systems (CIS), or related field or equivalent years of experience in lieu of education requirement, if applicable.
 
 
-**Holistic Development**
-* Personal and professional development through Caterpillar ‘s employee resource groups across the globe
-* Career developments opportunities with global prospects
+**Primary Skills**
+* 4 years of experience in any of following competencies: frontend technologies (user interface/user experience), middleware (microservices and application programming interfaces), database technologies, or DevOps.
+* 4 years of experience working on project(s) involving the implementation of solutions applying development life cycles (SDLC) through iterative agile development.
+* 3 years of Hands\\-on experience with ERP financial such as General Ledger, Account Payables
+* 3 years of Hands\\-on experience with building Oracle ERP (Oracle Cloud Fusion) financial analytical reports
+* 2 years of Hands\\-on experience with Fusion Data Intelligence (FDI) formerly Fusion Analytics Warehouse (FAW)
+* 2 years of Hands\\-on experience with Oracle PL\\-SQL programming
+* 1 years of Hands\\-on Python, SQL, or data science libraries/frameworks used for AI/ML integration and analytics automation is a plus.
+* 4 years of experience writing technical documentation in a software environment, developing and implementing business systems within an organization, and working with source code control systems.
+* 4 years of experience working with an IT Infrastructure Library (ITIL) framework, defect or incident tracking software, web services, and application and integration middleware.
+* 4 years of experience in systems analysis, including defining technical requirements and performing high level design for complex solutions.
+* 4 years of experience working with three or more of the following: Continuous integration/continuous deployment tools, frontend technologies, middleware, database technologies, and/or DevOps.
+* Experience leveraging AI/ML technologies for analytics, reporting automation, anomaly detection, predictive insights, or intelligent business process optimization.
+* Experience integrating AI\\-enabled reporting solutions using Oracle Analytics Cloud (OAC), Oracle AI services, Generative AI capabilities, or enterprise data platforms.
+* Familiarity with Machine Learning concepts such as data modeling, forecasting, classification, recommendation systems, and intelligent automation in enterprise applications.
+* Experience utilizing Generative AI tools (e.g., Oracle Generative AI Services, OCI AI Services, LLM\\-powered assistants, Copilot technologies) to improve developer productivity, reporting insights, or operational efficiency.
+* Knowledge of data engineering and AI/ML workflows including data preparation, feature engineering, model deployment, and monitoring within cloud environments.
 
 
-**Health and Wellness**
-* Medical coverage \\-Medical, life and personal accident coverage
-* Employee mental wellness assistance program
-
-
-**Financial Wellness**
-* Employee investment plan
-* Pay for performance \\-Annual incentive Bonus plan.
-
-
-**Additional Information**
- Caterpillar is not currently hiring individuals for this position who now or in the future require sponsorship for employment visa status; however, as a global company, Caterpillar offers many job opportunities outside of the U.S. which can be found through our employment website at www.caterpillar.com/careers
+*Lowe's is an equal opportunity employer and administers all personnel practices without regard to race, color, religious creed, sex, gender, age, ancestry, national origin, mental or physical disability or medical condition, sexual orientation, gender identity or expression, marital status, military or veteran status, genetic information, or any other category protected under federal, state, or local law.*
+ Starting rate of pay may vary based on factors including, but not limited to, position offered, location, education, training, and/or experience. For information regarding our benefit programs and eligibility, please visit https://talent.lowes.com/us/en/benefits.","Retail","https://in.linkedin.com/company/lowe-s-india","https://media.licdn.com/dms/image/v2/C4E0BAQHoNPNGRZYG-w/company-logo_100_100/company-logo_100_100/0/1630617454317/lowes_india_logo?e=2147483647&v=beta&t=V2blyxQNtBHHqgDqDg-WADh2r2MvLpg4fLsnuqmMICs","","","","","","","","","","",""
+"li-4417988299","linkedin","https://www.linkedin.com/jobs/view/4417988299","","Technology Platform Engineer","Accenture in India","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
+ Technology Platform Engineer
    
 
   
 
-**Caterpillar is an Equal Opportunity Employer (EEO)**
- EEO/AA Employer. All qualified individuals, including minorities, females, veterans and individuals with disabilities \\- are encouraged to apply.
+**Project Role Description :** 
+ Creates production and non\\-production cloud environments using the proper software tools such as a platform for a project or product. Deploys the automation pipeline and automates environment creation and configuration.
    
 
   
 
-**Posting Dates**
- May 29, 2026 \\- June 11, 2026
+**Must have skills :** 
+ Salesforce Experience Cloud
    
 
   
 
- Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply
+**Good to have skills :** 
+ Salesforce Data 360
    
 
   
 
- Not ready to apply? Join our Talent Community.","Construction and Machinery Manufacturing","https://www.linkedin.com/company/caterpillar-inc","https://media.licdn.com/dms/image/v2/D4E0BAQGezvfCH-inoA/company-logo_100_100/B4EZuz4cAhKgAU-/0/1768249475691/caterpillar_inc_logo?e=2147483647&v=beta&t=lWh93R_F-WvaRwOz6OwdZdT7vigzIsyVWpNqEXHfM7w","","","","","","","","","","",""
-"li-4422037745","linkedin","https://www.linkedin.com/jobs/view/4422037745","","Senior Software Engineer - Backend","Veeam Software","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands.
+**Minimum 5 Year(s) Of Experience Is Required**
+**Educational Qualification :** 
+ 15 years full time education
    
 
   
 
-**About The Role**
- You will be working as a part of a distributed agile team, building a new SaaS platform that underpins a suite of enterprise applications solving a variety of hard data analytics and enterprise problems. You will be responsible for ensuring that the framework and products we develop meet the established design, implementation and quality goals.
+ Summary:
    
 
   
 
-**What You’ll Do**
-* Be a part of a globally distributed team of backend engineers to design/develop/architect Securiti's core backend platform
-* Help create architecture documents, functional specifications, design documents and developer test plans
-* Write reliable, secure, performant, and scalable code
-* Perform code reviews and analysis
-* Monitor platform performance and be on\\-call to address any urgent issues
-* Work with customer support and address customer issues
-* Integrate new technologies into back\\-end cloud infrastructure
-* Evaluate and adapt new technologies where they provide value
-
-
-**Technologies You’ll Work With**
- GoLang, Java
+ As a Cloud Platform Engineer \\- Platform Administrator, you will work on large scale projects on Salesforce, collaborate with various teams to ensure seamless integration and functionality across platforms, contributing to the overall success of the projects you are involved in..
    
 
   
-
-**What You’ll Bring**
-* Minimum 5 years experience developing software, with some experience using container technologies like Docker
-* Experience in building highly available and scalable distributed systems for the cloud
-* Professional development experience in GoLang, Python or Java
-* Good knowledge of Linux and Bash scripting
-* Good software development practices: should thrive in an environment of rapid development, peer code reviews, and write good functional/unit tests
-* Experience with Microservices and REST based HTTP/2 architectures
-* Experience with SQL (Postgres) and NoSQL (Mongo/Elasticsearch) technologies
-* Knowledge and use of performance tuning, profiling, and software metrics tools
-* Very strong diagnostic and troubleshooting skills
-* Proven ability to utilize creative thinking to solve complex engineering problems
-* High level of energy, teamwork, can\\-do attitude and willingness to learn new technologies
-* Working knowledge of networks and web concepts
-* Strong attention to detail, curiosity, and a willingness to learn.
-
 
-**Bonus Skills**
-* Experience building distributed systems
-* Experience with cloud platforms such as AWS, GCP , and Azure
-* Experience with Containerization technologies (Kubernetes, Docker)
-* Experience with tools like Terraform, Helm
-* Understanding of Network Services \\- Load\\-Balancers, Security, QOS, etc.
-* Understanding of platform level concerns, such as configuration management, network request routing, blue/green or canary deployments, in\\-service software upgrade etc
-* Experience in building API based connectors to cloud\\-based SaaS services is a big plus
-* Ability to work independently
+ Roles \\& Responsibilities:
+   
 
+  
 
-**What You’ll Get**
-* 18 paid vacation days, plus 4 extra global VeeaMe Days for self\\-care and 24 paid volunteer hours annually through Veeam Cares
-* Private medical coverage for you and up to four dependents
-* Life, accident, and disability insurance with enhanced coverage
-* Annual flexible wellbeing allowance for physical and mental wellness
-* Free confidential counselling and coaching via Employee Assistance Program (EAP), including legal and financial advice
-* Meal, fuel, and transportation benefits based on work arrangement
-* Daycare reimbursement and safe cab facility for eligible employees
-* Opportunities to learn and grow through on\\-demand libraries (LinkedIn Learning, O’Reilly), mentoring, workshops, and learning events like our annual Global Day of Learning
+* Expected to be an SME.
+* Collaborate and manage the team to perform.
+* Responsible for team decisions.
+* Engage with multiple teams and contribute on key decisions.
+* Provide solutions to problems for their immediate team and across multiple teams.
+* Facilitate knowledge sharing sessions to enhance team capabilities.
+* Monitor and evaluate the performance of cloud environments to ensure optimal operation.
 
 
-**Veeam Software is an equal opportunity employer** 
- and does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept confidential.
+ Professional \\& Technical Skills:
    
 
   
 
- Please note that any personal data collected from you during the recruitment process will be processed in accordance with our Recruiting Privacy Notice.
-   
+* Must To Have Skills: Should have experience working on large scale projects. Proficiency in Salesforce Experience Cloud and good understanding of Salesforce Data Cloud.
+* Good To Have Skills: Experience with Salesforce Data Cloud or Service Cloud.
+* Strong understanding of cloud infrastructure and deployment strategies.
+* Experience with automation tools and scripting languages.
+* Familiarity with continuous integration and continuous deployment practices
 
-  
 
- The Privacy Notice sets out the basis on which the personal data collected from you, or that you provide to us, will be processed by us in connection with our recruitment processes.
+ Additional Information:
    
 
   
 
- By applying for this position, you consent to the processing of your personal data in accordance with our Recruiting Privacy Notice.
+* The candidate should have minimum 5 years of experience in Salesforce Experience Cloud.
+* This position is based in Hyderabad.
+* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
+"li-4417976917","linkedin","https://www.linkedin.com/jobs/view/4417976917","","Application Support Engineer","Accenture in India","Navi Mumbai, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
+ Application Support Engineer
    
-
-  
-
-**By submitting your application, you acknowledge that the information provided in your job application and any supporting documents is complete and accurate to the best of your knowledge. Any misrepresentation, omission, or falsification of information may result in disqualification from consideration for employment or, if discovered after employment begins, termination of employment.**","Software Development","https://www.linkedin.com/company/veeam-software","https://media.licdn.com/dms/image/v2/D560BAQEo31UwFwPSTQ/company-logo_100_100/company-logo_100_100/0/1698148838439/veeam_software_logo?e=2147483647&v=beta&t=Ln19solcIN-LUSwRLgNch-039Au4vvzDvzj6VSsj5IA","","","","","","","","","","",""
-"li-4407641996","linkedin","https://www.linkedin.com/jobs/view/4407641996","","Sr. Software Development Engineer (Angular)","Skan AI","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"associate","Engineering","","","**Be at the Forefront of the Agentic AI Revolution** 
-
 
-
-
   
-
-
-
-
-
- At Skan AI, we are pioneering the context engine for human and agentic execution, bringing context from enterprise operators, systems, and processes to power how the world's largest organizations execute their most complex, mission\\-critical work.
- 
-
 
+**Project Role Description :** 
+ Act as software detectives, provide a dynamic service identifying and solving issues within multiple components of critical business systems.
+   
 
   
-
-
-
-
-
-**Why Skan AI** 
-
-
 
+**Must have skills :** 
+ Microsoft Intune
+   
 
   
-
-
-
 
-
- We're in hyper\\-growth mode at exactly the right moment in history. As enterprises race to adopt agentic AI, we're uniquely positioned to deliver the clear signal they desperately need: a platform that trains and grounds AI Agents in trillions of real execution signals, enabling reliable, compliant automation of their most complex processes.
- 
-
-
+**Good to have skills :** 
+ NA
+   
 
   
 
-
-
-
-
- Backed by Dell Technologies Capital and other leading investors, we're the only company that can bridge the gap between AI's promise and enterprise reality, making us perfectly positioned to define the agentic era for modern enterprises.
- 
-
-
+**Minimum 5 Year(s) Of Experience Is Required**
+**Educational Qualification :** 
+ 15 years full time education
+   
 
   
-
 
-
-
-
- Our diverse, collaborative team of 250\\+ innovators is solving category\\-defining challenges at the intersection of AI, process intelligence, and enterprise work. Diverse perspectives fuel breakthrough thinking, cross\\-functional collaboration is the norm, and our work directly transforms how Fortune 500 companies operate. We are shaping the future of work itself.
- 
-
-
+ Summary:
+   
 
   
-
-
 
-
-
-**About the Role** 
-
-
-
+ As an Application Support Engineer, you will act as software detectives, providing a dynamic service that identifies and solves issues within multiple components of critical business systems. Your typical day will involve collaborating with various teams to troubleshoot and resolve software\\-related challenges, ensuring that business operations run smoothly and efficiently. You will engage in problem\\-solving activities, analyze system performance, and contribute to the continuous improvement of application support processes, all while maintaining a focus on delivering exceptional service to end\\-users and stakeholders.
+   
 
   
-
-
 
-
-
- We are looking for a Front\\-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translation of the UI/UX design wireframes, visual design to actual code that will produce visual elements of the product’s web portal. You will work with the UI/UX designer and product owner to bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the Web Portal looks as well as how it works.
- 
-
-
+ Roles \\& Responsibilities:
+   
 
   
-
-
-
-
-
-**Responsibilities** 
-
-
-
-* Ensure the technical feasibility of UI/UX visual designs
-* Develop cutting edge UI for product web portal
-* Do quick prototypes with different libraries
-* Optimize web portal for maximum speed and scalability
-* Build reusable code and libraries for future use
-* Guide and Review work of the Front\\-End developers
-* Collaborate with UI/UX designer and Product owner
-* Collaborate with other team members and stakeholders
-* Taking self\\-ownership in challenging UI development work
-
-
-
-**Must have Skills** 
 
+* Expected to be an SME.
+* Collaborate and manage the team to perform.
+* Responsible for team decisions.
+* Engage with multiple teams and contribute on key decisions.
+* Provide solutions to problems for their immediate team and across multiple teams.
+* Facilitate knowledge sharing sessions to enhance team capabilities.
+* Monitor application performance and proactively address potential issues.
 
 
-* Must have at least 5 yrs of experience in front end web development
-* Proficient in web markup, including HTML5, CSS3, SASS and DOM
-* Proficient in client\\-side scripting and JavaScript frameworks, including jQuery
-* Proficient in Angular 6 and above
-* Knowledge of D3 and SVG
-* Experience in CSS pre\\-processing platforms, such as LESS and SASS
-* Proficient understanding of cross\\-browser compatibility issues and ways to work around them.
-* Good understanding of asynchronous request handling, Single Page Application, partial page updates
-* Proficient understanding of code versioning tools, such as Git
-
-
-
-**Nice to have Skills** 
-
-
-
-* Knowledge of graph rendering libraries like GoJS, JointJS etc
-* Knowledge of Product Development Lifecycle, Agile Scrum Development Methodology
-* Knowledge of Azure Board, Sprint Planning and Execution","Software Development and IT Services and IT Consulting","https://www.linkedin.com/company/skan-ai","https://media.licdn.com/dms/image/v2/D4E0BAQEbocLfqN1RGA/company-logo_100_100/B4EZ1EumjlJAAQ-/0/1774974560837/skan_ai_logo?e=2147483647&v=beta&t=yzVRTVnV8lvmLyjFoGg1TD4xEA3dTfeNJktaWWNkwCY","","","","","","","","","","",""
-"li-4421232228","linkedin","https://www.linkedin.com/jobs/view/4421232228","","Lead Software Engineer","Caterpillar Inc.","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Career Area**
- Technology, Digital and Data
-   
-
-  
-
-**Job Description**
-**Your Work Shapes the World at Caterpillar Inc.**
- When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.
+ Professional \\& Technical Skills:
    
 
   
 
-**About Caterpillar**
- Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off\\-highway diesel and natural gas engines, industrial gas turbines and diesel\\-electric locomotives.
-   
+* Must To Have Skills: Proficiency in Microsoft Intune.
+* Good To Have Skills: Experience with application lifecycle management tools.
+* Strong understanding of software troubleshooting methodologies.
+* Familiarity with cloud\\-based application support.
+* Experience in user training and support documentation.
 
-  
 
- For nearly 100 years, we’ve been helping customers build a better, more sustainable world and are committed and contributing to a reduced\\-carbon future. Our innovative products and services, backed by our global dealer network, provide exceptional value that helps customers succeed.
+ Additional Information:
    
 
   
 
-**Your Impact Shapes the World at Caterpillar Inc**
- When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.
+* The candidate should have minimum 5 years of experience in Microsoft Intune.
+* This position is based at our Mumbai office.
+* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
+"li-4414633865","linkedin","https://www.linkedin.com/jobs/view/4414633865","","SHAREPOINT /POWER APPS DEVELOPER | 6 TO 9 YEARS | MUMBAI","Capgemini","Sion, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Your Role
    
 
   
-
- We are seeking a skilled
- **Lead Software Engineer** 
- to join our
- **P\\&E IT \\- CPD and COGMD Applications CAT IT Division**
- This role will be based out of
- **Bangalore\\-Whitefield PSN office\\-KA, India**
-**What Will You Do**
-* This position helps Caterpillar solve its customers’ toughest challenges while building a better and more sustainable world. The Lead Architect will deliver strategic technology initiatives within the Commercial Process Division (CPD), part of the Power and Energy Group.
-* CPD focuses on the development and delivery of services, solutions, and processes that support Caterpillar’s commitment to customers, including the global Dealer Network. The incumbent collaborates with business partners and enterprise teams to create business\\-relevant IT and business strategies for CPD.
-
-
-**Architecture \\& Solution Delivery**
-* Lead end to end architecture, design, and delivery of scalable, secure, full stack solutions using Agile methodologies.
-* Define and evolve application architecture across frontend, backend, integration, and data layers, ensuring alignment with enterprise standards and business goals.
-* Partner with product owners and stakeholders to translate business requirements into technical solutions and architectural designs.
-
 
-**Technical Leadership**
-* Provide hands on technical leadership, including designing, coding, and reviewing critical components and shared frameworks.
-* Establish and enforce coding standards, architectural patterns, and best practices for performance, scalability, reliability, and security.
-* Serve as a technical escalation point, enabling high performing, product focused teams.
+* Develop and customize Power Apps solutions to meet business requirements.
+* Design and manage SharePoint sites, lists, libraries, and workflows.
+* Integrate Power Apps with SharePoint, Power Automate, and other Microsoft 365 services.
+* Collaborate with stakeholders to gather requirements and improve user experience.
+* Maintain, troubleshoot, and optimize apps and SharePoint environments for performance and security.
 
 
-**DevOps, Automation \\& Quality**
-* Lead DevOps and CI/CD strategy, ensuring high quality, frequent, and reliable releases through automation.
-* Drive an automation first and AI enabled mindset, embedding intelligent automation across development, testing, and operational workflows.
-* Oversee automated testing and quality engineering practices across the full SDLC.
-* Mentorship \\& Collaboration
-* Mentor engineers and guide teams through complex architectural and technical decisions.
-* Collaborate closely with business leaders, product teams, and enterprise IT partners.
-
-
-**What You Will Have**
-* Strong Agile mindset, with experience working in or leading product centric, cross functional teams.
-* Proven experience designing and delivering solutions within the Azure ecosystem, including Azure DevOps.
-* Deep expertise in .NET based full stack architecture, with the ability to evaluate and select appropriate technologies.
-
-
-**Technical Expertise**
-**Experience Across Modern Engineering Languages And Platforms, Including**
-* C\\#, ASP.NET, Java, JavaScript, Python, SQL
-* Strong understanding of secure by design (Cyber Safe) development principles and application security best practices.
-* Hands on experience with DevOps, CI/CD pipelines, infrastructure automation, and automated testing frameworks. Leadership \\& Communication
-* Excellent communication and leadership skills.
-* Ability to influence both technical and non technical stakeholders.)
-* This position requires candidate to work a 5\\-day \\-a \\-week schedule in the office.
-
-
-**Skills Descriptors**
-* Skills Descriptors:
-* Decision Making and Critical Thinking:
-* Analyzes situations and reaches productive decisions using informed judgment.
-* Identifies, organizes, and documents relevant data, stakeholders, and processes.
-* Recognizes, clarifies, and prioritizes concerns while assessing risks, benefits, and alternatives.
-* Effective Communications:
-* Communicates clearly and appropriately for the audience.
-* Delivers constructive feedback and incorporates feedback from others.
-* Produces presentations and reports needed for effective delivery.
-* Avoid unnecessary technical jargon and recognizes non‑verbal cues.
-* Software Development:
-* Produces software aligned with product requirements.
-* Conducts walkthroughs and monitors quality of development activities.
-* Evaluates advantages and drawbacks of development languages and tools.
-* Estimates and monitors development costs and consults on tool selection and usage.
-* Software Development Life Cycle:
-* Applies structured lifecycle methodologies for delivering software products.
-* Understands phases, dependencies, deliverables, and decision points.
-* Interprets product development plans and functional documentation.
-* Software Integration Engineering:
-* Designs and implements interfaces and integration patterns.
-* Understands ETL tools and data exchange techniques.
-* Participates in developing technology interfaces and bridges with customer and partner systems
-* Software Product Design/Architecture:
-* Leads architecture and design of major or multiple products.
-* Evaluates architectural alternatives and design tradeoffs.
-* Facilitates design reviews and walkthroughs.
-* Estimates cost and impact of proposed architectural designs.
-* Software Product Technical Knowledge:
-* Defines technical requirements for development and deployment.
-* Participate in technical acceptance testing and environment configuration.
-* Monitors defects, bugs, and implementation issues.
-* Software Product Testing:
-* Designs and participates in testing strategies including functional, volume, load, and performance testing.
-* Documents test activities, results, and non‑conformance issues.
-* Ensures adherence to functional requirements and design specifications.
-
-
-**What You Will Get**
-* Work Life Harmony
-* Earned and medical leave.
-* Relocation assistance
-
-
-**Holistic Development**
-* Personal and professional development through Caterpillar ‘s employee resource groups across the globe
-* Career developments opportunities with global prospects
-
-
-**Health and Wellness**
-* Medical coverage \\-Medical, life and personal accident coverage
-* Employee mental wellness assistance program
-
-
-**Financial Wellness**
-* Employee investment plan
-* Pay for performance \\-Annual incentive Bonus plan.
-
-
-**Additional Information**
- Caterpillar is not currently hiring individuals for this position who now or in the future require sponsorship for employment visa status; however, as a global company, Caterpillar offers many job opportunities outside of the U.S. which can be found through our employment website at www.caterpillar.com/careers
+ Works in the area of Software Engineering, which encompasses the development, maintenance and optimization of software solutions/applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He/she is responsible for the development and application of software engineering practice and knowledge, in research, design, development and maintenance.3\\. His/her work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his/her software engineering discipline to reach standard software engineer skills expectations for the applicable role, as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
    
 
   
 
-**Caterpillar is an Equal Opportunity Employer (EEO)**
- EEO/AA Employer. All qualified individuals, including minorities, females, veterans and individuals with disabilities \\- are encouraged to apply.
+ Your Profile
    
 
   
-
-**Posting Dates**
- May 29, 2026 \\- June 11, 2026
-   
-
-  
-
- Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply
-   
-
-  
-
- Not ready to apply? Join our Talent Community.","Construction and Machinery Manufacturing","https://www.linkedin.com/company/caterpillar-inc","https://media.licdn.com/dms/image/v2/D4E0BAQGezvfCH-inoA/company-logo_100_100/B4EZuz4cAhKgAU-/0/1768249475691/caterpillar_inc_logo?e=2147483647&v=beta&t=lWh93R_F-WvaRwOz6OwdZdT7vigzIsyVWpNqEXHfM7w","","","","","","","","","","",""
-"li-4421214857","linkedin","https://www.linkedin.com/jobs/view/4421214857","","Lead Software Engineer","Caterpillar Inc.","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Career Area**
- Technology, Digital and Data
-   
-
-  
-
-**Job Description**
-**Your Work Shapes the World at Caterpillar Inc.**
- When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.
-   
-
-  
-
-**About Caterpillar**
- Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off\\-highway diesel and natural gas engines, industrial gas turbines and diesel\\-electric locomotives.
-   
-
-  
-
- For nearly 100 years, we’ve been helping customers build a better, more sustainable world and are committed and contributing to a reduced\\-carbon future. Our innovative products and services, backed by our global dealer network, provide exceptional value that helps customers succeed.
-   
-
-  
-
-**Your Impact Shapes the World at Caterpillar Inc**
- When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.
-   
-
-  
-
- We are seeking a skilled
- **Lead Software Engineer** 
- to join our
- **P\\&E IT \\- CPD and COGMD Applications CAT IT Division**
- This role will be based out of
- **Bangalore\\-Whitefield PSN office\\-KA, India**
-**What Will You Do**
-* This position helps Caterpillar solve its customers’ toughest challenges while building a better and more sustainable world.
-* The Lead Architect will deliver strategic technology initiatives within the Commercial Process Division (CPD), part of the Power and Energy Group.
-* CPD focuses on the development and delivery of services, solutions, and processes that support Caterpillar’s commitment to customers, including the global Dealer Network.
-* The incumbent collaborates with business partners and enterprise teams to create business\\-relevant IT and business strategies for CPD.
-
-
-**Architecture \\& Solution Delivery**
-* Lead end to end architecture, design, and delivery of scalable, secure, full stack solutions using Agile methodologies.
-* Define and evolve application architecture across frontend, backend, integration, and data layers, ensuring alignment with enterprise standards and business goals.
-* Partner with product owners and stakeholders to translate business requirements into technical solutions and architectural designs. Technical Leadership
-* Provide hands on technical leadership, including designing, coding, and reviewing critical components and shared frameworks.
-* Establish and enforce coding standards, architectural patterns, and best practices for performance, scalability, reliability, and security.
-* Serve as a technical escalation point, enabling high performing, product focused teams.
-
-
-**DevOps, Automation \\& Quality**
-* Lead DevOps and CI/CD strategy, ensuring high quality, frequent, and reliable releases through automation.
-* Drive an automation first and AI enabled mindset, embedding intelligent automation across development, testing, and operational workflows. Oversee automated testing and quality engineering practices across the full SDLC.
-
-
-**Mentorship \\& Collaboration**
-* Mentor engineers and guide teams through complex architectural and technical decisions.
-* Collaborate closely with business leaders, product teams, and enterprise IT partners.
-
-
-**What You Will Have**
-* Strong Agile mindset, with experience working in or leading product centric, cross functional teams.
-* Proven experience designing and delivering solutions within the Azure ecosystem, including Azure DevOps.
-* Deep expertise in .NET based full stack architecture, with the ability to evaluate and select appropriate technologies.
-
-
-**Technical Expertise**
-* Experience across modern engineering languages and platforms, including:
-* C\\#, ASP.NET, Java, JavaScript, Python, SQL
-* Strong understanding of secure by design (Cyber Safe) development principles and application security best practices.
-* Hands on experience with DevOps, CI/CD pipelines, infrastructure automation, and automated testing frameworks.
-
-
-**Leadership \\& Communication**
-* Excellent communication and leadership skills.
-* Ability to influence both technical and non technical stakeholders.
-* This position requires candidate to work a 5\\-day \\-a \\-week schedule in the office.
-
-
-**Skills Descriptors**
-**Decision Making and Critical Thinking:**
-* Analyzes situations and reaches productive decisions using informed judgment.
-* Identifies, organizes, and documents relevant data, stakeholders, and processes.
-* Recognizes, clarifies, and prioritizes concerns while assessing risks, benefits, and alternatives.
-
-
-**Effective Communications**
-* Communicates clearly and appropriately for the audience.
-* Delivers constructive feedback and incorporates feedback from others.
-* Produces presentations and reports needed for effective delivery.
-* Avoid unnecessary technical jargon and recognizes non‑verbal cues.
-
-
-**Software Development**
-* Produces software aligned with product requirements.
-* Conducts walkthroughs and monitors quality of development activities.
-* Evaluates advantages and drawbacks of development languages and tools.
-* Estimates and monitors development costs and consults on tool selection and usage.
-
-
-**Software Development Life Cycle**
-* Applies structured lifecycle methodologies for delivering software products.
-* Understands phases, dependencies, deliverables, and decision points.
-* Interprets product development plans and functional documentation.
-
-
-**Software Integration Engineering**
-* Designs and implements interfaces and integration patterns.
-* Understands ETL tools and data exchange techniques.
-* Participates in developing technology interfaces and bridges with customer and partner systems
-
-
-**Software Product Design/Architecture**
-* Leads architecture and design of major or multiple products.
-* Evaluates architectural alternatives and design tradeoffs.
-* Facilitates design reviews and walkthroughs.
-* Estimates cost and impact of proposed architectural designs.
-
-
-**Software Product Technical Knowledge**
-* Defines technical requirements for development and deployment.
-* Participate in technical acceptance testing and environment configuration.
-* Monitors defects, bugs, and implementation issues.
-
-
-**Software Product Testing**
-* Designs and participates in testing strategies including functional, volume, load, and performance testing.
-* Documents test activities, results, and non‑conformance issues.
-* Ensures adherence to functional requirements and design specifications.
-
-
-**What You Will Get**
-* Work Life Harmony
-* Earned and medical leave.
-* Relocation assistance
-
-
-**Holistic Development**
-* Personal and professional development through Caterpillar ‘s employee resource groups across the globe
-* Career developments opportunities with global prospects
-
-
-**Health and Wellness**
-* Medical coverage \\-Medical, life and personal accident coverage
-* Employee mental wellness assistance program
-
-
-**Financial Wellness**
-* Employee investment plan
-* Pay for performance \\-Annual incentive Bonus plan.
-
-
-**Additional Information**
- Caterpillar is not currently hiring individuals for this position who now or in the future require sponsorship for employment visa status; however, as a global company, Caterpillar offers many job opportunities outside of the U.S. which can be found through our employment website at www.caterpillar.com/careers
-   
-
-  
-
-**Caterpillar is an Equal Opportunity Employer (EEO)**
- EEO/AA Employer. All qualified individuals, including minorities, females, veterans and individuals with disabilities \\- are encouraged to apply.
-   
-
-  
-
-**Posting Dates**
- May 29, 2026 \\- June 11, 2026
-   
-
-  
-
- Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply
-   
-
-  
-
- Not ready to apply? Join our Talent Community.","Construction and Machinery Manufacturing","https://www.linkedin.com/company/caterpillar-inc","https://media.licdn.com/dms/image/v2/D4E0BAQGezvfCH-inoA/company-logo_100_100/B4EZuz4cAhKgAU-/0/1768249475691/caterpillar_inc_logo?e=2147483647&v=beta&t=lWh93R_F-WvaRwOz6OwdZdT7vigzIsyVWpNqEXHfM7w","","","","","","","","","","",""
-"li-4421226686","linkedin","https://www.linkedin.com/jobs/view/4421226686","","Senior Software Engineer Java fullstack","CGI","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Position Description
-   
-
-  
-
- Job qualifications:
-   
-
-  
-
- Company Profile:
-   
-
-  
-
- Founded in 1976, CGI is among the largest independent IT and business consulting services firms in the world. With 94,000 consultants and professionals across the globe, CGI delivers an end\\-to\\-end portfolio of capabilities, from strategic IT and business consulting to systems integration, managed IT and business process services and intellectual property solutions. CGI works with clients through a local relationship model complemented by a global delivery network that helps clients digitally transform their organizations and accelerate results. CGI Fiscal 2024 reported revenue is CA$14\\.68 billion and CGI shares are listed on the TSX (GIB.A) and the NYSE (GIB). Learn more at cgi.com.
-   
-
-  
-
- Job Title: Java PRTM\\-Fullstack
-   
-
-  
-
- Position: Senior Software Engineer
-   
-
-  
-
- Experience: 7 to 10 Yrs
-   
-
-  
-
- Category: Software Development/ Engineering
-   
-
-  
-
- Shift: 9AM to 6 PM
-   
-
-  
-
- Main location: Any CGI
-   
-
-  
-
- Position ID: J0526\\-2205
-   
-
-  
-
- Employment Type: Full Time
-   
-
-  
-
- Education Qualification: Bachelor's degree in Computer Science or related field or Exposure to any ERP platforms experience. Experience in working with cross\\-functional teams.
-   
-
-  
-
- Responsibilities:
-   
-
-  
-
-* Degree in Computer Science and relevant work experience of 7 years or more.
-* Excellent analytical, problem\\-solving, and logical thinking skills.
-* Excellent English communication skills, both oral and written.
-* Proficient in Java programming (Java 8 and above), React and javaScript.
-* Familiarity with Java frameworks such as Spring boot, Spring Data JPA, Hibernate.
-* Experience with REST APIs and web services.
-* Experience in working with microservice architecture.
-* Experience in working with deployment servers preferably WAS Liberty or Apache Tomcat.
-* Knowledge of databases (preferably Oracle) and SQL.
-* Experience with Webpack, Redux and similar.
-* Experience in developing Junit and JEST test cases.
-* Proven experience in building client software (user interfaces) or single page applications (SPA) in REACT\\-JS framework.
-* Experience with working on design patterns is a plus.
-* Experience with working with AI coding platform /copilot /any other AI platform as a plus.
-* Experience in developing OSLC based applications and interfaces with IBM applications is a plus.
-* IBM ELM application knowledge (EWM, ETM, ERM, etc.) is a plus.
-
-
- CGI is an equal opportunity employer. In addition, CGI is committed to providing accommodation for people with disabilities in accordance with provincial legislation. Please let us know if you require reasonable accommodation due to a disability during any aspect of the recruitment process and we will work with you to address your needs.
-   
-
-  
-
- Life at CGI:
-   
-
-  
-
- It is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
-   
-
-  
-
- You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction
-   
-
-  
-
- Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise
-   
-
-  
-
- You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well\\-being and provide you with opportunities to deepen your skills and broaden your horizons
-   
-
-  
-
- Come join our team, one of the largest IT and business consulting services firms in the world
-   
-
-  
-
- Your future duties and responsibilities
-   
-
-  
-
-**Required Qualifications To Be Successful In This Role**
-**Together, as owners, let’s turn meaningful insights into action.**
- Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
-   
-
-  
-
- You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
-   
-
-  
-
- Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
-   
-
-  
-
- You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well\\-being and provide you with opportunities to deepen your skills and broaden your horizons.
-   
-
-  
-
- Come join our team—one of the largest IT and business consulting services firms in the world.","IT Services and IT Consulting","https://ca.linkedin.com/company/cgi","https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI","","","","","","","","","","",""
-"li-4421234132","linkedin","https://www.linkedin.com/jobs/view/4421234132","","Senior Software Engineer- Java & Linux Production Support Software Engineer","CGI","Hyderabad, Telangana, India","","fulltime","","","","","",False,"entry level","Information Technology","","","Position Description
-   
-
-  
-
- Company Profile:
-   
-
-  
-
- Founded in 1976, CGI is among the largest independent IT and business consulting services firms in the world. With 94,000 consultants and professionals across the globe, CGI delivers an end\\-to\\-end portfolio of capabilities, from strategic IT and business consulting to systems integration, managed IT and business process services and intellectual property solutions. CGI works with clients through a local relationship model complemented by a global delivery network that helps clients digitally transform their organizations and accelerate results. CGI Fiscal 2024 reported revenue is CA$14\\.68 billion and CGI shares are listed on the TSX (GIB.A) and the NYSE (GIB). Learn more at cgi.com.
-   
-
-  
-
- Position: Senior Software Engineer\\- Java \\& Linux Production Support Software Engineer
-   
-
-  
-
- Experience: 4\\-6 years
-   
-
-  
-
- Category: Production Support
-   
-
-  
-
- Shift: Flexible to support 24x7 shifts, weekends
-   
-
-  
-
- Location: Hyderabad
-   
-
-  
-
- Position ID: J0526\\-2362
-   
-
-  
-
- Employment Type: Full Time
-   
-
-  
-
- Education Qualification: Bachelor’s degree in computer science or related field or higher with minimum 4 years of relevant experience.
-   
-
-  
-
- Position Description: We are looking for a strong Java Production Support / Application Support Engineer with solid Core Java and Unix expertise, who can manage 24x7 offshore support, handle production issues, and work closely with onshore teams to ensure seamless service delivery for enterprise clients.
-   
-
-  
-
- Your future duties and responsibilities
-   
-
-  
-
-* Responsible for ensuring the successful delivery of offshore production support services for enterprise customers.
-* Provide L1/L2 production support for Java\\-based applications, including:
-* Application/system monitoring
-* Incident management and root cause analysis
-* Issue troubleshooting and resolution
-* Bug fixing and deployment support
-* Deliver 24x7 application support in a shift\\-based environment, including rotational shifts.
-* Perform enhancements, fixes, and customizations based on client requirements.
-* Support and manage microservices\\-based applications built using Spring Boot.
-* Handle migration, patching, and upgrade activities across:
-* Operating system servers
-* Application servers
-* Middleware components
-* Database servers
-* Provide support for workflow/process automation using Camunda.
-* Work with Kafka\\-based messaging systems for event\\-driven architectures.
-* Coordinate with onshore teams, vendors, and external agencies for daily operational activities.
-* Ensure timely incident resolution in compliance with SLAs and quality standards.
-* Maintain proper documentation, runbooks, and support knowledge base.
-* Flexible to support 24x7 shifts, weekends, and holidays as per project needs.
-
-
-**Required Qualifications To Be Successful In This Role**
- Must\\-Have Skills:
-   
-
-  
-
-* Strong hands\\-on experience in Core Java
-* Good experience with Spring Boot and Microservices architecture
-* Solid understanding of REST APIs and system integration
-* Experience with MongoDB and PostgreSQL databases
-* Working knowledge of Camunda (workflow/process automation)
-* Experience with Apache Kafka for messaging and event\\-driven systems
-* Strong experience with Linux/Unix systems
-* Proficiency in Linux/Unix commands and shell scripting
-* Medium\\-level exposure to SQL / relational databases (PostgreSQL / Oracle)
-* Proven ability to troubleshoot production issues in live environments
-* Willingness to work in flexible and rotational shifts (24x7 support)
-
-
- Good\\-to\\-Have Skills:
-   
-
-  
-
-* Experience with cloud platforms (AWS/Azure/GCP)
-* Exposure to containerization technologies such as Docker and Kubernetes
-* Knowledge of ANT scripting
-* Basic to intermediate knowledge of:
-* JavaScript
-* JSP \\& Servlets
-* HTML \\& CSS
-* Exposure to AI, automation tools, or scripting\\-based automation
-* Experience with application performance monitoring and alerting tools
-
-
-**Together, as owners, let’s turn meaningful insights into action.**
- Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
-   
-
-  
-
- You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
-   
-
-  
-
- Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
-   
-
-  
-
- You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well\\-being and provide you with opportunities to deepen your skills and broaden your horizons.
-   
-
-  
-
- Come join our team—one of the largest IT and business consulting services firms in the world.","IT Services and IT Consulting","https://ca.linkedin.com/company/cgi","https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI","","","","","","","","","","",""
-"li-4421217789","linkedin","https://www.linkedin.com/jobs/view/4421217789","","Lead Analyst- Java & Linux Production Support Software Engineer","CGI","Hyderabad, Telangana, India","","fulltime","","","","","",False,"entry level","Information Technology","","","Position Description
-   
-
-  
-
- Company Profile:
-   
-
-  
-
- Founded in 1976, CGI is among the largest independent IT and business consulting services firms in the world. With 94,000 consultants and professionals across the globe, CGI delivers an end\\-to\\-end portfolio of capabilities, from strategic IT and business consulting to systems integration, managed IT and business process services and intellectual property solutions. CGI works with clients through a local relationship model complemented by a global delivery network that helps clients digitally transform their organizations and accelerate results. CGI Fiscal 2024 reported revenue is CA$14\\.68 billion and CGI shares are listed on the TSX (GIB.A) and the NYSE (GIB). Learn more at cgi.com.
-   
-
-  
-
- Position: Lead Analyst\\- Java \\& Linux Production Support Software Engineer
-   
-
-  
-
- Experience: 6\\-8 years
-   
-
-  
-
- Category: Production Support
-   
-
-  
-
- Shift: Flexible to support 24x7 shifts, weekends
-   
-
-  
-
- Location: Hyderabad
-   
-
-  
-
- Position ID: J0526\\-2361
-   
-
-  
-
- Employment Type: Full Time
-   
-
-  
-
- Education Qualification: Bachelor’s degree in computer science or related field or higher with minimum 6 years of relevant experience.
-   
-
-  
-
- Position Description: We are looking for a strong Java Production Support / Application Support Engineer with solid Core Java and Unix expertise, who can manage 24x7 offshore support, handle production issues, and work closely with onshore teams to ensure seamless service delivery for enterprise clients.
-   
-
-  
-
- Your future duties and responsibilities
-   
-
-  
-
-* Responsible for ensuring the successful delivery of offshore production support services for enterprise customers.
-* Provide L1/L2 production support for Java\\-based applications, including:
-* Application/system monitoring
-* Incident management and root cause analysis
-* Issue troubleshooting and resolution
-* Bug fixing and deployment support
-* Deliver 24x7 application support in a shift\\-based environment, including rotational shifts.
-* Perform enhancements, fixes, and customizations based on client requirements.
-* Support and manage microservices\\-based applications built using Spring Boot.
-* Handle migration, patching, and upgrade activities across:
-* Operating system servers
-* Application servers
-* Middleware components
-* Database servers
-* Provide support for workflow/process automation using Camunda.
-* Work with Kafka\\-based messaging systems for event\\-driven architectures.
-* Coordinate with onshore teams, vendors, and external agencies for daily operational activities.
-* Ensure timely incident resolution in compliance with SLAs and quality standards.
-* Maintain proper documentation, runbooks, and support knowledge base.
-* Flexible to support 24x7 shifts, weekends, and holidays as per project needs.
-
-
-**Required Qualifications To Be Successful In This Role**
- Must\\-Have Skills:
-   
-
-  
-
-* Strong hands\\-on experience in Core Java
-* Good experience with Spring Boot and Microservices architecture
-* Solid understanding of REST APIs and system integration
-* Experience with MongoDB and PostgreSQL databases
-* Working knowledge of Camunda (workflow/process automation)
-* Experience with Apache Kafka for messaging and event\\-driven systems
-* Strong experience with Linux/Unix systems
-* Proficiency in Linux/Unix commands and shell scripting
-* Medium\\-level exposure to SQL / relational databases (PostgreSQL / Oracle)
-* Proven ability to troubleshoot production issues in live environments
-* Willingness to work in flexible and rotational shifts (24x7 support)
-
-
- Good\\-to\\-Have Skills:
-   
-
-  
-
-* Experience with cloud platforms (AWS/Azure/GCP)
-* Exposure to containerization technologies such as Docker and Kubernetes
-* Knowledge of ANT scripting
-* Basic to intermediate knowledge of:
-* JavaScript
-* JSP \\& Servlets
-* HTML \\& CSS
-* Exposure to AI, automation tools, or scripting\\-based automation
-* Experience with application performance monitoring and alerting tools
-
-
-**Together, as owners, let’s turn meaningful insights into action.**
- Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
-   
-
-  
-
- You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
-   
-
-  
-
- Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
-   
-
-  
-
- You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well\\-being and provide you with opportunities to deepen your skills and broaden your horizons.
-   
-
-  
-
- Come join our team—one of the largest IT and business consulting services firms in the world.","IT Services and IT Consulting","https://ca.linkedin.com/company/cgi","https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI","","","","","","","","","","",""
-"li-4421234130","linkedin","https://www.linkedin.com/jobs/view/4421234130","","Azure Data Engineer","CGI","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"entry level","Information Technology","","","Position Description
-   
-
-  
-
- At CGI, we’re a team of builders. We call our employees members because all who join CGI are building their own company \\- one that has grown to 72,000 professionals located in 40 countries. Founded in 1976, CGI is a leading IT and business process services firm committed to helping clients succeed. We have the global resources, expertise, stability and dedicated professionals needed to achieve. At CGI, we’re a team of builders. We call our employees members because all who join CGI are building their own company \\- one that has grown to 72,000 professionals located in 40 countries. Founded in 1976, CGI is a leading IT and business process services firm committed to helping clients succeed. We have the global resources, expertise, stability and dedicated professionals needed to achieve results for our clients \\- and for our members. Come grow with us. Learn more at www.cgi.com.
-   
-
-  
-
- This is a great opportunity to join a winning team. CGI offers a competitive compensation package with opportunities for growth and professional development. Benefits for full\\-time, permanent members start on the first day of employment and include a paid time\\-off program and profit participation and stock purchase plans. We wish to thank all applicants for their interest and effort in applying for this position, however, only candidates selected for interviews will be contacted. No unsolicited agency referrals please.
-   
-
-  
-
- Job Title: Senior Azure Data Engineer
-   
-
-  
-
- Position: Senior software engineer/ developer
-   
-
-  
-
- Experience: 5\\-8 years
-   
-
-  
-
- Category: Software Development/ Engineering
-   
-
-  
-
- Shift: Second Shift (Timing:1PM to 10PM)
-   
-
-  
-
- Work Mode: 5 days’ Work from Office (ODC – Banking Client)
-   
-
-  
-
- Main location: Bangalore \\& Chennai
-   
-
-  
-
- Employment Type: Full Time
-   
-
-  
-
- Education Qualification: Any graduation or related field or higher with minimum 3 years of relevant experience.
-   
-
-  
-
- Position Description:
-   
-
-  
-
- We are seeking a highly skilled Senior Azure Data Engineer to join our growing data team. The role involves designing, developing, and operationalizing large\\-scale data processing systems on the Azure cloud platform. The ideal candidate will have strong expertise in Azure Databricks, Azure Data Lake, PySpark, and Python, with a proven ability to build efficient, scalable, and reliable data pipelines.
-   
-
-  
-
- Your future duties and responsibilities
-   
-
-  
-
-* Design and maintain scalable data pipelines for ingesting, processing, and transforming structured and unstructured data.
-* Develop and optimize Spark jobs using PySpark and Spark SQL within Azure Databricks.
-* Implement Azure Data Lake Storage (Gen2\\) solutions following medallion architecture (Bronze, Silver, Gold layers).
-* Collaborate with stakeholders (data architects, analysts, business teams) to translate requirements into technical solutions.
-* Ensure data security and compliance with access controls, encryption, and masking.
-* Perform data modeling for batch and real\\-time analytics (star schema, snowflake, data vault).
-* Monitor and troubleshoot pipelines for performance and cost optimization.
-* Automate deployments using CI/CD pipelines (Azure DevOps/GitHub Actions) and IaC tools (Terraform/Bicep).
-* Establish data quality checks and governance standards.
-* Mentor junior engineers and promote best practices in data engineering
-
-
-**Required Qualifications To Be Successful In This Role**
-* 5\\+ years of professional experience in data engineering with enterprise\\-grade solutions.
-* 3\\+ years of hands\\-on expertise in Microsoft Azure data services, including:
-* Azure Databricks: Spark clusters, notebooks, tuning, debugging.
-* Medallion Architecture (Bronze, Silver, Gold).
-* Experience with Azure Data Factory or Apache Airflow for orchestration.
-* Azure Data Lake Storage (Gen2\\): Directory structure, RBAC/ACLs, performance optimization.
-* Strong programming skills in Python (Pandas, APIs, unit testing).
-* Expert\\-level proficiency in PySpark (DataFrame API, Spark SQL, Catalyst Optimizer).
-* Advanced SQL development and optimization.
-* Solid understanding of data modeling concepts.
-* Familiarity with Git and collaborative development practices.
-
-
- Technical Skills
-   
-
-  
-
-* Microsoft Azure Data Engineer Associate (DP\\-203\\) certification.
-* Experience with Delta Lake (ACID transactions, schema enforcement, time travel).
-* Real\\-time data processing with Azure Stream Analytics or Spark Streaming.
-* Knowledge of Synapse Analytics, Event Hubs, Azure SQL DB, Cosmos DB, Purview.
-* Exposure to DevOps/DataOps principles and tools (CI/CD, Terraform, Azure DevOps).
-* Familiarity with Power BI or other visualization tools.
-
-
-**Together, as owners, let’s turn meaningful insights into action.**
- Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
-   
-
-  
-
- You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
-   
-
-  
-
- Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
-   
-
-  
-
- You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well\\-being and provide you with opportunities to deepen your skills and broaden your horizons.
-   
-
-  
-
- Come join our team—one of the largest IT and business consulting services firms in the world.","IT Services and IT Consulting","https://ca.linkedin.com/company/cgi","https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI","","","","","","","","","","",""
-"li-4422048453","linkedin","https://www.linkedin.com/jobs/view/4422048453","","Developer - Shotscope™ (.NET Full Stack) - Husky(Guindy, Chennai)","Husky Technologies","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
-**Title:** 
- Developer \\- Shotscope™ (.NET Full Stack) \\- Husky(Guindy, Chennai)
-   
-
-  
-
-**Id:** 
- 20959
-   
-
-  
-
-**Type:** 
- FullTime
-   
-
-  
-
-**Location:** 
- Chennai, India
-   
-
-  
-
- At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
-   
-
-  
-
- Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state\\-of\\-the\\-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
-   
-
-  
-
- Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
-   
-
-  
-
- Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
-   
-
-  
-
-****Job Description****
- Do you want to work an industrial grade software solution powering real time manufacturing intelligence on factory floors worldwide?
-   
-
-  
-
- As a Developer on our Shotscope™ team, you will help build and maintain industrial\\-grade manufacturing intelligence software used by customers worldwide. You will implement features and components on a .NET and Azure\\-based full stack, contribute clean and reliable code, and support the continuous evolution of a mission\\-critical product that connects machines, processes, and data.
-   
-
-  
-
- This role is ideal for a motivated engineer who enjoys hands\\-on development, learning from experienced teammates, and seeing their work deployed in real production environments—with clear opportunities to grow toward senior and lead roles.
-   
-
-  
-
- If you want your code to have visible impact on how factories operate, Shotscope™ is where software meets the real world.
-   
-
-  
-
-****Responsibilities****
-**Technical Implementation**
-* Implement software components and features based on provided designs, specifications, and guidance.
-* Contribute to the development of reliable, maintainable, and secure code within the assigned scope.
-* Apply agreed coding standards, patterns, and best practices in daily development work.
-* Make basic technical decisions within assigned tasks, escalating questions or uncertainties when needed.
-
-
-**Delivery \\& Execution Excellence**
-* Translate assigned requirements and tasks into working software.
-* Complete development work in alignment with sprint goals and delivery commitments.
-* Contribute to task breakdowns and effort estimates for assigned work.
-* Proactively raise risks, blockers, or implementation issues to the team.
-
-
-**Quality, Standards \\& Engineering Practices**
-* Write clean, testable code and contribute to unit and integration tests.
-* Participate in code reviews, incorporating feedback and learning from peers.
-* Ensure individual contributions meet Definition of Ready (DoR) and Definition of Done (DoD) criteria.
-* Follow established DevOps, security, and quality practices.
-
-
-**Incident \\& Operational Support**
-* Assist in troubleshooting defects and issues in development and production environments.
-* Support corrective (bug fixes) and evolutive (enhancements) maintenance of existing solutions.
-
-
-**Collaboration \\& Growth**
-* Collaborate effectively with other developers, QA, Product Owners, and Tech Leads.
-* Seeking feedback and guidance to continuously improve technical skills.
-* Actively learn the systems, tools, and technologies used by the team.
-* Contribute positively to team culture and shared ownership of outcomes.
-
-
-****Qualifications****
-* Bachelor’s degree in computer science, IT, or related field.
-* 4\\+ years’ professional experience in software development.
-* Proficiency in .NET technologies (C\\#, ASP.NET Core, SQL, .NET Framework, Entity Framework).
-* Strong grasp of Agile methodologies, DevOps principles, application security and version control systems (e.g., Azure DevOps).
-* Proficiency in modern front\\-end frameworks (e.g., preference: React; Angular).
-* Clean Code Development and working experience with Unit Testing, and Test\\-driven Development.
-* Familiarity with source code version control, branching strategies, CI/CD pipelines and other DevOps practices.
-* Working knowledge of Agile development practices.
-* Excellent communication skills and ability to work in a team.
-* Fluency in English (spoken and written).
-* Strong problem\\-solving skills and attention to detail.
-* Ability to adjust quickly to changing assignments, and priorities.
-
-
-**Assets**
-* Familiarity with CI/CD and pipelines.
-* Experience using AI‑assisted coding tools (e.g. GitHub Copilot) responsibly, with full accountability for code quality, security, and compliance.
-* Familiarity with Microsoft Azure, with experience in leveraging key services (e.g., Azure App Services, Azure Functions).
-* Exposure to Microsoft SQL Server BI stack, including SSAS (OLAP cube design), SSRS (report development), and SSIS (ETL processes and data integration).
-
-
-**Why Husky?**
-* Regulated Working Hours: Enjoy a structured work schedule that promotes a healthy work\\-life balance, allowing you to excel professionally while maintaining personal well\\-being.
-* Visible Impact: Experience the satisfaction of seeing the direct outcomes of your work, as you contribute to projects that visibly enhance our company's technological capabilities and efficiency.
-* Strategic Influence: Participate in architectural and technical reviews, contributing to the strategic direction of our cloud initiatives and making a tangible impact on our company's technological landscape.
-* Empowered Involvement: Take an active role in decision\\-making processes and architectural reviews, where your expertise helps shape the future of our cloud solutions and overall business strategy.
-* Valued Contributions: Be more than just a number in a large organization; at our company, every individual's input is valued and can lead to significant, tangible improvements in our operations and services.
-* Impactful Role: Play a crucial part in both developing new applications and maintaining existing systems, ensuring their optimal performance and reliability.
-* Cutting\\-Edge Projects: Work on innovative cloud solutions that are transforming our and our customer’s business, giving you the opportunity to be at the forefront of technological advancements.
-* Supportive Community: Work in an environment that recognizes and celebrates individual achievements, fostering a sense of community and mutual respect among team members.
-* Collaborative Environment: Join a global team of skilled professionals around the globe where your ideas are valued, and collaboration is encouraged to solve complex challenges and drive success.
-
-
- Husky TechnologiesTM offers a competitive compensation and benefits package and excellent opportunities for growth and advancement. We are committed to equal employment opportunity and respect, value and welcome diversity in our workplace. Husky TechnologiesTM also values being a great place to work and strives to maintain a safe workplace. Accordingly, Husky TechnologiesTM conditions all offers of employment on satisfactory completion of background checks. No agency or telephone inquiries please.","Machinery Manufacturing","https://ca.linkedin.com/company/husky-technologies","https://media.licdn.com/dms/image/v2/C4D0BAQHsvZ0ebIsc4w/company-logo_100_100/company-logo_100_100/0/1636124255401/husky_injection_molding_systems_logo?e=2147483647&v=beta&t=DOW-hRVyemixk1uzPur_5PLKICQw58KUNmIrpYtA4rk","","","","","","","","","","",""
-"li-4420940011","linkedin","https://www.linkedin.com/jobs/view/4420940011","","Linux System Programming Performance","TekWissen India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Overview**
- TekWissen Group is a workforce management provider throughout India and many other countries in the world, the Client has proven expertise in ASIC design from Spec to Silicon and software development end to end.
-   
-
-  
-
-**Job Title: Linux System Programming Performance**
-**Location: Bangalore**
-**Job Type: Full Time**
-**Work Type: Onsite**
-**Job Description**
-* Linux System Software Performance Engineer responsible for performance measurement, trace collection, and triage across bare‑metal and virtualized platforms, with focus on hard real‑time behavior and system‑level performance derates.
-
-
-**Core Responsibilities – PAVS KPIs \\& Deliverables**
-* Own end‑to‑end performance measurements across Linux system software stacks
-* Collect traces, triage issues, and perform root‑cause analysis for performance deviations
-* Identify, quantify, and report system bottlenecks impacting PAVS KPIs
-* Generate trace‑backed evidence for performance sign‑off and regressions
-* Collect and analyze traces for: hard real‑time latency, Interrupt latency, scheduler latency, wake‑up latency
-* Jitter and determinism characterization using kernel traces
-* Triage real‑time violations and correlate with kernel / driver paths
-* Hypervisor vs Bare‑Metal Performance Derates
-* Measure and quantify performance derates in virtualized vs bare‑metal environments
-
-
-**Perform Subsystem‑level Triage And Trace Analysis For**
-* CPU (scheduling, vCPU overhead)
-* GPU (submission latency, virtualization overhead)
-* NPU (compute and scheduling impacts, if applicable)
-* Memory (bandwidth, latency, contention)
-* Disk / Storage (I/O latency, throughput)
-* Network (latency, throughput, virtualization overhead)
-* Identify virtualization overheads and provide optimization insights
-
-
-**Performance Tooling \\& Trace Collection**
-* Kernel and user‑space profiling tools: perf, ftrace, trace‑cmd
-* Scheduler, IRQ, I/O trace collection
-* Performance baselining and regression tracking
-
-
-**Required Skills**
-* Strong Linux system programming experience
-* Must have strong hands on programming in C, C\\+\\+, or Python (any one)
-* Linux device driver development experience
-
-
-**Good to Have**
-* Kernel, driver, or middleware performance exposure
-* Experience with real‑time Linux or hypervisors
-* PnP (Power and Performance) experience
-
 
-**TekWissen® Group is an equal opportunity employer supporting workforce diversity.**","IT Services and IT Consulting","https://in.linkedin.com/company/tekwissenindia","https://media.licdn.com/dms/image/v2/D560BAQHo1e1dk_56Pg/company-logo_100_100/company-logo_100_100/0/1699651809502?e=2147483647&v=beta&t=_aOpmYEhtoGohPFwFpHUIpAIdD7c8z19Anx4jWK5YEs","","","","","","","","","","",""
+* A skilled professional responsible for developing and customizing Power Apps solutions aligned with business needs.
+* Experienced in designing and managing SharePoint sites, including lists, libraries, and automated workflows.
+* Adept at integrating Power Apps with SharePoint, Power Automate, and other Microsoft 365 tools to streamline operations.
+* Collaborates closely with stakeholders to gather requirements and enhance user experience.
+* Ensures smooth functioning by maintaining, troubleshooting, and optimizing applications and SharePoint environments.
+* Focused on delivering secure, high\\-performing solutions that drive productivity and efficiency.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
