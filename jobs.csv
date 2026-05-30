@@ -1,1209 +1,2166 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4421243627","linkedin","https://www.linkedin.com/jobs/view/4421243627","","Software Development Engineer 2","WEX","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Software Development Engineers \\[Integrated Engineers] are responsible for development of computer programming systems and applications including the design, coding, testing and deployment of products and solutions to meet firm obligations. The Software Development Engineering focus specializes in the design, development and testing of software systems for software enhancements and new products including cloud\\-based or internet\\-related tools. conducts, and evaluates application audits and testing processes and ensures the applications or products meet those defined quality standards. May also create documentation so that future managers and engineers know how to solve potential issues. In addition to software design and development skill sets, employees in these roles should have in\\-depth knowledge of automated testing tools and traditional quality assurance approaches.
+"li-4410138798","linkedin","https://www.linkedin.com/jobs/view/4410138798","","Software Engineer","Zema Global Data Corporation","Navi Mumbai, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering","","","Role: Software Engineer
    
 
   
 
- Cloud Development: Focus specializes in the development, deployment and maintenance of applications and computing solutions that can be hosted and operated entirely on web based platforms. Plans, designs, develops, tests and troubleshoots cloud based application, works across the complete cloud stack i.e. Software as a Service (SaaS), and/or Platform as a Service (PaaS) and/or Infrastructure as a Service (IaaS) leveraging suites like Salesforce.com, cloud platform, Microsoft Office 365, Windows Azure, Google App Engine and Amazon Web Services/EC2\\. Interacts with project managers to drive an optimized solution within known constraints. The job also requires in\\-depth understanding of cloud storage services such as EBS, Amazon S3, EFS etc. Involves integration of cloud applications and require knowledge of APIs, pre\\-scripting, post\\-scripting and integration testing.
+ Location: Navi Mumbai
    
 
   
 
- Mobile Development: Focus specializes in the development of software applications for proprietary/ licensable mobile devices and mobile platforms. Plans, designs, develops and tests applications for Android, iOS and other mobile platforms. Collaborates with analysts, other developers and project managers to determine the requirements for custom mobile applications, the mobile program's appearance, the functions that the application must perform and the integration requirements. Designs and codes the application using knowledge of the mobile platform, cross\\-platform development tools and relevant software languages. May also work on mobile security areas such as mobile data management required for the application. During these processes, modifications may be made until the application functions as planned. Provides support for released applications by fixing bugs and uploading upgraded versions. Requires expert knowledge of integrated development platforms such as Xamarin, Kony, Appcelerator, EMM/MDM, iOS SDK, Android SDK etc.
+ Position Type: Full\\-time, Permanent
    
 
   
 
- Intermediate Professionals typically have a minimum of 3 \\- 5 years of related experience""","Software Development","https://www.linkedin.com/company/wexinc","https://media.licdn.com/dms/image/v2/D560BAQEqDSQp6mtoSw/company-logo_100_100/B56Zx8YMCPJUAU-/0/1771613242228/wexinc_logo?e=2147483647&v=beta&t=HD3q48Iqn9MJQl0QhO15ssrmACKKsAMvG481SGeVebg","","","","","","","","","","",""
-"li-4417978908","linkedin","https://www.linkedin.com/jobs/view/4417978908","","Senior Software Engineer - Agentic Systems","Mastercard","","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Our Purpose**
-*Mastercard powers economies and empowers people in 200\\+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.*
-**Title And Summary**
- Senior Software Engineer \\- Agentic Systems
+ Work model: Hybrid
    
 
   
 
- Who is Mastercard?
+ Industry: Commodities \\& Energy
    
 
   
 
- Mastercard is a global technology company in the payments industry, building digital platforms that securely power commerce at global scale. Our technology enables innovation across financial services, data, AI, and digital experiences, while maintaining the highest standards of reliability, security, and trust.
-   
-
-  
-
- Business \\& Market Insights (B\\&MI) is Mastercard’s data, analytics, and intelligence organization, responsible for transforming vast, global data assets into actionable insights and decision support products for customers across industries. B\\&MI builds platforms and products that move beyond static analytics, embedding AI, advanced modeling, and increasingly agentic systems directly into customer workflows to help clients understand what is happening, what will happen next, and what actions to take. The team operates at global scale, partnering closely with product, engineering, and data teams to deliver secure, governed, and production ready intelligence solutions that drive measurable business outcomes.
-   
-
-  
-
- \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-   
-
-  
-
-**Overview**
- Mastercard is seeking a Senior Software Engineer (Level 7\\) with experience designing and building agentic systems, treating AI agents as production software components rather than experimental artifacts.
-   
-
-  
-
- In this role, you will focus on building the platform, orchestration, and runtime capabilities that allow AI agents and tools to execute safely and observably inside market\\-facing products. You will partner closely with AI Engineers but retain ownership of system level concerns such as identity, authorization, attribution, reliability, and operational controls.
-   
-
-  
-
- This role is ideal for engineers who excel in building distributed systems and are motivated by applying those fundamentals to modern AI driven architectures.
-   
-
-  
-
- \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-   
-
-  
-
- Role \\& Responsibilities
-   
-
-  
-
-**As a Senior Software Engineer – Agentic Systems, You Will**
-* Design and build scalable, resilient software systems that orchestrate AI agents, tools, and services within enterprise environments.
-* Treat agents as execution primitives, ensuring each action is explicitly attributable, authorized, auditable, and observable.
-* Implement orchestration patterns such as supervisors, routers, planners, and stateful workflows for multi step agent execution.
-* Build frameworks for tool invocation, error handling, retries, and compensating actions in agent driven workflows.
-* Integrate identity, permissions, and policy enforcement directly into agent execution paths.
-* Ensure systems meet Mastercard standards for reliability, security, compliance, and performance.
-* Collaborate with AI Engineers to integrate models and prompts as components within larger systems.
-* Own operational aspects of agentic platforms, including logging, monitoring, tracing, and incident response.
-* Review code, mentor peers, and contribute to shared engineering standards and architectural decisions.
-
-
- \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-   
-
-  
-
-**Required Experience \\& Skills**
-* Bachelor’s degree in Computer Science, Engineering, or equivalent practical experience.
-* Significant professional experience building distributed, production grade software systems.
-* Strong proficiency in backend software development (e.g., Java, Kotlin, Python, or similar).
-* Experience designing APIs, services, and asynchronous workflows.
-* Deep understanding of authentication, authorization, and secure service to service communication.
-* Experience operating systems with high reliability, availability, and regulatory requirements.
-* Ability to work effectively in ambiguous problem spaces and evolve systems iteratively.
-
-
- \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-   
-
-  
-
- Nice to Have
-   
-
-  
-
-* Experience building systems that integrate LLMs or AI services.
-* Familiarity with agent frameworks, workflow engines, or orchestration platforms.
-* Experience designing audit friendly, policy driven platforms.
-
-
- \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-   
-
-  
-
- Leveling \\& Scope
-   
-
-  
-
- This role aligns to Senior Software Engineer (Level 7\\) within Mastercard’s Software Engineering job family, emphasizing technical leadership, architectural contribution, and ownership of complex systems without people management responsibilities.
-   
-
-  
-
-**Corporate Security Responsibility**
- All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:
-   
-
-  
-
-* Abide by Mastercard’s security policies and practices;
-* Ensure the confidentiality and integrity of the information being accessed;
-* Report any suspected information security violation or breach, and
-* Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.","Financial Services, IT Services and IT Consulting, and Technology, Information and Internet","https://www.linkedin.com/company/mastercard","https://media.licdn.com/dms/image/v2/C560BAQGOW4NIyYRRqQ/company-logo_100_100/company-logo_100_100/0/1631340300330?e=2147483647&v=beta&t=xq1ySX9pM18Xr0xQJaRgCbH1ap_xO8Yn0h21FM105Ls","","","","","","","","","","",""
-"li-4414581564","linkedin","https://www.linkedin.com/jobs/view/4414581564","","Tool Support","Capgemini","Bengaluru, Karnataka, India","","fulltime","","","","","",True,"mid-senior level","Other","","","At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life\\-saving robots, our digital and software technology experts think outside the box as they provide unique R\\&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.
-   
-
-  
-
-**Job Description**
-**Software Engineer – Python \\& C\\+\\+**
-**Location :\\-** 
- Bangalore
-   
-
-  
-
-**Experience :\\-** 
- 4–8 years
-   
-
-  
-
-*Choosing Capgemini means choosing a place where you’ll be empowered to shape your career, supported by a collaborative global community, and inspired to reimagine what’s possible. Join us to help organizations build scalable, high\\-performance software systems and unlock innovation through engineering excellence.*
-**Your Role**
- As a Software Engineer specializing in Python and C\\+\\+, you will be responsible for developing high\\-quality applications, building reliable systems, and ensuring robust testing practices. You will collaborate closely with cross\\-functional teams to design, develop, and deliver scalable solutions.
-   
-
-  
-
-**In this role, you will:**
-* Design and develop scalable applications using Python and C\\+\\+
-* Build and manage project configurations using CMake
-* Develop and execute unit tests using Google Test (GTest)
-* Implement and maintain GitHub workflows, including CI processes
-* Collaborate with cross\\-functional teams to deliver high\\-quality solutions
-* Perform code reviews, debugging, and performance optimization
-* Ensure adherence to best practices in software development and testing
-* Contribute to continuous improvement initiatives and engineering standards
-
-
-**Your Profile**
-* 4–8 years of hands\\-on experience in software development
-* Strong expertise in Python and C\\+\\+ programming
-* Experience with CMake build systems
-* Solid understanding of unit testing frameworks, especially Google Test
-* Experience with GitHub workflows / GitHub Actions
-* Strong problem\\-solving and analytical skills
-* Excellent communication and stakeholder collaboration abilities
-* Bachelor’s degree in Computer Science, Engineering, or related field
-
-
-**Good To Have Skills**
-* Experience with Jenkins
-* Knowledge of CI/CD pipelines
-* Familiarity with Jira / Scrum (Agile methodologies)
-* Experience in stakeholder alignment and communication
-* Exposure to Bazel build system
-
-
-**What You’ll Love About Working Here**
- We value flexibility and support our employees with remote work options and adaptable schedules to maintain a healthy work\\-life balance.
-   
-
-  
-
- Our inclusive culture brings together diverse professionals committed to growth, innovation, and excellence.
-   
-
-  
-
- You’ll have access to continuous learning opportunities and cutting\\-edge technologies.
+**Reports To:** 
+ Manager
    
 
   
 
 **About Us**
- At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From next\\-gen applications to high\\-performance systems, our experts provide cutting\\-edge engineering solutions across industries. Join us for a career full of opportunities—where you can make a difference every day.
+ Founded in 1995, Zema Global Data Corporation empowers organizations to simplify complexity, reduce risk, and make faster, more confident decisions that drive measurable results. Over the past two years, Zema Global has accelerated its growth through strategic investment and acquisition to strengthen our global leadership. Together we’re helping our customers gain a Decisioning Advantage – one bold idea at a time. With a presence across global energy, commodity, and financial markets, Zema Global empowers customers to simplify complexity, reduce risk, and make faster, more confident decisions that drive measurable results.
    
 
   
 
-**Job Description \\- Grade Specific**
- Focus on Digital Continuity and Manufacturing. Develops competency in own area of expertise. Shares expertise and provides guidance and support to others. Interprets clients needs. Completes own role independently or with minimum supervision. Identifies problems and relevant issues in straight forward situations and generates solutions. Contributes in teamwork and interacts with customers.
+ At Zema Global, we Think Big, Make It Happen, and Win as One. We thrive on collaboration, creativity, and respect, united by a shared drive to innovate and deliver meaningful impact for our customers and communities. If you’re inspired by solving complex challenges and contributing to a culture that values purpose and performance, we invite you to join us.
    
 
   
 
- At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life\\-saving robots, our digital and software technology experts think outside the box as they provide unique R\\&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
-"li-4417994160","linkedin","https://www.linkedin.com/jobs/view/4417994160","","Custom Software Engineer","Accenture in India","Pune City, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
- Custom Software Engineer
+**Role Purpose**
+ The Data Engineer plays a crucial role in developing and maintaining scalable data pipelines. This position involves close collaboration with data analysts, and other IT team members to ensure data is captured with the highest reliability and quality. You will be part of a global team of Data Engineers providing 24/7 development and support.
    
 
   
 
-**Project Role Description :** 
- Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high\\-performing solutions tailored to specific business needs.
+**Responsibilities**
+* Develop and manage data feeds by sourcing data from multiple vendors and performing necessary transformations. Hands\\-on development will be a key aspect of this role.
+* Implement and advocate for best development practices, innovative frameworks, and technology solutions to accelerate business processes.
+* Develop, maintain, and support web applications and APIs, ensuring their smooth operation and providing technical assistance to users.
+* Adhere to best practices in estimation, planning, reporting, and process improvement in daily tasks.
+* Automate processes wherever applicable to enhance efficiency.
+* Create and maintain internal documentation for collection processes and frameworks.
+
+
+**Educational Background**
+ Bachelor’s or Master’s degree in Computer Science, Data Science, Engineering, or a related field.
+   
+
+  
+
+**Professional Experience**
+* 2\\-5 years of proven work experience as a Data Engineer, Software Developer, or similar role.
+* Knowledge of ETL (Extract, Transform, Load) processes and data warehousing concepts.
+* Strong proficiency in core Java, Spring.
+* Experience working with Oracle databases and SQL.
+* Ability to work with complex data models.
+* Familiarity with automation and process improvement tools to increase efficiency and scalability in software development.
+* Experience with cloud platforms such as AWS, Azure, or Google Cloud Platform, particularly in deploying and managing data solutions.
+* Experience with Jira, Confluence, Bitbucket.
+* Familiarity with build and deploy pipelines like Jenkins.
+
+
+**Competencies \\& Skills Set**
+* Strong initiative and ability to work with minimal supervision.
+* Excellent interpersonal, collaboration, and facilitation skills.
+* Ability to work effectively in a team environment.
+* Self\\-awareness, confidence, and capacity for empathy.
+* Clear and competent communication skills, both written and verbal.
+
+
+ Why Zema Global?
+   
+
+  
+
+* Be part of a rapidly growing company shaping how data drives decisions in energy and commodities.
+* Work with cutting\\-edge technology alongside industry experts.
+* Significant opportunity to impact strategy, revenue growth, and decision\\-making.
+* Join a culture that values innovation, collaboration, and autonomy to drive meaningful change.
+
+
+ \\*\\*\\* No visa sponsorship is available for this position \\*\\*\\*
+   
+
+  
+
+ Equality and Diversity: Zema Global is committed to diversity and inclusion. We encourage applications from all qualified individuals and do not discriminate based on race, gender, sexual orientation, disability, or any other protected status.","Data Infrastructure and Analytics","https://www.linkedin.com/company/zemaglobal","https://media.licdn.com/dms/image/v2/D560BAQHLvS2Xgrfp9g/company-logo_100_100/company-logo_100_100/0/1727706756508/zemaglobal_logo?e=2147483647&v=beta&t=j402QOX5vKmJ3y602PAm7j126oEa6K1Ha3Qx9wu5bxo","","","","","","","","","","",""
+"li-4421293304","linkedin","https://www.linkedin.com/jobs/view/4421293304","","Software Engineer","Labcorp","Bengaluru, Karnataka, India","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","Labcorp is a global leader in diagnostic testing and drug development solutions, helping healthcare providers, researchers, and patients make informed decisions that advance care. Join us in our mission to improve health and improve lives.
+   
+
+  
+
+ Labcorp is seeking a remote
+ **Full Stack Software Engineer** 
+ to join our team!
+   
+
+  
+
+**Work Schedule** 
+ : This is a full‑time, exempt (salaried) position assigned to a First Shift schedule, with standard business hours of Monday through Friday, 2\\.00 pm to 11\\.00 p.m. in your local time zone. Business needs may occasionally require flexibility in work hours, including earlier, later, or additional hours, with reasonable notice provided when possible.
+   
+
+  
+
+**Job Responsibilities**
+**Team Development and Mentorship**
+* Assists the UX/UI designer team with brainstorming, research, and translating wireframes into reusable components.
+* Take ownership of assigned application development tasks.
+
+
+**Technical Oversight**
+* Develop through modern Agile development methodologies intuitive, easy\\-to\\-use software in collaboration with the development team, project managers, business analysts, UX designers, quality assurance and users across the organization.
+* Leverage AI‑assisted development tools (e.g., code generation, refactoring, test generation, documentation support) responsibly to accelerate development while maintaining security, quality, and compliance standards.
+
+
+**Delivery and Operations**
+* Design and code complex RESTful micro services for new applications and enhancing existing applications.
+* Follow best practices for test\\-driven development and QA automation integration.
+* Create end to end automation \\& leverage frameworks to enact IAAS as part of highly maintainable ecosystem
+* Provide modern and performant solutions for large\\-scale applications.
+* Perform full\\-stack application development using advanced expertise in OO programming \\& design patterns
+* Deliver prototypes, reusable and shared UI components, advanced scripting solutions, and implementations of complex single page applications.
+
+
+**Innovation and Emerging Technologies**
+* Stay current with emerging technologies and industry trends to inform innovation and continuous improvement efforts within the engineering organization.
+
+
+**Minimum Qualifications**
+* Bachelor’s degree in computer science, Engineering, or related field.
+* 5 or more years of JAVA or any OOP language development experience.
+* 3 or more years of experience developing single page application with Angular or React.
+* 2 or more years of experience developing applications using AWS (Lambda, ECS, IAM, VPC, EC2, ELB, RDS, Route53, S3, API gateway, SQS, DynamoDB).
+* 2 or more years of experience working on SPRING frameworks developing RESTful web services.
+* Demonstrate the ability to learn new technologies, research new areas within computer science, and apply this research to ongoing initiatives.
+* Have excellent troubleshooting, follow\\-through, and problem\\-solving skills.
+* Show strong analytical, communication and team collaboration skills to actively participate in our Agile teams.
+
+
+**Preferred Qualifications**
+* 2 or more years of experience with the latest Angular frameworks, Typescript, HTML5 and CSS3
+* 2 or more years of experience developing container based and serverless applications.
+* 2 or more years of experience with messaging services like SQS, Kafka, IBM MQ, or ActiveMQ.
+
+
+**Additional Job Standards**
+* Demonstrate the ability to learn new technologies, research new areas within computer science, and apply this research to ongoing initiatives.
+* Have excellent troubleshooting, follow\\-through, and problem\\-solving skills.
+* Show strong analytical, communication and team collaboration skills to actively participate in our Agile teams.
+
+
+**About The Role**
+* Full Stack Software Engineer will leverage their technology skills to develop business solutions within the healthcare industry. You will be challenged with cutting\\-edge technologies to provide a modern framework for container, cloud, and serverless Java/Linux\\-based solutions and Angular\\-based single page applications. You will be engaged in a wide variety of work, including but not limited to web applications and web service development, platform development, automation, and coaching/mentoring of teams adopting the platforms. You will contribute technical thought leadership in our agile development teams and deal with complex business integrations, eliciting requirements, and implementing secure and high\\-performance services consumed by various devices and applications across the organization. You will drive our software evolution and innovations ensuring that we meet our internal and external clients' software needs today and tomorrow.
+* Most importantly, you'll be engaged in meaningful work for an organization that is committed to ""improving health, improving lives, and pursuit of answers"" every day.
+
+
+**Labcorp Is Proud To Be An Equal Opportunity Employer**
+ Labcorp strives for inclusion and belonging in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications and merit of the individual. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. Additionally, all qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable law.
+   
+
+  
+
+**We encourage all to apply**
+ If you are an individual with a disability who needs assistance using our online tools to search and apply for jobs, or needs an accommodation, please visit our accessibility site or contact us at Labcorp Accessibility. For more information about how we collect and store your personal data, please see our Privacy Statement.","Hospitals and Health Care","https://www.linkedin.com/company/labcorp","https://media.licdn.com/dms/image/v2/D4E0BAQGolZAtx6vrGQ/company-logo_100_100/company-logo_100_100/0/1685740832018/labcorp_logo?e=2147483647&v=beta&t=Js_uOv4622ltY0bHsmXaOemU6v4MIfJmBaqJYgUrICE","","","","","","","","","","",""
+"li-4422077879","linkedin","https://www.linkedin.com/jobs/view/4422077879","","Java Developer Intern | Remote | Entry-Level | Core Java / Application Engineering / Software Systems","Inficore Soft","","","fulltime","","","","","",True,"internship","Information Technology","","","Role: Java Developer Intern \\| Remote \\| Entry\\-Level \\| Core Java / Application Engineering / Software Systems
+ 
+
+
+
+  
+
+
+
+
+
+ Inficore Soft is actively recruiting Java Developer Interns for candidates who are serious about building practical careers in software engineering, enterprise application systems, backend development, and structured programming ecosystems. This internship is specifically designed for freshers and early\\-career technical candidates seeking implementation\\-led remote exposure to Java development environments, object\\-oriented systems, software architecture fundamentals, and real\\-world technical execution.
+ 
+
+
+
+  
+
+
+
+
+
+ Java remains one of the most reliable and industry\\-relevant programming languages across enterprise systems, backend infrastructures, software products, and scalable digital applications. Through this internship, Inficore Soft provides candidates with structured practical opportunities to strengthen software capability through hands\\-on coding assignments, application logic systems, debugging workflows, and implementation\\-focused technical projects.
+ 
+
+
+
+  
+
+
+
+
+
+ As a Java Developer Intern, you will work on development systems that strengthen your ability to move from theoretical programming into practical software execution. This internship is ideal for candidates who want to establish strong professional foundations for careers in software development, backend systems, enterprise technologies, or technical engineering.
+ 
+
+
+
+  
+
+
+
+
+
+ Key Responsibilities:
+ 
+
+
+
+  
+
+
+
+
+
+ \\* Develop Java\\-based application modules, utilities, or technical components for assigned projects
+ 
+
+
+
+ \\* Write structured, maintainable, and scalable code using Java programming principles
+ 
+
+
+
+ \\* Support backend development tasks, application workflows, or technical execution systems
+ 
+
+
+
+ \\* Assist in debugging software issues, troubleshooting code problems, and refining technical performance
+ 
+
+
+
+ \\* Participate in object\\-oriented development tasks and implementation\\-focused software systems
+ 
+
+
+
+ \\* Support software testing, code validation, and optimization assignments
+ 
+
+
+
+ \\* Work on technical documentation, code structure records, and implementation logs
+ 
+
+
+
+ \\* Support integration workflows involving APIs, databases, or system communication where applicable
+ 
+
+
+
+ \\* Participate in practical software development projects aligned with organizational technical goals
+ 
+
+
+
+ \\* Maintain coding discipline, software architecture consistency, and technical workflow professionalism
+ 
+
+
+
+ \\* Assist in feature implementation and technical module execution
+ 
+
+
+
+ \\* Contribute to software product systems through structured technical problem\\-solving
+ 
+
+
+
+ \\* Participate in real execution\\-focused engineering tasks that strengthen software readiness
+ 
+
+
+
+  
+
+
+
+
+
+ Eligibility:
+ 
+
+
+
+  
+
+
+
+
+
+ \\* Freshers or candidates pursuing/completing degrees in Computer Science, IT, Software Engineering, or related technical disciplines
+ 
+
+
+
+ \\* Strong interest in Java programming, backend development, or software systems
+ 
+
+
+
+ \\* Candidates comfortable with structured coding assignments and remote execution
+ 
+
+
+
+ \\* Individuals seeking practical software implementation experience
+ 
+
+
+
+ \\* Candidates serious about building professional technical careers
+ 
+
+
+
+  
+
+
+
+
+
+ Core Skills Required:
+ 
+
+
+
+  
+
+
+
+
+
+ \\* Core Java fundamentals
+ 
+
+
+
+ \\* Object\\-Oriented Programming (OOP) understanding
+ 
+
+
+
+ \\* Logical reasoning capability
+ 
+
+
+
+ \\* Problem\\-solving mindset
+ 
+
+
+
+ \\* Debugging awareness
+ 
+
+
+
+ \\* Code structuring discipline
+ 
+
+
+
+ \\* Technical documentation capability
+ 
+
+
+
+ \\* Independent execution ability
+ 
+
+
+
+ \\* Programming consistency
+ 
+
+
+
+ \\* Analytical thinking
+ 
+
+
+
+ \\* Software curiosity
+ 
+
+
+
+ \\* Professional technical adaptability
+ 
+
+
+
+  
+
+
+
+
+
+ Preferred Exposure (Helpful but Not Mandatory):
+ 
+
+
+
+  
+
+
+
+
+
+ \\* JDBC basics
+ 
+
+
+
+ \\* Spring / Spring Boot awareness
+ 
+
+
+
+ \\* SQL fundamentals
+ 
+
+
+
+ \\* Personal Java projects
+ 
+
+
+
+ \\* APIs or backend systems awareness
+ 
+
+
+
+ \\* Git or version control familiarity
+ 
+
+
+
+ \\* Academic software engineering projects
+ 
+
+
+
+  
+
+
+
+
+
+ What You Will Learn Through This Internship:
+ 
+
+
+
+  
+
+
+
+
+
+ \\* Practical Java development workflows
+ 
+
+
+
+ \\* Object\\-oriented system implementation
+ 
+
+
+
+ \\* Software architecture discipline
+ 
+
+
+
+ \\* Backend application support systems
+ 
+
+
+
+ \\* Debugging and optimization standards
+ 
+
+
+
+ \\* Professional coding structures
+ 
+
+
+
+ \\* Enterprise software readiness
+ 
+
+
+
+ \\* Technical documentation practices
+ 
+
+
+
+ \\* Real\\-world implementation\\-focused software engineering
+ 
+
+
+
+ \\* Scalable software development discipline
+ 
+
+
+
+  
+
+
+
+
+
+ Why Join Inficore Soft:
+ 
+
+
+
+  
+
+
+
+
+
+ \\* ₹16,300 monthly stipend
+ 
+
+
+
+ \\* Fully remote internship flexibility
+ 
+
+
+
+ \\* Practical software engineering assignments
+ 
+
+
+
+ \\* Real Java implementation environments
+ 
+
+
+
+ \\* Structured mentorship from execution\\-focused teams
+ 
+
+
+
+ \\* Professional development discipline
+ 
+
+
+
+ \\* Career\\-building technical exposure
+ 
+
+
+
+ \\* Performance\\-based certification
+ 
+
+
+
+ \\* Employability enhancement for software engineering and backend careers
+ 
+
+
+
+  
+
+
+
+
+
+ Professional Growth Potential:
+ 
+
+
+
+ This internship can create strong foundational pathways toward roles such as:
+ 
+
+
+
+  
+
+
+
+
+
+ \\* Java Developer
+ 
+
+
+
+ \\* Backend Developer
+ 
+
+
+
+ \\* Software Engineer
+ 
+
+
+
+ \\* Application Developer
+ 
+
+
+
+ \\* Enterprise Systems Associate
+ 
+
+
+
+ \\* API Developer
+ 
+
+
+
+ \\* Technical Support Engineer
+ 
+
+
+
+ \\* Product Development Associate
+ 
+
+
+
+  
+
+
+
+
+
+ Ideal Candidate Profile:
+ 
+
+
+
+ This role is ideal for technically curious, disciplined, and execution\\-oriented candidates who want to build serious practical software capability through Java systems. Candidates who are motivated to strengthen professional development habits, backend engineering foundations, and structured technical implementation will gain substantial value from this internship.
+ 
+
+
+
+  
+
+
+
+
+
+ Inficore Soft’s Java Developer Internship is not limited to academic programming—it is a practical execution ecosystem that prepares candidates for real\\-world software engineering, enterprise application systems, and scalable technical careers through disciplined implementation.","IT Services and IT Consulting","https://in.linkedin.com/company/inforcore-soft","https://media.licdn.com/dms/image/v2/D560BAQFJN_-8qw9n9A/img-crop_100/B56ZuD8sKGIcAM-/0/1767445284440?e=2147483647&v=beta&t=mDVgun34gMnU-SgbUO7OLloiMQl-lXNc2FLJcIq0qRE","","","","","","","","","","",""
+"li-4418306268","linkedin","https://www.linkedin.com/jobs/view/4418306268","","Flutter & React Software Engineer","Sciverse Solutions Pvt. Ltd.","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","careers@sciverse.in, jatin.jagani@sciverse.co.in","We’re Hiring — Flutter \\& React Software Engineer
+ 
+
+
+
+ Pune, Maharashtra \\| Full\\-Time \\| On\\-site Preferred
+ 
+
+
+
+  
+
+
+
+
+
+**About the Role** 
+
+
+
+
+  
+
+
+
+
+
+ At Sciverse Solutions, we’re building next\\-generation healthcare platforms that combine AI, diagnostics, connected medical devices, wearables, cloud infrastructure, and real\\-time clinical workflows.
+ 
+
+
+
+ We’re looking for a Flutter \\& React Software Engineer who enjoys building exceptional products, solving challenging engineering problems, and contributing ideas that shape the future of healthcare technology.
+ 
+
+
+
+ This role is ideal for engineers who like working across mobile, web, connected devices, cloud systems, and user experiences. You’ll have the opportunity to work closely with product, AI, hardware, and clinical teams while building solutions that directly impact real\\-world healthcare outcomes.
+ 
+
+
+
+ If you enjoy ownership, innovation, continuous learning, and building products from concept to deployment, you’ll fit right in.
+ 
+
+
+
+  
+
+
+
+
+
+**Technical Requirements** 
+
+
+
+
+  
+
+
+
+
+
+**Mobile \\& Frontend:** 
+
+
+
+* Strong experience with Flutter and React.js
+* Experience building scalable, maintainable, and production\\-grade applications
+* Strong understanding of state management patterns (Provider, Riverpod, Bloc, Redux, Context API, etc.)
+* Experience implementing Clean Architecture and MVVM architectural patterns
+* Performance optimization across mobile and web applications, including rendering efficiency, lazy loading, code splitting, and application responsiveness
+* Memory optimization and resource management for mobile applications
+* Experience designing reusable, modular, and scalable frontend architectures
+* Understanding of offline\\-first and synchronization workflows
+* Experience with application security best practices on web and mobile platforms
+* Familiarity with Android and iOS deployment workflows, release management, signing, and store publishing processes
+* Experience with debugging, profiling, crash analysis, and production issue investigation
+* Strong focus on user experience, maintainability, and long\\-term product scalability
+
+
+
+**Backend \\& Integrations:** 
+
+
+
+* Working knowledge of Python (FastAPI/Django preferred)
+* Experience integrating REST APIs and backend services
+* Understanding of authentication, authorization, and secure application design
+* Experience with relational and non\\-relational databases
+
+
+
+  
+
+
+
+
+
+**Connected devices \\& Real\\-time integrations** 
+
+
+
+* BLE (Bluetooth Low Energy) integrations with wearables and connected devices
+* Device communication and hardware\\-integrated application development
+* Experience or familiarity with WebRTC\\-based communication systems
+* Understanding of cloud\\-connected and edge\\-deployed architectures
+* Exposure to IoT ecosystems is a plus
+
+
+
+  
+
+
+
+
+
+**Engineering and Deployment** 
+
+
+
+* Git\\-based development workflows
+* CI/CD pipelines and deployment processes
+* Docker and containerized application workflows
+* Cloud platform exposure (AWS/Azure preferred)
+* Debugging, monitoring, and production support experience
+
+
+
+**What you'll build** 
+
+
+
+
+  
+
+
+
+
+* AI\\-powered healthcare and diagnostics platforms
+* Cross\\-platform mobile applications using Flutter
+* Modern React\\-based web applications and dashboards
+* Wearable\\-integrated healthcare solutions
+* Real\\-time communication and collaboration systems
+* Connected diagnostic device ecosystems
+* Cloud\\-connected and edge\\-deployed applications
+* Clinical analytics and intelligence platforms
+
+
+
+**What we value** 
+
+
+
+
+  
+
+
+
+
+
+ We’re looking for engineers who:
+ 
+
+
+* Take ownership beyond assigned tasks
+* Think in systems, not just features
+* Enjoy solving complex engineering challenges
+* Care about code quality, scalability, and maintainability
+* Bring curiosity, enthusiasm, and innovation to the table
+* Contribute ideas, improvements, and product thinking
+* Thrive in collaborative, fast\\-moving environments
+
+
+
+ At Sciverse, your contribution extends beyond development. We encourage engineers to participate in architecture discussions, product decisions, workflow improvements, and technology choices that help shape the future of our products.
    
+
+
+
+
+
+**Details** 
+
+
+
+
+  
+
+
+
+
+
+ Location: Pune, Maharashtra (On\\-site Preferred)
+ 
+
+
+
+ Experience: 3\\-5\\+ Years Preferred
+ 
+
+
+
+ Joining: Immediate / Early Joiners Preferred
+ 
+
+
+
+ Apply at: careers@sciverse.in
+ 
+
+
+
+ CC: jatin.jagani@sciverse.co.in
+ 
+
+
+
+ If building impactful technology at the intersection of healthcare, AI, connected devices, mobile applications, and cloud platforms excites you, we’d love to hear from you.
+ 
+
+
+
+  
+
+
+
+
+
+ \\#Hiring \\#FlutterDeveloper \\#ReactDeveloper \\#SoftwareEngineer \\#HealthcareTechnology \\#MedTech \\#AI \\#WebRTC \\#BLE \\#Wearables \\#IoT \\#EdgeComputing \\#PuneJobs","Medical Equipment Manufacturing","https://in.linkedin.com/company/sciverse","https://media.licdn.com/dms/image/v2/D4D0BAQFEVPbZiZiBfA/company-logo_100_100/company-logo_100_100/0/1729926818139/sciverse_logo?e=2147483647&v=beta&t=Py7uzmGRQxsYcSR5GRvDOVL3TwrrPWa0x9pJnXfHQwM","","","","","","","","","","",""
+"li-4422091100","linkedin","https://www.linkedin.com/jobs/view/4422091100","","MERN Stack Developer Intern | Remote | Entry-Level | MongoDB / Express / React / Node.js / Full Product Development","Inficore Soft","","","fulltime","","","","","",True,"internship","Information Technology","","","Role: MERN Stack Developer Intern \\| Remote \\| Entry\\-Level \\| MongoDB / Express / React / Node.js / Full Product Development
+ 
+
+
+
+  
+
+
+
+
+
+ Inficore Soft is actively hiring MERN Stack Developer Interns for candidates who want to build practical careers in modern web engineering, full\\-cycle product development, scalable software ecosystems, and JavaScript\\-powered digital systems. This internship is specifically designed for freshers and early\\-career technical candidates seeking implementation\\-led remote exposure to frontend\\-backend integration, MERN technologies, API systems, database workflows, and real\\-world product execution environments.
+ 
+
+
+
+  
+
+
+
+
+
+ The MERN Stack remains one of the most in\\-demand technology ecosystems for startups, digital platforms, SaaS products, scalable web applications, and modern product systems. Through Inficore Soft’s MERN Stack Developer Internship, candidates gain structured practical exposure to full digital product architecture by working across user interfaces, backend systems, APIs, and databases through execution\\-driven assignments.
+ 
+
+
+
+  
+
+
+
+
+
+ As a MERN Stack Developer Intern, you will support complete digital product systems while building strong practical capability across all major layers of web application engineering.
+ 
+
+
+
+  
+
+
+
+
+
+ Key Responsibilities:
+ 
+
+
+
+  
+
+
+
+
+
+ \\* Build responsive frontend interfaces using React.js for user\\-facing product systems
+ 
+
+
+
+ \\* Support backend development workflows using Node.js and Express.js
+ 
+
+
+
+ \\* Work with MongoDB or structured database systems for data integration
+ 
+
+
+
+ \\* Assist in API development, routing systems, or frontend\\-backend communication frameworks
+ 
+
+
+
+ \\* Participate in debugging, troubleshooting, and technical optimization across product layers
+ 
+
+
+
+ \\* Support implementation of full\\-stack modules or web product components
+ 
+
+
+
+ \\* Assist in digital product architecture workflows through structured technical execution
+ 
+
+
+
+ \\* Maintain organized codebases across frontend, backend, and database systems
+ 
+
+
+
+ \\* Participate in software testing, technical validation, and implementation quality systems
+ 
+
+
+
+ \\* Support practical web product projects aligned with modern business systems
+ 
+
+
+
+ \\* Contribute to scalable JavaScript ecosystems
+ 
+
+
+
+ \\* Assist in cross\\-functional software development systems
+ 
+
+
+
+ \\* Participate in implementation\\-led product engineering tasks
+ 
+
+
+
+ \\* Maintain professional technical discipline across integrated software workflows
+ 
+
+
+
+  
+
+
+
+
+
+ Eligibility:
+ 
+
+
+
+  
+
+
+
+
+
+ \\* Freshers or candidates pursuing/completing degrees in Computer Science, IT, Software Engineering, Web Development, or related technical disciplines
+ 
+
+
+
+ \\* Strong interest in MERN technologies, full stack systems, or modern product engineering
+ 
+
+
+
+ \\* Comfortable with structured remote technical assignments
+ 
+
+
+
+ \\* Candidates seeking practical implementation\\-focused software exposure
+ 
 
-  
 
-**Must have skills :** 
- API Testing
-   
 
-  
+ \\* Individuals motivated to build scalable product capability
+ 
 
-**Good to have skills :** 
- NA
-   
 
+
   
 
-**Minimum 5 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
-   
 
-  
 
- Summary:
-   
 
-  
 
- As a Custom Software Engineer, you will engage in the development of custom software solutions that involve designing, coding, and enhancing various components across systems or applications. Your typical day will include collaborating with cross\\-functional teams, utilizing modern frameworks, and applying agile practices to deliver scalable and high\\-performing solutions that meet specific business requirements. You will be involved in problem\\-solving and innovation, ensuring that the software solutions are tailored to the unique needs of the organization and its clients.
-   
+ Core Skills Required:
+ 
 
-  
 
- Roles \\& Responsibilities:
-   
 
   
 
-* Expected to be an SME.
-* Collaborate and manage the team to perform.
-* Responsible for team decisions.
-* Engage with multiple teams and contribute on key decisions.
-* Provide solutions to problems for their immediate team and across multiple teams.
-* Mentor junior team members to enhance their skills and knowledge.
-* Continuously evaluate and improve software development processes to increase efficiency.
 
 
- Professional \\& Technical Skills:
-   
 
-  
 
-* Must To Have Skills: Proficiency in API Testing.
-* Strong understanding of software development life cycle methodologies.
-* Experience with automated testing frameworks and tools.
-* Familiarity with RESTful and SOAP web services.
-* Ability to write clear and concise documentation for testing processes.
+ \\* HTML / CSS fundamentals
+ 
 
 
- Additional Information:
-   
 
-  
+ \\* JavaScript fundamentals
+ 
 
-* The candidate should have minimum 5 years of experience in API Testing.
-* This position is based at our Bengaluru office.
-* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
-"li-4417998009","linkedin","https://www.linkedin.com/jobs/view/4417998009","","Custom Software Engineer","Accenture in India","Pune City, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
- Custom Software Engineer
-   
 
-  
 
-**Project Role Description :** 
- Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high\\-performing solutions tailored to specific business needs.
-   
+ \\* React awareness
+ 
 
-  
 
-**Must have skills :** 
- Business Requirements Analysis
-   
 
-  
+ \\* Node.js basics
+ 
 
-**Good to have skills :** 
- NA
-   
 
-  
 
-**Minimum 5 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
-   
+ \\* Backend logic understanding
+ 
 
-  
 
- Summary:
-   
 
-  
+ \\* Database awareness
+ 
 
- As a Custom Software Engineer, a typical day involves creating tailored software solutions by designing, coding, and improving various components within systems or applications. The role requires working closely with different teams to ensure that the software meets specific business requirements. The work environment is dynamic, often involving iterative development cycles and collaboration to deliver scalable and efficient software products that align with organizational goals and client expectations.
-   
 
-  
 
- Roles \\& Responsibilities:
-   
+ \\* Problem\\-solving capability
+ 
 
-  
 
-* Expected to be an SME, collaborate and manage the team to perform.
-* Responsible for team decisions.
-* Engage with multiple teams and contribute on key decisions.
-* Provide solutions to problems for their immediate team and across multiple teams.
-* Lead efforts to identify and resolve technical challenges that impact project delivery.
-* Mentor junior team members to support their professional growth and skill development.
-* Coordinate cross\\-functional communication to ensure alignment on project objectives and timelines.
 
+ \\* Technical adaptability
+ 
 
- Professional \\& Technical Skills:
-   
 
-  
 
-* Must To Have Skills: Proficiency in Business Requirements Analysis.
-* Strong analytical skills to interpret and translate business needs into technical specifications.
-* Experience in collaborating with stakeholders to gather and validate requirements.
-* Ability to document and communicate complex processes clearly and effectively.
-* Familiarity with software development lifecycle and agile methodologies.
-* Skilled in identifying gaps and proposing practical solutions to improve system functionality.
+ \\* Debugging mindset
+ 
 
 
- Additional Information:
-   
 
-  
+ \\* Documentation discipline
+ 
 
-* The candidate should have minimum 5 years of experience in Business Requirements Analysis.
-* This position is based at our Pune office.
-* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
-"li-4421246689","linkedin","https://www.linkedin.com/jobs/view/4421246689","","Latest Work From Home Jobs in Salem You Shouldn’t Miss","Career Cartz","Patel Nagar, Delhi, India","","fulltime","","","","","",True,"entry level","Other","","","The rise of remote work has transformed the job market, offering unprecedented flexibility and opportunities for professionals across various fields. For residents of Salem, Tamil Nadu, the availability of work\\-from\\-home (WFH) jobs in 2026 is a game\\-changer. Whether you’re a fresher, a seasoned professional, or someone looking to re\\-enter the workforce, Salem’s job market is brimming with exciting remote opportunities. This article explores the latest WFH jobs in Salem, why they’re worth pursuing, and how you can land your dream role. With a focus on diverse industries, flexible schedules, and competitive salaries, these opportunities are too good to miss.
-   
 
-  
 
-**Table of Contents** 
- hide
-   
+ \\* Structured execution consistency
+ 
 
-  
 
- 1 Why Work From Home in Salem?
-   
 
-  
+ \\* Independent workflow capability
+ 
 
- 2 Top Industries Offering Work From Home Jobs in Salem
-   
+
 
   
 
- 3 1\\. Information Technology (IT) and Software Development
-   
 
-  
 
- 4 2\\. Data Entry and Back Office
-   
 
-  
 
- 5 3\\. Digital Marketing
-   
+ Preferred Exposure (Helpful but Not Mandatory):
+ 
 
-  
 
- 6 4\\. Customer Service and Telecalling
-   
 
   
 
- 7 5\\. Education and Training
-   
 
-  
 
- 8 6\\. Freelancing and Creative Roles
-   
 
-  
 
- 9 Top Platforms to Find WFH Jobs in Salem
-   
+ \\* Express.js familiarity
+ 
 
-  
 
- 10 How to Land a Work From Home Job in Salem
-   
 
-  
+ \\* MongoDB basics
+ 
 
- 11 Benefits of Work From Home Jobs for Salem Residents
-   
 
-  
 
- 12 Challenges and How to Overcome Them
-   
+ \\* API development awareness
+ 
 
-  
 
- 13 Success Stories from Salem’s WFH Professionals
-   
 
-  
+ \\* Personal web projects
+ 
 
- 14 Conclusion – Work From Home Jobs in Salem
-   
 
-  
 
- 15 FAQs – Work From Home Jobs in Salem
-   
+ \\* Git or version control familiarity
+ 
 
-  
 
-**16 Related Posts**
- Why Work From Home in Salem?
-   
 
-  
+ \\* Deployment awareness
+ 
 
- Salem, a Bustling City Known For Its Industrial And Cultural Significance, Is Home To a Growing Number Of Remote Job Opportunities. The Shift To Remote Work Has Been Fueled By Advancements In Technology, Changing Employer Priorities, And a Growing Demand For Work\\-life Balance. Here’s Why WFH Jobs In Salem Are Worth Considering
-   
 
-  
 
-* Flexibility: Remote jobs allow you to set your own schedule, making it easier to balance personal and professional responsibilities.
-* Cost Savings: Eliminate commuting costs and save on expenses like fuel, public transport, or professional attire.
-* Access to Diverse Roles: From tech to customer service, Salem’s remote job market spans multiple industries.
-* Career Growth: Many WFH roles offer opportunities for skill development and career advancement without the need for relocation.
-* Empowering Women and Freshers: Initiatives like Internshala’s “Internships for Women” provide flexible options for women and freshers to restart or begin their careers.
+ \\* Full\\-stack experimentation
+ 
 
 
- With platforms like Shine.com, QuikrJobs, and Internshala reporting hundreds of WFH openings in Salem, now is the perfect time to explore these opportunities.
-   
 
   
 
- Top Industries Offering Work From Home Jobs in Salem
-   
 
-  
 
-**Education**
- Salem’s job market is diverse, with industries ranging from IT to education and customer service. Below are the top sectors offering WFH opportunities in 2026:
-   
 
-  
 
-* Information Technology (IT) and Software Development
+ What You Will Learn Through This Internship:
+ 
 
 
- The IT sector in Salem is thriving, with companies seeking remote professionals for roles like web development, software engineering, and UI/UX design.
-   
 
   
 
-* Popular Roles:
-+ Web Developer (HTML, CSS, JavaScript, React)
-+ Software Engineer (.NET, Python, Java)
-+ UI/UX Designer
 
-* Skills Required: Proficiency in programming languages, knowledge of frameworks like Bootstrap or React, and familiarity with tools like Chrome Developer Console.
-* Salary Range: ₹15,000–₹50,000/month for freshers; higher for experienced professionals.
-* Data Entry and Back Office
 
 
- Data entry roles are ideal for those seeking entry\\-level WFH jobs with minimal experience requirements.
-   
 
-  
+ \\* Practical MERN stack workflows
+ 
 
-* Popular Roles:
-+ Data Entry Operator
-+ Back Office Executive
-+ Computer Operator
 
-* Skills Required: Basic computer skills, typing speed, and attention to detail.
-* Salary Range: ₹5,000–₹30,000/month, depending on the role and hours.
-* Digital Marketing
 
+ \\* Full\\-cycle web application development
+ 
 
- Digital marketing is a booming field, with companies hiring for remote roles in SEO, content creation, and social media management.
-   
 
-  
 
-* Popular Roles:
-+ Digital Marketing Executive
-+ Content Writer
-+ Social Media Manager
+ \\* Frontend\\-backend integration systems
+ 
 
-* Skills Required: Knowledge of SEO tools, content creation, and social media platforms.
-* Salary Range: ₹10,000–₹35,000/month for part\\-time or full\\-time roles.
-* Customer Service and Telecalling
 
 
- Customer service roles are in high demand, offering flexible hours and remote work options.
-   
+ \\* Database\\-connected product engineering
+ 
+
+
+
+ \\* API implementation capability
+ 
+
+
+
+ \\* Product architecture discipline
+ 
+
+
+
+ \\* Modern software execution standards
+ 
+
+
+
+ \\* Real\\-world JavaScript ecosystem capability
+ 
 
+
+
+ \\* Technical troubleshooting across full product systems
+ 
+
+
+
+ \\* Professional software scalability practices
+ 
+
+
+
   
 
-* Popular Roles:
-+ Customer Service Representative
-+ BPO/Telecaller
-+ Account Executive
 
-* Skills Required: Communication skills, problem\\-solving, and fluency in Tamil or English.
-* Salary Range: ₹8,000–₹20,000/month, with bonuses for performance.
-* Education and Training
 
 
- Online teaching and training roles are growing, especially for those with expertise in specific subjects or skills.
-   
+
+ Why Join Inficore Soft:
+ 
+
+
 
   
 
-* Popular Roles:
-+ Online Tutor
-+ Tally Trainer
-+ Content Developer for E\\-Learning
 
-* Skills Required: Subject expertise, communication skills, and familiarity with online teaching platforms.
-* Salary Range: ₹8,000–₹25,000/month for part\\-time roles.
-* Freelancing and Creative Roles
 
 
- Freelancing offers flexibility for creative professionals like graphic designers and videographers.
-   
+
+ \\* ₹16,300 monthly stipend
+ 
+
+
+
+ \\* Fully remote internship flexibility
+ 
+
+
+
+ \\* Practical full\\-stack assignments
+ 
+
+
+
+ \\* Exposure to modern digital product systems
+ 
+
+
+
+ \\* Structured mentorship
+ 
+
+
+
+ \\* Professional product engineering discipline
+ 
+
+
+
+ \\* Real implementation\\-first software capability
+ 
 
+
+
+ \\* Performance\\-based certification
+ 
+
+
+
+ \\* Employability enhancement for full stack and product careers
+ 
+
+
+
   
 
-* Popular Roles:
-+ Graphic Designer
-+ Videographer
-+ Freelance Content Writer
 
-* Skills Required: Creativity, proficiency in tools like Adobe Suite, and time management.
-* Salary Range: ₹10,000–₹40,000/month, depending on project volume.
 
 
- Top Platforms to Find WFH Jobs in Salem
-   
+
+ Professional Growth Potential:
+ 
+
+
 
+ This internship can help candidates build strong pathways toward future roles such as:
+ 
+
+
+
   
 
- Finding The Right WFH Job Requires Knowing Where To Look. Here Are The Top Platforms To Explore For Remote Opportunities In Salem
-   
+
+
+
+
+ \\* MERN Stack Developer
+ 
+
+
+
+ \\* Full Stack Developer
+ 
+
+
+
+ \\* React Developer
+ 
+
+
+
+ \\* Node.js Developer
+ 
+
+
+
+ \\* Product Engineer
+ 
 
+
+
+ \\* Software Developer
+ 
+
+
+
+ \\* API Developer
+ 
+
+
+
+ \\* Startup Tech Associate
+ 
+
+
+
   
 
-* Shine.com: Offers over 60 part\\-time and online WFH jobs, including data entry, digital marketing, and accounting roles.
-* QuikrJobs: Lists around 39 WFH jobs in Salem, with roles in marketing, data entry, and videography.
-* Internshala: Features 752 WFH jobs for freshers, including HR, content writing, and IT roles, with a focus on empowering women.
-* Naukri.com: A trusted platform for IT and software development roles, with filters for WFH jobs in Salem.
-* SimplyHired: Lists 37 part\\-time WFH jobs, including customer service and medical\\-related roles.
-* WorkIndia: Offers a range of technical and non\\-technical WFH jobs, with free registration and job alerts.
-* OLX: Features local WFH job listings, including data entry and telecalling roles.
-* PlacementIndia: Provides over 100 WFH job openings, focusing on data entry and back\\-office roles.
-* NithraJobs: Specializes in Salem\\-specific jobs, offering both technical and non\\-technical roles with daily updates.
-* EvaniosJobs: Lists over 2,481 job vacancies, including WFH roles for freshers and experienced professionals.
 
 
- Pro Tip: Register on these platforms, update your profile with relevant skills, and set job alerts to stay informed about new openings.
-   
+
+
+ Ideal Candidate Profile:
+ 
+
+
 
+ This role is ideal for technically versatile, product\\-focused, and execution\\-driven candidates who want to strengthen practical capability in complete digital product systems. Candidates who want to move beyond isolated coding and into integrated software ecosystems will gain exceptional value from this internship.
+ 
+
+
+
   
+
 
-**Also Read:** 
- Top Remote Work From Home Jobs in Moradabad Hiring Now
+
+
+
+ Inficore Soft’s MERN Stack Developer Internship is a practical execution ecosystem built to help candidates develop modern product engineering capability across frontend, backend, and full software architecture—preparing them for scalable careers in digital product systems.","IT Services and IT Consulting","https://in.linkedin.com/company/inforcore-soft","https://media.licdn.com/dms/image/v2/D560BAQFJN_-8qw9n9A/img-crop_100/B56ZuD8sKGIcAM-/0/1767445284440?e=2147483647&v=beta&t=mDVgun34gMnU-SgbUO7OLloiMQl-lXNc2FLJcIq0qRE","","","","","","","","","","",""
+"li-4421291407","linkedin","https://www.linkedin.com/jobs/view/4421291407","","Senior Software Engineer - Java Backend Developer","CGI","","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Position Description
    
 
   
 
- How to Land a Work From Home Job in Salem
+ Company Profile:
    
 
   
 
- Securing a WFH job requires preparation and strategy. Follow these steps to increase your chances of success:
+ Founded in 1976, CGI is among the largest independent IT and business consulting services firms in the world. With 94,000 consultants and professionals across the globe, CGI delivers an end\\-to\\-end portfolio of capabilities, from strategic IT and business consulting to systems integration, managed IT and business process services and intellectual property solutions. CGI works with clients through a local relationship model complemented by a global delivery network that helps clients digitally transform their organizations and accelerate results. CGI Fiscal 2024 reported revenue is CA$14\\.68 billion and CGI shares are listed on the TSX (GIB.A) and the NYSE (GIB). Learn more at cgi.com.
    
 
   
 
-* Build a Strong Resume: Highlight relevant skills, certifications, and experience. Tailor your resume to the job role.
-* Upskill: Take online courses in high\\-demand skills like digital marketing, coding, or customer service. Platforms like Internshala offer certified courses to boost your profile.
-* Create a Professional Profile: Platforms like Shine.com and Naukri.com allow you to create detailed profiles. Include a professional photo, skills, and work samples.
-* Apply Strategically: Use filters on job portals to find WFH roles in Salem that match your skills and experience.
-* Prepare for Interviews: Practice common interview questions and ensure a stable internet connection for virtual interviews.
-* Beware of Scams: Avoid job postings that ask for payment or promise guaranteed jobs. Reputable platforms like QuikrJobs and Shine.com emphasize avoiding such scams.
+ Job Title: Senior Software Engineer \\- Java Backend Developer
+   
 
+  
 
- Benefits of Work From Home Jobs for Salem Residents
+ Position: SSE
    
 
   
 
- WFH jobs offer unique advantages for Salem residents, making them an attractive career choice:
+ Experience: 5\\-7 Years
    
 
   
 
-* Work\\-Life Balance: Flexible schedules allow you to manage household responsibilities, especially for women and parents.
-* Access to Global Opportunities: Work for companies outside Salem without relocating.
-* Skill Development: Many roles provide training, helping you stay competitive in the job market.
-* Reduced Stress: Eliminate long commutes and workplace pressures, leading to a healthier work environment.
-* Diverse Opportunities: From part\\-time to full\\-time roles, there’s something for everyone, including freshers and homemakers.
+ Category: SSE
+   
 
+  
 
- Challenges and How to Overcome Them
+ Main location: India Bangalore/ Chennai / Mumbai
    
 
   
 
- While WFH jobs offer numerous benefits, they come with challenges. Here’s how to address them:
+ Position ID: J0526\\-2495
    
 
   
 
-* Distractions at Home: Set up a dedicated workspace and maintain a schedule to stay focused.
-* Limited Social Interaction: Join online communities or attend virtual networking events to stay connected.
-* Technical Issues: Invest in a reliable internet connection and backup devices to ensure uninterrupted work.
-* Time Management: Use tools like Trello or Google Calendar to prioritize tasks and meet deadlines.
+ Your future duties and responsibilities
+   
 
+  
 
- Success Stories from Salem’s WFH Professionals
+ Direct Responsibilities
    
 
   
 
-* Priya, Digital Marketing Executive: After a career break, Priya found a part\\-time digital marketing role through Internshala. She now earns ₹25,000/month while managing her family responsibilities.
-* Arjun, Data Entry Operator: A fresher, Arjun secured a WFH data entry job via QuikrJobs, earning ₹15,000/month with flexible hours.
-* Lakshmi, Online Tutor: Lakshmi transitioned to online teaching through Shine.com, leveraging her teaching experience to earn ₹20,000/month part\\-time.
+* Develop programs in optimal manner without compromising core architecture/design
+* Should Work as an individual contributor in the project and support developers / tester on different technical queries.
+* Make thorough impact analysis – impact study, possible regressions, Better unit test coverage
+* Contribute in creating technical documentation and maintain in repository
+* Work on the technologies efficiently and produce best fit deliveries
 
 
- These success stories highlight the potential of WFH jobs to transform lives in Salem.
+ Tech stack :
    
 
   
 
- Conclusion – Work From Home Jobs in Salem
+ Java, J2EE, Spring, Hibernate, Oracle, bitbucket, Junit, DevOPS (Nice to Have)
    
 
   
 
- Don’t miss out on the incredible work\\-from\\-home opportunities waiting for you in Salem! Whether you’re a fresher, a professional, or looking to restart your career, now is the time to act. Register on platforms like CareerCartz.com, Internshala, and NithraJobs today, update your resume, and start applying for roles that match your skills. Take control of your career, achieve work\\-life balance, and unlock your potential with a rewarding WFH job. Apply now and land your dream job before these opportunities are gone!
+ Technical Skills:
    
 
   
+
+* Java 8 and above, J@ee
+* Spring
+* Hibernate
+* Oracle SQL \\& PL/SQL
+* BitBucket, Junit \\& JIRA
 
- FAQs – Work From Home Jobs in Salem
+
+ Behavioral Skills:
    
 
   
 
-* What types of work\\-from\\-home jobs are available in Salem?
+* Ability to collaborate / Teamwork
+* Ability to deliver / Results driven
+* Ability to share / pass on knowledge
+* Adaptability
+* Ability to develop and adapt a process
+* Ability to understand, explain and support change
 
 
- Salem offers a variety of WFH jobs, including data entry, digital marketing, customer service, software development, and online teaching. Platforms like Shine.com and Internshala list roles across these categories.
+**Required Qualifications To Be Successful In This Role**
+**Together, as owners, let’s turn meaningful insights into action.**
+ Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
    
 
   
 
-* Are WFH jobs in Salem suitable for freshers?
+ You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
+   
 
+  
 
- Yes, many WFH jobs, such as data entry, customer service, and HR roles, are ideal for freshers. Internshala lists over 752 fresher\\-friendly WFH jobs in Salem.
+ Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
    
 
   
 
-* What is the salary range for WFH jobs in Salem?
+ You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well\\-being and provide you with opportunities to deepen your skills and broaden your horizons.
+   
 
+  
 
- Salaries vary by role. Data entry jobs pay ₹5,000–₹30,000/month, while IT roles can offer ₹15,000–₹50,000/month. Check platforms like Naukri.com for specific salary details.
+ Come join our team—one of the largest IT and business consulting services firms in the world.","IT Services and IT Consulting","https://ca.linkedin.com/company/cgi","https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI","","","","","","","","","","",""
+"li-4418329061","linkedin","https://www.linkedin.com/jobs/view/4418329061","","Voice Engineer","AI Talent Hope","Hyderabad, Telangana, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","**Voice Engineer
    
 
   
 
-* How can I avoid scams when applying for WFH jobs?
+ Job Details**
+  
 
+**Job Sector** 
+ : IT, Software, Analytics
+   
 
- Stick to reputable platforms like QuikrJobs and Shine.com, and never pay for job applications or interviews. Verify job postings and contact employers directly if suspicious.
+**Job Type:** 
+ Permanent
    
 
-  
+**Working** 
+ : Hybrid (Office \\+ Home)
+ **Experience** 
+ : 4 \\- 8 Years
+   
 
-* Do I need specific skills for WFH jobs in Salem?
+**Notice Period:** 
+ 1 Month
+   
 
+**No. of Vacancies:** 
+ 1 Vacancy
+   
 
- Skills depend on the role. Basic computer knowledge is sufficient for data entry, while IT roles require programming skills. Platforms like Internshala offer courses to upskill.
+**Candidate Salary Range** 
+ : Rs. 35,00,000 \\- 45,00,000
    
 
   
-
-* Are there WFH jobs for women in Salem?
 
+**Position Details**
+  
 
- Yes, initiatives like Internshala’s “Internships for Women” offer flexible WFH roles for women, including part\\-time and full\\-time options.
+**Job Title** 
+ : Voice Engineer
    
 
-  
+**Job Type** 
+ : Full\\-time
+   
 
-* What equipment do I need for WFH jobs?
+**Location** 
+ : Hyderabad, Telangana, India
+   
 
+**Experience:** 
+ Minimum 4 years (4\\-8\\+ years preferred for Senior level)
+   
 
- Most roles require a laptop, stable internet, and a quiet workspace. Some IT roles may need specific software like Adobe Suite or coding tools.
+**Department** 
+ : Product Engineering – Voice / CPaaS
    
 
   
 
-* Can I work part\\-time from home in Salem?
+**Company Overview** 
+  
 
+ A global telecom software provider empowering operators, MVNOs, aggregators, and enterprises across 20\\+ countries. With over a decade of innovation in CPaaS, UCaaS, CCaaS, and eSIM solutions, the company delivers high\\-performance communication platforms that drive digital transformation.
+   
 
- Absolutely! Platforms like SimplyHired and Shine.com list over 60 part\\-time WFH jobs in Salem, including data entry and teaching roles.
+ Flagship products include IP\\-PBX, CPaaS white\\-label platforms, and eSIM provisioning systems, serving top telecom brands across India, the Middle East, Africa, Europe, and North America. The company operates with an Agile development approach, strong technical leadership, and a 24/7 global support framework.
    
 
   
 
-* How do I apply for WFH jobs in Salem?
+**About the Role** 
+  
 
+ We are seeking a Voice Engineer (Mid\\-level to Senior) with strong expertise in C/C\\+\\+ programming, VoIP technologies, and Linux systems. You will play a key role in building and optimizing next\\-generation Voice Engine platforms.
+   
 
- Register on job portals like NithraJobs or EvaniosJobs, create a profile, and apply to roles matching your skills. Follow application instructions carefully.
+ This role involves end\\-to\\-end development, debugging, optimization, and deployment of real\\-time voice services with a focus on scalability, low\\-latency performance, reliability, and operational excellence. Ideal candidates will demonstrate strong systems\\-level skills (POSIX APIs, multithreading, socket programming), hands\\-on protocol knowledge (SIP, RTP/RTCP, SDP negotiation), and experience with voice codecs and real\\-time audio processing.
    
 
   
 
-* Are there WFH internships available in Salem?
+**Key Responsibilities** 
+  
 
+* Design, develop, and maintain VoIP\\-based voice applications and services with a focus on reliability and performance.
+* Develop high\\-performance components in C/C\\+\\+ on Linux for low\\-latency voice processing, including multithreaded and real\\-time code.
+* Implement and troubleshoot SIP, RTP/RTCP, and voice codec flows (G.711, G.729, Opus, etc.), including SDP and NAT traversal handling.
+* Debug and resolve complex voice, signaling, and media issues across multiple layers using tools like Wireshark, tcpdump, gdb, strace, perf, and valgrind.
+* Integrate and optimize back\\-end components such as MySQL and Redis for state, call metadata, and real\\-time lookups.
+* Manage deployments and observability using AWS, Docker, container orchestration (Kubernetes preferred), and CI/CD pipelines.
+* Collaborate closely with Product, QA, DevOps, and Support teams to ensure stable releases, runbooks, and 24/7 operational readiness.
+* For Senior\\-level candidates: lead design reviews, mentor junior engineers, drive technical decisions, and take ownership of major modules and performance goals.
+* (Optional) Configure and manage Kamailio, OpenSIPS, and RtpProxy for SIP routing and media handling; tune SBCs and NAT traversal mechanisms.
 
- Yes, Internshala offers numerous WFH internships in Salem for freshers and students in fields like HR, digital marketing, and IT.
-   
 
+**Required Skills** 
   
 
-**Related Posts**
- Top 10 Remote Customer Service Jobs You Can Start Today The Pros and Cons of Working Remote Data Entry Jobs How to Land Your First Remote Entry\\-Level Job: Tips and Tricks How to Thrive in Remote Customer Service Jobs: Tips for Success Best Remote Customer Success Jobs You Can Work From Anywhere Top Remote Front End Developer Jobs Hiring in 2026 Top 10 Work from Home Jobs in Delhi Hiring Now Legit Work From Home Jobs for Stepmoms: Real Opportunities \\& Flexible Roles in 2025","Education","https://in.linkedin.com/company/careercartz","https://media.licdn.com/dms/image/v2/C510BAQHKPD4XpFWa1Q/company-logo_100_100/company-logo_100_100/0/1631398655979/careercartz_logo?e=2147483647&v=beta&t=iYg6FMJHFGbESUPCk-wwjyYBeV9ZlBzJn5s0wxqXCvM","","","","","","","","","","",""
-"li-4417986416","linkedin","https://www.linkedin.com/jobs/view/4417986416","","Custom Software Engineer","Accenture in India","Pune City, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
- Custom Software Engineer
-   
+* Minimum 4 years of experience in VoIP or Voice Engineering; 4\\-6 years typical for Mid\\-level, 6\\+ years preferred for Senior.
+* Proficiency in C/C\\+\\+ and Linux systems programming (POSIX APIs, pthreads, real\\-time scheduling).
+* Strong understanding of SIP, RTP/RTCP, SDP, and VoIP call flows, including SIP trunking and session negotiation.
+* Experience with voice codecs such as G.711, G.729, Opus, and real\\-time audio processing.
+* Hands\\-on experience with MySQL, Redis, and service design for low\\-latency access.
+* Familiarity with cloud and container tooling: AWS, Docker, Kubernetes, and Git.
+* Excellent debugging, profiling, performance tuning, and problem\\-solving skills; comfortable with observability and load\\-testing.
+* Experience with network fundamentals (TCP/UDP, NAT, STUN/TURN/ICE) and troubleshooting tools (Wireshark, tcpdump).
 
+
+**Good to Have** 
   
 
-**Project Role Description :** 
- Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high\\-performing solutions tailored to specific business needs.
+* Hands\\-on experience with Kamailio, OpenSIPS, PJSIP, or RtpProxy.
+* Knowledge of SBCs, NAT traversal, and STUN/TURN/ICE mechanisms.
+* Exposure to WebRTC, SRTP/TLS, GStreamer, or media frameworks. Experience with microservices architecture, Kubernetes, and CI/CD pipelines for production deployments.
+* Familiarity with observability stacks (Prometheus, Grafana), and logging/alerting best practices.","Non-profit Organizations","https://www.linkedin.com/company/ai-talent-hope","https://media.licdn.com/dms/image/v2/D560BAQH6B6E8GisdiQ/company-logo_100_100/B56Zfa2yYtHUAQ-/0/1751723485692/ai_talent_hope_logo?e=2147483647&v=beta&t=uGsbBO5PVIBjWveX4P2EPD3b2nJCO-NKO_9s7LhoX8k","","","","","","","","","","",""
+"li-4422074700","linkedin","https://www.linkedin.com/jobs/view/4422074700","","Developer - Shotscope™ (.NET Full Stack) - Husky(Guindy, Chennai)","Husky Technologies","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
+**Title:** 
+ Developer \\- Shotscope™ (.NET Full Stack) \\- Husky(Guindy, Chennai)
    
 
   
 
-**Must have skills :** 
- SAP UI5 Development
+**Id:** 
+ 20959
    
 
   
 
-**Good to have skills :** 
- NA
+**Type:** 
+ FullTime
    
 
   
 
-**Minimum 5 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
+**Location:** 
+ Chennai, India
    
 
   
 
- Key Responsibilities
+ At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
    
 
   
 
- a Technical leading and managing the Fiori/oData team across towers
+ Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state\\-of\\-the\\-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
    
 
   
 
- b Offshore SPOC for Fiori / SAPUI5 / NetWeaver Gateway
+ Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
    
 
   
 
- c Mature understanding of Fiori and Gateway architecture and their interface with other environments
+ Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
    
 
   
 
- d Interaction with onshore/client on functional requirement understanding and solutioning
+****Job Description****
+ Do you want to work an industrial grade software solution powering real time manufacturing intelligence on factory floors worldwide?
    
 
   
 
- e Preparing various management\\-related reports
+ As a Developer on our Shotscope™ team, you will help build and maintain industrial\\-grade manufacturing intelligence software used by customers worldwide. You will implement features and components on a .NET and Azure\\-based full stack, contribute clean and reliable code, and support the continuous evolution of a mission\\-critical product that connects machines, processes, and data.
    
 
   
 
- Technical Experience
+ This role is ideal for a motivated engineer who enjoys hands\\-on development, learning from experienced teammates, and seeing their work deployed in real production environments—with clear opportunities to grow toward senior and lead roles.
    
 
   
 
- a Experience in leading a team and multi\\-skilled across skills like Fiori/SAPUI5/Web Technologies/oData/ABAP
+ If you want your code to have visible impact on how factories operate, Shotscope™ is where software meets the real world.
    
 
   
 
- b Technical expertise in Fiori/SAPUI5/JavaScript/CSS/HTML5/Web Framework/JQuery
-   
+****Responsibilities****
+**Technical Implementation**
+* Implement software components and features based on provided designs, specifications, and guidance.
+* Contribute to the development of reliable, maintainable, and secure code within the assigned scope.
+* Apply agreed coding standards, patterns, and best practices in daily development work.
+* Make basic technical decisions within assigned tasks, escalating questions or uncertainties when needed.
 
-  
 
- c Good knowledge in ABAP and NetWeaver Gateway
-   
+**Delivery \\& Execution Excellence**
+* Translate assigned requirements and tasks into working software.
+* Complete development work in alignment with sprint goals and delivery commitments.
+* Contribute to task breakdowns and effort estimates for assigned work.
+* Proactively raise risks, blockers, or implementation issues to the team.
 
-  
 
- d Understanding on HANA services integration using XSOData/XSJS e Experience working in Agile software development environment, various UX design technologies and exposure to ISU are good to have
-   
+**Quality, Standards \\& Engineering Practices**
+* Write clean, testable code and contribute to unit and integration tests.
+* Participate in code reviews, incorporating feedback and learning from peers.
+* Ensure individual contributions meet Definition of Ready (DoR) and Definition of Done (DoD) criteria.
+* Follow established DevOps, security, and quality practices.
 
-  
 
- Professional Attributes
-   
+**Incident \\& Operational Support**
+* Assist in troubleshooting defects and issues in development and production environments.
+* Support corrective (bug fixes) and evolutive (enhancements) maintenance of existing solutions.
 
-  
+
+**Collaboration \\& Growth**
+* Collaborate effectively with other developers, QA, Product Owners, and Tech Leads.
+* Seeking feedback and guidance to continuously improve technical skills.
+* Actively learn the systems, tools, and technologies used by the team.
+* Contribute positively to team culture and shared ownership of outcomes.
 
- a Experience in leading a team and multi\\-skilled across skills like Fiori/SAPUI5/Web Technologies/oData/ABAP
+
+****Qualifications****
+* Bachelor’s degree in computer science, IT, or related field.
+* 4\\+ years’ professional experience in software development.
+* Proficiency in .NET technologies (C\\#, ASP.NET Core, SQL, .NET Framework, Entity Framework).
+* Strong grasp of Agile methodologies, DevOps principles, application security and version control systems (e.g., Azure DevOps).
+* Proficiency in modern front\\-end frameworks (e.g., preference: React; Angular).
+* Clean Code Development and working experience with Unit Testing, and Test\\-driven Development.
+* Familiarity with source code version control, branching strategies, CI/CD pipelines and other DevOps practices.
+* Working knowledge of Agile development practices.
+* Excellent communication skills and ability to work in a team.
+* Fluency in English (spoken and written).
+* Strong problem\\-solving skills and attention to detail.
+* Ability to adjust quickly to changing assignments, and priorities.
+
+
+**Assets**
+* Familiarity with CI/CD and pipelines.
+* Experience using AI‑assisted coding tools (e.g. GitHub Copilot) responsibly, with full accountability for code quality, security, and compliance.
+* Familiarity with Microsoft Azure, with experience in leveraging key services (e.g., Azure App Services, Azure Functions).
+* Exposure to Microsoft SQL Server BI stack, including SSAS (OLAP cube design), SSRS (report development), and SSIS (ETL processes and data integration).
+
+
+**Why Husky?**
+* Regulated Working Hours: Enjoy a structured work schedule that promotes a healthy work\\-life balance, allowing you to excel professionally while maintaining personal well\\-being.
+* Visible Impact: Experience the satisfaction of seeing the direct outcomes of your work, as you contribute to projects that visibly enhance our company's technological capabilities and efficiency.
+* Strategic Influence: Participate in architectural and technical reviews, contributing to the strategic direction of our cloud initiatives and making a tangible impact on our company's technological landscape.
+* Empowered Involvement: Take an active role in decision\\-making processes and architectural reviews, where your expertise helps shape the future of our cloud solutions and overall business strategy.
+* Valued Contributions: Be more than just a number in a large organization; at our company, every individual's input is valued and can lead to significant, tangible improvements in our operations and services.
+* Impactful Role: Play a crucial part in both developing new applications and maintaining existing systems, ensuring their optimal performance and reliability.
+* Cutting\\-Edge Projects: Work on innovative cloud solutions that are transforming our and our customer’s business, giving you the opportunity to be at the forefront of technological advancements.
+* Supportive Community: Work in an environment that recognizes and celebrates individual achievements, fostering a sense of community and mutual respect among team members.
+* Collaborative Environment: Join a global team of skilled professionals around the globe where your ideas are valued, and collaboration is encouraged to solve complex challenges and drive success.
+
+
+ Husky TechnologiesTM offers a competitive compensation and benefits package and excellent opportunities for growth and advancement. We are committed to equal employment opportunity and respect, value and welcome diversity in our workplace. Husky TechnologiesTM also values being a great place to work and strives to maintain a safe workplace. Accordingly, Husky TechnologiesTM conditions all offers of employment on satisfactory completion of background checks. No agency or telephone inquiries please.","Machinery Manufacturing","https://ca.linkedin.com/company/husky-technologies","https://media.licdn.com/dms/image/v2/C4D0BAQHsvZ0ebIsc4w/company-logo_100_100/company-logo_100_100/0/1636124255401/husky_injection_molding_systems_logo?e=2147483647&v=beta&t=DOW-hRVyemixk1uzPur_5PLKICQw58KUNmIrpYtA4rk","","","","","","","","","","",""
+"li-4421281912","linkedin","https://www.linkedin.com/jobs/view/4421281912","","Lead Software Engineer - Java, Spring Boot, Apache Kafka, AWS","JPMorganChase","Mumbai, Maharashtra, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Job Description**
+ We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible.
    
 
   
 
- b Technical expertise in Fiori/SAPUI5/JavaScript/CSS/HTML5/Web Framework/JQuery
+ As a Lead Software Engineer \\- Java, Spring Boot, Apache Kafka, AWS at JPMorgan Chase within the Commercial \\& Investment Bank's Global Sales \\& Research Technology team, you'll be an integral part of an agile team that works to enhance, build, and deliver trusted market\\-leading technology products in a secure, stable, and scalable way. As a core technical contributor, you are responsible for conducting critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives.
    
 
   
+
+**Job Responsibilities**
+* Executes creative software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems
+* Develops secure high\\-quality production code, and reviews and debugs code written by others
+* Identifies opportunities to eliminate or automate remediation of recurring issues to improve overall operational stability of software applications and systems
+* Leads evaluation sessions with external vendors, startups, and internal teams to drive outcomes\\-oriented probing of architectural designs, technical credentials, and applicability for use within existing systems and information architecture
+* Leads communities of practice across Software Engineering to drive awareness and use of new and leading\\-edge technologies
 
- c Good knowledge in ABAP and NetWeaver Gateway","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
-"li-4417997041","linkedin","https://www.linkedin.com/jobs/view/4417997041","","Custom Software Engineer","Accenture in India","","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
- Custom Software Engineer
+
+**Required Qualifications, Capabilities, And Skills**
+* Formal training or certification on software engineering concepts and 5\\+ years applied experience
+* Strong hands\\-on Java development experience with Spring Boot
+* Proven experience designing and building microservices architectures (REST APIs, service decomposition, patterns)
+* Expertise in building resilient, scalable applications (fault tolerance, retries/timeouts, circuit breakers, idempotency, graceful degradation)
+* Solid understanding of distributed systems (consistency, messaging/event\\-driven patterns, observability)
+* AWS experience (core services, deployment/operations, security basics)
+* Experience with CI/CD, automated testing, and production support best practices (monitoring, logging, tracing)
+* Strong design skills: system design, technical documentation, code reviews, and mentor
+* Hands\\-on experience with Apache Kafka (producers/consumers, topics/partitions, consumer groups, offsets)","Financial Services","https://www.linkedin.com/company/jpmorganchase","https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI","","","","","","","","","","",""
+"li-4421288532","linkedin","https://www.linkedin.com/jobs/view/4421288532","","Bigdata team member in Aurora India Team L3","Ness Digital Engineering","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Other","","","**Description**
+**Why Ness**
+ We know that people are our greatest asset. Our staff’s professionalism, innovation, teamwork, and dedication to excellence have helped us become one of the world’s leading technology companies. It is these qualities that are vital to our continued success. As a Ness employee, you will be working on products and platforms for some of the most innovative software companies in the world.
    
 
   
 
-**Project Role Description :** 
- Lead the effort to design, build and configure applications, acting as the primary point of contact.
+ You’ll gain knowledge working alongside other highly skilled professionals that will help accelerate your career progression.
    
 
   
 
-**Must have skills :** 
- SAP ABAP Development for HANA
+ You’ll also benefit from an array of advantages like access to trainings and certifications, bonuses, and aids, socializing activities, and attractive compensation.
    
 
   
 
-**Good to have skills :** 
- NA
+**Requirements And Responsibilities**
+ We are looking for a self\\-motivated, enthusiastic, and passionate software engineer to develop technology solutions for the Ness marketplace product.
    
 
   
 
-**Minimum 5 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
+ The ideal candidate thrives in a highly technical role and will design and develop software using cutting\\-edge web applications, data pipelines, big data, machine learning, and multi\\-cloud technologies.
    
 
   
 
- Summary:
+ The development is already underway, so the candidate would be expected to get up to speed quickly and start contributing.
    
 
   
 
- As an Application Lead, you will lead the effort to design, build, and configure applications, acting as the primary point of contact. Your typical day will involve collaborating with various teams to ensure that application development aligns with business objectives, overseeing project timelines, and facilitating communication among stakeholders to drive successful outcomes. You will also engage in problem\\-solving activities, providing guidance and support to your team while ensuring adherence to best practices in application development.
+ You will enable Ness business to showcase our proprietary Ness data, combine it with “curated” alternative data, further enrich it with value\\-add services from Kensho and others, and deliver it via the clients’ channel of choice to help them make better investment and business decisions, with confidence.
    
 
   
 
- Roles \\& Responsibilities:
+ What you can expect: An unmatched experience in handling huge volumes of data, analytics, visualization, and services over cloud technologies along with appreciation in product development life cycle to convert an idea into revenue generating stream.
    
 
   
+
+**What You'll Do**
+* Design \\& Build ingestion pipelines using ELT and schema on read in Databricks Delta lake.
+* Design \\& Develop “Transformations” aspects using ELT framework to modernize the Ingestion pipelines and build data transformations at scale.
+* Provide technical expertise in the areas of design and implementation of Ratings Data Ingestion pipelines with modern AWS cloud and other technologies such as S3, Hive, Databricks, Scala, Python, and Spark.
+* Build and maintain a data environment for speed, accuracy, consistency, and ""up"" time.
+* Work closely with other data teams \\& Data Science team and participate in the development of Ingestion pipelines.
+* Ensure data governance principles are adopted, data quality checks and data lineage are implemented in each hop of the data.
+* Be in tune with emerging trends big data and cloud technologies and participate in the evaluation of new technologies.
+* Ensure compliance through adopting enterprise standards and promoting best practices/guiding principles aligned with organization standards.
 
-* Expected to be an SME.
-* Collaborate and manage the team to perform.
-* Responsible for team decisions.
-* Engage with multiple teams and contribute on key decisions.
-* Provide solutions to problems for their immediate team and across multiple teams.
-* Mentor junior team members to enhance their skills and knowledge.
-* Continuously assess and improve team processes to increase efficiency.
 
+**What You'll Bring**
+* A minimum of 7\\+ years of significant experience in application development.
+* Previous experience in the areas of design and implementation of Ratings Data Ingestion pipelines with modern AWS cloud and other technologies such as S3, Hive, Databricks, Scala, Python, and Spark.
+* Development, design, and architecture exposure \\& the ability to ensure quality across various technology components that are developed by geographically diversified software engineers with superior knowledge of system architecture, object\\-oriented design, and design patterns.
+* Proficient with software development lifecycle (SDLC) methodologies like Agile and test\\-driven development.
+* Experience working with high\\-volume data and computationally intensive systems.
+* Garbage collection friendly programming experience \\- tuning Java garbage collection \\& performance is a must.
+* Proficiency in the development environment, including IDE, web \\& application server, GIT, Continuous Integration, unit\\-testing tools, and defect management tools Domain knowledge in the Financial Industry and Capital Markets is a plus.
+* Excellent communication skills are essential, with strong verbal and writing proficiencies.
+* Mentor teams, innovate and experiment, give a face to business ideas, and present to key stakeholders.
 
- Professional \\& Technical Skills:
+
+**Not checking every single requirement?**
+ If this role sounds good to you, even if you don’t meet every single bullet point in the job description, we encourage you to apply anyway. For most of the candidates that applied, we found a role that was a very good fit with their skills.
    
 
   
 
-* Must To Have Skills: Proficiency in SAP ABAP Development for HANA.
-* Good To Have Skills: Experience with SAP Fiori and UI5\\.
-* Strong understanding of database management and optimization techniques.
-* Experience in application lifecycle management and deployment strategies.
-* Familiarity with Agile methodologies and project management tools.
+ Let’s meet and you may just be the right candidate for one of our roles.
+   
 
+  
 
- Additional Information:
+ At Ness Digital Engineering we are willing to build a work culture that is based on diversification, inclusion, and authenticity.","IT Services and IT Consulting","https://www.linkedin.com/company/ness-ses","https://media.licdn.com/dms/image/v2/C4D0BAQHneCFNW5-qJw/company-logo_100_100/company-logo_100_100/0/1653387910016/ness_ses_logo?e=2147483647&v=beta&t=EtXgplHbhzpw42m01al_gWd8AWWlRPjCRlPSvF3vMF0","","","","","","","","","","",""
+"li-4411586341","linkedin","https://www.linkedin.com/jobs/view/4411586341","","Senior Software Engineer | Hybrid (Navi Mumbai)","Zema Global Data Corporation","Navi Mumbai, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering","","","**Location** 
+ : Navi Mumbai, India
    
 
   
 
-* The candidate should have minimum 5 years of experience in SAP ABAP Development for HANA.
-* This position is based in Hyderabad.
-* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
-"li-4422065073","linkedin","https://www.linkedin.com/jobs/view/4422065073","","Senior Software Engineer_Oracle Cloud Fusion","Lowe's India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Innovate in Bengaluru**
- This position is based at our on\\-site office in Bengaluru. Lowe's offers an ultramodern work environment, complete with cutting\\-edge technology, collaborative workspaces, an on\\-site gym and clinic, and other perks to enhance your work experience.
+**Department** 
+ : Engineering
    
 
   
 
-**About Lowe’s**
- Lowe’s is a FORTUNE® 100 home improvement company serving approximately 16 million customer transactions a week in the United States. With total fiscal year 2024 sales of more than $83 billion, Lowe’s operates over 1,700 home improvement stores and employs approximately 300,000 associates. Based in Mooresville, N.C., Lowe’s supports the communities it serves through programs focused on creating safe, affordable housing, improving community spaces, helping to develop the next generation of skilled trade experts and providing disaster relief to communities in need. For more information, visit Lowes.com
+**Job Type:** 
+ Full\\-Time
    
 
   
 
- Lowe’s India, the Global Capability Center of Lowe’s Companies Inc., is a hub for driving our technology, business, analytics, and shared services strategy. Based in Bengaluru with over 4,500 associates, it powers innovations across omnichannel retail, AI/ML, enterprise architecture, supply chain, and customer experience. From supporting and launching homegrown solutions to fostering innovation through its Catalyze platform, Lowe’s India plays a pivotal role in transforming home improvement retail while upholding strong commitment to social impact and sustainability. For more information, visit Lowes India
+**Work Model** 
+ : Hybrid (8 times in the Office)
    
 
   
 
-**About The Team**
- We are a high\\-performing global engineering team focused on delivering reliable and scalable ERP Finance solutions that support critical business operations. The team collaborates closely with business stakeholders and vendor partners across the US and Bangalore to provide 24x7 production support, drive new feature development, and explore innovative AI capabilities around ERP financial data.
+**Shift** 
+ : Standard Business Hours (IST)
    
 
   
 
- Team members have opportunities to work across cross\\-functional initiatives, gain exposure to Core Finance ERP modules, and contribute to key activities such as sprint planning, quarterly patching, observability and monitoring, performance optimization, and ensuring business\\-critical SLA commitments are met. We strongly emphasize individual growth through cross\\-learning, collaboration, and continuous innovation.
+**About Us**
+ Founded in 1995, Zema Global Data Corporation empowers organizations to simplify complexity, reduce risk, and make faster, more confident decisions that drive measurable results. Over the past two years, Zema Global has accelerated its growth through strategic investment and acquisition to strengthen our global leadership. Together we’re helping our customers gain a Decisioning Advantage – one bold idea at a time. With a presence across global energy, commodity, and financial markets, Zema Global empowers customers to simplify complexity, reduce risk, and make faster, more confident decisions that drive measurable results.
    
 
   
 
-**Job Summary**
- The primary purpose of this role is to translate business requirements and functional specifications into logical program designs and to deliver code modules, stable application systems, and software solutions. This includes developing, configuring, or modifying complex integrated business and/or enterprise application solutions within various computing environments. This role facilitates the implementation and maintenance of complex business and enterprise software solutions to ensure successful deployment of released applications.
+ At Zema Global, we Think Big, Make It Happen, and Win as One. We thrive on collaboration, creativity, and respect, united by a shared drive to innovate and deliver meaningful impact for our customers and communities. If you’re inspired by solving complex challenges and contributing to a culture that values purpose and performance, we invite you to join us.
    
 
   
 
-**Roles \\& Responsibilities**
-* Translates complex business requirements and functional specifications into executable stories, designs, and code modules; partners with product teams to understand business needs and functional specifications.
-* Independently writes high quality, maintainable, and robust code by building adequate test suits and observability framework.
-* Guides application and software development teams in the design and build of complex solutions and ensures teams are in alignment with the architecture blueprint, standards, and strategies.
-* Participates and mentor’s other engineers in software development technologies and processes by creating onboarding documents, root cause analysis, key learnings, demos, and share\\-out sessions.
-* Automates and simplifies team development, tests, and operations processes for efficiency of delivering the work.
-* Evaluates modern software, tools, and technologies to provide objective analysis and recommendations to the team.
+**About The Job**
+ We are seeking an experienced
+ **Senior Software Engineer** 
+ to help lead the development and evolution of the cQuant platform. In this role, you will design, implement, and optimize complex features across the full stack while mentoring other developers and influencing technical direction. You’ll contribute to building high\\-performance, scalable, and secure solutions that serve our energy analytics customers worldwide.
+   
 
+  
 
-**Years Of Experience**
-* Minimum 5 years of experience in software development or a related field.
+**Key Responsibilities**
+* Lead the design and development of critical features across both frontend (React.js) and backend (Node.js/Express, Python, Golang) systems.
+* Guide the team in applying Agile development practices and ensure delivery of high\\-quality, maintainable code.
+* Translate complex business requirements and wireframes into robust, production\\-ready solutions.
+* Optimize application performance, scalability, and security across a wide range of devices, browsers, and workloads.
+* Implement cloud\\-native solutions leveraging AWS, Azure, or equivalent cloud platforms.
+* Oversee integration of frontend components with server\\-side logic and APIs.
+* Mentor junior and mid\\-level engineers, promoting best practices in coding, testing, and DevOps.
+* Drive improvements in team processes, tooling, and infrastructure.
+* Champion secure development practices and implement modern approaches for data protection.
+* Collaborate closely with product owners, designers, and stakeholders to deliver features that meet both technical and business goals.
 
 
-**Education Qualification \\& Certifications**
-* Bachelor’s degree in computer science, computer information systems (CIS), or related field or equivalent years of experience in lieu of education requirement, if applicable.
+**Required Technical Skills**
+**Must\\-Have**
+* Strong proficiency in JavaScript, TypeScript, and Python.
+* Solid understanding of modern web application architecture.
+* Strong understanding of Linux environments, containerization, and CI/CD pipelines.
+* Experience architecting and deploying cloud\\-native applications (AWS, Azure, or similar).
+* Proficiency with databases like PostgreSQL, including schema design and optimization.
+* Proven track record in performance optimization, benchmarking, and scalability design.
+* Advanced use of Git and version control best practices.
 
 
-**Primary Skills**
-* 4 years of experience in any of following competencies: frontend technologies (user interface/user experience), middleware (microservices and application programming interfaces), database technologies, or DevOps.
-* 4 years of experience working on project(s) involving the implementation of solutions applying development life cycles (SDLC) through iterative agile development.
-* 3 years of Hands\\-on experience with ERP financial such as General Ledger, Account Payables
-* 3 years of Hands\\-on experience with building Oracle ERP (Oracle Cloud Fusion) financial analytical reports
-* 2 years of Hands\\-on experience with Fusion Data Intelligence (FDI) formerly Fusion Analytics Warehouse (FAW)
-* 2 years of Hands\\-on experience with Oracle PL\\-SQL programming
-* 1 years of Hands\\-on Python, SQL, or data science libraries/frameworks used for AI/ML integration and analytics automation is a plus.
-* 4 years of experience writing technical documentation in a software environment, developing and implementing business systems within an organization, and working with source code control systems.
-* 4 years of experience working with an IT Infrastructure Library (ITIL) framework, defect or incident tracking software, web services, and application and integration middleware.
-* 4 years of experience in systems analysis, including defining technical requirements and performing high level design for complex solutions.
-* 4 years of experience working with three or more of the following: Continuous integration/continuous deployment tools, frontend technologies, middleware, database technologies, and/or DevOps.
-* Experience leveraging AI/ML technologies for analytics, reporting automation, anomaly detection, predictive insights, or intelligent business process optimization.
-* Experience integrating AI\\-enabled reporting solutions using Oracle Analytics Cloud (OAC), Oracle AI services, Generative AI capabilities, or enterprise data platforms.
-* Familiarity with Machine Learning concepts such as data modeling, forecasting, classification, recommendation systems, and intelligent automation in enterprise applications.
-* Experience utilizing Generative AI tools (e.g., Oracle Generative AI Services, OCI AI Services, LLM\\-powered assistants, Copilot technologies) to improve developer productivity, reporting insights, or operational efficiency.
-* Knowledge of data engineering and AI/ML workflows including data preparation, feature engineering, model deployment, and monitoring within cloud environments.
+**Education \\& Experience**
+* Bachelor’s degree in computer science, mathematics, or related field (or equivalent practical experience).
+* 3 to 5 years of professional software development experience building and scaling complex web applications.
+* Prior experience leading projects or mentoring engineers strongly preferred.
 
 
-*Lowe's is an equal opportunity employer and administers all personnel practices without regard to race, color, religious creed, sex, gender, age, ancestry, national origin, mental or physical disability or medical condition, sexual orientation, gender identity or expression, marital status, military or veteran status, genetic information, or any other category protected under federal, state, or local law.*
- Starting rate of pay may vary based on factors including, but not limited to, position offered, location, education, training, and/or experience. For information regarding our benefit programs and eligibility, please visit https://talent.lowes.com/us/en/benefits.","Retail","https://in.linkedin.com/company/lowe-s-india","https://media.licdn.com/dms/image/v2/C4E0BAQHoNPNGRZYG-w/company-logo_100_100/company-logo_100_100/0/1630617454317/lowes_india_logo?e=2147483647&v=beta&t=V2blyxQNtBHHqgDqDg-WADh2r2MvLpg4fLsnuqmMICs","","","","","","","","","","",""
-"li-4417988299","linkedin","https://www.linkedin.com/jobs/view/4417988299","","Technology Platform Engineer","Accenture in India","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
- Technology Platform Engineer
-   
+**Nice\\-to\\-Have**
+* Expertise in JavaScript and Node.js, with hands\\-on experience in workflows like Redux or Flux and frameworks like Express.
+* Strong analytical and problem\\-solving skills, with ability to balance technical and business trade\\-offs.
 
-  
 
-**Project Role Description :** 
- Creates production and non\\-production cloud environments using the proper software tools such as a platform for a project or product. Deploys the automation pipeline and automates environment creation and configuration.
-   
+**Why Zema Global?**
+* Be part of a rapidly growing company revolutionizing energy analytics, shaping how data drives decision\\-making across the energy and commodities markets.
+* Work with cutting\\-edge technology alongside a team of industry experts who are redefining market intelligence.
+* Join a company culture that values innovation, collaboration and customer\\-centric thinking, giving you the autonomy to drive meaningful change.
 
-  
 
-**Must have skills :** 
- Salesforce Experience Cloud
+**How to Apply?**
+ If you're excited about this opportunity, send us your application highlighting your qualifications and experience relevant to the role and we'll get back to you as soon as possible (we only accept CVs in English).
    
 
   
 
-**Good to have skills :** 
- Salesforce Data 360
+ We appreciate all applications, but only shortlisted candidates will be contacted for further consideration. Thank you for your interest. And strictly no agency calls or agency CV submissions.
    
 
   
 
-**Minimum 5 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
+ We’re looking forward to seeing how you can make an impact with us!
    
 
   
+
+* No visa sponsorship is available for this position \\*\\*\\*
 
- Summary:
+
+**Equality and Diversity** 
+ : Zema Global is committed to diversity and inclusion. We encourage applications from all qualified individuals and do not discriminate based on race, gender, sexual orientation, disability, or any other protected status.","Data Infrastructure and Analytics","https://www.linkedin.com/company/zemaglobal","https://media.licdn.com/dms/image/v2/D560BAQHLvS2Xgrfp9g/company-logo_100_100/company-logo_100_100/0/1727706756508/zemaglobal_logo?e=2147483647&v=beta&t=j402QOX5vKmJ3y602PAm7j126oEa6K1Ha3Qx9wu5bxo","","","","","","","","","","",""
+"li-4421292387","linkedin","https://www.linkedin.com/jobs/view/4421292387","","Senior Software Engineer- IBM DataStage Developer","CGI","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Position Description
    
 
   
 
- As a Cloud Platform Engineer \\- Platform Administrator, you will work on large scale projects on Salesforce, collaborate with various teams to ensure seamless integration and functionality across platforms, contributing to the overall success of the projects you are involved in..
+ Company Profile:
    
 
   
 
- Roles \\& Responsibilities:
+ Founded in 1976, CGI is among the largest independent IT and business consulting services firms in the world. With 94,000 consultants and professionals across the globe, CGI delivers an end\\-to\\-end portfolio of capabilities, from strategic IT and business consulting to systems integration, managed IT and business process services and intellectual property solutions. CGI works with clients through a local relationship model complemented by a global delivery network that helps clients digitally transform their organizations and accelerate results. CGI Fiscal 2024 reported revenue is CA$14\\.68 billion and CGI shares are listed on the TSX (GIB.A) and the NYSE (GIB). Learn more at cgi.com.
    
 
   
 
-* Expected to be an SME.
-* Collaborate and manage the team to perform.
-* Responsible for team decisions.
-* Engage with multiple teams and contribute on key decisions.
-* Provide solutions to problems for their immediate team and across multiple teams.
-* Facilitate knowledge sharing sessions to enhance team capabilities.
-* Monitor and evaluate the performance of cloud environments to ensure optimal operation.
+ Job Title: Senior Software Engineer \\-IBM DataStage Developer
+   
 
+  
 
- Professional \\& Technical Skills:
+ Position: SSE
    
 
   
 
-* Must To Have Skills: Should have experience working on large scale projects. Proficiency in Salesforce Experience Cloud and good understanding of Salesforce Data Cloud.
-* Good To Have Skills: Experience with Salesforce Data Cloud or Service Cloud.
-* Strong understanding of cloud infrastructure and deployment strategies.
-* Experience with automation tools and scripting languages.
-* Familiarity with continuous integration and continuous deployment practices
+ Experience: 7\\-9 Years
+   
 
+  
 
- Additional Information:
+ Category: SE
    
 
   
 
-* The candidate should have minimum 5 years of experience in Salesforce Experience Cloud.
-* This position is based in Hyderabad.
-* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
-"li-4417976917","linkedin","https://www.linkedin.com/jobs/view/4417976917","","Application Support Engineer","Accenture in India","Navi Mumbai, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Project Role :** 
- Application Support Engineer
+ Main location: India Chennai
    
 
   
 
-**Project Role Description :** 
- Act as software detectives, provide a dynamic service identifying and solving issues within multiple components of critical business systems.
+ Position ID: J0526\\-2498
    
 
   
 
-**Must have skills :** 
- Microsoft Intune
+ Your future duties and responsibilities
    
 
   
 
-**Good to have skills :** 
- NA
+ Technical \\& Behavioral Competencies
    
 
   
 
-**Minimum 5 Year(s) Of Experience Is Required**
-**Educational Qualification :** 
- 15 years full time education
+ Ability to perform technical analysis, design and identify impacts (functional/technical)
    
 
   
 
- Summary:
+ Proficiency in:
    
 
   
+
+* Design, develop, and implement data integration solutions using IBM Infosphere DataStage Parallel Edition
+* Create data jobs, design data flows, and optimize data processing performance
+* Manage and monitor data integration processes using DataStage Designer, Director, and Administrator
+* Ensure data quality, data validation, and data transformation techniques are applied to all data integration processes
+* Collaborate with cross\\-functional teams to identify and prioritize data integration requirements
+* Troubleshoot and resolve data integration issues and performance problems
+* Hands on experience in designing Robust Data Pipelines in DataStage PX to deal with huge data volumes.
+* Experience in connecting Oracle data sources, ability to develop customization around DataStage PX and Oracle.
+* Realtime working experience in dealing with DataStage 8\\.0 x, 9\\.0 x, 11\\.0 x and greater version, Data Dictionary, Deployment, Designer client, Director client.
+* Oracle SQL and PL/SQL in 12c or latest version
+* Triggers, Views and Performance Tuning related to SQL Queries
+* Unix Shell scripting
+* Any Scheduler concept awareness
 
- As an Application Support Engineer, you will act as software detectives, providing a dynamic service that identifies and solves issues within multiple components of critical business systems. Your typical day will involve collaborating with various teams to troubleshoot and resolve software\\-related challenges, ensuring that business operations run smoothly and efficiently. You will engage in problem\\-solving activities, analyze system performance, and contribute to the continuous improvement of application support processes, all while maintaining a focus on delivering exceptional service to end\\-users and stakeholders.
+
+ Nice to Have:
    
 
   
+
+* Experience with other data integration tools and technologies
+* Knowledge of data architecture and data modelling
+* Experience with core Java and Frameworks is an added advantage.
+* Experience with agile development methodologies
+* Certification in IBM DataStage or related technologies
 
- Roles \\& Responsibilities:
+
+ Specific Qualifications:
    
 
   
 
-* Expected to be an SME.
-* Collaborate and manage the team to perform.
-* Responsible for team decisions.
-* Engage with multiple teams and contribute on key decisions.
-* Provide solutions to problems for their immediate team and across multiple teams.
-* Facilitate knowledge sharing sessions to enhance team capabilities.
-* Monitor application performance and proactively address potential issues.
+* Experience in the financial services industry will be a distinct advantage
+* Inclination to understand and learn application/business functionality
+* Good communicator, fast learner \\& a Team player
+* Attention to detail, disciplined and reliable
+* High motivation and confidence levels
+* Can do attitude and attention to detail
 
 
- Professional \\& Technical Skills:
+**Skills Referential (Required Knowledge, Skills And Abilities)**
+ Technical Skills:
    
 
   
 
-* Must To Have Skills: Proficiency in Microsoft Intune.
-* Good To Have Skills: Experience with application lifecycle management tools.
-* Strong understanding of software troubleshooting methodologies.
-* Familiarity with cloud\\-based application support.
-* Experience in user training and support documentation.
+* DataStage 8\\.0 x, 9\\.0 x, 11\\.0 x and greater version, Data Dictionary, Deployment, Designer client, Director client.
+* Oracle SQL and PL/SQL in 12c or latest version
+* Triggers, Views and Performance Tuning related to SQL Queries
+* Unix Shell scripting
+* Any Scheduler concept awareness
 
 
- Additional Information:
+ Behavioral Skills:
    
 
   
+
+* Creativity \\& Innovation / Problem solving
+* Ability to deliver / Results driven
+* Communication skills \\- oral \\& written
 
-* The candidate should have minimum 5 years of experience in Microsoft Intune.
-* This position is based at our Mumbai office.
-* A 15 years full time education is required.","Software Development","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D560BAQFz1apPGEyk7g/company-logo_100_100/B56ZfOL01vHUAQ-/0/1751510896876/accentureindia_logo?e=2147483647&v=beta&t=a7EG27Z0D5Yt5mPwj12FPKVgY4iU_1Ko8MIJvASh-As","","","","","","","","","","",""
-"li-4414633865","linkedin","https://www.linkedin.com/jobs/view/4414633865","","SHAREPOINT /POWER APPS DEVELOPER | 6 TO 9 YEARS | MUMBAI","Capgemini","Sion, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Your Role
+
+**Required Qualifications To Be Successful In This Role**
+**Together, as owners, let’s turn meaningful insights into action.**
+ Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
    
 
   
 
-* Develop and customize Power Apps solutions to meet business requirements.
-* Design and manage SharePoint sites, lists, libraries, and workflows.
-* Integrate Power Apps with SharePoint, Power Automate, and other Microsoft 365 services.
-* Collaborate with stakeholders to gather requirements and improve user experience.
-* Maintain, troubleshoot, and optimize apps and SharePoint environments for performance and security.
+ You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
+   
 
+  
 
- Works in the area of Software Engineering, which encompasses the development, maintenance and optimization of software solutions/applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He/she is responsible for the development and application of software engineering practice and knowledge, in research, design, development and maintenance.3\\. His/her work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his/her software engineering discipline to reach standard software engineer skills expectations for the applicable role, as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
+ Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
    
 
   
 
- Your Profile
+ You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well\\-being and provide you with opportunities to deepen your skills and broaden your horizons.
    
 
   
 
-* A skilled professional responsible for developing and customizing Power Apps solutions aligned with business needs.
-* Experienced in designing and managing SharePoint sites, including lists, libraries, and automated workflows.
-* Adept at integrating Power Apps with SharePoint, Power Automate, and other Microsoft 365 tools to streamline operations.
-* Collaborates closely with stakeholders to gather requirements and enhance user experience.
-* Ensures smooth functioning by maintaining, troubleshooting, and optimizing applications and SharePoint environments.
-* Focused on delivering secure, high\\-performing solutions that drive productivity and efficiency.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
+ Come join our team—one of the largest IT and business consulting services firms in the world.","IT Services and IT Consulting","https://ca.linkedin.com/company/cgi","https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI","","","","","","","","","","",""
