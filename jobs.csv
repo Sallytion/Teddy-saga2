@@ -1,469 +1,452 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4422587023","linkedin","https://www.linkedin.com/jobs/view/4422587023","","Software Engineer - AVP","hackajob","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","***hackajob** 
- is collaborating with
- **Barclays** 
- to connect them with exceptional professionals for this role.*
- Join us as a Software Engineer at Barclays, where you will spearhead the evolution of our infrastructure and deployment pipelines, driving innovation and operational excellence. You will harness cutting\\-edge technology to build and manage robust, scalable and secure infrastructure, ensuring seamless delivery of our digital solutions.
+"li-4421643219","linkedin","https://www.linkedin.com/jobs/view/4421643219","","Platform Engineer (AWS)","Embrace Software Inc","","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","About Us
+ 
+ We're rebuilding vertical software with AI — from the inside.
+ 
+
+
+
+  
+
+
+
+
+
+ Embrace owns the software running inside 16% of the Fortune 500, 45\\+ state agencies, and 450\\+ banks and credit unions. We acquire entrenched vertical software businesses and rebuild them around AI — products, operations, go\\-to\\-market, all of it. Our Venture Lab launches new AI\\-native products into those same markets, using the distribution and customer relationships our portfolio already owns.
+ 
+
+
+
+  
+
+
+
+
+
+ You'll ship AI into production against real workflows, real customers, and a P\\&L you can see move within a quarter.
+ 
+
+
+
+  
+
+
+
+
+
+ We hire people who want scope, speed, and ownership, and who are tired of working on AI that never reaches a customer. If you want to spend the next five years shipping into software that already runs the economy, talk to us.​​
+ 
+
+
+
+  
+
+
+
+
+ Job Description
+ 
+ Embrace Legal Group is a trusted legal technology solutions provider within the Embrace portfolio of companies.
+ 
+
+
+
+  
+
+
+
+
+ The Opportunity
+ 
+ We are seeking a highly capable Platform Engineer to join our Platform Engineering team and help build, operate, and scale the infrastructure that powers Embrace’s legal technology platform.
+ 
+
+
+
+ In this role, you will own critical areas of our cloud infrastructure, container orchestration platform, CI/CD systems, observability stack, and operational reliability practices. You will work closely with product engineering, security, and data teams to create resilient, secure, observable, and cost\\-efficient systems that enable rapid software delivery while maintaining the reliability and compliance standards expected by enterprise clients.
+ 
+
+
+
+ This is a high\\-impact opportunity for an engineer who thrives at the intersection of cloud infrastructure, automation, developer enablement, and operational excellence in a regulated, multi\\-tenant SaaS environment.
+ 
+
+
+ Key ResponsibilitiesCloud Infrastructure \\& Platform Architecture
+ * Own and evolve the AWS infrastructure that underpins our multi\\-tenant SaaS platform.
+* Design, provision, and manage production\\-grade AWS services including EC2, S3, RDS, ECR, VPC, IAM, CloudFront, Route 53, and EKS/ECS clusters.
+* Implement and maintain Infrastructure as Code (IaC) using Terraform or CloudFormation to ensure repeatable, version\\-controlled, and auditable environments across development, staging, and production.
+* Architect and optimize PostgreSQL infrastructure including automated backups, replication, failover strategies, and performance tuning for high\\-throughput transactional workloads.
+* Drive high availability, disaster recovery planning, scalability, and cloud cost optimization initiatives across the platform.
+* Contribute to infrastructure standards, platform governance, and operational best practices.
+
+
+ CI/CD \\& Release Engineering
+ * Build and maintain delivery pipelines that enable rapid, safe, and reliable deployments.
+* Design and operate CI/CD workflows for Python (Django/Flask/FastAPI) and React applications across multiple services.
+* Automate build, test, deployment, and rollback workflows using GitHub Actions, GitLab CI, Jenkins, or equivalent tooling.
+* Implement deployment strategies including blue\\-green, canary, and rolling deployments to reduce production risk.
+* Manage artifact repositories, container registries (ECR), and deployment manifests with full traceability and rollback support.
+* Improve developer workflows and deployment automation to increase engineering velocity and platform reliability.
+
+
+ Container Platform \\& Orchestration
+ * Design, operate, and optimize our container orchestration platform for scalability, reliability, and tenant isolation.
+* Manage Docker\\-based development and production environments, including image hardening and registry governance.
+* Implement and maintain Kubernetes (EKS) or ECS infrastructure for scalable application deployments.
+* Define and maintain Helm charts, Kubernetes manifests, and environment\\-specific deployment configurations.
+* Enforce networking policies, namespace isolation, resource quotas, and workload security standards.
+* Support platform scalability, cluster health, autoscaling, and operational resilience.
+
+
+ Observability, Reliability \\& Security
+ * Build and maintain monitoring, alerting, and observability systems using CloudWatch, Datadog, Prometheus, Grafana, or similar tooling.
+* Implement centralized logging and audit trail solutions across application and infrastructure layers.
+* Define operational standards for incident response, alerting, reliability, and system health monitoring.
+* Enforce infrastructure security best practices including secrets management, IAM least\\-privilege access, network segmentation, and certificate management.
+* Support compliance initiatives including SOC 2 and HIPAA through infrastructure controls, audit readiness, and vulnerability management.
+* Lead incident response, root cause analysis, and blameless postmortem reviews.
+
+
+ Cross\\-Functional Collaboration \\& Platform Enablement
+ * Partner with engineering teams to improve deployment reliability, operational efficiency, and developer experience.
+* Troubleshoot infrastructure, deployment, networking, and performance issues across environments.
+* Author and maintain infrastructure documentation, architecture diagrams, operational runbooks, and deployment playbooks.
+* Mentor team members on platform engineering, infrastructure\\-as\\-code practices, operational excellence, and cloud\\-native tooling.
+* Contribute to long\\-term platform scalability, automation, and engineering enablement initiatives.
+
+
+
+  
+
+
+
+
+ RequirementsMust\\-Have Skills
+ * 5\\+ years of progressive DevOps/SRE experience in SaaS or enterprise environments.
+* Infrastructure as Code using Terraform (AWS provider, modules, multi\\-environment state management).
+* AWS core services: EKS, ECR, RDS, VPC, IAM, CloudWatch, ALB, EFS, S3, CloudFront, Route 53\\.
+* Kubernetes administration: Helm charts, pods, deployments, services, kubectl, autoscaling.
+* Docker containerization including multi\\-stage builds and registry operations.
+* CI/CD pipelines: AWS CodeBuild, GitHub Actions, GitLab CI, or Jenkins.
+* PostgreSQL production management: backup automation, replication, monitoring, performance tuning.
+* Linux systems administration (Ubuntu/Amazon Linux) and shell scripting proficiency.
+* Networking fundamentals: DNS, load balancing, TLS/SSL, firewall rules, VPN configurations.
+* Monitoring and observability: Datadog, FluentBit, CloudWatch Logs.
+* Security: AWS Secrets Manager, ACM certificates, security groups, IAM policies.
+* Application stack: Django, Celery, Redis, PostgreSQL, Nginx.
+* Git workflows, branching strategies, and pull request review processes.
+* Strong problem\\-solving skills with a proactive, ownership\\-driven approach.
+
+
+ Good\\-to\\-Have Skills
+ * Advanced AWS services: AWS Backup, Lambda, SNS, EventBridge.
+* Advanced Kubernetes: EFS CSI driver, AWS Load Balancer Controller, Cluster Autoscaler.
+* Python scripting for infrastructure automation and operational workflows.
+* Multi\\-tenant SaaS architecture, tenant isolation strategies, and data partitioning.
+* Third\\-party service integration (SendGrid, Twilio) at the infrastructure level.
+* FinOps practices: cloud cost management, reserved/spot instance optimization.
+* Compliance frameworks (SOC 2 Type II, HIPAA) and required infrastructure controls.
+* Service mesh technologies (Istio, Linkerd) or API gateway solutions.
+* Cluster management tools like Rancher.
+* Database disaster recovery: snapshots, cloning, multi\\-region considerations.
+* Container security scanning and ClamAV integration.
+* Infrastructure documentation and multi\\-environment workflows (dev → stg → prod).
+* AWS certifications (Solutions Architect, DevOps Engineer Professional).
+
+
+
+  
+
+
+
+
+ Benefits
+ * Competitive salary commensurate with experience.
+* Opportunities for career advancement and professional development.
+* Experience collaborating with a diverse, global team within a remote work setting.
+
+
+
+  
+
+
+
+
+
+ This is a remote position.","Software Development","https://www.linkedin.com/company/embrace-software-inc","https://media.licdn.com/dms/image/v2/D560BAQH6Y_HJWzzO2Q/company-logo_100_100/company-logo_100_100/0/1732629315117/embrace_software_inc_logo?e=2147483647&v=beta&t=NIdahoTHU-d8d7ZSA3Ht7gJxveDMZdj0Ca7fq34uWG4","","","","","","","","","","",""
+"li-4413958448","linkedin","https://www.linkedin.com/jobs/view/4413958448","","Lead Software Engineer","Capgemini","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
+ Works in the area of Software Engineering which encompasses the development maintenance and optimization of software solutions and applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He or she is responsible for the development and application of software engineering practice and knowledge in research design development and maintenance.3\\. He or she work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his or her software engineering discipline to reach standard software engineer skills expectations for the applicable role as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.Works in the area of Software Engineering, which encompasses the development, maintenance and optimization of software solutionsorapplications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. Heorshe is responsible for the development and application of software engineering practice and knowledge, in research, design, development and maintenance.3\\. Hisorher work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of hisorher software engineering discipline to reach standard software engineer skills expectations for the applicable role, as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
    
 
   
 
- To be successful as a Software Engineer, you should have experience with:
+**Job Description \\- Grade Specific**
+ Is highly respected, experienced and trusted. Masters all phases of the software development lifecycle and applies innovation and industrialization. Shows a clear dedication and commitment to business objectives and responsibilities and to the group as a whole. Operates with no supervision in highly complex environments and takes responsibility for a substantial aspect of Capgeminis activity. Is able to manage difficult and complex situations calmly and professionally. Considers ˜the bigger picture when making decisions and demonstrates a clear understanding of commercial and negotiating principles in less easy situations. Focuses on developing long term partnerships with clients. Demonstrates leadership that balances business, technical and people objectives. Plays a significant part in the recruitment and development of people.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
+"li-4413493011","linkedin","https://www.linkedin.com/jobs/view/4413493011","","Dotnet Azure Software Engineer | 6 to 12 Years | Hyderabad","Capgemini","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
+* NET Core Developer (Azure)
+
+
+**Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way you’d like, where you’ll be supported and inspired by a collaborative community of colleagues around the world, and where you’ll be able to reimagine what’s possible. Join us and help the world’s leading organizations unlock the value of technology and build a more sustainable, more inclusive world.**
+**Your Role**
+ Responsible for developing, maintaining, and deploying scalable .NET Core applications on Microsoft Azure. The role involves designing RESTful APIs, working extensively with Azure cloud services, and collaborating in an Agile environment to deliver robust, cloud\\-native solutions.
    
 
   
 
-* Expertise in JAVA / Microservices / API / sprint boot – Development and Design.
-* Good control of engineering practices of end to end app and web development including devops and security for customer facing applications.
-* Application and understanding of enterprise complex fintech design patterns, domain driven architecture and cloud technologies.
-* Good experience in creating high level and low level designs along with estimations
-* Excellent analytical skills to be able to dig out existing applications in code and analyse issues.
+**Key Responsibilities**
+* Develop and maintain applications using .NET Core / C\\#.
+* Design and implement RESTful APIs.
+* Work with Azure services such as Cosmos DB, Service Bus, Functions, and App Services.
+* Manage CI/CD pipelines using Azure DevOps.
+* Collaborate within an Agile/SCRUM team environment.
+* Troubleshoot and debug issues in distributed cloud applications.
 
 
-**Some Other Highly Valued Skills May Include**
-* Knowledge on Mobile App technologies and React / React Native.
-* Knowledge of BIAN architecture.
-* Applications and experience in using AI tools and models.
-* Knowledge and experience of credit card domains.
-* Application and good knowledge of scaled Agile methodologies.
+**Your Profile**
+**Must\\-have Skills**
+* Strong proficiency in .NET Core / C\\# and RESTful API development.
+* Hands\\-on experience with Azure services: Cosmos DB, Service Bus, Azure Functions, App Services.
+* Experience with Azure DevOps for version control, CI/CD pipelines, build \\& release.
+* Good understanding of microservices and cloud\\-native architecture.
+* Strong problem‑solving and debugging skills.
+* Experience working in Agile/SCRUM teams.
 
 
- You may be assessed on key critical skills relevant for success in role, such as risk and controls, change and transformation, business acumen, strategic thinking and digital and technology, as well as job\\-specific technical skills.
+**What You'll Love About Working Here**
+* You can shape your career with us. We offer a range of career paths and internal opportunities within the Capgemini Group, along with personalized guidance from our leaders.
+* You will receive comprehensive wellness benefits including preventive health checks, telemedicine, top\\-up insurance, elder care, partner coverage, and flexible work options for new parents.
+* At Capgemini, you will work on cutting\\-edge technology and engineering projects with global industry leaders, or contribute to building solutions that address environmental and societal challenges.
+
+
+**About Capgemini**
+ Capgemini is an AI\\-powered global business and technology transformation partner, delivering tangible business value. With a strong heritage of nearly 60 years, we are a responsible and diverse organization of 420,000 team members in more than 50 countries. We deliver end\\-to\\-end services leveraging deep industry expertise and a robust partner ecosystem across strategy, technology, design, engineering, and business operations.
    
 
   
 
- The role is based out of Pune.
-   
-
-  
-
-**Purpose of the role**
- To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues.
-   
-
-  
-
-**Accountabilities**
-* Development and delivery of high\\-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance.
-* Cross\\-functional collaboration with product managers, designers, and other engineers to define software requirements, devise solution strategies, and ensure seamless integration and alignment with business objectives.
-* Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing.
-* Stay informed of industry technology trends and innovations and actively contribute to the organization’s technology communities to foster a culture of technical excellence and growth.
-* Adherence to secure coding practices to mitigate vulnerabilities, protect sensitive data, and ensure secure software solutions.
-* Implementation of effective unit testing practices to ensure proper code design, readability, and reliability.
-
-
-**Assistant Vice President Expectations**
-* To advise and influence decision making, contribute to policy development and take responsibility for operational effectiveness. Collaborate closely with other functions/ business divisions.
-* Lead a team performing complex tasks, using well developed professional knowledge and skills to deliver on work that impacts the whole business function. Set objectives and coach employees in pursuit of those objectives, appraisal of performance relative to objectives and determination of reward outcomes
-* If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.
-* OR for an individual contributor, they will lead collaborative assignments and guide team members through structured assignments, identify the need for the inclusion of other areas of specialisation to complete assignments. They will identify new directions for assignments and/ or projects, identifying a combination of cross functional methodologies or practices to meet required outcomes.
-* Consult on complex issues; providing advice to People Leaders to support the resolution of escalated issues.
-* Identify ways to mitigate risk and developing new policies/procedures in support of the control and governance agenda.
-* Take ownership for managing risk and strengthening controls in relation to the work done.
-* Perform work that is closely related to that of other areas, which requires understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub\\-function.
-* Collaborate with other areas of work, for business aligned support areas to keep up to speed with business activity and the business strategy.
-* Engage in complex analysis of data from multiple sources of information, internal and external sources such as procedures and practises (in other areas, teams, companies, etc).to solve problems creatively and effectively.
-* Communicate complex information. 'Complex' information could include sensitive information or information that is difficult to communicate because of its content or its audience.
-* Influence or convince stakeholders to achieve outcomes.
-
-
- All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave.","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M","","","","","","","","","","",""
-"li-4422586015","linkedin","https://www.linkedin.com/jobs/view/4422586015","","Staff Software Engineer (Full Stack)","Analyttica Datalab","","","fulltime","","","","","",False,"mid-senior level","Engineering","","recruitement@analyttica.com","**Responsibilities:** 
-
-
-
-* Define platform architecture, engineering standards, and technical direction.
-* Lead engineering execution and mentor developers across frontend, backend, and platform initiatives.
-* Operationalize AI development workflows across the team using Claude Code, Codex, Gemini etc.
-
-
-
-  
-
-
-
-
-
-**Requirements:** 
-
-
-
-* 5\\+ years of software engineering experience
-* Strong software architecture and system design experience with production\\-scale applications.
-* Demonstrated experience using AI engineering tools such as Claude Code, OpenAI Codex, Cursor, Gemini, Windsurf, and similar technologies.
-* Strong technical judgment with the ability to balance speed, quality, maintainability, and long\\-term platform evolution.
-
-
-
-  
-
-
-
-
-
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
- 
-
-
-
-  
-
-
-
-
-
-**FAST APPLY: Take Home Assignment**
-
-
-
-
-**Time:** 
- 4–6 hours (or submit something you've already built)
- 
-
-
-
-**Deliverable:** 
- GitHub repo \\+ BUILD\\_LOG.md
- 
-
-
-
-  
-
-
-
-
-
-**Already built something using AI Tools?** 
- If you have a side project or prior work that's relevant \\- you can submit that instead. We'll use it as the basis for our technical conversation.
- 
-
-
-
-  
-
-
-
-
-
-**The Brief** 
-
-
-
-
- Build a lightweight charting tool — think the earliest, most honest version of what could eventually become a Looker or Power BI. A user can connect a data source, configure a chart, and see it render. Use Plotly as the charting engine.
- 
-
-
-
-  
-
-
-
-
-
- The feature scope is intentionally small.
- **We're evaluating whether the foundations are right** 
- \\- whether this v0 could credibly grow into a production analytics product without being torn down and rebuilt.
- 
-
-
-
-  
-
-
-
-
-
-**Minimum Requirements** 
-
-
-
-* At least
- **one working data source** 
- — a CSV upload, a static JSON file, or a simple database query. The connection mechanism matters more than the source itself.
-* At least
- **two chart types** 
- — bar and line is fine. Both must be implemented using
- **Plotly** 
+ The Group reported
+ **2024 global revenues of €22\\.1 billion** 
  .
-* A
- **chart configuration layer** 
- — some representation of ""what chart, from what data, with what mappings."" This does not need to be a UI. A config file or API payload is acceptable.
-* The chart
- **renders** 
- from that config via Plotly. That's it.
-* Your architecture should reflect production\\-scale thinking \\- separation of concerns, extensible interfaces, and no load\\-bearing assumptions etc.
-
-
-
-  
-
-
-
-
-
-**Submission** 
-
-
-
-* Send the below items to recruitement@analyttica.com with the subject ""Staff Software Engineer: Assignment""
-* (1\\) A link to the repository including: ARCHITECTURE.md, SKILLS.md, and BUILD\\_LOG.md
-* (2\\) Optional: The live link of the working application
-* (3\\) Your Resume","Technology, Information and Internet","https://in.linkedin.com/company/analyttica","https://media.licdn.com/dms/image/v2/D4E0BAQHhkTrYJZD68g/company-logo_100_100/B4EZb5DuAwGUAY-/0/1747935224276/analyttica_logo?e=2147483647&v=beta&t=xY5PqnCI6zDW01-mKMiLYPZbNcG7AzTYxFFuwe_z_gY","","","","","","","","","","",""
-"li-4422561809","linkedin","https://www.linkedin.com/jobs/view/4422561809","","‘Software Engineer – Mainframe’","hackajob","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"entry level","Other","","","***hackajob** 
- is collaborating with
- **Barclays** 
- to connect them with exceptional professionals for this role.*
- Join us as a Software Engineer at Barclays, where you will spearhead the evolution of our infrastructure and deployment pipelines, driving innovation and operational excellence. You will harness cutting\\-edge technology to build and manage robust, scalable and secure infrastructure, ensuring seamless delivery of our digital solutions.
    
 
   
 
- To be successful as a Software Engineer, you should have experience with:
+**Make it real \\| www.capgemini.com**","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
+"li-4414649303","linkedin","https://www.linkedin.com/jobs/view/4414649303","","Software Engineer II - Python,Microservices,Kafka,Nosql,","Blue Yonder","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Management, Information Technology, and Engineering","","","**Scope**
+* We are seeking a highly skilled Python Developer with a strong background in distributed systems, DevOps practices, and Test\\-Driven Development (TDD). The ideal candidate will be proficient in event\\-driven architectures using Kafka, familiar with Java\\-based microservices, and experienced with NoSQL databases (preferably Snowflake).
+* You’ll collaborate with cross\\-functional teams to design, develop, and deploy scalable, high\\-performance backend services — and optionally contribute to front\\-end components (React, Node.js) or Generative AI\\-driven features in our product ecosystem.
+
+
+**Our Current Technical Environment**
+* Software: Python,Java, Springboot, React, Gradle, GIT, Hibernate, Rest API, OAuth
+* Application Architecture: Scalable, Resilient, event driven, secure multi\\-tenant Microservices architecture
+* Cloud Architecture: MS Azure (ARM templates, AKS, HD insight, Application gateway, Virtue Networks, Event Hub, Azure AD)
+* Frameworks/Others: Kubernetes, Kafka, Elasticsearch, Spark, NOSQL, RDBMS, Springboot, Gradle GIT, Ignite
+
+
+**What You’ll Do**
+* Design, develop, and maintain robust Python\\-based backend services and APIs.
+* Build and integrate event streaming solutions using Apache Kafka for real\\-time data pipelines.
+* Collaborate with Java teams to develop and maintain hybrid Python–Java microservices.
+* Implement Test\\-Driven Development (TDD) practices and ensure high code coverage and maintainability.
+* Design and optimize NoSQL data models (preferably Snowflake, MongoDB, or DynamoDB).
+* Develop and automate CI/CD pipelines using DevOps tools (Jenkins, GitHub Actions, Docker, Kubernetes).
+* Collaborate with Data Engineering and AI teams to integrate analytics, ML, or Generative AI modules.
+* Contribute to architectural design and performance optimization discussions.
+* Optionally, support front\\-end development in React.js or Node.js when needed for full\\-stack integration.
+
+
+**What We Are Looking For**
+* 3\\-5 years of professional experience in software development.Strong proficiency in Python (Flask, FastAPI, or Django frameworks).
+* Solid understanding of event\\-driven systems and Apache Kafka.Hands\\-on experience with Java (Spring Boot or similar frameworks).
+* Experience with DevOps tooling — Docker, Kubernetes, CI/CD, monitoring, and deployment automation.Expertise in NoSQL databases (Snowflake preferred; MongoDB, Cassandra, or DynamoDB acceptable).
+* Practical experience with Test\\-Driven Development (TDD) and automated testing frameworks (pytest, unittest, JUnit).
+* Strong grasp of software design principles, RESTful APIs, and microservices architecture.
+
+
+**Our Values**
+ If you want to know the heart of a company, take a look at their values. Ours unite us. They are what drive our success – and the success of our customers. Does your heart beat like ours? Find out here: Core Values
    
 
   
 
-* Expertise with JCL.
-* Hands on experience with Cobol .
-* Proficiency with DB 2 .
-* Strong experience on VSAM.
+ All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.","Software Development, IT Services and IT Consulting, and Information Services","https://www.linkedin.com/company/blueyonder","https://media.licdn.com/dms/image/v2/D560BAQFiDXXuM80LbQ/company-logo_100_100/company-logo_100_100/0/1715093188007/blueyonder_logo?e=2147483647&v=beta&t=_KgNIoeFQWR-7P5i9WYiAG7rM2Sn4FwcSrx-PILTifk","","","","","","","","","","",""
+"li-4421636233","linkedin","https://www.linkedin.com/jobs/view/4421636233","","Forward Deployed Engineer / AI Solutions Architect — RAG","Embrace Software Inc","","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","About Us
+ 
+ We're rebuilding vertical software with AI — from the inside.
+ 
 
 
-**Some Other Highly Valued Skills May Include**
-* Familiarity with IMS, z/OS connect API .
-* Functional Banking knowledge required. You may be assessed on key critical skills relevant for success in role, such as risk and controls, change and transformation, business acumen, strategic thinking and digital and technology, as well as job\\-specific technical skills.
+
+  
 
 
- The role is based out of Pune.
+
+
+
+ Embrace owns the software running inside 16% of the Fortune 500, 45\\+ state agencies, and 450\\+ banks and credit unions. We acquire entrenched vertical software businesses and rebuild them around AI — products, operations, go\\-to\\-market, all of it. Our Venture Lab launches new AI\\-native products into those same markets, using the distribution and customer relationships our portfolio already owns.
+ 
+
+
+
+  
+
+
+
+
+
+ You'll ship AI into production against real workflows, real customers, and a P\\&L you can see move within a quarter.
+ 
+
+
+
+  
+
+
+
+
+
+ We hire people who want scope, speed, and ownership, and who are tired of working on AI that never reaches a customer. If you want to spend the next five years shipping into software that already runs the economy, talk to us.​​
+ 
+
+
+
+  
+
+
+
+
+ Job Description
+ 
+  
+
+
+
+
+
+ This is a remote position.
+ 
+
+
+
+  
+
+
+
+
+
+ We're building agentic AI for Fortune 500 enterprises — the kind that survives contact with messy real\\-world data.
+ 
+
+
+
+ We're hiring a
+ **Forward Deployed Engineer with deep production RAG expertise** 
+ to embed with our largest enterprise customers, architect their retrieval and grounding systems end\\-to\\-end, and lead a distributed team shipping AI that runs on real traffic.
+ 
+
+
+
+ This is not a ""build a POC with LangChain in two weeks"" role. This is
+ *""your code is in the customer's production environment on Monday, and you own the faithfulness, latency, and citation numbers.""* 
+
+
+
+
+**What you'll do** 
+
+
+
+* Design and ship production RAG systems for enterprise customers — chunking strategy, embeddings, hybrid retrieval, reranking, query rewriting, citation grounding, the works
+* Own retrieval evaluation end\\-to\\-end — define golden sets, build eval pipelines (Ragas, TruLens, LangSmith, or custom), and drive measurable quality wins (think context precision 0\\.65 → 0\\.90, not ""looks good to me"")
+* Architect agentic systems layered on top of RAG — multi\\-step retrieval, tool use, MCP integrations, guardrails, output validation
+* Embed directly with customer engineering teams — pair on whiteboards, write code in their repos, debug their data, present to their CTO
+* Technically lead a distributed team of FDEs across time zones — set the quality bar, review architecture, mentor engineers, own customer outcomes
+* Close the loop with our product org — what breaks in the field shapes what we build next
+
+
+
+  
+
+
+
+
+ Requirements
+ 
+**You should have** 
+
+
+
+* **7\\+ years engineering experience** 
+ , with at least
+ **2 years shipping production RAG** 
+ (not POCs) at real scale
+* Demonstrated depth on the parts of RAG that actually matter:
+* Chunking strategies and the ablations you ran to choose one
+* Vector DB trade\\-offs from real production use — Pinecone, Qdrant, Weaviate, pgvector, Vespa, OpenSearch (pick your 2–3 and have opinions)
+* Hybrid search, reranking (Cohere, cross\\-encoders, ColBERT), HyDE, query rewriting, context compression
+* Retrieval and generation evaluation — you can quote real numbers from real systems you've owned
+* The boring\\-but\\-critical stuff: access control, citation enforcement, freshness, multi\\-tenancy, cost\\-at\\-scale
+* Strong Python; production experience on at least one cloud (AWS / Azure / GCP)
+* Hands\\-on with at least one agent framework — LangGraph, AutoGen, CrewAI, Semantic Kernel, or equivalent
+* Customer\\-facing presence — you can walk into a Fortune 500 architecture review and earn trust in 30 minutes
+* Track record of leading engineers, not just being one
+
+
+
+**Nice to have** 
+
+
+
+* .NET / C\\# and the broader Microsoft stack — Azure OpenAI, Azure AI Search, Semantic Kernel, Microsoft Agent Framework, Copilot Studio, Cosmos DB; comfort building enterprise\\-grade services in ASP.NET Core
+* Voice AI / contact\\-center experience (latency\\-constrained retrieval is a different beast)
+* OSS contributions to retrieval frameworks, published technical writing, or conference talks
+* Domain depth in regulated industries — healthcare, financial services, legal
+* .Net C\\# and Microsoft stack
+
+
+
+**Who you are** 
+
+
+
+* **Hands\\-on first.** 
+ You build the system – architect and code.
+* **Customer\\-obsessed.** 
+ You measure your work by what's running in production for the customer on Friday, not by what's in the design doc.
+* **Eval\\-driven.** 
+ You don't trust vibes; you trust numbers from a golden set.
+* **An owner.** 
+ No hand\\-offs. You take problems from discovery to production and stay until they're solved.
+
+
+
+**Why this role** 
+
+
+
+* Hardest applied GenAI problems in the market — Fortune 500\\-scale RAG, not consumer chatbots
+* Real influence on product direction — field signal shapes the roadmap
+* Top\\-decile compensation for this profile
+* Autonomy to embed, ship, and own outcomes end\\-to\\-end
+
+
+
+  
+
+
+
+
+ Benefits
+ * Competitive salary commensurate with experience.
+* Opportunities for career advancement and professional development.
+* Experience collaborating with a diverse, global team within a remote work setting.","Software Development","https://www.linkedin.com/company/embrace-software-inc","https://media.licdn.com/dms/image/v2/D560BAQH6Y_HJWzzO2Q/company-logo_100_100/company-logo_100_100/0/1732629315117/embrace_software_inc_logo?e=2147483647&v=beta&t=NIdahoTHU-d8d7ZSA3Ht7gJxveDMZdj0Ca7fq34uWG4","","","","","","","","","","",""
+"li-4413173380","linkedin","https://www.linkedin.com/jobs/view/4413173380","","Lead Software Engineer","Capgemini","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"executive","Engineering and Information Technology","","","**Job Description**
+ Works in the area of Software Engineering which encompasses the development maintenance and optimization of software solutions and applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He or she is responsible for the development and application of software engineering practice and knowledge in research design development and maintenance.3\\. He or she work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his or her software engineering discipline to reach standard software engineer skills expectations for the applicable role as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
    
 
   
 
-**Purpose of the role**
- To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues.
-   
-
-  
-
-**Accountabilities**
-* Development and delivery of high\\-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance.
-* Cross\\-functional collaboration with product managers, designers, and other engineers to define software requirements, devise solution strategies, and ensure seamless integration and alignment with business objectives.
-* Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing.
-* Stay informed of industry technology trends and innovations and actively contribute to the organization’s technology communities to foster a culture of technical excellence and growth.
-* Adherence to secure coding practices to mitigate vulnerabilities, protect sensitive data, and ensure secure software solutions.
-* Implementation of effective unit testing practices to ensure proper code design, readability, and reliability.
-
-
-**Analyst Expectations**
-* To perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.
-* Requires in\\-depth technical knowledge and experience in their assigned area of expertise
-* Thorough understanding of the underlying principles and concepts within the area of expertise
-* They lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.
-* If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.
-* OR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate.
-* Will have an impact on the work of related teams within the area.
-* Partner with other functions and business areas.
-* Takes responsibility for end results of a team’s operational processing and activities.
-* Escalate breaches of policies / procedure appropriately.
-* Take responsibility for embedding new policies/ procedures adopted due to risk mitigation.
-* Advise and influence decision making within own area of expertise.
-* Take ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct.
-* Maintain and continually build an understanding of how own sub\\-function integrates with function, alongside knowledge of the organisations products, services and processes within the function.
-* Demonstrate understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub\\-function.
-* Make evaluative judgements based on the analysis of factual information, paying attention to detail.
-* Resolve problems by identifying and selecting solutions through the application of acquired technical experience and will be guided by precedents.
-* Guide and persuade team members and communicate complex / sensitive information.
-* Act as contact point for stakeholders outside of the immediate function, while building a network of contacts outside team and external to the organisation.
-
-
- All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave.","Software Development","https://uk.linkedin.com/company/hackajob","https://media.licdn.com/dms/image/v2/D4D0BAQG3u9MOOWLo4w/company-logo_100_100/B4DZxrAcyeJUAY-/0/1771321808742/hackajob_logo?e=2147483647&v=beta&t=Mlu0fay2n8aYfymHoXWtBrazca7WKPJd6dU7v3GFc-M","","","","","","","","","","",""
-"li-4414463159","linkedin","https://www.linkedin.com/jobs/view/4414463159","","Sr Software Engineer-Embedded Linux Applications","AGCO Corporation","","","fulltime","","","","","",False,"associate","Engineering and Information Technology","","","Do you want to help solve the world's most pressing challenges? Feeding the world's growing population and slowing climate change are two of the world's greatest challenges. AGCO is a part of the solution! Join us to make your contribution.
-   
-
-  
-
- AGCO is looking to hire candidates for the position of Sr. Software Engineer.
-   
-
-  
-
- AGCO is looking for a self\\-motivated and technically skilled candidate for the position of Sr. Software Engineer.
-   
-
-  
-
- In our Research and Development organization, you will contribute to future\\-oriented connected and digital solutions that enable smarter, more efficient agricultural machines. Working in a highly collaborative and interdisciplinary environment, you will help design and develop embedded software that connects machines, systems, and cloud services across global product platforms.Our teams work closely with product management, systems engineering, suppliers, and end customers to ensure solutions deliver real value in productivity, reliability, and sustainability. You will be part of the global Connected Services engineering team responsible for embedded software running on connectivity and performance ECUs within AGCO’s machine ecosystem. In this role, you will develop, integrate, and maintain embedded Linux–based software components, supporting communication, diagnostics, and over\\-the\\-air capabilities.You will contribute across the full software lifecycle, including requirements definition, architecture, implementation, integration, testing, and validation. The position offers strong team collaboration, exposure to modern IoT and telemetry technologies, and the opportunity to shape the future of connected agricultural machines.You can expect a culture that values technical excellence, ownership, and continuous improvement, with room to bring forward your own ideas and innovations.
-   
-
-  
-
-**Your Impact**
-* Coordinate and lead development activities
-* Develop and maintain embedded Linux applications and build systems for connectivity ECUs
-* Patch packages where issues are detected
-* Maintain the continuous integration and automation of SW build processes \\& Work in a global agile team.
-* Implement new mechanisms to improve Software Quality (Static Code Analysis, Securit Vulnerability Scans). Implementation of integration and smoke tests and automated tests to validate software
-
-
-**Your Experience And Qualifications**
-* Total 10\\+ years of experience with minimum 6 years of development experience in the below domains.
-* 2\\+ years Experience leading projects and mentor small team
-* Strong Experience with Linux operating system
-* Strong Experience with Linux build environments (Buildroot, Yocto)
-* Strong Experience with Continuous Integration (e.g. Cloudbees Jenkins, Artifactory, Conan)
-
-
-**Your Benefits**
-* GLOBAL DIVERSITY – Diversity means many things to us, different brands, cultures, nationalities, genders, generations – even variety in our roles. You make us unique!
-* ENTERPRISING SPIRIT\\- Every role adds value. We're committed to helping you develop and grow to realize your potential.
-* POSITIVE IMPACT – Make it personal and help us feed the world.
-* INNOVATIVE TECHNOLOGIES \\- You can combine your love for technology with manufacturing excellence – and work alongside teams of people worldwide who share your enthusiasm.
-* MAKE THE MOST OF YOU – Benefits include health care and wellness plans and flexible and virtual work options...
-
-
-**Your Workplace**
- We value inclusion and recognize the innovation a diverse workforce delivers to our farmers. Through our recruitment efforts, we are committed to building a team that includes a variety of experiences, backgrounds, cultures and perspectives.
-   
-
-  
-
-**Join us as we bring agriculture into the future and apply now!**","Machinery Manufacturing and Farming","https://www.linkedin.com/company/agco-corporation","https://media.licdn.com/dms/image/v2/C4E0BAQF5TwBZg6M6TA/company-logo_100_100/company-logo_100_100/0/1630563830825/agco_corporation_logo?e=2147483647&v=beta&t=SlcrN1X4klfbFCSeGd46A9EEPb3xQrwkUhSjycDRYoE","","","","","","","","","","",""
-"li-4422578788","linkedin","https://www.linkedin.com/jobs/view/4422578788","","Developer - Shotscope™ (.NET Full Stack) - Husky(Guindy, Chennai)","Husky Technologies","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
-**Title:** 
- Developer \\- Shotscope™ (.NET Full Stack) \\- Husky(Guindy, Chennai)
-   
-
-  
-
-**Id:** 
- 20959
-   
-
-  
-
-**Type:** 
- FullTime
-   
-
-  
-
-**Location:** 
- Chennai, India
-   
-
-  
-
- At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
-   
-
-  
-
- Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state\\-of\\-the\\-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
-   
-
-  
-
- Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
-   
-
-  
-
- Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
-   
-
-  
-
-****Job Description****
- Do you want to work an industrial grade software solution powering real time manufacturing intelligence on factory floors worldwide?
-   
-
-  
-
- As a Developer on our Shotscope™ team, you will help build and maintain industrial\\-grade manufacturing intelligence software used by customers worldwide. You will implement features and components on a .NET and Azure\\-based full stack, contribute clean and reliable code, and support the continuous evolution of a mission\\-critical product that connects machines, processes, and data.
-   
-
-  
-
- This role is ideal for a motivated engineer who enjoys hands\\-on development, learning from experienced teammates, and seeing their work deployed in real production environments—with clear opportunities to grow toward senior and lead roles.
-   
-
-  
-
- If you want your code to have visible impact on how factories operate, Shotscope™ is where software meets the real world.
-   
-
-  
-
-****Responsibilities****
-**Technical Implementation**
-* Implement software components and features based on provided designs, specifications, and guidance.
-* Contribute to the development of reliable, maintainable, and secure code within the assigned scope.
-* Apply agreed coding standards, patterns, and best practices in daily development work.
-* Make basic technical decisions within assigned tasks, escalating questions or uncertainties when needed.
-
-
-**Delivery \\& Execution Excellence**
-* Translate assigned requirements and tasks into working software.
-* Complete development work in alignment with sprint goals and delivery commitments.
-* Contribute to task breakdowns and effort estimates for assigned work.
-* Proactively raise risks, blockers, or implementation issues to the team.
-
-
-**Quality, Standards \\& Engineering Practices**
-* Write clean, testable code and contribute to unit and integration tests.
-* Participate in code reviews, incorporating feedback and learning from peers.
-* Ensure individual contributions meet Definition of Ready (DoR) and Definition of Done (DoD) criteria.
-* Follow established DevOps, security, and quality practices.
-
-
-**Incident \\& Operational Support**
-* Assist in troubleshooting defects and issues in development and production environments.
-* Support corrective (bug fixes) and evolutive (enhancements) maintenance of existing solutions.
-
-
-**Collaboration \\& Growth**
-* Collaborate effectively with other developers, QA, Product Owners, and Tech Leads.
-* Seeking feedback and guidance to continuously improve technical skills.
-* Actively learn the systems, tools, and technologies used by the team.
-* Contribute positively to team culture and shared ownership of outcomes.
-
-
-****Qualifications****
-* Bachelor’s degree in computer science, IT, or related field.
-* 4\\+ years’ professional experience in software development.
-* Proficiency in .NET technologies (C\\#, ASP.NET Core, SQL, .NET Framework, Entity Framework).
-* Strong grasp of Agile methodologies, DevOps principles, application security and version control systems (e.g., Azure DevOps).
-* Proficiency in modern front\\-end frameworks (e.g., preference: React; Angular).
-* Clean Code Development and working experience with Unit Testing, and Test\\-driven Development.
-* Familiarity with source code version control, branching strategies, CI/CD pipelines and other DevOps practices.
-* Working knowledge of Agile development practices.
-* Excellent communication skills and ability to work in a team.
-* Fluency in English (spoken and written).
-* Strong problem\\-solving skills and attention to detail.
-* Ability to adjust quickly to changing assignments, and priorities.
-
-
-**Assets**
-* Familiarity with CI/CD and pipelines.
-* Experience using AI‑assisted coding tools (e.g. GitHub Copilot) responsibly, with full accountability for code quality, security, and compliance.
-* Familiarity with Microsoft Azure, with experience in leveraging key services (e.g., Azure App Services, Azure Functions).
-* Exposure to Microsoft SQL Server BI stack, including SSAS (OLAP cube design), SSRS (report development), and SSIS (ETL processes and data integration).
-
-
-**Why Husky?**
-* Regulated Working Hours: Enjoy a structured work schedule that promotes a healthy work\\-life balance, allowing you to excel professionally while maintaining personal well\\-being.
-* Visible Impact: Experience the satisfaction of seeing the direct outcomes of your work, as you contribute to projects that visibly enhance our company's technological capabilities and efficiency.
-* Strategic Influence: Participate in architectural and technical reviews, contributing to the strategic direction of our cloud initiatives and making a tangible impact on our company's technological landscape.
-* Empowered Involvement: Take an active role in decision\\-making processes and architectural reviews, where your expertise helps shape the future of our cloud solutions and overall business strategy.
-* Valued Contributions: Be more than just a number in a large organization; at our company, every individual's input is valued and can lead to significant, tangible improvements in our operations and services.
-* Impactful Role: Play a crucial part in both developing new applications and maintaining existing systems, ensuring their optimal performance and reliability.
-* Cutting\\-Edge Projects: Work on innovative cloud solutions that are transforming our and our customer’s business, giving you the opportunity to be at the forefront of technological advancements.
-* Supportive Community: Work in an environment that recognizes and celebrates individual achievements, fostering a sense of community and mutual respect among team members.
-* Collaborative Environment: Join a global team of skilled professionals around the globe where your ideas are valued, and collaboration is encouraged to solve complex challenges and drive success.
-
-
- Husky TechnologiesTM offers a competitive compensation and benefits package and excellent opportunities for growth and advancement. We are committed to equal employment opportunity and respect, value and welcome diversity in our workplace. Husky TechnologiesTM also values being a great place to work and strives to maintain a safe workplace. Accordingly, Husky TechnologiesTM conditions all offers of employment on satisfactory completion of background checks. No agency or telephone inquiries please.","Machinery Manufacturing","https://ca.linkedin.com/company/husky-technologies","https://media.licdn.com/dms/image/v2/C4D0BAQHsvZ0ebIsc4w/company-logo_100_100/company-logo_100_100/0/1636124255401/husky_injection_molding_systems_logo?e=2147483647&v=beta&t=DOW-hRVyemixk1uzPur_5PLKICQw58KUNmIrpYtA4rk","","","","","","","","","","",""
+**Job Description \\- Grade Specific**
+ Is highly respected, experienced and trusted. Masters all phases of the software development lifecycle and applies innovation and industrialization. Shows a clear dedication and commitment to business objectives and responsibilities and to the group as a whole. Operates with no supervision in highly complex environments and takes responsibility for a substantial aspect of Capgeminis activity. Is able to manage difficult and complex situations calmly and professionally. Considers ˜the bigger picture when making decisions and demonstrates a clear understanding of commercial and negotiating principles in less easy situations. Focuses on developing long term partnerships with clients. Demonstrates leadership that balances business, technical and people objectives. Plays a significant part in the recruitment and development of people.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
