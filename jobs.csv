@@ -1,209 +1,135 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4425199750","linkedin","https://www.linkedin.com/jobs/view/4425199750","","Java Web Developer","Tata Consultancy Services","Hyderabad, Telangana, India","","fulltime","","","","","",False,"associate","Other","","","*Greetings from TCS!!!* 
-
-
-
-
-  
-
-
-
-
-
-***JD :***
-
-
-
-
-***Position: Java Developer***
-
-
-
-
-***Job Location: Bangalore/Chennai/Hyderabad/Kochi***
-
-
-
-
-***Experience: 6\\-11 years***
-
-
-
-
-  
-
-
-
-
-
-***Role \\& responsibilities:***
-
-
-
-
-  
-
-
-
-
-
-***Must Have:***
-
-
-
-
-***Position:***
-
-***Java Developer***
-
-
-
-
-  
-
-
-
-
-
-***Required Skill Sets:***
-
-***Java, Microservices\\-\\-JAVA 8 , Microservices, ,Spring Boot,Kafka***
-
-
-
-
-  
-
-
-
-
-
-***Must Have:***
-
-
-
-* *Java.8,*
-* *Microservices,*
-* *Spring Boot,*
-* *Springboot AWS Knowledge.*
-
-
-
-  
-
-
-
-
-
-***Good To Have:***
-
-
-
-* *Agile Way of Working*","IT Services and IT Consulting","https://in.linkedin.com/company/tata-consultancy-services","https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4","","","","","","","","","","",""
-"li-4414707814","linkedin","https://www.linkedin.com/jobs/view/4414707814","","SharePoint & PowerApps Developer","Siemens Healthineers","Pune District, Maharashtra, India","","","","","","","",False,"","","","","","","https://de.linkedin.com/company/siemens-healthineers","","","","","","","","","","","",""
-"li-4425419272","linkedin","https://www.linkedin.com/jobs/view/4425419272","","ABAP Developer","LIXIL","Gurugram, Haryana, India","","fulltime","","","","","",True,"mid-senior level","Information Technology","","","IMEA (India, Middle East, Africa) India LIXIL INDIA PVT LTD Employee Assignment Fully remote possible Full Time 2 February 2026
+"li-4425187108","linkedin","https://www.linkedin.com/jobs/view/4425187108","","Software Engineer","Optum India","Gurgaon, Haryana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start
+ **Caring. Connecting. Growing together.**
+ Own the design, build, and operation of reliable data pipelines and curated data products that power analytics, reporting, and downstream applications.
    
 
   
 
- This position requires candidate to work 11:30 AM/ 12 PM IST overlapping European time zone
+ Set engineering standards for data quality, observability, security, and cost/performance across the data platform.
    
 
   
 
- Key Responsibilities
-   
-
-  
-
- End\\-to\\-End Application Development
-   
-
-  
-
-* Hands‑on experience designing, developing, and supporting integration topics such as OData, CDS view, IDOC, SOAP, RFC. And better to have AIF, CFL experience.
-* Design, develop, and maintain custom ABAP programs, reports, interfaces, integrations, enhancements, and forms according to business requirements
-* Design and develop full\\-stack applications from SAP backend (ABAP) to frontend (Fiori/UI5\\)
-* Apply performance optimization techniques for both backend and frontend components
-* Implement proper error handling and logging mechanisms across the application stack Clean Core Implementation
-* Apply the Clean Core strategy to maintain a system architecture free from unnecessary customizations
-* Develop extensions that are strictly separate from the SAP standard application
-* Implement cloud\\-compliant extensions and integrations that support future upgradability
-* Understand and apply side\\-by\\-side extensibility concepts using SAP BTP
-* Ensure modifications follow the Clean Core principles to reduce technical debt
-* Apply appropriate extension methods based on business requirements (in\\-app, side\\-by\\-side, etc.)
+**Primary Responsibilities**
+* Design and implement scalable ETL/ELT pipelines (batch and/or streaming) with strong guarantees: idempotency, incremental processing/CDC, backfills, and schema evolution
+* Model and publish well\\-defined datasets in a cloud data warehouse/lakehouse (dimensional modeling, partitioning/clustering, performance tuning)
+* Build orchestration workflows (Airflow/Dagster/Prefect) with robust dependency management, retries, SLAs, and operational runbooks
+* Establish data quality and testing practices (unit/integration tests for transformations, validation rules, anomaly detection, and data contract checks)
+* Implement end\\-to\\-end observability (structured logging, metrics, lineage/metadata where available, alerting on freshness/volume/drift/failure modes)
+* Partner with Analytics, Product, and Engineering to translate requirements into maintainable data products and clear dataset contracts/documentation (e.g., data dictionaries)
+* Apply security and governance controls for sensitive data (PII/PHI), including least\\-privilege access, auditing, and retention policies
+* Drive CI/CD and infrastructure\\-as\\-code for data workloads (Git\\-based workflows, automated checks, environment promotion)
+* Mentor engineers, review designs/code, and lead incident response and postmortems for data reliability issues
+* Comply with the terms and conditions of the employment contract, company policies and procedures, and any and all directives (such as, but not limited to, transfer and/or re\\-assignment to different work locations, change in teams and/or work shifts, policies in regards to flexibility of work benefits and/or work environment, alternative work arrangements, and other decisions that may arise due to the changing business environment). The Company may adopt, vary or rescind these policies and directives in its absolute discretion and without any limitation (implied or otherwise) on its ability to do so
 
 
 **Required Qualifications**
-* Bachelor's degree in Computer Science, Information Technology, or related field
-* Additional SAP certifications are a plus Technical Skills
-* 7\\+ years of experience in ABAP development including:
-* Core ABAP programming (WRICEF, BAPI, ALE/IDocs, RFC, etc.)
-* Object\\-Oriented ABAP
-* SAP Fiori/UI5 development
-* ABAP CDS Views and OData services
-* ABAP on HANA optimization techniques
-* SAP Gateway
-* WebDynpro ABAP (desirable)
-* Proficiency in performance analysis and optimization tools
-* Knowledge of SAP BTP and extensibility options
-* Experience with ABAP Unit Testing and Code Inspector","Manufacturing","https://jp.linkedin.com/company/lixil-global","https://media.licdn.com/dms/image/v2/C560BAQGKjb4f79VE-Q/company-logo_100_100/company-logo_100_100/0/1631393781009?e=2147483647&v=beta&t=_CfL0PxSQ4DuOLURuThFoKxRAI0BKYyGXCWYLa42i4k","","","","","","","","","","",""
-"li-4425418273","linkedin","https://www.linkedin.com/jobs/view/4425418273","","SiteCore Developer","LIXIL","Gurugram, Haryana, India","","fulltime","","","","","",False,"mid-senior level","Other","","","IMEA (India, Middle East, Africa) India LIXIL INDIA PVT LTD Employee Assignment Hybrid Full Time 30 June 2025
+* BTech / MCA
+* Proven experience building and operating data pipelines at scale (incremental loads, CDC patterns, backfills, late\\-arriving data handling)
+* Experience with workflow orchestration (Airflow/Dagster/Prefect) and operational ownership (SLAs, on\\-call readiness, runbooks)
+* Experience with CI/CD and IaC (Terraform/CloudFormation) for reproducible, auditable deployments
+* Hands\\-on experience with a modern cloud data stack (AWS/GCP/Azure) and a warehouse/lakehouse (e.g., Snowflake/BigQuery/Redshift/Databricks)
+* Familiarity with distributed processing (Spark or equivalent) and performance debugging (partitioning, shuffles, skew)
+* Solid understanding of data modeling (star/snowflake, SCDs) and dataset lifecycle management
+* Solid fundamentals in security/compliance for data (encryption, access control, auditing; handling PII/PHI)
+* Proven advanced SQL: complex joins, window functions, query optimization, and warehouse performance tuning
+* Proven solid programming skills in Python (preferred) with production engineering practices (packaging, testing, linting, code review)
+
+
+**Preferred Qualifications**
+* Experience in Streaming/event\\-driven architectures (Kafka/Kinesis/Pub/Sub), exactly\\-once/at\\-least\\-once tradeoffs, watermarking concepts
+* Experience in Data governance/metadata tooling (catalogs, lineage, ownership) and data contract frameworks
+* Domain experience in healthcare/claims/EHR data (or other regulated environments) and associated compliance practices
+
+
+**What success looks like** 
+ (first 3\\-6 months)
    
 
   
 
-**About This Role**
- We at LIXIL are seeking a skilled and experienced
- **Sitecore / Front\\-end Website Developer** 
- to join our global team. You will play a key role in developing and maintaining a
- **decoupled front\\-end applications** 
- using
- **Next.js on Vercel** 
- , integrated with the latest
- **Sitecore XM Cloud SaaS solution** 
- . A strong understanding of UI component development is essential.
+* Critical pipelines are reliable, observable, and meet freshness SLAs with clear ownership and runbooks
+* New/updated datasets ship with quality checks and documentation, and changes are managed via versioned contracts
+* Platform cost/performance improves measurably through optimization and better operational discipline
+
+
+*At UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone\\-of every race, gender, sexuality, age, location and income\\-deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes \\- an enterprise priority reflected in our mission.*","IT Services and IT Consulting","https://www.linkedin.com/company/optumindia","https://media.licdn.com/dms/image/v2/D560BAQHbWyXuihLpaQ/company-logo_100_100/B56Zf0TcSoHoAU-/0/1752150427206?e=2147483647&v=beta&t=FHvnqfJ8XDO3yLmOzfXyoqQ4DDQ36MFsFxFrFiHB3_o","","","","","","","","","","",""
+"li-4414952410","linkedin","https://www.linkedin.com/jobs/view/4414952410","","Senior Software Engineer - AI","Network Solutions","","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","At Network Solutions, we’ve been trusted for decades to help people get online and stay ahead. We’ve been here since the beginning of the internet, and we’re still building for what comes next.
    
 
   
 
- You will collaborate closely with our global cross\\-functional team, including UX/UI designers, further experts, internal / external developers, and content managers, to deliver cutting\\-edge web applications that provide seamless user experiences.
+ As the original digital identity authority, we help secure domain names, protect brands, and safeguard the infrastructure businesses rely on. We empower our customers to own and manage the assets that define them online, while delivering enterprise\\-grade security to protect against virtual threats. Our team leverages modern, AI\\-accelerated tools to streamline how businesses manage their digital presence, making the most of our decades of experience.
    
 
   
 
-**Key Responsibilities**
-* Development, Enhancements and maintenance of our Web applications, with a focus on building scalable, high\\-performance solutions
-* Build and manage a decoupled front\\-end architecture using js to deliver seamless user experiences.
-* Leverage js to build, test, and document reusable UI components.
-* Work closely with UX/UI designers, and product owners to translate mockups and wireframes into interactive and responsive front\\-end interface modules, based on Next.js
-* You secure dynamic cross\\-browser compatibility and mobile responsiveness across multiple platforms.
-* Implement and integrate with existing solutions through middleware systems (Mulesoft, Apigee, Workato or similar) to Sitecore’s (XM) Cloud
-* Collaborate with backend developers to create scalable APIs and services to power the front\\-end.
-* Participate in code reviews, unit testing, extending test\\-automation via io and Playwright, and ensure code quality by following best practices.
-* Stay updated with the latest front\\-end technologies and frameworks and continuously improve the codebase.
+ The Network Solutions team is here to help online businesses protect what’s theirs and build for tomorrow. That’s why millions trust us to protect their domains, brands, and websites every day.
+   
+
+  
+
+**Senior AI Back\\-End Engineer**
+**What you’ll do \\& how you’ll make your mark** 
+  
+
+  
+
+- Design \\& scale async REST/WebSocket APIs with Python 3\\.11\\+ \\+ FastAPI, using dependency\\-injection, type hints, and clean vertical\\-slice architecture.
+
+- Implement multi\\-agent workflows with Semantic Kernel (handoff, sequential, concurrent) to route traffic among specialised LLM agents.
+
+- Integrate LLM providers (OpenAI GPT\\-4\\.1/mini, Google Gemini 2\\.5 Flash) behind a provider\\-agnostic layer for A/B and cost\\-aware routing.
+
+- Deliver Retrieval\\-Augmented Generation with vector stores such as Azure AI Search, pgvector, or Chroma.
+
+- Expose tool\\-using agents via OpenAI Assistants (Code\\-Interpreter) for data\\-analysis / file\\-manipulation tasks.
+
+- Evolve schemas with SQLModel / SQLAlchemy 2 \\& Alembic; tune Postgres for high\\-concurrency async access.
+
+- Maintain robust CI/CD (Bitbucket Jenkins) that lint, type\\-check, test, package (Docker), and deploy.
+
+ Instrument services with structlog JSON logs, OpenTelemetry traces, and cost/latency metrics; hold p95
+ - Champion AI\\-assisted development (GitHub Copilot, Cursor) and share pragmatic problem\\-solving practices with the team.
+
+**Who you are \\& what you’ll need to succeed.** 
+  
+
+  
+
+* 5 \\+ yrs building production APIs in Python; 2 \\+ yrs with Fast API (or similar async stack).
+* Deep knowledge of async I/O, Pedantic v2, DI, and observability.
+* Hands\\-on with Semantic Kernel or comparable agent frameworks.
+* Practical RAG implementations using Azure AI Search, pgvector, or Chroma.
+* Strong Postgres skills, including SQLModel/SQLAlchemy 2 and Alembic migrations.
+* Proven integrations or Side Projects with LLM APIs (OpenAI, Gemini) and structured\\-output design.
+* Dependency management via Poetry and virtual\\-env isolation.
+* End\\-to\\-end CI/CD ownership (build → scan → test → deploy).
+* Excellent analytical and problem\\-solving ability.
+* Remote work readiness with daily overlap of at least 09:00 – 13:00 EST.
 
 
-**Required Qualification**
-**Mandatory technical Expertise:**
-* 4\\+ years of experience in a role working with Sitecore (ideally XM Cloud)
-* Strong expertise in Sitecore, including headless architecture, Sitecore JSS, and integrations
-* 2 years experience with Next.js and its ecosystem (Vercel App, Node.js, API integration)
-* Hands\\-on experience with JavaScript/TypeScript, Tailwind\\-CSS, and front\\-end technologies.
-* Track record of working on SSR (Service\\-Side\\-Rendering) / SSG (Static\\-Site\\-Generation) applications
-* Familiarity with Headless CMS architecture and decoupled development
-* Familiarity with Google Cloud (GCP) and Cloud Runs
+**Nice to have**
+* Event/message queues (RabbitMQ, Azure Service Bus, Kafka).
+* Observability stacks (Grafana, Lang Fuse) for LLM cost governance.
 
 
-**Additional Skills**
-* Good English skills and knowledge in working in international environment
-* Experience working in Agile environments (Scrum \\& Scrum@scale) with tools like JIRA, Bitbucket, Confluence, etc.
+ Join us to build the agent\\-powered backbone of our AI platform—robust, model\\-agnostic, and ready for millions of users.
+   
+
+  
+
+**Why you’ll love us.**
+* Work\\-life balance. Our work is thrilling and meaningful, but we know balance is key to living well.
+* We celebrate one another’s differences.  We’re proud of our culture of diversity and inclusion. We foster a culture of belonging. Our company and customers benefit when employees bring their authentic selves to work. We have programs that bring us together on important issues and provide learning and development opportunities for all employees.  We have 20 \\+ affinity groups where you can network and connect with Newfolders globally.
+* We care about you. We are a family, and we care about you and your family’s physical and mental health by providing competitive HMO benefits – 175k MBL with one free dependent upon one year of service! We also give out Punctuality Bonus, Generous Vacation policy, and much more!
+* Where can we take you? We’re fans of helping our employees learn different aspects of the business, be challenged with new tasks, be mentored, and grow their careers. Unfold new possibilities with \\#teamnewfold!
 
 
-**Good To Have Expertise**
-* Sitecore XM Cloud Developer Certification
-* Understanding of RESTful APIs and integration with backend services.
-* Knowledgeable with Storybook.js for building, testing, and documenting front\\-end components.
-* Familiarity with CI/CD pipelines, unit testing frameworks, and code versioning tools.
-* Solid understanding of test automation approaches and tools e.g. like , trecentis, cypress.io or comparable
-* Strong communication and collaboration skills, with the ability to work effectively within cross\\-functional teams.","Manufacturing","https://jp.linkedin.com/company/lixil-global","https://media.licdn.com/dms/image/v2/C560BAQGKjb4f79VE-Q/company-logo_100_100/company-logo_100_100/0/1631393781009?e=2147483647&v=beta&t=_CfL0PxSQ4DuOLURuThFoKxRAI0BKYyGXCWYLa42i4k","","","","","","","","","","",""
+ \\#NetworkSolutions
+   
+
+  
+
+**This Job Description includes the essential job functions required to perform the job described above, as well as additional duties and responsibilities. This Job Description is not an exhaustive list of all functions that the employee performing this job may be required to perform. The Company reserves the right to revise the Job Description at any time, and to require the employee to perform functions in addition to those listed above.**","Software Development","https://www.linkedin.com/company/network-solutions","https://media.licdn.com/dms/image/v2/D560BAQHjiPFb2RdOHw/company-logo_100_100/B56Zqhpy3.JwAQ-/0/1763648679766/network_solutions_logo?e=2147483647&v=beta&t=LZ46TbGMwFVjUkFbLY1xIgZoPEp-IKK29ntMy2BHp60","","","","","","","","","","",""
