@@ -1,135 +1,385 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4425187108","linkedin","https://www.linkedin.com/jobs/view/4425187108","","Software Engineer","Optum India","Gurgaon, Haryana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start
- **Caring. Connecting. Growing together.**
- Own the design, build, and operation of reliable data pipelines and curated data products that power analytics, reporting, and downstream applications.
+"li-4419402261","linkedin","https://www.linkedin.com/jobs/view/4419402261","","Lead Data Engineer / Developer (Python) - Manager","State Street","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Information Technology","","","**Who We Are Looking For**
+ Looking for a Software Development Manager with 10\\~14 years of IT experience, strong min 5\\+ years in python code development. Also have experience in Python Programming Language, Cloud Computing, SQL, PL/SQL, C Programming. Who will play a key role as Data Engineer responsible for python data model development / implementation, time series data analysis, data anomaly deduction, ETL automation. Strong mathematical quantitative background, ideally with application development in Finance domain.
    
 
   
 
- Set engineering standards for data quality, observability, security, and cost/performance across the data platform.
+**What You Will Be Responsible For**
+* Implement financial models in Python according to specifications provided by modelers and business users and suggest best practices for high performance and automated execution.
+* Automate advanced data aggregation methodologies for stand\\-alone execution in controlled environments.
+* Strong working knowledge of financial and statistical concepts. Ability to manage multiple projects and deadlines while maintaining strict attention to details.
+* Implement on\\-the\\-fly and static data enrichment logic; implement heuristics to regularly monitor wide variances in critical data. Establish processes and procedures for managing and accessing large databases, and for optimizing repetitive or computationally intensive tasks. Create end to end infrastructure for data gathering, data analysis, cleaning, signal generation \\& model implementation.
+
+
+**Must Have Skills**
+* Expert understanding of Python Core concepts, including both functional and class\\-based design. Experience in writing effective and scalable Python codes independently.
+* Hands on Cloud AWS or Azure using Databricks, Postgres DB experience.
+* Demonstrable experience with a range of common Python packages including NumPy, Pandas, matplotlib, SAlib, Scikit\\-learn. Independently address and resolve production issues and perform root cause analysis.
+* A deep understanding of Python basics, multi\\-process architecture and the threading limitations of Python.
+* Implement financial models in Python according to specifications provided by modelers and business users and suggest best practices for high performance and automated execution.
+* Automate advanced data aggregation methodologies for stand\\-alone execution in controlled environments.
+* Experience working with large and complex data sets and coding solutions to address requirements of financial institutions, with a working knowledge of banking regulations preferred.
+* Building CI/CD pipelines and integration with Github, JIRA, creating data pipelines, automation using AUTOSYS/AIRFLOW, Databricks.
+* Establish processes and procedures for managing and accessing large databases, and for optimizing repetitive or computationally intensive tasks. Write technical documentation, functional documentation, maintain compliance requirement.
+* Excellent interpersonal, Strong Written and Oral communication, presentation skills. Ability to explain complex concepts in a clear and concise manner.
+
+
+**Good To Have Skills**
+* MLOps and Quantitative Mathematical Model Development experience/implementation using multi\\-Asset data is plus.
+* Experience in quantitative financial research and market data analysis familiarity with vendors pricing and fundamentals dataset. 4\\~5 years experience in buy\\-side or sell\\-side research is desirable.
+
+
+**Qualifications:** 
+ Bachelor’s or Master’s degree required in finance or econometrics or mathematics, Science/engineering or similar fields. Quantitative data modeling experience is desirable.
    
 
   
 
-**Primary Responsibilities**
-* Design and implement scalable ETL/ELT pipelines (batch and/or streaming) with strong guarantees: idempotency, incremental processing/CDC, backfills, and schema evolution
-* Model and publish well\\-defined datasets in a cloud data warehouse/lakehouse (dimensional modeling, partitioning/clustering, performance tuning)
-* Build orchestration workflows (Airflow/Dagster/Prefect) with robust dependency management, retries, SLAs, and operational runbooks
-* Establish data quality and testing practices (unit/integration tests for transformations, validation rules, anomaly detection, and data contract checks)
-* Implement end\\-to\\-end observability (structured logging, metrics, lineage/metadata where available, alerting on freshness/volume/drift/failure modes)
-* Partner with Analytics, Product, and Engineering to translate requirements into maintainable data products and clear dataset contracts/documentation (e.g., data dictionaries)
-* Apply security and governance controls for sensitive data (PII/PHI), including least\\-privilege access, auditing, and retention policies
-* Drive CI/CD and infrastructure\\-as\\-code for data workloads (Git\\-based workflows, automated checks, environment promotion)
-* Mentor engineers, review designs/code, and lead incident response and postmortems for data reliability issues
-* Comply with the terms and conditions of the employment contract, company policies and procedures, and any and all directives (such as, but not limited to, transfer and/or re\\-assignment to different work locations, change in teams and/or work shifts, policies in regards to flexibility of work benefits and/or work environment, alternative work arrangements, and other decisions that may arise due to the changing business environment). The Company may adopt, vary or rescind these policies and directives in its absolute discretion and without any limitation (implied or otherwise) on its ability to do so
-
-
-**Required Qualifications**
-* BTech / MCA
-* Proven experience building and operating data pipelines at scale (incremental loads, CDC patterns, backfills, late\\-arriving data handling)
-* Experience with workflow orchestration (Airflow/Dagster/Prefect) and operational ownership (SLAs, on\\-call readiness, runbooks)
-* Experience with CI/CD and IaC (Terraform/CloudFormation) for reproducible, auditable deployments
-* Hands\\-on experience with a modern cloud data stack (AWS/GCP/Azure) and a warehouse/lakehouse (e.g., Snowflake/BigQuery/Redshift/Databricks)
-* Familiarity with distributed processing (Spark or equivalent) and performance debugging (partitioning, shuffles, skew)
-* Solid understanding of data modeling (star/snowflake, SCDs) and dataset lifecycle management
-* Solid fundamentals in security/compliance for data (encryption, access control, auditing; handling PII/PHI)
-* Proven advanced SQL: complex joins, window functions, query optimization, and warehouse performance tuning
-* Proven solid programming skills in Python (preferred) with production engineering practices (packaging, testing, linting, code review)
-
-
-**Preferred Qualifications**
-* Experience in Streaming/event\\-driven architectures (Kafka/Kinesis/Pub/Sub), exactly\\-once/at\\-least\\-once tradeoffs, watermarking concepts
-* Experience in Data governance/metadata tooling (catalogs, lineage, ownership) and data contract frameworks
-* Domain experience in healthcare/claims/EHR data (or other regulated environments) and associated compliance practices
-
-
-**What success looks like** 
- (first 3\\-6 months)
+**Work Schedule:** 
+ Hybrid
    
 
   
 
-* Critical pipelines are reliable, observable, and meet freshness SLAs with clear ownership and runbooks
-* New/updated datasets ship with quality checks and documentation, and changes are managed via versioned contracts
-* Platform cost/performance improves measurably through optimization and better operational discipline
-
-
-*At UnitedHealth Group, our mission is to help people live healthier lives and make the health system work better for everyone. We believe everyone\\-of every race, gender, sexuality, age, location and income\\-deserves the opportunity to live their healthiest life. Today, however, there are still far too many barriers to good health which are disproportionately experienced by people of color, historically marginalized groups and those with lower incomes. We are committed to mitigating our impact on the environment and enabling and delivering equitable care that addresses health disparities and improves health outcomes \\- an enterprise priority reflected in our mission.*","IT Services and IT Consulting","https://www.linkedin.com/company/optumindia","https://media.licdn.com/dms/image/v2/D560BAQHbWyXuihLpaQ/company-logo_100_100/B56Zf0TcSoHoAU-/0/1752150427206?e=2147483647&v=beta&t=FHvnqfJ8XDO3yLmOzfXyoqQ4DDQ36MFsFxFrFiHB3_o","","","","","","","","","","",""
-"li-4414952410","linkedin","https://www.linkedin.com/jobs/view/4414952410","","Senior Software Engineer - AI","Network Solutions","","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","At Network Solutions, we’ve been trusted for decades to help people get online and stay ahead. We’ve been here since the beginning of the internet, and we’re still building for what comes next.
+**Why Is This Role Important To Us**
+ Our technology function, Global Technology Services (GTS), is vital to State Street and is the key enabler for our business to deliver data and insights to our clients. We’re driving the company’s digital transformation and expanding business capabilities using industry best practices and advanced technologies such as cloud, artificial intelligence and robotics process automation. We offer a collaborative environment where technology skills and innovation are valued in a global organization. We’re looking for top technical talent to join our team and deliver creative technology solutions that help us become an end\\-to\\-end, next\\-generation financial services company. Join us if you want to grow your technical skills, solve real problems and make your mark on our industry.
    
 
   
 
- As the original digital identity authority, we help secure domain names, protect brands, and safeguard the infrastructure businesses rely on. We empower our customers to own and manage the assets that define them online, while delivering enterprise\\-grade security to protect against virtual threats. Our team leverages modern, AI\\-accelerated tools to streamline how businesses manage their digital presence, making the most of our decades of experience.
+**About The Department**
+**State Street Markets** 
+ Research and Data Intelligence products cutting edge research in investor behavior, portfolio risk and asset allocation in multi\\-asset classes including Equity, Fixed Income, FX and Private Equity.
+ **Markets Research a.k.a State Street Associates, LLC (SSA)** 
+ is a unique partnership of industry and academia dedicated to delivering preeminent research in investor behavior, global asset allocation, risk management, and foreign exchange to investment managers and asset owners. Research staff work in a collegiate environment just off Harvard Square, Cambridge, USA and Business/Technology teams present in other Countries UK/HSK/China/India designed to foster creative and groundbreaking thought.
    
 
   
 
- The Network Solutions team is here to help online businesses protect what’s theirs and build for tomorrow. That’s why millions trust us to protect their domains, brands, and websites every day.
+ Our work is extensively peer reviewed and published in academic and practitioner journals. Our business objectives are to promote State Street’s brand as the leading provider of knowledge resources, decision support and advisory services to global investors and provide valuable, proprietary research to clients in support of our sell\\-side business, State Street Markets. Research direction is provided by leading academics from Harvard and MIT.
    
 
   
 
-**Senior AI Back\\-End Engineer**
-**What you’ll do \\& how you’ll make your mark** 
-  
-
-  
-
-- Design \\& scale async REST/WebSocket APIs with Python 3\\.11\\+ \\+ FastAPI, using dependency\\-injection, type hints, and clean vertical\\-slice architecture.
-
-- Implement multi\\-agent workflows with Semantic Kernel (handoff, sequential, concurrent) to route traffic among specialised LLM agents.
-
-- Integrate LLM providers (OpenAI GPT\\-4\\.1/mini, Google Gemini 2\\.5 Flash) behind a provider\\-agnostic layer for A/B and cost\\-aware routing.
-
-- Deliver Retrieval\\-Augmented Generation with vector stores such as Azure AI Search, pgvector, or Chroma.
-
-- Expose tool\\-using agents via OpenAI Assistants (Code\\-Interpreter) for data\\-analysis / file\\-manipulation tasks.
-
-- Evolve schemas with SQLModel / SQLAlchemy 2 \\& Alembic; tune Postgres for high\\-concurrency async access.
-
-- Maintain robust CI/CD (Bitbucket Jenkins) that lint, type\\-check, test, package (Docker), and deploy.
-
- Instrument services with structlog JSON logs, OpenTelemetry traces, and cost/latency metrics; hold p95
- - Champion AI\\-assisted development (GitHub Copilot, Cursor) and share pragmatic problem\\-solving practices with the team.
-
-**Who you are \\& what you’ll need to succeed.** 
-  
-
-  
-
-* 5 \\+ yrs building production APIs in Python; 2 \\+ yrs with Fast API (or similar async stack).
-* Deep knowledge of async I/O, Pedantic v2, DI, and observability.
-* Hands\\-on with Semantic Kernel or comparable agent frameworks.
-* Practical RAG implementations using Azure AI Search, pgvector, or Chroma.
-* Strong Postgres skills, including SQLModel/SQLAlchemy 2 and Alembic migrations.
-* Proven integrations or Side Projects with LLM APIs (OpenAI, Gemini) and structured\\-output design.
-* Dependency management via Poetry and virtual\\-env isolation.
-* End\\-to\\-end CI/CD ownership (build → scan → test → deploy).
-* Excellent analytical and problem\\-solving ability.
-* Remote work readiness with daily overlap of at least 09:00 – 13:00 EST.
-
-
-**Nice to have**
-* Event/message queues (RabbitMQ, Azure Service Bus, Kafka).
-* Observability stacks (Grafana, Lang Fuse) for LLM cost governance.
-
-
- Join us to build the agent\\-powered backbone of our AI platform—robust, model\\-agnostic, and ready for millions of users.
+**Are you the right candidate? Yes!**
+ We truly believe in the power that comes from the diverse backgrounds and experiences our employees bring with them. Although each vacancy details what we are looking for, we don’t necessarily need you to fulfil all of them when applying. If you like change and innovation, seek to see the bigger picture, make data driven decisions and are a good team player, you could be a great fit.
    
 
   
 
-**Why you’ll love us.**
-* Work\\-life balance. Our work is thrilling and meaningful, but we know balance is key to living well.
-* We celebrate one another’s differences.  We’re proud of our culture of diversity and inclusion. We foster a culture of belonging. Our company and customers benefit when employees bring their authentic selves to work. We have programs that bring us together on important issues and provide learning and development opportunities for all employees.  We have 20 \\+ affinity groups where you can network and connect with Newfolders globally.
-* We care about you. We are a family, and we care about you and your family’s physical and mental health by providing competitive HMO benefits – 175k MBL with one free dependent upon one year of service! We also give out Punctuality Bonus, Generous Vacation policy, and much more!
-* Where can we take you? We’re fans of helping our employees learn different aspects of the business, be challenged with new tasks, be mentored, and grow their careers. Unfold new possibilities with \\#teamnewfold!
-
-
- \\#NetworkSolutions
+**About State Street**
+ Across the globe, institutional investors rely on us to help them manage risk, respond to challenges, and drive performance and profitability. We keep our clients at the heart of everything we do, and smart, engaged employees are essential to our continued success.
    
 
   
 
-**This Job Description includes the essential job functions required to perform the job described above, as well as additional duties and responsibilities. This Job Description is not an exhaustive list of all functions that the employee performing this job may be required to perform. The Company reserves the right to revise the Job Description at any time, and to require the employee to perform functions in addition to those listed above.**","Software Development","https://www.linkedin.com/company/network-solutions","https://media.licdn.com/dms/image/v2/D560BAQHjiPFb2RdOHw/company-logo_100_100/B56Zqhpy3.JwAQ-/0/1763648679766/network_solutions_logo?e=2147483647&v=beta&t=LZ46TbGMwFVjUkFbLY1xIgZoPEp-IKK29ntMy2BHp60","","","","","","","","","","",""
+ We are committed to fostering an environment where every employee feels valued and empowered to reach their full potential. As an essential partner in our shared success, you’ll benefit from inclusive development opportunities, flexible work\\-life support, paid volunteer days, and vibrant employee networks that keep you connected to what matters most. Join us in shaping the future.
+   
+
+  
+
+ As an Equal Opportunity Employer, we consider all qualified applicants for all positions without regard to race, creed, color, religion, national origin, ancestry, ethnicity, age, disability, genetic information, sex, sexual orientation, gender identity or expression, citizenship, marital status, domestic partnership or civil union status, familial status, military and veteran status, and other characteristics protected by applicable law.
+   
+
+  
+
+ Discover more information on jobs at StateStreet.com/careers
+   
+
+  
+
+ Read our CEO Statement
+   
+
+  
+
+ Job ID: R\\-790962","Financial Services, Investment Banking, and Investment Management","https://www.linkedin.com/company/state-street","https://media.licdn.com/dms/image/v2/D4E0BAQG2I4b6RVexFg/company-logo_100_100/company-logo_100_100/0/1695040265658/state_street_logo?e=2147483647&v=beta&t=Ub0oPMS_tj_W9kGjLa872fLM4oluGO4xV84-AjisJbo","","","","","","","","","","",""
+"li-4425419693","linkedin","https://www.linkedin.com/jobs/view/4425419693","","Senior Staff Engineer (Founding Team)","Cloudstaff","","","fulltime","","","","","",True,"entry level","Business Development and Information Technology","","","**We’re Hiring: Senior Staff Engineer (Founding Team)!** 
+
+
+
+
+  
+
+
+
+
+
+ Looking for a role that fosters collaboration, creativity and career growth in a vibrant office environment? We got you covered!
+ 
+
+
+
+  
+
+
+
+
+
+ We are currently on the lookout for a Senior Staff Engineer (Founding Team) to join our team at Cloudstaff, the \\#1 workplace everywhere! Think you qualify for the role? Attach a 1\\-2 minute video intro and introduce yourself to us so we can meet you virtually. Attach this together with your updated CV to become a priority applicant!
+ 
+
+
+
+  
+
+
+
+
+
+**Role** 
+ : Senior Staff Engineer (Founding Team)
+ 
+
+
+
+**Work Arrangement** 
+ : Work from Home
+ 
+
+
+
+**Location** 
+ : India
+ 
+
+
+
+**Schedule** 
+ : Night shift
+ 
+
+
+
+  
+
+
+
+
+
+**Job description:** 
+
+
+
+
+**Key Responsibilities:** 
+
+
+
+
+**Ten\\-plus years of professional software development.** 
+ The founding weight of the role, the 2–5 year commitment, and the breadth of year\\-one ownership do not fit a less
+ 
+
+
+
+ experienced engineer.
+ 
+
+
+
+  
+
+
+
+
+
+**Production Azure architecture you can walk through.** 
+ You have personally architected and shipped at least one production system end\\-to\\-end on Azure. App Service or
+ 
+
+
+
+ Container Apps, Functions, Azure SQL or Cosmos DB, AI Search, Entra ID, Key Vault, Bicep or Terraform. You can name the services you chose, the trade\\-offs you made, what failed, and what you did. Certifications without a system behind them are not signal.
+ 
+
+
+
+  
+
+
+
+
+
+**Shipped production AI.** 
+ Not a hackathon project. A real system, with real users, that you
+ 
+
+
+
+ took from design through production and lived with. You know prompt engineering, RAG pipelines, function calling, context management, and basic evaluation patterns from
+ 
+
+
+
+ practice, not from reading about them.
+ 
+
+
+
+  
+
+
+
+
+
+**End\\-to\\-end ownership across the layers.** 
+ You work across frontend, API, data, and infrastructure. Breadth across all of it, real depth in at least one. You write the code, you
+ 
+
+
+
+ write the CI/CD pipeline, you write the infrastructure\\-as\\-code modules for what you ship, you own the observability and the on\\-call. Engineers who hand off to a platform team, an SRE team, or an ops team are not a fit. M\\&S does not have those teams.
+ 
+
+
+
+  
+
+
+
+
+
+**Ownership under ambiguity.** 
+ Year one is largely unspecified. You will be handed vague problems and asked to turn them into shipped systems. You make calls where the
+ 
+
+
+
+ requirement is fuzzy, the vendor docs are wrong, and leadership cannot make the technical decision for you. You make pragmatic decisions and stand behind them. You will be wrong sometimes, and you recover. You do not wait for direction you are not going to get.
+ 
+
+
+
+  
+
+
+
+
+
+**Written\\-first communication.** 
+ Most work is async with US Central. Clear writing about technical decisions, trade\\-offs, and risks matters more than verbal polish.
+ 
+
+
+
+ Commitment. This is a 2–5 year role. The integration work, the firm context, and the team\\-building all compound. Resume\\-padding engineers will not produce what this seat
+ 
+
+
+
+ requires.
+ 
+
+
+
+  
+
+
+
+
+
+ Background in CPA, accounting, professional services, or legal/financial\\-services ERP integration is a significant advantage. So is experience defining technical standards, documentation, and engineering culture from scratch. So is an appetite to step into mentorship and technical leadership as the team grows. None of those replace the floors
+ 
+
+
+
+ above.
+ 
+
+
+
+  
+
+
+
+
+
+**Non\\-negotiable skills and requirements:** 
+
+
+
+* **10\\+ years of professional software development.** 
+ That's a floor, not a preference.
+* Has
+ **architected one production system end\\-to\\-end on Azure** 
+ . You should be able to walk through the services they chose, the trade\\-offs, and what failed in production. Certifications on their own aren't enough.
+* Has
+ **shipped at least one production LLM\\-backed system** 
+ (an agent, a RAG pipeline, or an LLM integration) with real users.
+* **End\\-to\\-end ownership across the layers** 
+ . Writes the code, deploys it, writes the IaC, owns the observability and the on\\-call. Not someone who hands off to a platform, SRE, or ops team. M\\&S doesn't have any of those.
+* Willing to
+ **overlap 4 to 5 hours daily with US Central** 
+ .
+
+
+
+  
+
+
+
+
+
+**Perks \\& Benefits:** 
+
+
+
+* Comprehensive health and life insurance on your 16th day of employment, covering 1 free dependent on the 16th day of employment
+* Flexible leave credits which may be used for vacation, emergency and sick leaves
+* Quarterly perks boxes for WFH staff, offering groceries and snacks to keep you fueled
+* Superb and exciting Mid\\-Year Parties – with items to give away and cash prizes!
+* Endless opportunities for career advancement
+* Annual Performance Review with Salary Increase
+* We set you up for success with a company\\-provided PC/Laptop and fiber internet connection
+* Tech\\-on\\-wheels Support
+* Participate and join our CS Social Clubs and Special Interest Groups to connect with colleagues
+* International career growth and connections
+* Unlimited cash incentives for hired referrals
+* Mental Wellness Employee Assistance program through Lifeworks
+* In\\-house psychiatrist available to support employees' well\\-being
+* Become part of the Employee Share Units program
+* Cloudstaff Dream Points \\- To be used for bidding useful items like appliances, kitchenettes etc.
+
+
+
+  
+
+
+
+
+
+**Cloudstaff : Build Your Career, Anywhere** 
+
+
+
+
+ Established in 2005, Cloudstaff is a leading outsourcing company that empowers businesses to thrive through smarter talent solutions. We're passionate about creating a work environment that fosters your professional growth and overall well\\-being.
+ 
+
+
+
+  
+
+
+
+
+
+**Why Cloudstaff is the \\#1 Workplace?** 
+
+
+
+* Award\\-winning Culture: We're committed to building the \\#1 Workplace Everywhere, with a proven track record of staff engagement initiatives and industry recognition
+* Invest in You: We support your development through comprehensive training programs, mentoring and opportunities for career advancement
+* Thrive as an Individual: We offer a strong work\\-life balance with flexible schedules, meaningful perks and a collaborative team environment.
+
+
+
+  
+
+
+
+
+
+*\\*\\*To become a priority applicant, please share a 1\\-2 minute video introduction detailing you experience in this specific role. You can upload your video to the CSJobs platforms. Please use a clean, distraction\\-free background and speak clearly and articulately.\\*\\**","Outsourcing and Offshoring Consulting, Business Consulting and Services, and IT Services and IT Consulting","https://au.linkedin.com/company/cloudstaff","https://media.licdn.com/dms/image/v2/D4D0BAQFOtyLgdZDq7w/company-logo_100_100/company-logo_100_100/0/1729748514020/cloudstaff_logo?e=2147483647&v=beta&t=GjIijRlIjmPABm6hVmBmzvJLABxG_yKex7XEqHxZNDM","","","","","","","","","","",""
