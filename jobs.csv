@@ -1,422 +1,961 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4430454727","linkedin","https://www.linkedin.com/jobs/view/4430454727","","Artificial Intelligence Engineer","SourcingXPress","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Company:** 
- Damco Solutions Private Limited
+"li-4428583717","linkedin","https://www.linkedin.com/jobs/view/4428583717","","Software Engineer – Full Stack (Platform & AI Systems)","IBM","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Introduction**
+ At IBM Infrastructure \\& Technology, we design and operate the systems that keep the world running. From high\\-resiliency mainframes and hybrid cloud platforms to networking, automation, and site reliability. Our teams ensure the performance, security, and scalability that clients and industries depend on every day. Working in Infrastructure \\& Technology means tackling complex challenges with curiosity and collaboration. You’ll work with diverse technologies and colleagues worldwide to deliver resilient, future\\-ready solutions that power innovation. With continuous learning, career growth, and a supportive culture, IBM provides the opportunities to build expertise and shape the infrastructure that drives progress.
    
 
   
 
-**Website:** 
- Visit Website
+**Your Role And Responsibilities**
+* Design, develop, and maintain scalable backend services for IBM Storage Insights, supporting observability, analytics, automation, AI\\-assisted workflows, and enterprise platform capabilities.
+* Build robust backend services, APIs, and integration layers using Java, Python, and related frameworks, with a focus on performance, reliability, maintainability, and secure engineering practices.
+* Develop RESTful, event\\-driven, and asynchronous service interfaces that integrate with distributed systems, data pipelines, monitoring platforms, and enterprise services.
+* Contribute to backend architecture for multi\\-tenant, cloud\\-native systems, including service decomposition, API design, data modeling, caching, resiliency, and operational observability.
+* Implement AI/ML\\-enabled capabilities, including LLM\\-backed workflows, agentic services, retrieval\\-augmented generation, entity and intent extraction, and automation use cases.
+* Contribute to Agentic AI engineering with depth in one or more specialized areas such as LangGraph\\-based orchestration, tool\\-calling design, agent harness development, Langfuse\\-based observability, LLM evaluation, RAG pipelines, prompt/version management, guardrails, or production tracing. The role values demonstrated depth in at least one such area over broad but shallow familiarity across many frameworks.
+* Build and maintain Python\\-based services, automation utilities, evaluation harnesses, and data\\-processing components to support AI/ML and backend engineering use cases.
+* Collaborate with product management, architects, platform teams, SREs, and other engineering squads to deliver production\\-grade capabilities for enterprise customers.
+* Ensure that delivered solutions meet high standards for scalability, security, reliability, performance, testability, and operational supportability.
+* Contribute selectively to frontend or dashboard integrations where required, while primarily focusing on backend services, platform engineering, and AI\\-enabled capabilities.
+
+
+**Preferred Education**
+ Master's Degree
    
 
   
 
-**LinkedIn:** 
- Visit LinkedIn
+**Required Technical And Professional Expertise**
+* Around 4–6 years of hands\\-on software engineering experience, with strong backend programming experience in Java and/or Python.
+* Strong understanding of backend development, including API design, service orchestration, concurrency, error handling, logging, testing, and production troubleshooting.
+* Experience building RESTful APIs, asynchronous services, event\\-driven integrations, and backend components that interact with distributed systems.
+* Strong programming fundamentals, including object\\-oriented design, data structures, algorithms, design patterns, database concepts, networking basics, and system design.
+* Experience with SQL and/or NoSQL databases, including schema design, query development, indexing concepts, transactions, and data access patterns.
+* Working knowledge of microservices architecture, containerized deployments, cloud\\-native development, and service\\-to\\-service communication.
+* Hands\\-on experience with Python for backend development, automation, data processing, AI/ML integration, or engineering productivity use cases.
+* Exposure to AI/ML or Generative AI engineering, including integrating LLM APIs, designing prompts, invoking tools, building evaluation harnesses, or implementing agent\\-based workflows.
+* Demonstrated depth in at least one Agentic AI engineering area is preferred, such as agent orchestration, tool\\-use design, RAG implementation, evaluation harnesses, observability/tracing, guardrails, or production LLM workflow debugging.
+* Ability to write clean, modular, testable, and maintainable code with appropriate unit, integration, and regression test coverage.
+* Experience working in agile engineering teams with strong ownership of design, implementation, code reviews, debugging, and production\\-readiness.
+* Basic working knowledge of JavaScript/TypeScript and frontend frameworks such as React is useful, but the primary expectation is strong backend engineering capability.
+
+
+**Preferred Technical And Professional Experience**
+ Experience with Java backend frameworks such as Spring Boot, Quarkus, Micronaut, or similar enterprise backend technologies.
    
 
   
 
-**Business Type:** 
- Enterprise
+ Experience building Python services using frameworks such as FastAPI, Flask, or similar backend/API frameworks.
    
 
   
 
-**Company Type:** 
- Product \\& Service
+ Deep specialization in one or more Agentic AI engineering areas, rather than only general awareness of multiple tools. Examples include:
    
 
   
 
-**Business Model:** 
- B2B
+* Agent orchestration: LangGraph, LangChain, stateful workflows, planner\\-worker patterns, multi\\-agent coordination.
+* Agent harnesses: test harnesses, tool simulators, scenario replay, regression suites, deterministic evaluation flows.
+* LLM observability: Langfuse, tracing, prompt/version tracking, latency and cost instrumentation, failure analysis.
+* Tool\\-calling and integrations: API tool design, schema design, action validation, secure execution, retry and fallback patterns.
+* RAG and retrieval systems: embeddings, vector databases, chunking strategies, ranking, grounding, and response quality evaluation.
+* AI safety and reliability: guardrails, confidence scoring, fallback design, hallucination mitigation, production monitoring.
+* Model evaluation: golden datasets, automated evals, human\\-in\\-the\\-loop review, quality metrics, and release gates.
+
+
+ Experience with observability, monitoring, telemetry, analytics platforms, or infrastructure management systems.
    
 
   
 
-**Funding Stage:** 
- Pre\\-seed
+ Experience with CI/CD pipelines, DevOps practices, container orchestration, automated testing, and production deployment workflows.
    
 
   
 
-**Industry:** 
- Software Development
+ Experience with high\\-scale, secure, multi\\-tenant enterprise platforms.
    
 
   
 
-**Salary Range:** 
- ₹ 20\\-30 Lacs PA
+ Familiarity with distributed data processing, streaming/event systems, caching, message queues, and backend performance optimization.
    
 
   
 
-**Job Description**
-**Job description**
-**What You Do**
- You build software systems using AI at a speed and quality that wasn't previously possible. You're an architect\\-level thinker who uses AI as a power tool \\- not a junior developer with a copilot. You own architecture, code quality, infrastructure, and the effectiveness of the AI agents themselves.
+ Exposure to frontend dashboards, visualization libraries, or React\\-based UI integration is a plus, but not the core focus of the role.","IT Services and IT Consulting","https://www.linkedin.com/company/ibm","https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&v=beta&t=HPSmWLOCvdPkWO1nRWwjjmCNpaCqww20rSJ4E54QtxQ","","","","","","","","","","",""
+"li-4430361109","linkedin","https://www.linkedin.com/jobs/view/4430361109","","Senior Developer Software","TransUnion","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","TransUnion's Job Applicant Privacy Notice
    
 
   
 
- You are not a traditional developer waiting for tickets. You are not isolated from the business. You are half of a two\\-person team that owns a project.
+**Team Overview**
+ As a Software Engineer (Java Backend), you will design and develop scalable, cloud\\-ready backend services that power fraud platform capabilities. You will work independently on complex features, contribute to system design, and collaborate closely with product, architecture, and cross\\-functional teams to deliver high\\-quality solutions.
    
 
   
 
-**The Mindset**
- Build like it's your product. Not ""the client's app"" your system. Would you deploy this to your own users?
+ This role requires strong hands\\-on development expertise, ownership of deliverables, and the ability to solve moderately complex to complex technical problems with limited guidance. This is a hybrid position and involves regular performance of job responsibilities virtually as well as in\\-person at an assigned TU office location for a minimum of two days a week.
    
 
   
 
-* Automate relentlessly. If you're manually deploying, manually running tests, manually checking for regressions \\- automate it.
-* Don't stop at ""it works."" After deployment, the system needs to be observable. Error tracking. Performance monitoring. Usage analytics.
-* Know where AI breaks. Review AI\\-generated code with the same rigor you'd apply to a junior developer's PR.
-* Understand the business problem. Code that solves the wrong problem is worse than no code at all.
+**Key Responsibilities**
+**Role Overview And Core Responsibilities**
+* Design, develop, and enhance backend services and microservices for the fraud platform in collaboration with architects and product teams
+* Contribute to system design discussions and help define scalable, reliable, and maintainable solutions
+* Implement cloud\\-native solutions and actively support modernization of existing applications
+* Develop, test, and maintain high\\-quality Java\\-based services following best practices and architectural guidelines
+* Independently analyze and resolve complex technical problems, proposing effective and scalable solutions
+* Drive integration of fraud point solutions into the broader platform with a focus on performance, scalability, and security
+* Conduct and actively contribute to code reviews, ensuring adherence to coding standards and improving overall code quality
+* Collaborate with DevOps and platform teams to improve CI/CD pipelines, automation, and deployment processes
+* Troubleshoot production issues and ensure system reliability and availability
 
 
-**Principles**
-* Fix the instruction, not just the output. When AI generates bad code, update CLAUDE.md so it never happens again.
-* Honest over optimistic. ""This will take a week"" is better than ""maybe 2\\-3 days"" followed by a week.
-* Architecture serves the outcome, not your preferences. The simplest one that serves the business outcome.
-* Ship small, ship often. One PR, one change. Tests pass. Docs u
-* Pdated.
-* Own the full stack. Front\\-end, back\\-end, database, infrastructure, CI/CD, observability.
-* Build for debuggability. Structured logs. Error tracking. If an AI agent can't diagnose a production issue from your logs, your observability isn't good enough.
-* Make the ES better. When the ES asks a technical question, teach don't just answer.
+**Ways of Working**
+* Actively participate and contribute to Agile ceremonies (PI planning, sprint planning, stand\\-ups, retrospectives), ensuring delivery of committed work
+* Take ownership of features/modules and drive them to completion with minimal supervision
+* Mentor junior engineers and support their technical growth through guidance and feedback
+* Proactively identify improvement opportunities in processes, tools, and code quality
+* Communicate effectively with stakeholders, providing clear updates, technical inputs, and solutions
+* Build strong working relationships across teams and functions
 
 
-**Daily Rhythm**
- Morning (30 min): Check the control room for new requirements, decisions, or priority changes. Review overnight CI/CD results and monitoring alerts. Check Linear for current sprint priorities.
+**What We Expect**
+* Solid experience in Java backend development (e.g., Spring Boot, REST APIs, microservices architecture)
+* Good understanding of cloud platforms (AWS, Azure, or GCP) and cloud\\-native development practices
+* Strong problem\\-solving skills with the ability to handle moderately complex to complex technical challenges independently
+* Experience with API design, system integration, and distributed systems concepts
+* Familiarity with CI/CD pipelines, DevOps practices, and version control systems (e.g., Git)
+* Understanding of data storage solutions (RDBMS and exposure to NoSQL systems) and messaging systems (e.g., Kafka)
+* Awareness of performance optimization, scalability, and secure coding practices
+* Strong collaboration and communication skills with the ability to work across technical and non\\-technical teams
+* Working knowledge of Agile methodologies and ability to contribute effectively in a team setting
+* Continuous learning mindset with the ability to adapt to new technologies and evolving requirements
+
+
+**Qualifications \\& Experience**
+* 5–8 years of experience in backend or service\\-oriented application development
+* Strong hands\\-on experience in designing, building, and maintaining Java\\-based applications (e.g., Spring Boot, REST APIs, microservices)
+* Good understanding of cloud platforms such as AWS, Azure, or GCP, with practical experience in developing or deploying cloud\\-native applications
+* Working experience with DevOps tools and practices (e.g., CI/CD pipelines, Git, Maven/Gradle) and familiarity with build and deployment automation
+* Solid understanding of system design principles with experience contributing to and implementing scalable, distributed backend services
+* Experience in API design and development, with a good grasp of RESTful principles and service integration patterns
+* Good knowledge of data storage technologies, including relational databases and hands\\-on exposure to NoSQL systems (e.g., key\\-value, document stores)
+* Experience or familiarity with messaging/event\\-driven systems (e.g., Kafka, RabbitMQ) in distributed architectures
+* Understanding of designing and building reliable, high\\-availability, and performant systems (low latency, scalability, fault tolerance)
+* Ability to independently analyze and solve moderately complex to complex technical problems
+* Strong communication and collaboration skills, with the ability to effectively work across teams and stakeholders
+* Working experience in Agile development methodologies (Scrum/Kanban) and ability to contribute actively to team delivery
+* Experience working in cross\\-functional and distributed teams in a collaborative environment
+* Bachelor’s degree in Computer Science, Information Technology, or related field
+* Ability to quickly understand business and technical problems, adapt to new technologies, and contribute effectively with minimal guidance
+
+
+**Required Knowledge And Experiences**
+* Proven ability to work effectively in cross\\-functional, matrixed environments (e.g., Product, Engineering, Operations), contributing to alignment and delivery across teams
+* Demonstrates adaptability in a fast\\-paced, evolving environment, proactively identifying improvement opportunities and driving continuous improvement initiatives
+* Strong team player with a customer\\-focused mindset, able to confidently interact and collaborate with both technical and non\\-technical stakeholders
+* Ability to manage multiple workstreams or features simultaneously, prioritize effectively, and consistently meet deadlines with minimal supervision
+
+
+**TransUnion Overview**
+ At TransUnion, we encourage and are committed to creating a real, positive impact and shared sense of purpose within our
+ **Workforce for Good** 
+ , which empowers our people to grow, innovate and contribute to a better future for our communities and customers. We strive to build an environment where our associates are in the driver’s seat of their professional development— while having access to help along the way. We recognize that success comes when our associates thrive both professionally and personally; that’s why we prioritize work/life flexibility and offer resources for our teams across the globe to collaborate and drive excellence.
    
 
   
 
- During the day: Build features using AI (Claude Code, Cursor). Review and harden AI\\-generated code. Architecture work. Infrastructure and observability management. Pair with the ES when they need technical input.
+ Be a part of our
+ **Workforce for Good** 
+ – you’ll work with great people, pioneering products and cutting\\-edge technology.
    
 
   
 
- When the ES runs a customer call with technical content: Join for the technical portions. Provide feasibility input in real\\-time. Follow up on technical action items immediately after.
+ TransUnion Job Title
    
 
   
 
- End of day (15 min): PR descriptions clear and linked to Linear issues. Build status updated in Linear. Blockers flagged to the ES.
+ Developer III, Applications Development","Financial Services, Information Services, and IT Services and IT Consulting","https://www.linkedin.com/company/transunion","https://media.licdn.com/dms/image/v2/D4D0BAQEk0GcygRhErQ/company-logo_100_100/company-logo_100_100/0/1688367018553/transunion_logo?e=2147483647&v=beta&t=aZY91qceD0nOGJLqzOWLP_brRpLa01LUNeeXbXnuP-w","","","","","","","","","","",""
+"li-4430365055","linkedin","https://www.linkedin.com/jobs/view/4430365055","","Developer - Shotscope™ (.NET Full Stack) - Husky(Guindy, Chennai)","Husky Technologies","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
+**Title:** 
+ Developer \\- Shotscope™ (.NET Full Stack) \\- Husky(Guindy, Chennai)
    
 
   
 
-**Capabilities**
- Technical: 2\\-3 shipped applications end\\-to\\-end. Strong in 2\\-3 languages. Database design and query optimization. System architecture. Cloud infrastructure in production. CI/CD and DevOps. Security (OWASP, auth patterns, data handling).
+**Id:** 
+ 20959
    
 
   
 
- AI\\-native development: Expert with Claude Code and/or Cursor. Directs AI to build complete features. Knows when to trust AI and when to rewrite. Writes effective CLAUDE.md instructions.
+**Type:** 
+ FullTime
    
 
   
 
- Communication: Explains technical decisions to non\\-technical people. Gives honest estimates. Clear PR descriptions and architecture docs. Raises concerns proactively.
+**Location:** 
+ Chennai, India
    
 
   
 
-**About Damco**
- Damco Solutions Pvt. Ltd. is a global technology consulting and software services company with 30\\+ years of experience, delivering scalable and innovative digital solutions across Cloud, AI, Data, and Salesforce. With a strong presence in the US, UK, and India, we partner with startups, mid\\-sized businesses, and Fortune 500 clients to drive digital transformation and business efficiency. Our expertise spans custom software development, cloud\\-native applications, and intelligent automation, enabling organizations to build future\\-ready, high\\-performance systems.","Technology, Information and Internet","https://in.linkedin.com/company/sourcingxpress","https://media.licdn.com/dms/image/v2/D560BAQH8p15unSQuNg/company-logo_100_100/company-logo_100_100/0/1726488435665/sourcingxpress_logo?e=2147483647&v=beta&t=iFtAwYhOzhMZtNarkze-r6fDB-RFk6LFqh98zidvhgo","","","","","","","","","","",""
-"li-4428901580","linkedin","https://www.linkedin.com/jobs/view/4428901580","","AI Software Technical Lead","OmVrti.ai","North Delhi, Delhi, India","","fulltime","","","","","",True,"mid-senior level","Information Technology","","","**AI\\-Assisted Software Development Lead / Founding Product Engineer** 
-
-
-
-
- 📍
- **Delhi NCR \\| On\\-Site Only** 
-
-
-
-
- OmVrti.ai is a Silicon Valley\\-based
- **Vertical Agentic AI company** 
- building the next\\-generation
- **AI Operating System for Enterprise Efficiency** 
- .
- 
-
-
-
- We are not looking for traditional software developers.
- 
-
-
-
- We are looking for
- **AI\\-first product builders** 
- — people who can use modern AI tools to dramatically accelerate software development, architecture, deployment, testing, scaling, and continuous product improvement.
- 
-
-
-
- This is a role for someone who can think like a founder, build like a world\\-class engineer, and lead like a product owner.
- 
-
-
-
-**What You’ll Build** 
-
-
-
-
- You will help build the core platform behind OmVrti.ai’s Vertical Agentic AI Operating System — enabling enterprises to automate, optimize, and transform highly complex workflows through autonomous AI agents.
- 
-
-
-
- You will work across architecture, backend, frontend, cloud infrastructure, AI\\-assisted development, deployment, and product execution.
- 
-
-
-
-**What We’re Looking For** 
-
-
-
-
- We are looking for exceptional engineers who bring:
- 
-
-
-* IIT background with strong academic and technical achievements
-* 5–20 years of software engineering experience
-* Strong hands\\-on expertise in
- **Java, Spring Boot, Microservices, React, Kubernetes, AWS, and Full\\-Stack Development**
-* Strong architecture, system design, and product\\-building capability
-* Deep usage of AI development tools such as
- **ChatGPT, Claude, Cursor, Windsurf, GitHub Copilot** 
- , and similar platforms
-* Ability to use AI to deliver in days what traditionally takes teams weeks or months
-* Strong ownership mindset, speed of execution, and ability to convert ideas into working products
-
-
-
-**This Role Is Not For You If** 
-
-
-
-* You are looking for a routine 9\\-to\\-5 job
-* You prefer narrowly defined responsibilities
-* You want to work remotely
-* You are uncomfortable using AI aggressively as part of your daily development workflow
-
-
-
-**This Role Is For You If** 
-
-
-
-* You want to build products, not just write code
-* You want to lead AI\\-assisted software development at high speed
-* You thrive in intense, high\\-performance environments
-* You want significant ownership and responsibility
-* You want to work alongside ambitious people solving difficult problems
-* You aspire to help build a category\\-defining global AI company
-
-
-
-**Compensation \\& Equity** 
-
-
-
-
- We offer
- **top\\-tier compensation** 
- along with
- **meaningful equity ownership** 
- .
- 
-
-
-
- We are building for a very large outcome and want the people creating that value to participate in the success.
- 
-
-
-
- After all, the question is not:
- 
-
-
-
-**“Who Wants to Be a Millionaire?”** 
-
-
-
-
- The question is:
- 
-
-
-
-**“Who Wants to Help Build the Next Billion\\-Dollar AI Company?”** 
-
-
-
-
-**On\\-Site Culture** 
-
-
-
-
- This position is based in our
- **Delhi NCR office** 
- and is
- **fully on\\-site only** 
- .
- 
-
-
-
- We strongly believe the best teams, best ideas, and best products are built when talented people work closely together, collaborate deeply, challenge each other, and move fast as one team.
- 
-
-
-
- If this sounds like you, we’d love to hear from you.
- 
-
-
-
- \\#AI \\#ArtificialIntelligence \\#AgenticAI \\#Startup \\#Hiring \\#SoftwareDevelopmentLead \\#TechLead \\#Java \\#React \\#Microservices \\#Kubernetes \\#AWS \\#IIT \\#ProductEngineering \\#AIAssistedDevelopment","Artificial Intelligence","https://www.linkedin.com/company/omvrti","https://media.licdn.com/dms/image/v2/D4D0BAQHLLcXWkESl7w/company-logo_100_100/B4DZv95PhII8AQ-/0/1769491200552/omvrti_logo?e=2147483647&v=beta&t=OoUI09s-n0_1v3evPbk4M-axZZI0_dNtl2-Uy6Xrt-A","","","","","","","","","","",""
-"li-4431390895","linkedin","https://www.linkedin.com/jobs/view/4431390895","","Agentic Developer","HCLTech","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","8\\+ years of Exp.
- 
-
-
-
- Handon exo in Copilot Build Studio is mandatory.
- 
-
-
-
- Immediate \\- 30 Days NP.
- 
-
-
-
- Agentic Developer (L3\\) \\- Python \\& Azure Focus
- 
-
-
-
- We are seeking a talented and detail\\-oriented L3 Agentic Developer with strong hands\\-on Python experience and expertise in Microsoft Azure. This role will focus on designing, developing, and deploying robust, autonomous AI agents leveraging the latest agentic design patterns and cloud\\-native services. The ideal candidate will be a proactive problem\\-solver, adept at debugging complex systems, and knowledgeable about secure cloud principles.
- 
-
-
-
- Key Responsibilities:
- 
-
-
-* Agent Development: Design, build, and deploy sophisticated AI agents using Python and frameworks like LangGraph, implementing complex DAGs with conditional edges and autonomous tool\\-calling capabilities.
-* Azure Integration: Architect and implement solutions leveraging core Azure services, including deploying application logic via Azure Functions and integrating with monitoring tools such as Application Insights or Log Analytics Workspace (LAW).
-* Secure Infrastructure: Implement secure cloud practices, including managing service principles, user principles, and Managed Identities for secure, credential\\-free service interaction.
-* Debugging \\& Troubleshooting: Utilize strong debugging skills to identify and resolve complex issues across local environments and cloud deployments, proficient with integrated debuggers and console\\-based methods.
-* Prompt Engineering: Apply advanced prompt engineering techniques, understanding trade\\-offs between different methods (e.g., few\\-shot prompting, chain\\-of\\-thought, tool schema provision) to optimize LLM performance and reliability.
-* Design Patterns: Drive the adoption of agentic design patterns, specifically implementing the ""LLM as a decision maker"" pattern where the model dynamically selects and executes tools based on provided schema and context.
-
-
-
- Required Qualifications:
- 
-
-
-* Experience: Proven hands\\-on experience as a Python Developer building production\\-grade applications.
-* Cloud Proficiency: Strong experience with Cloud platforms, preferably Microsoft Azure (AWS or GCP experience is also valued).
-* Technical Skills:
-* Proficiency with AI orchestration frameworks such as LangGraph.
-* Experience deploying and managing applications on Azure Functions.
-* Knowledge of monitoring tools like Azure App Insights or Log Analytics.
-* Deep understanding of secure identity management within cloud environments (Service Principals, Managed Identities).
-* Expert\\-level debugging skills in various environments.
-* AI Knowledge: Demonstrated understanding of prompt engineering techniques and core agentic design patterns.
-
-
-
- Preferred (Good to Have) Qualifications:
- 
-
-
-* Development Tools: Familiarity with the VS Code IDE environment.
-* Cloud Networking: Knowledge of Azure networking components (VNets, Subnets, DNS configurations).
-* DevOps/IaC: Experience creating simple CI/CD pipelines or managing infrastructure as code using Bicep or Terraform.
-* Performance Optimization: Experience with Python asynchronous programming (asyncio), multi\\-processing, or multi\\-threading concepts.
-* Emerging Tech: Awareness of concepts like the Model Context Protocol (MCP).
-
-
+ At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
+   
 
   
 
-
-
-
-
-  
-
- Level 3 (L3\\) Expectations
- 
-
-
-
- :An L3 engineer is expected to operate with significant autonomy, own medium\\-to\\-large features end\\-to\\-end, provide technical guidance to junior team members, troubleshoot complex, non\\-obvious issues across system boundaries, and contribute actively to architectural discussions
- 
-
-
+ Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state\\-of\\-the\\-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
+   
 
   
 
+ Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
+   
+
+  
+
+ Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
+   
+
+  
+
+****Job Description****
+ Do you want to work an industrial grade software solution powering real time manufacturing intelligence on factory floors worldwide?
+   
+
+  
+
+ As a Developer on our Shotscope™ team, you will help build and maintain industrial\\-grade manufacturing intelligence software used by customers worldwide. You will implement features and components on a .NET and Azure\\-based full stack, contribute clean and reliable code, and support the continuous evolution of a mission\\-critical product that connects machines, processes, and data.
+   
+
+  
+
+ This role is ideal for a motivated engineer who enjoys hands\\-on development, learning from experienced teammates, and seeing their work deployed in real production environments—with clear opportunities to grow toward senior and lead roles.
+   
+
+  
+
+ If you want your code to have visible impact on how factories operate, Shotscope™ is where software meets the real world.
+   
+
+  
+
+****Responsibilities****
+**Technical Implementation**
+* Implement software components and features based on provided designs, specifications, and guidance.
+* Contribute to the development of reliable, maintainable, and secure code within the assigned scope.
+* Apply agreed coding standards, patterns, and best practices in daily development work.
+* Make basic technical decisions within assigned tasks, escalating questions or uncertainties when needed.
 
 
-
- .","IT Services and IT Consulting","https://in.linkedin.com/company/hcltech","https://media.licdn.com/dms/image/v2/C4D0BAQF-RIoeeMTMKQ/company-logo_100_100/company-logo_100_100/0/1664197008220/hcltech_logo?e=2147483647&v=beta&t=xcyEJUPhrb87C_rsxS_BX3_2bZJF40KfbSVTJWSFdkU","","","","","","","","","","",""
-"li-4431603700","linkedin","https://www.linkedin.com/jobs/view/4431603700","","Sailpoint Engineer  - L2 Engineer","HCLTech","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"associate","Information Technology","","","Immediate \\- 30 Days of NP only.
- 
-
-
-
- Preferred Location \\- Chennai, Noida, Hyderabad, Bangalore
- 
+**Delivery \\& Execution Excellence**
+* Translate assigned requirements and tasks into working software.
+* Complete development work in alignment with sprint goals and delivery commitments.
+* Contribute to task breakdowns and effort estimates for assigned work.
+* Proactively raise risks, blockers, or implementation issues to the team.
 
 
-
- 5\\+ Years of Experience in Sailpoint.
- 
-
-
-* Solid development skills on languages like Java, Beanshell. PowerShell is a plus also.
-* LifeCycle Mgmt coding and able to describe the different phases of it.
-* GitLab (or similar) experience
-* Experience operating on an AGILE environment (Scrum methodology, JIRA boards, etc)
-* Understanding the basics of CI\\\\CD Pipeline
-* SQL Language (basic)
-* Development experience in SailPoint including Web Services, SCIM, JDCB, delimited file, IIQ ServiceNow configuration
-* Knowledge and understanding of overall of SailPoint including but not limited to identity cubes, identity attribute mappings, LCM/LCE workflows, role management, SOD policies.
-* Development experience troubleshooting items including but not limited to reading code and understanding what the code is intending to do, identify deficiencies in code, review logs, ability to research errors and replicate if needed to identify solution.
-* Reviewing code including fixes and new code to understand intended actions to approve as part of CI/CD pipeline and Gitlab merge requests.
+**Quality, Standards \\& Engineering Practices**
+* Write clean, testable code and contribute to unit and integration tests.
+* Participate in code reviews, incorporating feedback and learning from peers.
+* Ensure individual contributions meet Definition of Ready (DoR) and Definition of Done (DoD) criteria.
+* Follow established DevOps, security, and quality practices.
 
 
-
- Preferred (Non\\-Mandatory)
- 
-
-
-* Kubernetes basic Knowledge
-* CyberArk functionality
-* ServiceNow Integration
-* SQL Language (advanced)","IT Services and IT Consulting","https://in.linkedin.com/company/hcltech","https://media.licdn.com/dms/image/v2/C4D0BAQF-RIoeeMTMKQ/company-logo_100_100/company-logo_100_100/0/1664197008220/hcltech_logo?e=2147483647&v=beta&t=xcyEJUPhrb87C_rsxS_BX3_2bZJF40KfbSVTJWSFdkU","","","","","","","","","","",""
-"li-4430367023","linkedin","https://www.linkedin.com/jobs/view/4430367023","","Gen AI Engineer_Danske","Infosys","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","* Strong hands\\-on experience in Python 2\\) Good experience with Generative AI / Large Language Models (LLMs) 3\\) Solid understanding of NLP, embeddings, transformers, prompt engineering, and LLM application design 4\\) Experience building RAG pipelines 5\\) Hands\\-on experience with orchestration frameworks such as \\- LangChain / LlamaIndex / Semantic Kernel / AutoGen / CrewAI / LangGraph 6\\) Experience with vector databases such as \\- FAISS, Pinecone, Chroma, Weaviate, Milvus, Elasticsearch/OpenSearch 7\\) Exposure to REST APIs / FastAPI / Flask for serving AI applications 8\\) Strong understanding of ML lifecycle, deployment, testing, and performance tuning
-* Design and develop Generative AI / LLM\\-based applications for enterprise use cases such as chatbots, summarization, document intelligence, search, Q\\&A, code assistants, and workflow automation. 2\\) Build and optimize RAG (Retrieval\\-Augmented Generation) pipelines using embeddings, vector databases, chunking, retrieval strategies, and prompt orchestration. 3\\) Work with foundation models / LLMs from providers such as OpenAI, Anthropic, Cohere, Hugging Face, AWS Bedrock, or open\\-source models. 4\\) Develop robust backend services and APIs to integrate GenAI solutions into enterprise platforms and applications. 5\\) Fine\\-tune, evaluate, and improve model responses through prompt engineering, guardrails, grounding, and performance optimization. 6\\) Build scalable AI pipelines on AWS or Databricks for training, experimentation, deployment, and monitoring. 7\\) Collaborate with Data Science, ML Engineering, Application Engineering, and Product teams to productionize GenAI use cases. 8\\) Ensure best practices in model deployment, observability, security, governance, and responsible AI. 9\\) Contribute to architecture discussions, PoCs, reusable frameworks, and accelerators for GenAI adoption.
+**Incident \\& Operational Support**
+* Assist in troubleshooting defects and issues in development and production environments.
+* Support corrective (bug fixes) and evolutive (enhancements) maintenance of existing solutions.
 
 
- Cloud / Platform Skills Candidate should have hands\\-on experience in either AWS or Databricks: AWS \\- AWS Bedrock, SageMaker, Lambda, ECS/EKS, S3, API Gateway, CloudWatch, IAM Experience deploying scalable AI/ML workloads on AWS OR Databricks \\- Databricks notebooks, MLflow, Model Serving, Delta Lake, Unity Catalog Experience building and deploying AI/ML / GenAI use cases on Databricks platform Exposure to MLOps / LLMOps concepts Knowledge of model monitoring, evaluation, experimentation, and versioning Experience with Docker, Kubernetes, CI/CD pipelines Familiarity with guardrails, AI safety, content filtering, and governance Exposure to multimodal AI, agentic workflows, or autonomous AI systems Understanding of structured/unstructured data processing pipelines","IT Services and IT Consulting","https://in.linkedin.com/company/infosys","https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I","","","","","","","","","","",""
+**Collaboration \\& Growth**
+* Collaborate effectively with other developers, QA, Product Owners, and Tech Leads.
+* Seeking feedback and guidance to continuously improve technical skills.
+* Actively learn the systems, tools, and technologies used by the team.
+* Contribute positively to team culture and shared ownership of outcomes.
+
+
+****Qualifications****
+* Bachelor’s degree in computer science, IT, or related field.
+* 4\\+ years’ professional experience in software development.
+* Proficiency in .NET technologies (C\\#, ASP.NET Core, SQL, .NET Framework, Entity Framework).
+* Strong grasp of Agile methodologies, DevOps principles, application security and version control systems (e.g., Azure DevOps).
+* Proficiency in modern front\\-end frameworks (e.g., preference: React; Angular).
+* Clean Code Development and working experience with Unit Testing, and Test\\-driven Development.
+* Familiarity with source code version control, branching strategies, CI/CD pipelines and other DevOps practices.
+* Working knowledge of Agile development practices.
+* Excellent communication skills and ability to work in a team.
+* Fluency in English (spoken and written).
+* Strong problem\\-solving skills and attention to detail.
+* Ability to adjust quickly to changing assignments, and priorities.
+
+
+**Assets**
+* Familiarity with CI/CD and pipelines.
+* Experience using AI‑assisted coding tools (e.g. GitHub Copilot) responsibly, with full accountability for code quality, security, and compliance.
+* Familiarity with Microsoft Azure, with experience in leveraging key services (e.g., Azure App Services, Azure Functions).
+* Exposure to Microsoft SQL Server BI stack, including SSAS (OLAP cube design), SSRS (report development), and SSIS (ETL processes and data integration).
+
+
+**Why Husky?**
+* Regulated Working Hours: Enjoy a structured work schedule that promotes a healthy work\\-life balance, allowing you to excel professionally while maintaining personal well\\-being.
+* Visible Impact: Experience the satisfaction of seeing the direct outcomes of your work, as you contribute to projects that visibly enhance our company's technological capabilities and efficiency.
+* Strategic Influence: Participate in architectural and technical reviews, contributing to the strategic direction of our cloud initiatives and making a tangible impact on our company's technological landscape.
+* Empowered Involvement: Take an active role in decision\\-making processes and architectural reviews, where your expertise helps shape the future of our cloud solutions and overall business strategy.
+* Valued Contributions: Be more than just a number in a large organization; at our company, every individual's input is valued and can lead to significant, tangible improvements in our operations and services.
+* Impactful Role: Play a crucial part in both developing new applications and maintaining existing systems, ensuring their optimal performance and reliability.
+* Cutting\\-Edge Projects: Work on innovative cloud solutions that are transforming our and our customer’s business, giving you the opportunity to be at the forefront of technological advancements.
+* Supportive Community: Work in an environment that recognizes and celebrates individual achievements, fostering a sense of community and mutual respect among team members.
+* Collaborative Environment: Join a global team of skilled professionals around the globe where your ideas are valued, and collaboration is encouraged to solve complex challenges and drive success.
+
+
+ Husky TechnologiesTM offers a competitive compensation and benefits package and excellent opportunities for growth and advancement. We are committed to equal employment opportunity and respect, value and welcome diversity in our workplace. Husky TechnologiesTM also values being a great place to work and strives to maintain a safe workplace. Accordingly, Husky TechnologiesTM conditions all offers of employment on satisfactory completion of background checks. No agency or telephone inquiries please.","Machinery Manufacturing","https://ca.linkedin.com/company/husky-technologies","https://media.licdn.com/dms/image/v2/C4D0BAQHsvZ0ebIsc4w/company-logo_100_100/company-logo_100_100/0/1636124255401/husky_injection_molding_systems_logo?e=2147483647&v=beta&t=DOW-hRVyemixk1uzPur_5PLKICQw58KUNmIrpYtA4rk","","","","","","","","","","",""
+"li-4430348071","linkedin","https://www.linkedin.com/jobs/view/4430348071","","Developer – Azure Full Stack / Custom Business Applications - Husky (Guindy, Chennai)","Husky Technologies","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
+**Title:** 
+ Developer – Azure Full Stack / Custom Business Applications \\- Husky (Guindy, Chennai)
+   
+
+  
+
+**Id:** 
+ 20136
+   
+
+  
+
+**Type:** 
+ FullTime
+   
+
+  
+
+**Location:** 
+ Chennai, India
+   
+
+  
+
+ At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
+   
+
+  
+
+ Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state\\-of\\-the\\-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
+   
+
+  
+
+ Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
+   
+
+  
+
+ Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
+   
+
+  
+
+****Job Description****
+ Do you want to build custom business applications that directly support and improve how the company operates every day —from launching new capabilities to keeping critical systems stable and evolving?
+   
+
+  
+
+ As a Developer in our Custom Business Applications team, you’ll work hands\\-on across an Azure full\\-stack to implement and evolve applications used by teams across the organization. You’ll develop features based on defined designs, write clean and reliable code, and contribute to keeping business\\-critical systems stable, secure, and continuously improving.
+   
+
+  
+
+ This role is ideal for an engineer who enjoys practical, hands\\-on development, learning from experienced peers, and seeing the immediate impact of their work on how the business operates—while growing toward senior and lead responsibilities over time.
+   
+
+  
+
+ If you want to build software where your code makes everyday work better, this is the team to join.
+   
+
+  
+
+****Responsibilities****
+**Technical Implementation**
+* Implement software components and features based on provided designs, specifications, and guidance.
+* Contribute to the development of reliable, maintainable, and secure code within the assigned scope.
+* Apply agreed coding standards, patterns, and best practices in daily development work.
+* Make basic technical decisions within assigned tasks, escalating questions or uncertainties when needed.
+
+
+**Delivery \\& Execution Excellence**
+* Translate assigned requirements and tasks into working software.
+* Complete development work in alignment with sprint goals and delivery commitments.
+* Contribute to task breakdowns and effort estimates for assigned work.
+* Proactively raise risks, blockers, or implementation issues to the team.
+
+
+**Quality, Standards \\& Engineering Practices**
+* Write clean, testable code and contribute to unit and integration tests.
+* Participate in code reviews, incorporating feedback and learning from peers.
+* Ensure individual contributions meet Definition of Ready (DoR) and Definition of Done (DoD) criteria.
+* Follow established DevOps, security, and quality practices.
+
+
+**Incident \\& Operational Support**
+* Assist in troubleshooting defects and issues in development and production environments.
+* Support corrective (bug fixes) and evolutive (enhancements) maintenance of existing solutions.
+
+
+**Collaboration \\& Growth**
+* Collaborate effectively with other developers, QA, Product Owners, and Tech Leads.
+* Seeking feedback and guidance to continuously improve technical skills.
+* Actively learn the systems, tools, and technologies used by the team.
+* Contribute positively to team culture and shared ownership of outcomes.
+
+
+****Qualifications****
+* Bachelor’s degree in computer science, IT, or related field.
+* 4\\+ years’ professional experience in software development.
+* Experience with programming languages like C\\#, PowerShell, JavaScript, TypeScript, Python, or others relevant to Azure development.
+* Experience using Microsoft .NET, Angular, or similar frontend frameworks.
+* Experience working with web services / APIs (e.g., REST).
+* Experience with SQL or NoSQL databases, particularly those offered on Azure.
+* Proficiency in using various Azure services like Azure App Service, Azure Functions, Azure Cosmos DB, Azure Storage, etc.
+* Understanding and knowledge of cloud security best practices.
+* Clean Code Development and working experience with Unit Testing, and Test\\-driven Development.
+* Familiarity with source code version control, branching strategies, CI/CD pipelines and other DevSecOps practices.
+* Working knowledge of Agile development practices.
+* Excellent communication skills and ability to work in a team.
+* Fluency in English (spoken and written).
+* Strong problem\\-solving skills and attention to detail.
+* Ability to adjust quickly to changing assignments, and priorities.
+
+
+**Assets**
+* Experience using AI assisted coding tools (e.g. GitHub Copilot) responsibly, with full accountability for code quality, security, and compliance.
+* Experience working with and contributing to UX designs.
+* Hands on experience designing and operating event driven systems using Event Sourcing and CQRS.
+* Experience with React, Next.js, GraphQL, and TypeScript.
+* Working experience with infrastructure as code (IaC) tools such as Terraform or ARM templates.
+* Relevant certifications (e.g. Azure Developer Associate, Azure Cosmos DB Developer Specialty).
+
+
+**Why Husky?**
+* Regulated Working Hours: Enjoy a structured work schedule that promotes a healthy work\\-life balance, allowing you to excel professionally while maintaining personal well\\-being.
+* Visible Impact: Experience the satisfaction of seeing the direct outcomes of your work, as you contribute to projects that visibly enhance our company's technological capabilities and efficiency.
+* Strategic Influence: Participate in architectural and technical reviews, contributing to the strategic direction of our cloud initiatives and making a tangible impact on our company's technological landscape.
+* Empowered Involvement: Take an active role in decision\\-making processes and architectural reviews, where your expertise helps shape the future of our cloud solutions and overall business strategy.
+* Valued Contributions: Be more than just a number in a large organization; at our company, every individual's input is valued and can lead to significant, tangible improvements in our operations and services.
+* Impactful Role: Play a crucial part in both developing new applications and maintaining existing systems, ensuring their optimal performance and reliability.
+* Cutting\\-Edge Projects: Work on innovative cloud solutions that are transforming our and our customer’s business, giving you the opportunity to be at the forefront of technological advancements.
+* Supportive Community: Work in an environment that recognizes and celebrates individual achievements, fostering a sense of community and mutual respect among team members.
+* Collaborative Environment: Join a global team of skilled professionals around the globe where your ideas are valued, and collaboration is encouraged to solve complex challenges and drive success.
+
+
+ Husky TechnologiesTM offers a competitive compensation and benefits package and excellent opportunities for growth and advancement. We are committed to equal employment opportunity and respect, value and welcome diversity in our workplace. Husky TechnologiesTM also values being a great place to work and strives to maintain a safe workplace. Accordingly, Husky TechnologiesTM conditions all offers of employment on satisfactory completion of background checks. No agency or telephone inquiries please.","Machinery Manufacturing","https://ca.linkedin.com/company/husky-technologies","https://media.licdn.com/dms/image/v2/C4D0BAQHsvZ0ebIsc4w/company-logo_100_100/company-logo_100_100/0/1636124255401/husky_injection_molding_systems_logo?e=2147483647&v=beta&t=DOW-hRVyemixk1uzPur_5PLKICQw58KUNmIrpYtA4rk","","","","","","","","","","",""
+"li-4430372083","linkedin","https://www.linkedin.com/jobs/view/4430372083","","Triple A Plus (TAP) Developer","Cognizant","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","* Job Title : Product Integrator(ISG)
+* Job Summary : This hybrid role as Product Integrator ISG focuses on integrating Temenos based wealth and securities solutions with enterprise applications to support client reporting and post trade operations. The professional will apply Java expertise Temenos web services and GitHub Copilot assisted development to deliver secure resilient and scalable integrations for global financial institutions.
+* Experience : 5
+* 7 years
+* Required Skills : Technical Skills: GitHub Copilot Java Temenos WS Integration Temenos WS Transact Technical Temenos Wealth Suite Domain Skills:Client Reporting Securities Clearing\\&Settlement Corp Action\\&Income Processing
+* Nice to have skills : Domain Skills:
+* Technology : BFS AD and MS
+* Shift : Day
+* Responsibilities : \\-Design integration solutions that connect Temenos Wealth Suite with enterprise platforms to support client reporting workflows and post trade life cycles in a scalable manner \\-Implement robust Temenos web service integrations using Temenos WS Integration and Temenos WS Transact Technical to enable seamless data exchange for securities processing \\-Develop high quality Java components that orchestrate data flows between Temenos Wealth Suite and external systems supporting securities clearing and settlement operations \\-Configure and optimize integration endpoints to ensure timely and accurate processing of corporate actions and income events across multiple financial products \\-Use GitHub Copilot to accelerate secure coding practices code review preparation and unit test development while maintaining high quality engineering standards \\-Monitor integration pipelines to detect exceptions in client reporting feeds and promptly remediate issues to reduce operational risk and improve service reliability \\-Collaborate with business and operations partners to translate requirements from client reporting and settlement teams into detailed technical integration specifications \\-Create and maintain technical documentation covering integration designs data mappings error handling and operational runbooks to support effective platform maintenance \\-Execute functional and regression testing of Temenos web service interfaces and Java components ensuring stability across day shifts in a hybrid work environment \\-Support deployment activities by preparing release packages validating changes in lower environments and coordinating with operations teams to ensure smooth production rollouts \\-Analyze performance metrics for key integration flows and implement tuning strategies that improve throughput data quality and overall system resilience \\-Contribute to continuous improvement initiatives that enhance automation improve observability and align integration capabilities with evolving regulatory and industry standards \\-Ensure compliance with internal technology controls and information security practices while handling data for securities clearing settlement corporate actions and client reports \\-Qualifications \\-Apply professional experience of five to seven years in financial technology integration with a strong focus on Temenos Wealth Suite and related web services \\-Demonstrate advanced proficiency in Java programming to design maintainable and testable integration services that process complex securities and client reporting data \\-Utilize practical experience with Temenos WS Integration and Temenos WS Transact Technical to configure secure performant and reliable service interfaces \\-Draw on hands on expertise in client reporting to design integrations that deliver accurate timely and consumable information for institutional and individual clients \\-Leverage knowledge of securities clearing and settlement processes to design flows that reduce failure rates improve straight through processing and support operational teams \\-Apply in depth understanding of corporate action and income processing to build integrations that correctly handle entitlements payments and event notifications \\-Use GitHub Copilot responsibly to enhance productivity while maintaining code readability testing discipline and adherence to enterprise engineering guidelines \\-Operate effectively in a hybrid work model by collaborating through digital tools attending day shift ceremonies and maintaining Maven Git BitBucket Perf. Testin Maven Git BitBucket Perf. Testing Junit API Agile Azure IDE AIg Junit API Agile Azure IDE AI clear communication with distributed teams Maven Git BitBucket Perf. Testing Junit API Agile Azure IDE AI
+* Job Location : Primary Location :INMHPUNA16(ITIND PUN CDC
+* SDB1B
+* 4F
+* Wing C) Alternate Location :NA NA Alternate Location 1 :NA NA
+* Job Type : Product Integrator(ISG) \\[65SG02]
+* Demand Requires Travel? : No
+* Certifications Required : Preferred Add Ons \\-certifications include Temenos WealthSuite Technical Consultant and Oracle Certified Professional Java Programmer.","IT Services and IT Consulting and Business Consulting and Services","https://www.linkedin.com/company/cognizant","https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_100_100/B4EZk_EfNgHgAU-/0/1757699778309/cognizant_logo?e=2147483647&v=beta&t=pEIgD9-D_EFoL3rsreK0H2EZEcsXWdZSN64-dV7VrSU","","","","","","","","","","",""
+"li-4430364069","linkedin","https://www.linkedin.com/jobs/view/4430364069","","Platform Engineer - (Azure, IaC & DevOps) - Husky (Guindy, Chennai)","Husky Technologies","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
+**Title:** 
+ Platform Engineer \\- (Azure, IaC \\& DevOps) \\- Husky (Guindy, Chennai)
+   
+
+  
+
+**Id:** 
+ 20940
+   
+
+  
+
+**Type:** 
+ FullTime
+   
+
+  
+
+**Location:** 
+ Chennai, India
+   
+
+  
+
+ At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
+   
+
+  
+
+ Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state\\-of\\-the\\-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
+   
+
+  
+
+ Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
+   
+
+  
+
+ Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
+   
+
+  
+
+****Job Description****
+ Do you want to work on the cloud foundations that enable every Husky product and solution team to succeed?
+   
+
+  
+
+ As an Engineer in our Platform Engineering team, you’ll help build, operate, and evolve our Azure cloud platform, contributing to Infrastructure\\-as\\-Code, CI/CD pipelines, and shared platform services. You’ll implement platform components based on established designs, contribute automation and reliability improvements, and support a platform that is used by many teams across the organization.
+   
+
+  
+
+ This role is ideal for an engineer who enjoys hands\\-on technical work, learning modern cloud and DevOps practices, and seeing their contributions amplified across multiple products—with clear opportunities to grow toward senior and lead roles.
+   
+
+  
+
+ If you like building the paved road that others build on, this is where your platform engineering journey starts.
+   
+
+  
+
+****Responsibilities****
+**Technical Implementation**
+* Implement software components and features based on provided designs, specifications, and guidance.
+* Contribute to the development of reliable, maintainable, and secure code within the assigned scope.
+* Apply agreed coding standards, patterns, and best practices in daily development work.
+* Make basic technical decisions within assigned tasks, escalating questions or uncertainties when needed.
+
+
+**Delivery \\& Execution Excellence**
+* Translate assigned requirements and tasks into working software.
+* Complete development work in alignment with sprint goals and delivery commitments.
+* Contribute to task breakdowns and effort estimates for assigned work.
+* Proactively raise risks, blockers, or implementation issues to the team.
+
+
+**Quality, Standards \\& Engineering Practices**
+* Write clean, testable code and contribute to unit and integration tests.
+* Participate in code reviews, incorporating feedback and learning from peers.
+* Ensure individual contributions meet Definition of Ready (DoR) and Definition of Done (DoD) criteria.
+* Follow established DevOps, security, and quality practices.
+
+
+**Incident \\& Operational Support**
+* Assist in troubleshooting defects and issues in development and production environments.
+* Support corrective (bug fixes) and evolutive (enhancements) maintenance of existing solutions.
+
+
+**Collaboration \\& Growth**
+* Collaborate effectively with other developers, QA, Product Owners, and Tech Leads.
+* Seeking feedback and guidance to continuously improve technical skills.
+* Actively learn the systems, tools, and technologies used by the team.
+* Contribute positively to team culture and shared ownership of outcomes.
+
+
+****Qualifications****
+* Bachelor’s degree in computer science, IT, or related field.
+* 4\\+ years in cloud / DevOps / platform engineering, building IaC and CI/CD foundations for multiple teams (or equivalent demonstrated ownership/impact).
+* Hands\\-on Azure platform engineering background, with proven ability to design and evolve shared platform capabilities that enable multiple dev/product teams.
+* Infrastructure as Code (IaC) lifecycle expertise: able to design, review, and maintain IaC repositories and patterns as a productized capability for others (not “one\\-off scripts”).
+* Containerization: Experience designing, deploying, and operating containerized applications using Azure Kubernetes Services, Container Apps, Container Instances.
+* CI/CD development: experience implementing and maintaining pipelines (validation, approvals, promotion) and embedding them into the development lifecycle.
+* Experience with security automation in the DevSecOps lifecycle (e.g., vulnerability scanning / secrets\\-related automation) as part of the platform pipeline/toolchain.
+* Azure DevOps \\& Git workflows: practical experience with branching, pull requests, and pipeline\\-based validation/approval gates (e.g., plan/validate then approval then apply).
+* Support developer enablement: build reusable templates/tooling and improve developer experience through automation and standardization.
+* Working knowledge of Agile development practices.
+* Excellent communication skills and ability to work in a team.
+* Fluency in English (spoken and written).
+* Strong problem\\-solving skills and attention to detail.
+* Ability to adjust quickly to changing assignments, and priorities.
+
+
+**Assets**
+* Experience using AI‑assisted coding tools (e.g. GitHub Copilot) responsibly, with full accountability for code quality, security, and compliance.
+* Practical exposure to monitoring/observability enablement (platform\\-level logging/metrics/tracing patterns and tooling integration).
+* Understanding of cloud core (hub) services and platform services that are consumed by product teams (i.e., thinking in reusable building blocks).
+* Familiarity with cost optimization / FinOps mechanics as they relate to platform foundations and guardrails.
+* Understanding of governance and compliance\\-by\\-design for cloud foundations (standards, policies, tagging/naming conventions as guardrails).
+* Understanding of compliance and security frameworks and standards, e.g. SOX, ISO 27001\\.
+
+
+**Why Husky?**
+* Regulated Working Hours: Enjoy a structured work schedule that promotes a healthy work\\-life balance, allowing you to excel professionally while maintaining personal well\\-being.
+* Visible Impact: Experience the satisfaction of seeing the direct outcomes of your work, as you contribute to projects that visibly enhance our company's technological capabilities and efficiency.
+* Strategic Influence: Participate in architectural and technical reviews, contributing to the strategic direction of our cloud initiatives and making a tangible impact on our company's technological landscape.
+* Empowered Involvement: Take an active role in decision\\-making processes and architectural reviews, where your expertise helps shape the future of our cloud solutions and overall business strategy.
+* Valued Contributions: Be more than just a number in a large organization; at our company, every individual's input is valued and can lead to significant, tangible improvements in our operations and services.
+* Impactful Role: Play a crucial part in both developing new applications and maintaining existing systems, ensuring their optimal performance and reliability.
+* Cutting\\-Edge Projects: Work on innovative cloud solutions that are transforming our and our customer’s business, giving you the opportunity to be at the forefront of technological advancements.
+* Supportive Community: Work in an environment that recognizes and celebrates individual achievements, fostering a sense of community and mutual respect among team members.
+* Collaborative Environment: Join a global team of skilled professionals around the globe where your ideas are valued, and collaboration is encouraged to solve complex challenges and drive success.
+
+
+ Husky TechnologiesTM offers a competitive compensation and benefits package and excellent opportunities for growth and advancement. We are committed to equal employment opportunity and respect, value and welcome diversity in our workplace. Husky TechnologiesTM also values being a great place to work and strives to maintain a safe workplace. Accordingly, Husky TechnologiesTM conditions all offers of employment on satisfactory completion of background checks. No agency or telephone inquiries please.","Machinery Manufacturing","https://ca.linkedin.com/company/husky-technologies","https://media.licdn.com/dms/image/v2/C4D0BAQHsvZ0ebIsc4w/company-logo_100_100/company-logo_100_100/0/1636124255401/husky_injection_molding_systems_logo?e=2147483647&v=beta&t=DOW-hRVyemixk1uzPur_5PLKICQw58KUNmIrpYtA4rk","","","","","","","","","","",""
+"li-4430367054","linkedin","https://www.linkedin.com/jobs/view/4430367054","","Senior Developer – Azure Full Stack (Adv+Elite) (Guindy, Chennai)","Husky Technologies","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
+**Title:** 
+ Senior Developer – Azure Full Stack (Adv\\+Elite) (Guindy, Chennai)
+   
+
+  
+
+**Id:** 
+ 20846
+   
+
+  
+
+**Type:** 
+ FullTime
+   
+
+  
+
+**Location:** 
+ Chennai, India
+   
+
+  
+
+ At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
+   
+
+  
+
+ Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state\\-of\\-the\\-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
+   
+
+  
+
+ Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
+   
+
+  
+
+ Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
+   
+
+  
+
+****Job Description****
+ Do you want to build industrial\\-grade IoT software that connects real machines with cloud intelligence at global scale?
+   
+
+  
+
+ As a Senior Developer on our Advantage\\+Elite IoT platform, you’ll work hands\\-on across our Azure\\-based IoT stack, developing and evolving solutions that turn machine, edge, and cloud data into reliable, production\\-ready capabilities for customers worldwide. You’ll own complex implementations at component and feature level, ensure high quality and performance, and help keep a mission\\-critical platform stable while it continuously evolves.
+   
+
+  
+
+ This role is ideal for an experienced engineer who enjoys solving hard technical problems, working close to real\\-world systems, and delivering robust solutions in a distributed team — while influencing quality and best practices without carrying overall technical ownership.
+   
+
+  
+
+ If you want your code to run in production, at scale, and close to the physical world, Advantage\\+ Elite puts you right where software meets machines.
+   
+
+  
+
+****Responsibilities****
+**Technical Implementation**
+* Understand and implement solutions based on the defined LLD (low level design).
+* Own complex implementations at component/module level.
+* Ensure correctness, performance, security, and maintainability of delivered solutions.
+* Make sound technical decisions within assigned scope, escalating broader design concerns as needed.
+
+
+**Delivery \\& Execution Excellence**
+* Translate approved requirements and designs into working software.
+* Break down assigned features into actionable tasks.
+* Provide reliable estimates for owned work.
+* Deliver high\\-quality increments aligned with sprint goals.
+* Proactively resolve technical issues within assigned scope.
+
+
+**Quality, Standards \\& Engineering Practices**
+* Write code that is reliable, readable, and maintainable, and follow the team’s agreed standards and best practices
+* Participate in meaningful code reviews.
+* Ensure adherence to DoR (Definition of Ready) and DoD (Definition of Done) criteria.
+* Identify and address technical debt within owned components/module.
+
+
+**Incident \\& Operational Support**
+* Troubleshoot and resolve complex defects and production issues.
+* Contribute to root cause analysis and long\\-term fixes.
+* Ensure adequate logging and observability in implemented components.
+
+
+**Collaboration \\& Mentorship**
+* Collaborate closely with Tech Leads, Architects, Product Owners, QA, and Platform teams.
+* Support and mentor junior and mid\\-level developers.
+* Contribute to continuous improvement within the team.
+
+
+****Qualifications****
+* Bachelor’s degree in computer science, IT, or related field.
+* 5\\+ years professional experience in software development.
+* Experience with programming languages like C\\#, PowerShell, JavaScript, TypeScript, Python, or others relevant to Azure development.
+* Experience using Microsoft .NET, Angular, React or similar frontend frameworks.
+* Experience working with web services / APIs (e.g., REST).
+* Experience with SQL or NoSQL databases, particularly those offered on Azure.
+* Proficiency in using various Azure services like Azure App Service, Azure Functions, Azure Cosmos DB, Azure Storage, etc.
+* Understanding and knowledge of cloud security best practices.
+* Clean Code Development and working experience with Unit Testing, and Test\\-driven Development.
+* Familiarity with source code version control, branching strategies, CI/CD pipelines and other DevSecOps practices.
+* Working knowledge of Agile development practices.
+* Excellent communication skills and ability to work in a team.
+* Fluency in English (spoken and written).
+* Strong problem\\-solving skills and attention to detail.
+* Ability to adjust quickly to changing assignments, and priorities.
+
+
+**Assets**
+* Experience using AI assisted coding tools (e.g. GitHub Copilot) responsibly, with full accountability for code quality, security, and compliance.
+* Hands\\-on experience with Azure IoT Hub and Azure Data Explorer.
+* Experience with Edge Device development and support of IoT based, event driven applications.
+* Experience working with and contributing to UX designs.
+* Working experience with infrastructure as code (IaC) tools such as Terraform or ARM templates.
+* Relevant certifications (e.g. Azure Developer Associate, Azure IoT Developer Specialty, Azure Cosmos DB Developer Specialty).
+
+
+**Why Husky?**
+* Regulated Working Hours: Enjoy a structured work schedule that promotes a healthy work\\-life balance, allowing you to excel professionally while maintaining personal well\\-being.
+* Visible Impact: Experience the satisfaction of seeing the direct outcomes of your work, as you contribute to projects that visibly enhance our company's technological capabilities and efficiency.
+* Strategic Influence: Participate in architectural and technical reviews, contributing to the strategic direction of our cloud initiatives and making a tangible impact on our company's technological landscape.
+* Empowered Involvement: Take an active role in decision\\-making processes and architectural reviews, where your expertise helps shape the future of our cloud solutions and overall business strategy.
+* Valued Contributions: Be more than just a number in a large organization; at our company, every individual's input is valued and can lead to significant, tangible improvements in our operations and services.
+* Impactful Role: Play a crucial part in both developing new applications and maintaining existing systems, ensuring their optimal performance and reliability.
+* Cutting\\-Edge Projects: Work on innovative cloud solutions that are transforming our and our customer’s business, giving you the opportunity to be at the forefront of technological advancements.
+* Supportive Community: Work in an environment that recognizes and celebrates individual achievements, fostering a sense of community and mutual respect among team members.
+* Collaborative Environment: Join a global team of skilled professionals around the globe where your ideas are valued, and collaboration is encouraged to solve complex challenges and drive success.
+
+
+ Husky TechnologiesTM offers a competitive compensation and benefits package and excellent opportunities for growth and advancement. We are committed to equal employment opportunity and respect, value and welcome diversity in our workplace. Husky TechnologiesTM also values being a great place to work and strives to maintain a safe workplace. Accordingly, Husky TechnologiesTM conditions all offers of employment on satisfactory completion of background checks. No agency or telephone inquiries please.","Machinery Manufacturing","https://ca.linkedin.com/company/husky-technologies","https://media.licdn.com/dms/image/v2/C4D0BAQHsvZ0ebIsc4w/company-logo_100_100/company-logo_100_100/0/1636124255401/husky_injection_molding_systems_logo?e=2147483647&v=beta&t=DOW-hRVyemixk1uzPur_5PLKICQw58KUNmIrpYtA4rk","","","","","","","","","","",""
+"li-4430361079","linkedin","https://www.linkedin.com/jobs/view/4430361079","","Tech Lead – Azure Full Stack (Adv+Elite) - Husky (Guindy, Chennai)","Husky Technologies","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Other","","","**Job Description**
+**Title:** 
+ Tech Lead – Azure Full Stack (Adv\\+Elite) \\- Husky (Guindy, Chennai)
+   
+
+  
+
+**Id:** 
+ 20853
+   
+
+  
+
+**Type:** 
+ FullTime
+   
+
+  
+
+**Location:** 
+ Chennai, India
+   
+
+  
+
+ At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
+   
+
+  
+
+ Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state\\-of\\-the\\-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
+   
+
+  
+
+ Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
+   
+
+  
+
+ Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
+   
+
+  
+
+****Job Description****
+ Are you ready to
+ **lead the technical evolution of a global, industrial‑grade IoT platform** 
+ supporting at scale our customers worldwide?
+   
+
+  
+
+ As
+ **Tech Lead for our Advantage\\+Elite IoT platform** 
+ , you will sit at the intersection of
+ **cloud, edge, data, and real‑world machines** 
+ —driving technical direction, shaping architecture, and leading by example in code. This is a
+ **hands‑on leadership role** 
+ for someone who thrives on solving complex technical challenges, setting engineering standards, and mentoring strong developers — without drifting into people management or pure process ownership.
+   
+
+  
+
+ You’ll work closely with architects, product managers, and distributed engineering teams to turn high‑level ideas into
+ **robust, scalable, and secure solutions** 
+ —while keeping technical excellence, quality, and long‑term maintainability at the core.
+   
+
+  
+
+ If you enjoy
+ **owning technical decisions** 
+ , guiding teams through complexity, and building systems that matter in the physical world, this role puts you exactly where impact is highest.
+   
+
+  
+
+****Responsibilities****
+**Technical Leadership**
+* Understand the E2E high level architecture (big picture)
+* Translate the HLD (high level design) into the LLD (low level design) in collaboration with architects and own the LLD
+* Technical direction for the product area
+* Contribute to coordinating cross team dependencies and integration points
+
+
+**Delivery \\& Execution Excellence**
+* Contribute to the feature definition and review
+* Generate concepts and facilitate the concept selection
+* Breaking down complex features into actionable tasks
+* Helping with estimation and sprint planning
+* Addressing technical impediments
+* Own production readiness (incl. non\\-functional requirements)
+
+
+**Quality, Governance \\& Security**
+* Ensuring code quality
+* Conducting meaningful code reviews and ensuring adherence to DoR (Definition of Ready) / DoD (Definition of Done) criteria
+* Ensure adherence to applicable standards, policies, and practices (e.g. DevSecOps)
+
+
+**Incident Response**
+* Leading incident response, root cause analysis (RCA), and post\\-mortems
+
+
+**Mentorship \\& Team Growth**
+* Mentoring team members
+* Documenting key design decisions
+* Participate in interviews and hiring decisions
+* Promoting engineering best practices and driving continuous improvement
+
+
+**Collaboration \\& Communication**
+* Act as the primary technical point of contact across Product, Architecture, and Platform teams.
+* Clearly communicate technical decisions and trade\\-offs to non\\-technical stakeholders.
+
+
+****Qualifications****
+* Bachelor’s degree in computer science, IT, or related field.
+* 10\\+ years professional experience in software development.
+* Experience with programming languages like C\\#, PowerShell, JavaScript, TypeScript, Python, or others relevant to Azure development.
+* Experience using Microsoft .NET, Angular, React or similar frontend frameworks.
+* Experience working with web services / APIs (e.g., REST).
+* Experience with SQL or NoSQL databases, particularly those offered on Azure.
+* Proficiency in using various Azure services like Azure App Service, Azure Functions, Azure Cosmos DB, Azure Storage, etc.
+* Understanding and knowledge of cloud security best practices
+* Clean Code Development and working experience with Unit Testing, and Test\\-driven Development.
+* Familiarity with source code version control, branching strategies, CI/CD pipelines and other DevSecOps practices.
+* Working knowledge of Agile development practices.
+* Excellent communication skills and ability to work in a team.
+* Fluency in English (spoken and written).
+* Strong problem\\-solving skills and attention to detail.
+* Ability to adjust quickly to changing assignments, and priorities.
+
+
+**Assets**
+* Experience using AI‑assisted coding tools (e.g. GitHub Copilot) responsibly, with full accountability for code quality, security, and compliance.
+* Hands\\-on experience with Azure IoT Hub and Azure Data Explorer
+* Experience with Edge Device development and support of IoT based, event driven applications
+* Experience working with and contributing to UX designs
+* Working experience with infrastructure as code (IaC) tools such as Terraform or ARM templates.
+* Relevant certifications (e.g. Azure Developer Associate, Azure IoT Developer Specialty, Azure Cosmos DB Developer Specialty).
+
+
+**Why Husky?**
+* Regulated Working Hours: Enjoy a structured work schedule that promotes a healthy work\\-life balance, allowing you to excel professionally while maintaining personal well\\-being.\\\\
+* Visible Impact: Experience the satisfaction of seeing the direct outcomes of your work, as you contribute to projects that visibly enhance our company's technological capabilities and efficiency.
+* Strategic Influence: Participate in architectural and technical reviews, contributing to the strategic direction of our cloud initiatives and making a tangible impact on our company's technological landscape.
+* Empowered Involvement: Take an active role in decision\\-making processes and architectural reviews, where your expertise helps shape the future of our cloud solutions and overall business strategy.
+* Valued Contributions: Be more than just a number in a large organization; at our company, every individual's input is valued and can lead to significant, tangible improvements in our operations and services.
+* Impactful Role: Play a crucial part in both developing new applications and maintaining existing systems, ensuring their optimal performance and reliability.
+* Cutting\\-Edge Projects: Work on innovative cloud solutions that are transforming our and our customer’s business, giving you the opportunity to be at the forefront of technological advancements.
+* Supportive Community: Work in an environment that recognizes and celebrates individual achievements, fostering a sense of community and mutual respect among team members.
+* Collaborative Environment: Join a global team of skilled professionals around the globe where your ideas are valued, and collaboration is encouraged to solve complex challenges and drive success.
+
+
+ Husky TechnologiesTM offers a competitive compensation and benefits package and excellent opportunities for growth and advancement. We are committed to equal employment opportunity and respect, value and welcome diversity in our workplace. Husky TechnologiesTM also values being a great place to work and strives to maintain a safe workplace. Accordingly, Husky TechnologiesTM conditions all offers of employment on satisfactory completion of background checks. No agency or telephone inquiries please.","Machinery Manufacturing","https://ca.linkedin.com/company/husky-technologies","https://media.licdn.com/dms/image/v2/C4D0BAQHsvZ0ebIsc4w/company-logo_100_100/company-logo_100_100/0/1636124255401/husky_injection_molding_systems_logo?e=2147483647&v=beta&t=DOW-hRVyemixk1uzPur_5PLKICQw58KUNmIrpYtA4rk","","","","","","","","","","",""
+"li-4428585763","linkedin","https://www.linkedin.com/jobs/view/4428585763","","Associate Technical Lead, Software Development","KLA","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Other","","talent.acquisition@kla.com","**Company Overview**
+ KLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice\\-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel displays. The innovative ideas and devices that are advancing humanity all begin with inspiration, research and development. KLA focuses more than average on innovation and we invest 15% of sales back into R\\&D. Our expert teams of physicists, engineers, data scientists and problem\\-solvers work together with the world’s leading technology providers to accelerate the delivery of tomorrow’s electronic devices. Life here is exciting and our teams thrive on tackling really hard problems. There is never a dull moment with us.
+   
+
+  
+
+**Group/Division**
+ With over 40 years of semiconductor process control experience, chipmakers around the globe rely on KLA to ensure that their fabs ramp next\\-generation devices to volume production quickly and cost\\-effectively. Enabling the movement towards advanced chip design, KLA's Global Products Group (GPG), which is responsible for creating all of KLA’s metrology and inspection products, is looking for the best and the brightest research scientist, software engineers, application development engineers, and senior product technology process engineers. The LS\\-SWIFT Division of KLA’s Global Products Group provides patterned wafer inspection systems for high\\-volume semiconductor manufacturing. Its mission is to deliver market\\-leading cost of ownership in defect detection for a broad range of applications in the production of semiconductors. Customers from the foundry, logic, memory, automotive, MEMS, advanced packaging and other markets rely upon high\\-sample wafer inspection information generated by LS\\-SWIFT products. LS (Laser Scanning) systems enable cost\\-effective patterned wafer defect detection for the industry’s most sophisticated process technologies deployed in leading\\-edge foundry, logic, DRAM, and NAND fabs. SWIFT (Simultaneous Wafer Inspection at Fast Throughput) systems deliver all\\-wafer\\-surface (frontside, backside, and edge) macro inspection that is critical for automotive IC, MEMS, and advanced packaging processes as well as foundry/logic and memory fabs. LS\\-SWIFT operates from a global footprint that includes the US, Singapore, India and Germany, and serves a worldwide customer base across Asia, Europe and North America.
+   
+
+  
+
+**Responsibilities**
+**Job Description/Preferred Qualifications**
+**Technical:**
+* Responsible for software development activities using Java and C\\#/C\\+\\+
+* Good debugging skills in a complex software setup involving multi\\-process/multiple systems in Windows/Java environment with good OS concepts
+* Good with SW design skills/architecture
+* Optional skills: Knowledge working with HPC, Linux, Win32 understanding Acquire and demonstrate technical knowledge of inspector software Participate in end to end product development lifecycle activities Acquire knowledge of key use cases in defect inspection using SWIFT tools
+
+
+**Team Work / Soft Skills And Others**
+* Leading/working together productively in a team setup with other team members
+* Keenness to learn new technology and see how they can be a suitable fit to the existing product
+* Collaborate with teams across different geographical zones to develop / deliver software solutions
+* Being flexible with work timings, attending to technical discussions with business team/peer teams across the globe
+* Work across groups including systems/hardware, marketing, applications and manufacturing on all aspects of software project including requirement definition, design, development, deployment, support and service
+* Understand and apply software development best practices
+* Travel to other KLA sites and customer sites on a needed basis
+
+
+**Qualifications**
+* BE/BTech/MS/MCA/MTech with 5\\+ years of SW development experience
+* Strong in programming fundamentals, Java / .NET and C\\#/C\\+\\+ with good software design exposure.
+* Good analytical and problem\\-solving abilities
+* Thorough knowledge of SDLC and software engineering
+* Strong verbal and written communication and team\\-work skills
+* Come across as an integrator/energizing/captivating person – helping achieve divisional goals
+
+
+**Minimum Qualifications**
+ Doctorate (Academic) or work experience of 1\\+ years , Master's Level Degree or work experience of 3\\+ years , Bachelor's Level Degree or work experience of 5\\+ years
+   
+
+  
+
+*We offer a competitive, family friendly total rewards package. We design our programs to reflect our commitment to an inclusive environment, while ensuring we provide benefits that meet the diverse needs of our employees.*
+*KLA is proud to be an equal opportunity employer*
+ Be aware of potentially fraudulent job postings or suspicious recruiting activity by persons that are currently posing as KLA employees. KLA never asks for any financial compensation to be considered for an interview, to become an employee, or for equipment. Further, KLA does not work with any recruiters or third parties who charge such fees either directly or on behalf of KLA. Please ensure that you have searched KLA’s Careers website for legitimate job postings. KLA follows a recruiting process that involves multiple interviews in person or on video conferencing with our hiring managers. If you are concerned that a communication, an interview, an offer of employment, or that an employee is not legitimate, please send an email to talent.acquisition@kla.com to confirm the person you are communicating with is an employee. We take your privacy very seriously and confidentially handle your information.","Semiconductor Manufacturing","https://www.linkedin.com/company/klacorp","https://media.licdn.com/dms/image/v2/D560BAQFLKqXhyQWBMg/company-logo_100_100/company-logo_100_100/0/1723042549252/klacorp_logo?e=2147483647&v=beta&t=oU4LGDFTNwe8C95fv3QMwBXnyYUYBK7MG-Fx-BIq8io","","","","","","","","","","",""
