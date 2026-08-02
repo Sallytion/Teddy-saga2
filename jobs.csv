@@ -1,376 +1,470 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4447854863","linkedin","https://www.linkedin.com/jobs/view/4447854863","","Core Software Engineer (C++) - Remote","ClickHouse","Bengaluru, Karnataka, India","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","paytransparency@clickhouse.com","**About ClickHouse**
- Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast\\-growing private cloud companies. With more than 4,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real\\-time analytics, data warehousing, observability, and AI workloads.
+"li-4447625842","linkedin","https://www.linkedin.com/jobs/view/4447625842","","Rust Engineer","Copods","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"associate","Engineering and Information Technology","","","**Rust EngineerCompany Overview**
+ Copods is an experience\\-focused, digital product design and full\\-stack engineering services company. We are on a steep growth trajectory with global partnerships. Our goal is to shape practical and meaningful human\\-centric experiences that are desirable, feasible, and viable.
    
 
   
 
- The company's sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla.
+**Position Details**
+ Location: Pune \\& Bangalore
    
 
   
 
- We're on a mission to transform how companies use data. Come be a part of our journey!
+ Type: Full\\-Time
    
 
   
 
- NOTE: this role can be located anywhere ClickHouse has a hiring presence.
+ Experience: 4\\-8 Years
    
 
   
 
- With over 42,000 stars on GitHub, ClickHouse is the fastest and most resource efficient open\\-source database for real\\-time apps and analytics. Our Core Engineering teams own the heart of our ClickHouse Open Source project. We are looking for exceptional C\\+\\+ engineers to join our remote\\-first, global team and continue to scale and grow both our open source and ClickHouse Cloud offerings. More specifically, our Performance Engineering team is seeking engineers who love optimizing the performance of distributed systems.
+**Role Summary**
+ We are seeking a passionate Rust Engineer to join our engineering team. In this role, you will design and develop high\\-performance, cloud\\-native backend services using Rust, with a focus on scalability, reliability, and operational excellence. You will work on modern distributed systems, microservices architectures, and RESTful APIs while leveraging Rust's memory safety and concurrency features to build secure and efficient applications.
    
 
   
 
-**What will you do?**
-* As part of the ClickHouse Core Performance team, you will analyze and optimize the performance of the core ClickHouse database. The team works on many different topics such as query optimization, distributed query optimization, relational operators (e.g. aggregation and joins), caching, and low\\-level optimizations like SIMD instructions.
-* You will ensure that the database performance does not deteriorate over time by extending existing and adding new performance tests, based on real\\-world or synthetic datasets.
-* You will serve as a resource for the Support Engineering team, helping to debug the most advanced performance issues encountered by our customers.
-* As the core ClickHouse database continues to move at a fast pace, you will closely collaborate with our other core teams to assess the impact of new features on performance and support colleagues with performance tests and advice.
-* You will work with our open\\-source community. This will include resolving issues, reviewing and finishing PRs, answering questions from mail, chats, google groups, external Slack channels, etc.
-
-
-**About you:**
-* You bring along solid professional software development experience in C\\+\\+. This includes experience with Unix Systems.
-* You have strong knowledge in database internals and design.
-* You have experience in performance engineering, ideally in a database but other areas like high\\-frequency trading, simulation, real time data processing etc. are also okay.
-* You communicate well with others and have the ability to work well within and across engineering teams.
-* You are ready to work closely with our open\\-source community. You participate in code reviews with patience and attention to detail fostering a culture of collaboration and mutual respect.
-* You are a strong problem\\-solver and have solid production debugging skills.
-* You are passionate about efficiency, availability, scalability and data governance.
-* You thrive in a fast\\-paced start\\-up environment, seeing yourself as a partner with the business with the shared goal of moving forward and building together.
-* You have a high level of responsibility, ownership, and accountability.
-
-
-**Bonus points for:**
-* Experience with ClickHouse.
-* Experience in security, privacy, and compliance.
-* Experience with TCP/IP and network programming.
-* Experience developing cloud infrastructure services, preferably with Kubernetes.
-* Experience giving public talks at technical conferences and meetups.
-* Previous contributions to open source projects.
-
-
-**Compensation**
- For roles based in the
- **United States** 
- , the typical starting salary range for this position is listed above. In certain locations, such as the San Francisco Bay Area and the New York City Metro Area, a premium market range may apply, as listed.
+ The ideal candidate has experience building and operating backend systems in production environments, with strong knowledge of microservices, cloud platforms, containerization, and performance optimization. You will collaborate closely with cross\\-functional teams to deliver robust solutions that can scale with growing business and technical demands.
    
 
   
 
- These salary ranges reflect what we reasonably and in good faith believe to be the minimum and maximum pay for this role at the time of posting. The actual compensation may be higher or lower than the amounts listed, and the ranges may be subject to future adjustments.
+**Key Responsibilities**
+* Design, develop, and maintain high\\-performance backend services using Rust.
+* Architect and implement scalable microservices and distributed systems.
+* Design, build, document, and maintain secure RESTful APIs with proper versioning, authentication, and authorization mechanisms.
+* Develop systems capable of handling high\\-throughput workloads and large\\-scale data processing requirements.
+* Profile, benchmark, monitor, and optimize applications using observability tools, metrics, logging, and tracing solutions.
+* Apply scalability strategies including horizontal scaling, caching, load balancing, and sharding where appropriate.
+* Containerize applications using Docker and manage deployments through Kubernetes.
+* Build, deploy, and operate services on AWS, Azure, or Google Cloud Platform.
+* Design resilient, highly available infrastructure with support for fault tolerance and auto\\-scaling.
+* Contribute throughout the software development lifecycle, including architecture, development, testing, deployment, monitoring, and maintenance.
+* Participate in code reviews, technical discussions, documentation, and continuous improvement initiatives.
+* Collaborate effectively with product, design, and engineering teams in a distributed environment.
+
+
+**Required Qualifications**
+* 3\\+ years of professional Rust development experience.
+* Strong understanding of Rust concepts including ownership, borrowing, lifetimes, traits, generics, concurrency, and asynchronous programming.
+* Proven experience building backend services and distributed systems in production environments.
+* Hands\\-on experience designing and implementing microservices architectures.
+* Strong experience building and maintaining RESTful APIs.
+* Experience optimizing applications for performance, scalability, and reliability.
+* Hands\\-on experience with Docker and Kubernetes.
+* Experience working with at least one major cloud platform: AWS, Azure, or Google Cloud Platform.
+* Familiarity with observability, monitoring, logging, and performance analysis tools.
+* Experience with automated testing, CI/CD pipelines, and modern software development practices.
+* Strong analytical, debugging, and problem\\-solving skills.
+* Excellent communication and collaboration abilities.
+
+
+**Good\\-to\\-Have Skills**
+* Experience with Rust frameworks such as Axum, Actix\\-web, or similar.
+* Experience with Tokio and asynchronous application development.
+* Experience building gRPC services and service\\-to\\-service communication frameworks.
+* Familiarity with GraphQL APIs.
+* Experience working with PostgreSQL, MongoDB, SQLx, Diesel, or similar database technologies.
+* Experience with messaging and event\\-streaming platforms such as Kafka, Redis Streams, or RabbitMQ.
+* Experience building data processing and transformation pipelines.
+* Familiarity with Linux/Unix systems programming.
+* Experience with application profiling and benchmarking tools such as cargo bench or flamegraph.
+* Knowledge of fault\\-tolerant system design and distributed system patterns.
+* Exposure to WebAssembly (WASM), FFI integrations, procedural macros, or other advanced Rust capabilities.
+
+
+**Professional Skills**
+* Strong ownership mindset with a focus on quality and reliability.
+* Ability to diagnose bottlenecks and architect solutions for scale.
+* Effective communication and stakeholder management skills.
+* Collaborative approach to working within cross\\-functional teams.
+* Commitment to continuous learning, improvement, and engineering excellence.
+
+
+ Skills: communication,rust,cloud,design","IT Services and IT Consulting","https://in.linkedin.com/company/copods","https://media.licdn.com/dms/image/v2/D4D0BAQHKiExq5yjE2Q/company-logo_100_100/company-logo_100_100/0/1710325402468/copods_logo?e=2147483647&v=beta&t=SnLoDEFYx2ND7NU3cekSk2ZctU--ytQPmXCdrkk0FEo","","","","","","","","","","",""
+"li-4447889010","linkedin","https://www.linkedin.com/jobs/view/4447889010","","Native / Desktop Engineer","TTEC Digital","Hyderabad, Telangana, India","","fulltime","","","","","",True,"not applicable","Information Technology","","","TTEC Digital seeks a
+ **Native / Desktop Engineer** 
+ to join our team. This role is a full\\-time and fully remote opportunity!
    
 
   
 
- An individual's placement within the range will depend on various factors, including (but not limited to) education, qualifications, certifications, experience, skills, location, performance, and the needs of the business or organization.
+**The work:**
+ We’re an innovation group inside TTEC (NASDAQ: TTEC), building the next generation of AI CX tools — automated QA, conversational analytics, knowledge assist, and agentic automation — for the world’s biggest brands and the millions of customers they serve. We move like an early\\-stage startup, backed by the scale, distribution, and enterprise client base of a company that’s been obsessed with customer experience since 1982\\.
    
 
   
 
- If you have any questions or comments about compensation as a candidate, please get in touch with us at paytransparency@clickhouse.com.
+ This is the rare seat where getting in early actually matters at scale. TTEC is a public company at an AI inflection point. Ship the right products into thousands of live enterprise deployments and you don’t just move a metric — you move the trajectory of the company and the value of the stock. The leverage is real, and the work compounds.
    
 
   
 
-**Perks**
-* Flexible work environment \\- ClickHouse is a globally distributed company and remote\\-friendly. We currently operate in over 20 countries.
-* Healthcare \\- Employer contributions towards your healthcare.
-* Equity in the company \\- Every new team member who joins our company receives stock options.
-* Time off \\- Flexible time off in the US, generous entitlement in other countries.
-* A $500 Home office setup if you're a remote employee.
-* Global Gatherings – We believe in the power of in\\-person connection and offer opportunities to engage with colleagues at company\\-wide offsites.
+**Who We Hire — The DNA**
+* Self\\-starters and do\\-ers with grit — hackers in the best sense, with a startup mentality and a show\\-me bias: working software over slides, prototypes over proposals.
+* Want to learn, love new technology. This platform is built on the latest technology, and that technology changes and advances monthly. You adapt to change quickly — new tools, new models, new priorities — without drama.
+* Master debuggers and problem solvers. You love solving complex problems, you think outside the box, and you multitask across domains without losing the thread.
+* AI\\-native. You work with AI on all levels — you understand the technology around you (LLMs, SLMs, RAG, knowledge graphs, agents, training, eval) and you use AI tools daily to exponentially increase your velocity.
+* Distributed\\-systems literate. High\\-efficiency, event\\-driven, low\\-latency systems are our world; you understand what that demands.
+* Innovators who ship. You demonstrate ideas easily, fail fast, and move forward. You make committed timelines and hit them.
+* You consider yourself exceptional — and you like winning. So do we.
 
 
-**Culture \\- We All Shape It**
- As part of a rapidly scaling start up, you will be instrumental in shaping our culture.
+ No one will have everything in this description. We're looking for well\\-rounded, smart people who move fast.
    
 
   
 
- Are you interested in finding out more about our culture? Learn more about our values here. Check out our blog posts or follow us on LinkedIn to find out more about what's happening at ClickHouse.
+**What You Will Do:**
+**The role:**
+* Build Desktop Intercept — the native Windows driver and app that acts as a virtual mic/speaker, replaces audio in real time, and (Phase 1 Phase C) reads the DOM and drives Computer Use.
+* This is the hardest engineering on the platform and the deepest moat. Everything you build feeds a high\\-efficiency, event\\-driven, low\\-latency distributed platform — voice, desktop, intelligence, and AI combined — so you think in latency budgets, throughput, and efficiency, not just features
+* Startup environment: 1\\-week sprints, Friday demos, fail fast and move forward.
+
+
+**What you'll own:**
+* Windows native driver (WASAPI, virtual audio devices, kernel\\-adjacent hooks)
+* real\\-time bidirectional audio routing
+* The user\\-space app (audio router, DOM scraper, MCP server)
+* The desktop\\-to\\-cloud path onto the event bus (NATS\\-class, WebSocket) under a sub\\-300ms budget
+* AV co\\-existence and mass\\-deployment
+* Your committed timelines.
+
+
+**Who you are:**
+* Self\\-starter, hacker, grit.
+* You consider yourself exceptional at the systems level and can show it.
+* You love new technology, adapt fast when it changes, demonstrate ideas with working code, and use AI tools daily to multiply your velocity.
+* Team player who makes and hits committed timelines.
+* Loves solving the problems nobody else can — and winning.
+
+
+**What You Will Bring:**
+* 8\\+ years systems / native development; shipped a Windows desktop agent at real scale (\\>10k seats) with audio.
+* Strong C/C\\+\\+ — mandatory. Strong Go for the service side — mandatory.
+* Comfortable building and interacting with drivers — virtual audio devices, virtual microphones/speakers, WASAPI / Core Audio, kernel\\-adjacent hooks.
+* Real\\-time audio pipelines under a sub\\-300ms budget — buffering, resampling, drift, glitch\\-free capture/playback.
+* Understands high\\-efficiency systems end\\-to\\-end — event\\-driven architecture, pub/sub, WebSocket streaming, and what state, race conditions, and locking mean at the native layer (lock\\-free audio buffers, real\\-time threads, priority inversion).
+* macOS / Linux native experience is a huge \\+\\+\\+\\+\\+ — cross\\-platform desktop is where this goes next.
+* Browser / DOM internals and process injection a strong plus (Phase C).
+* Enterprise mass\\-deployment craft — MSI/installer engineering, silent deploys, fleet upgrades across 10k\\+ locked\\-down seats.
+* Driver/code signing and AV/EDR co\\-existence — WHQL, EV certs, and staying invisible to CrowdStrike\\-class agents without tripping them.
+* Crash\\-dump and telemetry discipline — WinDbg/minidumps, symbolized crash reporting from the field; you debug machines you'll never touch.
+* Security posture — least\\-privilege service design; this app hears customer audio and reads screens, so it must be provably tight.
+* A master debugger at the systems level — kernel logs, crash dumps, audio glitches, AV interference; you see it.
+* SIP / RTP a strong plus. Mid\\-tier or better hands\\-on AI\\-in\\-product experience a plus (the desktop app hosts an MCP server and drives Computer Use).
+
+
+ We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.","IT Services and IT Consulting","https://www.linkedin.com/company/ttec-digital","https://media.licdn.com/dms/image/v2/D560BAQE2SaDjt3rDAg/company-logo_100_100/company-logo_100_100/0/1657121323130/ttec_digital_logo?e=2147483647&v=beta&t=WCVoVfvjVCKJ93G7rIz-aaXwBsYJbVBeIOJjz93ZXoA","","","","","","","","","","",""
+"li-4447646360","linkedin","https://www.linkedin.com/jobs/view/4447646360","","Mern Stack Developer","VellKO Media","Bhopal, Madhya Pradesh, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","**Frontend**
+ 🔹
+ **Required Skills:**
+* React.js / Next.js (Component\\-based architecture, Hooks, State Management)
+* API Integration \\& usage of Axios/Fetch
+* UI frameworks — Bootstrap / Tailwind CSS / Material MUI
+* Strong knowledge of JavaScript (ES6\\+)
+
+
+**Backend**
+* Node.js \\+ Express.js
+* REST API Development
+* EJS templating engine
+
+
+**Database**
+* MongoDB \\+ Mongoose (Schema design, CRUD operations)
+
+
+**Authentication \\& Security**
+* JWT\\-based Authentication
+* Email verification
+* Hashing \\& encryption (bcrypt or similar)
+* Basic authorization flows
+
+
+**Tools \\& Additional Skills**
+* API testing using Postman
+* Git/GitHub version control","Advertising Services","https://in.linkedin.com/company/vellko-media","https://media.licdn.com/dms/image/v2/C4D0BAQE4l81dmfj9Zw/company-logo_100_100/company-logo_100_100/0/1643879703845/vellko_media_logo?e=2147483647&v=beta&t=2RPzrwMO2bxwS26vwioUWS5MSVUozvG4ckvh8R1SmQ8","","","","","","","","","","",""
+"li-4447637457","linkedin","https://www.linkedin.com/jobs/view/4447637457","","Fullstack Developer","Centre for Computational Technologies (CCTech)","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","* load\\_list\\_page(event)""\\> Job listing
+* Job details
+
+
+ Job Information
    
 
   
 
-**Equal Opportunity \\& Privacy**
- ClickHouse provides equal employment opportunities to all employees and applicants and prohibits discrimination and harassment of any type based on factors such as race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+* Date Opened 03/12/2026
+* Industry IT Services
+* Job Type Full time
+* Work Experience 3\\-8 Years
+* City Pune City
+* State/Province Maharashtra
+* Country India
+* Zip/Postal Code 411057
+
+
+**About Us**
+**CCTech** 
+ 's mission is to transform human life by the democratization of technology. We are a well established digital transformation company building the applications in the areas of CAD, CFD, Artificial Intelligence, Machine Learning, 3D Webapps, Augmented Reality, Digital Twin, and other enterprise applications.
    
 
   
 
- Please see here for our Privacy Statement.","Software Development","https://www.linkedin.com/company/clickhouseinc","https://media.licdn.com/dms/image/v2/D4E0BAQEr8RfI76yHEQ/company-logo_100_100/company-logo_100_100/0/1688976507947/clickhouseinc_logo?e=2147483647&v=beta&t=bexlrUFDtfv1J4FepyN6NNbGs6lMAqiMAOkuMXBRBOk","","","","","","","","","","",""
-"li-4447852823","linkedin","https://www.linkedin.com/jobs/view/4447852823","","Full Stack Developer","Olik Global","Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Other","","","**About The Role**
- Help us build India's next\\-generation payment gateway. You'll work alongside product, design, and engineering on the scalable, secure, high\\-performance infrastructure that will move money across 75 nations — both web frontend and backend services.
+ We have two business divisions: product and consulting.
    
 
   
 
- Note: Candidates currently based in Mumbai, Bengaluru, Hyderabad, or other cities who are originally from Delhi/Noida and open to relocating are also welcome to apply.
+ simulationHub is our flagship product and the manifestation of our vision. Currently, thousands of users use our CFD app in their upfront design process.
    
 
   
 
-**What You'll Do**
-* Design, develop, and maintain frontend applications using React.js and Next.js
-* Build and optimize backend services using Node.js, NestJS, Express, and TypeScript
-* Design and manage relational and non\\-relational database schemas
-* Develop and consume RESTful APIs
-* Write clean, testable, well\\-documented code with adequate test coverage
-* Work with Docker for containerized application deployment
-* Implement and maintain CI/CD pipelines for automated testing and deployment
-* Implement security best practices and data protection measures
-* Collaborate with UI/UX designers to deliver responsive, cross\\-platform experiences
-* Participate in code reviews, architectural discussions, and technical documentation
-
-
-**What We're Looking For**
-* 3\\+ years of professional full\\-stack web development experience
-* Strong JavaScript and TypeScript proficiency
-* Hands\\-on React.js and Next.js experience
-* Solid backend experience with Node.js, NestJS, or Express
-* Working knowledge of PostgreSQL or MongoDB
-* Docker experience
-* Familiarity with AWS cloud services
-* Understanding of RESTful API design principles
-* Experience with Git and CI/CD workflows
-* Strong problem\\-solving skills and attention to detail
-* Good verbal and written communication
-
-
-**Required Stack**
- JavaScript
+ Our consulting division, with its partners such as Autodesk Forge, AWS and Azure, is helping the world's leading engineering organizations, many of which are Fortune 500 list of companies, in achieving digital supremacy.
    
 
   
 
- TypeScript
-   
-
-  
-
- React.js
-   
-
-  
-
- Next.js
-   
-
-  
-
- Node.js
-   
-
-  
-
- NestJS
-   
-
-  
-
- Express
-   
-
-  
-
- PostgreSQL
-   
-
-  
-
- MongoDB
-   
-
-  
-
- Docker
-   
-
-  
-
- AWS
-   
-
-  
-
- Git
-   
-
-  
-
- CI/CD
-   
-
-  
-
-**Nice to have**
-* Go, Rust, or Python experience
-* Kubernetes and Terraform knowledge
-* Message\\-queue exposure — Kafka, RabbitMQ, Redis
-* GraphQL familiarity
-* Fintech or payments domain experience
-* Microservices architecture understanding
-* AWS infrastructure management experience","IT Services and IT Consulting","https://www.linkedin.com/company/olik-jobs","https://media.licdn.com/dms/image/v2/D560BAQF1u9honQkc4g/company-logo_100_100/B56Z5x4vRyIIAM-/0/1780027160134/olik_jobs_logo?e=2147483647&v=beta&t=YOHuS3Hu7A_IyyGSr3_tAU3yUgxSr02p3s-rwDVegFE","","","","","","","","","","",""
-"li-4447858768","linkedin","https://www.linkedin.com/jobs/view/4447858768","","Full Stack Developer","Olik Global","Delhi, India","","fulltime","","","","","",False,"mid-senior level","Other","","","**About The Role**
- Help us build India's next\\-generation payment gateway. You'll work alongside product, design, and engineering on the scalable, secure, high\\-performance infrastructure that will move money across 75 nations — both web frontend and backend services.
-   
-
-  
-
- Note: Candidates currently based in Mumbai, Bengaluru, Hyderabad, or other cities who are originally from Delhi/Noida and open to relocating are also welcome to apply.
-   
-
-  
-
-**What You'll Do**
-* Design, develop, and maintain frontend applications using React.js and Next.js
-* Build and optimize backend services using Node.js, NestJS, Express, and TypeScript
-* Design and manage relational and non\\-relational database schemas
-* Develop and consume RESTful APIs
-* Write clean, testable, well\\-documented code with adequate test coverage
-* Work with Docker for containerized application deployment
-* Implement and maintain CI/CD pipelines for automated testing and deployment
-* Implement security best practices and data protection measures
-* Collaborate with UI/UX designers to deliver responsive, cross\\-platform experiences
-* Participate in code reviews, architectural discussions, and technical documentation
-
-
-**What We're Looking For**
-* 3\\+ years of professional full\\-stack web development experience
-* Strong JavaScript and TypeScript proficiency
-* Hands\\-on React.js and Next.js experience
-* Solid backend experience with Node.js, NestJS, or Express
-* Working knowledge of PostgreSQL or MongoDB
-* Docker experience
-* Familiarity with AWS cloud services
-* Understanding of RESTful API design principles
-* Experience with Git and CI/CD workflows
-* Strong problem\\-solving skills and attention to detail
-* Good verbal and written communication
-
-
-**Required Stack**
- JavaScript
-   
-
-  
-
- TypeScript
-   
-
-  
-
- React.js
-   
-
-  
-
- Next.js
-   
-
-  
-
- Node.js
-   
-
-  
-
- NestJS
-   
-
-  
-
- Express
-   
-
-  
-
- PostgreSQL
-   
-
-  
-
- MongoDB
-   
-
-  
-
- Docker
-   
-
-  
-
- AWS
-   
-
-  
-
- Git
-   
-
-  
-
- CI/CD
-   
-
-  
-
-**Nice to have**
-* Go, Rust, or Python experience
-* Kubernetes and Terraform knowledge
-* Message\\-queue exposure — Kafka, RabbitMQ, Redis
-* GraphQL familiarity
-* Fintech or payments domain experience
-* Microservices architecture understanding
-* AWS infrastructure management experience","IT Services and IT Consulting","https://www.linkedin.com/company/olik-jobs","https://media.licdn.com/dms/image/v2/D560BAQF1u9honQkc4g/company-logo_100_100/B56Z5x4vRyIIAM-/0/1780027160134/olik_jobs_logo?e=2147483647&v=beta&t=YOHuS3Hu7A_IyyGSr3_tAU3yUgxSr02p3s-rwDVegFE","","","","","","","","","","",""
-"li-4447861751","linkedin","https://www.linkedin.com/jobs/view/4447861751","","Senior Full Stack Developer","WebMints","Gujarat, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**About The Role**
- As a Senior Full Stack Developer at Webmints, you'll be responsible for designing, developing, and maintaining our industry\\-specific SaaS solutions. You'll work closely with product managers, designers, and other developers to build high\\-quality, scalable, and maintainable software that solves real business problems for our customers.
+**Job Description**
+ We are seeking a highly skilled Full\\-Stack Developer to design, develop, and maintain web\\-based applications leveraging modern frameworks and cloud infrastructure. The ideal candidate will work on both front\\-end and back\\-end development tasks, ensuring seamless integration, performance optimization, and scalability. This role requires expertise in end\\-to\\-end application development and a strong ability to collaborate across teams.
    
 
   
 
 **Responsibilities**
-* Design, develop, and maintain web applications using modern JavaScript frameworks (React, Next.js) and Node.js
-* Write clean, efficient, and well\\-documented code
-* Collaborate with cross\\-functional teams to define, design, and ship new features
-* Optimize applications for maximum speed and scalability
-* Implement security and data protection measures
-* Participate in code reviews and mentor junior developers
-* Stay up\\-to\\-date with emerging trends and technologies
-
-
-**Requirements**
-* 3\\+ years of experience in full stack development
-* Strong proficiency in JavaScript/TypeScript, HTML, and CSS
-* Experience with React, Next.js, and Node.js
-* Familiarity with database technologies (SQL and NoSQL)
-* Understanding of server\\-side rendering and API development
-* Experience with cloud services (AWS, Azure, or GCP)
-* Knowledge of software development best practices, including testing and CI/CD
-* Excellent problem\\-solving and communication skills
-
-
- Nice to Have
+**Back\\-End Development** 
+ : Develop robust, secure, and scalable back\\-end services using technologies like Node.js, Python.
    
 
   
 
-* Experience with GraphQL and REST API design
-* Knowledge of containerization technologies (Docker, Kubernetes)
-* Experience with microservices architecture
-* Contributions to open\\-source projects
-* Experience in SaaS product development","IT Services and IT Consulting","https://uk.linkedin.com/company/webmints","https://media.licdn.com/dms/image/v2/D4E0BAQFK_PaRQtwXoA/company-logo_100_100/B4EZbK5lICHYAY-/0/1747160814463/webmints_logo?e=2147483647&v=beta&t=O5y1vo5LEh_Emsvz8SF46J9qeLrK6u0mHlf-h2A-VL4","","","","","","","","","","",""
-"li-4442589684","linkedin","https://www.linkedin.com/jobs/view/4442589684","","MTS-System Runtime Engineer","Tsavorite Scalable Intelligence","","","fulltime","","","","","",False,"mid-senior level","Research, Engineering, and Design","","_bhaskar@yahoo.com","MTS\\-System Runtime Engineer
+ Create and maintain RESTful APIs for seamless data exchange between client and server.
+   
+
+  
+
+**Front\\-End Development** 
+ : Design and implement responsive, user\\-friendly interfaces using Modern frameworks (e.g.,React, Angular).
+   
+
+  
+
+ Collaborate with designers to translate Figma/wireframes into functional code.
+   
+
+  
+
+**Database Management** 
+ : Design \\& implement SQL and NoSQL (e.g. MongoDB, DynamoDB) databases. Optimize queries for performance and scalability.
+   
+
+  
+
+**Cloud and Deployment** 
+ : Manage cloud platforms (e.g., AWS, Azure). Use containerization tools like Docker and orchestration tools like Kubernetes for deployment.
+   
+
+  
+
+ Integrate CI/CD pipelines to automate builds, testing, and deployments.
+   
+
+  
+
+**Testing and Debugging** 
+ : Conduct unit, integration, and end\\-to\\-end testing.
+   
+
+  
+
+**Collaboration and Documentation** 
+ : Work closely with product managers, designers, and other developers to define project requirements and deliverables.Document code, APIs, and technical processes for maintainability and knowledge sharing.
+   
+
+  
+
+**Requirements**
+* Engineering \\- IT, Computer Science, Mechanical or related field.
+* 3\\+ years of hands\\-on experience
+* Proficiency in Nodejs, Python, ReactJS.
+* Familiarity with data structures, algorithms, AI and performance optimization techniques.
+* Excellent problem\\-solving, analytical, and communication skills.
+* Collaborate with designers to translate Figma/wireframes into functional code.
+
+
+**Benefits**
+* Opportunity to work with a dynamic and fast\\-paced engineering IT organization.
+* Be part of a company that is passionate about transforming product development with technology.
+
+
+ check(event) ; career\\-website\\-detail\\-template\\-2 \\=\\> apply(record.id,meta)"" mousedown\\=""lyte\\-button \\=\\> check(event)"" final\\-style\\=""background\\-color:\\#2185D0;border\\-color:\\#2185D0;color:white;"" final\\-class\\=""lyte\\-button lyteBackgroundColorBtn lyteSuccess"" lyte\\-rendered\\=""""\\>","Software Development","https://in.linkedin.com/company/centre-for-compuational-technologies-cctech","https://media.licdn.com/dms/image/v2/C4D0BAQGoI_LXo-K5VA/company-logo_100_100/company-logo_100_100/0/1631340699759?e=2147483647&v=beta&t=TFRK4PnvY-Cl4IM9jnb_059U6eIrRTIAk2ywXxIBVEM","","","","","","","","","","",""
+"li-4447870919","linkedin","https://www.linkedin.com/jobs/view/4447870919","","Software Engr I","Honeywell Technologies","Hyderabad, Telangana, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","**About Us**
+ Honeywell helps organizations solve the world's most complex challenges in automation, the future of aviation and energy transition. As a trusted partner, we provide actionable solutions and innovation through our Aerospace Technologies, Building Automation, Energy and Sustainability Solutions, and Industrial Automation business segments – powered by our Honeywell Forge software – that help make the world smarter, safer and more sustainable.","Automation Machinery Manufacturing","https://www.linkedin.com/company/honeywell","https://media.licdn.com/dms/image/v2/D4E0BAQE0raKQ0HHHXQ/company-logo_100_100/B4EZ8SY0aJH8AM-/0/1782719924150/honeywell_logo?e=2147483647&v=beta&t=akNGC3_0nFpYKyV4oDlMpAeGqlsqvk1AGJK5SfBiRfo","","","","","","","","","","",""
+"li-4447647318","linkedin","https://www.linkedin.com/jobs/view/4447647318","","Rust Engineer","Copods","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"associate","Engineering and Information Technology","","","**Rust EngineerCompany Overview**
+ Copods is an experience\\-focused, digital product design and full\\-stack engineering services company. We are on a steep growth trajectory with global partnerships. Our goal is to shape practical and meaningful human\\-centric experiences that are desirable, feasible, and viable.
+   
+
+  
+
+**Position Details**
+ Location: Pune \\& Bangalore
+   
+
+  
+
+ Type: Full\\-Time
+   
+
+  
+
+ Experience: 4\\-8 Years
+   
+
+  
+
+**Role Summary**
+ We are seeking a passionate Rust Engineer to join our engineering team. In this role, you will design and develop high\\-performance, cloud\\-native backend services using Rust, with a focus on scalability, reliability, and operational excellence. You will work on modern distributed systems, microservices architectures, and RESTful APIs while leveraging Rust's memory safety and concurrency features to build secure and efficient applications.
+   
+
+  
+
+ The ideal candidate has experience building and operating backend systems in production environments, with strong knowledge of microservices, cloud platforms, containerization, and performance optimization. You will collaborate closely with cross\\-functional teams to deliver robust solutions that can scale with growing business and technical demands.
+   
+
+  
+
+**Key Responsibilities**
+* Design, develop, and maintain high\\-performance backend services using Rust.
+* Architect and implement scalable microservices and distributed systems.
+* Design, build, document, and maintain secure RESTful APIs with proper versioning, authentication, and authorization mechanisms.
+* Develop systems capable of handling high\\-throughput workloads and large\\-scale data processing requirements.
+* Profile, benchmark, monitor, and optimize applications using observability tools, metrics, logging, and tracing solutions.
+* Apply scalability strategies including horizontal scaling, caching, load balancing, and sharding where appropriate.
+* Containerize applications using Docker and manage deployments through Kubernetes.
+* Build, deploy, and operate services on AWS, Azure, or Google Cloud Platform.
+* Design resilient, highly available infrastructure with support for fault tolerance and auto\\-scaling.
+* Contribute throughout the software development lifecycle, including architecture, development, testing, deployment, monitoring, and maintenance.
+* Participate in code reviews, technical discussions, documentation, and continuous improvement initiatives.
+* Collaborate effectively with product, design, and engineering teams in a distributed environment.
+
+
+**Required Qualifications**
+* 3\\+ years of professional Rust development experience.
+* Strong understanding of Rust concepts including ownership, borrowing, lifetimes, traits, generics, concurrency, and asynchronous programming.
+* Proven experience building backend services and distributed systems in production environments.
+* Hands\\-on experience designing and implementing microservices architectures.
+* Strong experience building and maintaining RESTful APIs.
+* Experience optimizing applications for performance, scalability, and reliability.
+* Hands\\-on experience with Docker and Kubernetes.
+* Experience working with at least one major cloud platform: AWS, Azure, or Google Cloud Platform.
+* Familiarity with observability, monitoring, logging, and performance analysis tools.
+* Experience with automated testing, CI/CD pipelines, and modern software development practices.
+* Strong analytical, debugging, and problem\\-solving skills.
+* Excellent communication and collaboration abilities.
+
+
+**Good\\-to\\-Have Skills**
+* Experience with Rust frameworks such as Axum, Actix\\-web, or similar.
+* Experience with Tokio and asynchronous application development.
+* Experience building gRPC services and service\\-to\\-service communication frameworks.
+* Familiarity with GraphQL APIs.
+* Experience working with PostgreSQL, MongoDB, SQLx, Diesel, or similar database technologies.
+* Experience with messaging and event\\-streaming platforms such as Kafka, Redis Streams, or RabbitMQ.
+* Experience building data processing and transformation pipelines.
+* Familiarity with Linux/Unix systems programming.
+* Experience with application profiling and benchmarking tools such as cargo bench or flamegraph.
+* Knowledge of fault\\-tolerant system design and distributed system patterns.
+* Exposure to WebAssembly (WASM), FFI integrations, procedural macros, or other advanced Rust capabilities.
+
+
+**Professional Skills**
+* Strong ownership mindset with a focus on quality and reliability.
+* Ability to diagnose bottlenecks and architect solutions for scale.
+* Effective communication and stakeholder management skills.
+* Collaborative approach to working within cross\\-functional teams.
+* Commitment to continuous learning, improvement, and engineering excellence.
+
+
+ Skills: communication,rust,cloud,design","IT Services and IT Consulting","https://in.linkedin.com/company/copods","https://media.licdn.com/dms/image/v2/D4D0BAQHKiExq5yjE2Q/company-logo_100_100/company-logo_100_100/0/1710325402468/copods_logo?e=2147483647&v=beta&t=SnLoDEFYx2ND7NU3cekSk2ZctU--ytQPmXCdrkk0FEo","","","","","","","","","","",""
+"li-4447638484","linkedin","https://www.linkedin.com/jobs/view/4447638484","","SAP ABAP FOR HANA-KOCH","Tata Consultancy Services","Kochi, Kerala, India","","fulltime","","","","","",False,"director","Analyst, Engineering, and Business Development","","","* Design and implement CDS and AMDP based on the business requirement
+* Adobe forms development in S/4 HANA (Online and Offline scenarios).
+* Strong knowledge of RICEFW objects, Programming using OOPs, Dynamic programming
+* Strong knowledge and working experience Adobe forms, AMDP, CDS, BRF\\+, OData, Workflows and HANA proxy objects.
+* Workflow integration with OData \\& Fiori
+* Odata Services, Deep entities, Association, Navigation, Get/Post Methods
+* Good knowledge and working experience on ALE/IDOC, Proxy, API, Webservices
+* Minimum 2\\-3 years of development experience in S/4 HANA.
+* Design and implement Business Workflows and Flexible Workflow
+* Compile Technical Specification document for all the developments.
+
+
+
+ End to end testing of all applications","IT Services and IT Consulting, IT System Testing and Evaluation, and IT System Data Services","https://in.linkedin.com/company/tata-consultancy-services","https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4","","","","","","","","","","",""
+"li-4447643417","linkedin","https://www.linkedin.com/jobs/view/4447643417","","Python Developer","Tata Consultancy Services","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering","","","**About the Role** 
+
+
+
+
+ We are looking for a skilled Python Developer to build and maintain automation solutions, backend services, and tooling that support large\\-scale telecom network operations. You will develop REST APIs, automation scripts, and data\\-driven applications that enable testing, monitoring, and operational efficiency across 5G and enterprise platforms.
  
 
 
 
-**LOCATION: GREATER BENGALURU AREA** 
+**Key Responsibilities** 
+
+
+
+* Develop and maintain Python\\-based back end Developer or automation frameworks and scripts for network testing, data processing, and operational workflows
+* Design and build
+ **RESTful APIs** 
+**using Flask/FastAPI** 
+ to expose services for internal tooling and cross\\-team integration
+* Design and interact with
+ **SQL (PostgreSQL/MySQL) and NoSQL (MongoDB/Redis)** 
+ databases for test data, configuration, and results management
+* Build and maintain Docker containers for application packaging, deployment, and isolated testing environments
+* Develop and maintain CI/CD pipelines integrating Python automation into Jenkins/GitLab for continuous delivery
+* Write and maintain Linux shell scripts and manage application deployments on Linux\\-based servers
+* Integrate with telecom network systems and APIs for automated validation, health checks, and service monitoring
+* Implement logging, error handling, and monitoring solutions to ensure reliability of automation services
+* Collaborate with QA, network engineering, and DevOps teams to identify automation opportunities and deliver scalable solutions
+
+
+
+**Essential Skills \\& Experience** 
+
+
+
+* Bachelor's degree in Computer Science, Engineering, or related discipline
+* 4\\+ years of professional Python development experience in automation or backend roles
+* Strong proficiency in building REST APIs using Flask or FastAPI with proper authentication, error handling, and documentation
+* Hands\\-on experience with HTML/CSS and templating engines (Jinja2\\) for building lightweight web interfaces
+* Solid working knowledge of SQL databases (PostgreSQL, MySQL) and NoSQL databases (MongoDB, Redis) — schema design, queries, and optimization
+* Proficient in Linux environments — shell scripting (Bash), cron jobs, process management, and server administration
+* Experience building and deploying applications using Docker containers and Docker Compose
+* Familiarity with CI/CD tools (Jenkins, GitLab CI/CD) and version control (Git)
+* Experience with Python libraries for automation — requests, paramiko, subprocess, schedule, pandas
+* Strong understanding of networking fundamentals (HTTP, TCP/IP, DNS, SSH) and API integration patterns
+
+
+
+**Desirable Skills** 
+
+
+
+* Experience in telecom domain or network automation (4G Core, 5G, SBA)
+* Knowledge of message queues (RabbitMQ, Kafka) and event\\-driven architectures
+* Experience with cloud platforms (Openstack) and infrastructure\\-as\\-code
+* Familiarity with Pytest, Selenium, or Playwright for test automation
+* Knowledge of Grafana, ELK stack, or Prometheus for monitoring
+* Understanding of Agile/Scrum delivery practices","IT Services and IT Consulting","https://in.linkedin.com/company/tata-consultancy-services","https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4","","","","","","","","","","",""
+"li-4445831769","linkedin","https://www.linkedin.com/jobs/view/4445831769","","Swarm Drone Developer","IIT Bombay","Mumbai, Maharashtra, India","","other","","","","","",False,"entry level","Engineering and Information Technology","","","**Job Role: Swarm** 
+**Drone** 
+**Developer** 
 
 
 
@@ -381,28 +475,8 @@
 
 
 
-**Company Description** 
-
-
-
-
-**We are looking for exceptional talent and leadership to join Fast Growing Startup into Scalable Intelligence, the world’s first company developing Agentic Silicon for powering the future of AI.** 
-
-
-
-
-**Founded in 2023, We have deep customer engagements across America, Europe, and Asia, and demonstrated functional prototypes to prove our concept and vision.** 
-
-
-
-
-  
-
-
-
-
-
- MTS\\-System Runtime Engineer Responsibilities: Develop and optimize the runtime environment for executing ML models. This includes managing memory allocation, optimizing data movement, and ensuring efficient execution on targeted hardware platforms.
+**Location:** 
+ Indian Institute of Technology Bombay, Mumbai
  
 
 
@@ -413,7 +487,8 @@
 
 
 
- Experience working with open standard API. Required Skills: \\- Excellent C/C\\+\\+ programming skills \\- Strong background in systems programming \\- Experience with hardware accelerators \\- Prior experience in runtime environment \\- Proficiency in performance profiling and debugging tools \\- Hands on working experience in Python, Shell script will be a plus \\- Experience level – 8\\+ years
+**Job Category:** 
+ Project Research Staff
  
 
 
@@ -424,60 +499,12 @@
 
 
 
-***Contact***
+**About the project:** 
 
 
 
 
- uday
- 
-
-
-
- muday\\_bhaskar@yahoo.com
- 
-
-
-
-***www.mulyatech.com***
-
-
-
-
-***""Mining the Knowledge Community""***","Computer Hardware Manufacturing, Software Development, and Semiconductor Manufacturing","https://www.linkedin.com/company/tsavorite-scalable-intelligence","https://media.licdn.com/dms/image/v2/D560BAQFfp2uugeAZJQ/company-logo_100_100/B56ZpuIhFxKAAQ-/0/1762784318063/tsavorite_scalable_intelligence_logo?e=2147483647&v=beta&t=QKsYcgBXZHRW6WFzc5ydwl90T5c4OQ2h1fW82A6oPYM","","","","","","","","","","",""
-"li-4445813629","linkedin","https://www.linkedin.com/jobs/view/4445813629","","Lead Gen AI engineer","Schoolnet India Limited","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","https://docs.google.com/document/d/16MpYuRmumgifJmRmRrxKkKIkxou94xuv3A9NxMFIdDg/edit?usp\\=drivesdk","Education Management","https://in.linkedin.com/company/schoolnet-india-limited","https://media.licdn.com/dms/image/v2/C4E0BAQH8MEGZOSWPLA/company-logo_100_100/company-logo_100_100/0/1630652307940/schoolnet_india_limited_logo?e=2147483647&v=beta&t=MQhDRsaizvH4Wdo-8yC9HsYj73QaXloiOItvTqIky10","","","","","","","","","","",""
-"li-4442587800","linkedin","https://www.linkedin.com/jobs/view/4442587800","","SMTS-System Software Engineer -- Security","Tsavorite Scalable Intelligence","","","fulltime","","","","","",False,"mid-senior level","Research, Engineering, and Design","","_bhaskar@yahoo.com",". SMTS\\-System Software Engineer \\-\\- Security
- 
-
-
-
-**LOCATION: GREATER BENGALURU AREA** 
-
-
-
-
-  
-
-
-
-
-
-**Company Description** 
-
-
-
-
-**We are looking for exceptional talent and leadership to join Fast Growing Startup into Scalable Intelligence, the world’s first company developing Agentic Silicon for powering the future of AI.** 
-
-
-
-
-**Founded in 2023, We have deep customer engagements across America, Europe, and Asia, and demonstrated functional prototypes to prove our concept and vision.** 
-
-
-
-
- . System Software Engineer \\-\\- Security
+ The Government\\-funded project focuses on the development and demonstration of drone and allied technologies. With applications spanning various sectors, the initiative leverages advanced technologies and infrastructure. It aims to foster strong industry\\-academia collaborations to address real\\-world challenges and drive innovation. Comprehensive training programs are an integral component, ensuring awareness and proficiency in drone operations.
  
 
 
@@ -488,7 +515,12 @@
 
 
 
- Responsibilities: Design and develop the system software required to support running the secure SW stack, system initialization configuration management system, observability, and monitoring. Develop the hardware abstraction layer and necessary drivers.
+**Institute:** 
+
+
+
+
+ Indian Institute of Technology (IIT) Bombay, Mumbai
  
 
 
@@ -499,7 +531,49 @@
 
 
 
- Required Skills: \\- Excellent C/C\\+\\+ programming skills, prior experience of developing system software \\- Solid understanding of Kernel and User space and related security aspects \\- Excellent knowledge in Linux kernel internals, IPC/System V
+**Qualification and Key Skills Required:** 
+
+
+
+* PhD in relevant experience
+ **OR**
+* MTech / ME or equivalent with relevant experience
+ **OR**
+* BTech / BE or equivalent with relevant experience
+* Experience of developing algorithms for swarm, path planning / guidance system, control system, navigation / sensor fusion, and implementing them with different classes of UAVs including Multi\\-rotor / Fixed\\-wing / VTOL
+* Test and validate the developed algorithms in SITL simulation environment, that has close resemblance to actual flight environment scenario
+* Experience of various control laws and strategies, specifically PID, MPC, etc.
+* Familiarity with autopilot firmware, like PX4 and ArduPilot
+* Sensor selection for specific UAV application along with knowledge of sensor fusion process for increased accuracy and reliability
+* Knowledge of drones / aerial robots with regards to control and stability aspects of them
+* Proficiency in programming languages, simulation and modelling tools (Python, C/CPP, MATLAB/Simulink, ROS/ROS2, Gazebo etc.)
+* **Softwares** 
+ : Mission Planner, QGC, CubeIDE, CubeMX
+
+
+
+  
+
+
+
+
+
+**Job Profile:** 
+
+
+
+* Design and develop swarm algorithms and control system for different class of UAVs including Multi\\-rotor / Fixed\\-wing / VTOL.
+* Knowledge of multi agent coordination, formation flying and cooperative missions.
+* Knowledge of path planning, collision avoidance and distributed decision making algorithms
+* Experience with multi agent communication, communication protocols and low latency data exchange.
+* Integrate and calibrate various sensors (like IMUs, GPS, Barometer, LiDAR, Radars, Camera and Optical flow sensor) with knowledge on communication protocols for hardware interfacing
+* Fail\\-safe logic and emergency handling techniques for error\\-free operation of the swarm of drones
+* Logging and analysis of telemetry and onboard sensor data, required for post processing study of drone missions carried out
+* Integration of the developed algorithms into onboard companion computers (Jetson, STM32 processor based boards)
+* Collaborate with cross\\-functional teams to enhance the capabilities of UAV systems
+* Maintain a Proper documentation of design process, test results, modifications in algorithms and provide technical reports
+* Any other work assigned as per requirement.","Higher Education","https://in.linkedin.com/school/b.-j.-katara-b.-ed.-college/","https://media.licdn.com/dms/image/v2/D4D0BAQE-z23XFhthKA/company-logo_100_100/company-logo_100_100/0/1698927618669?e=2147483647&v=beta&t=E92yNLAWlI8Si2yxGtL_FWRGm_wbYubRT_e1TUc7cW0","","","","","","","","","","",""
+"li-4447640492","linkedin","https://www.linkedin.com/jobs/view/4447640492","","Omvrti.ai Hiring For Tech Lead ( Java / J2EE )","OmVrti.ai","New Delhi, Delhi, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","dharmendra.singh@omvrti.ai","Hi
  
 
 
@@ -510,7 +584,7 @@
 
 
 
- \\- Experience in trusted firmware, secure boot, boot loader, Root of Trust
+ Greetings from Omvrti.ai
  
 
 
@@ -521,7 +595,25 @@
 
 
 
- \\- Hands\\-on working with Crypto co\\-processors e.g. CMRT \\- Experience developing software using POSIX libraries, multi\\-threading software, semaphores, process management.
+**OmVrti.ai** 
+ is a Silicon Valley\\-based Vertical Agentic AI company building the next\\-generation AI Operating System for Enterprise Efficiency.
+ 
+
+
+
+ We are not looking for traditional developers.
+ 
+
+
+
+ We are looking for
+ **product builders** 
+ .
+ 
+
+
+
+ People who can take a product from idea to architecture, development, deployment, scaling, and continuous improvement. People who think like founders, move fast, leverage AI aggressively, and want to build products that can transform entire industries.
  
 
 
@@ -532,7 +624,8 @@
 
 
 
- \\- Experience in Linux memory management, NUMA, Linux High Availability. \\- Hands on working experience in Python, Shell script \\- Jtag, HW/SW debugging tools
+**Position:** 
+ Tech Lead / Lead Developer
  
 
 
@@ -540,389 +633,404 @@
   
 
 
-
-
-
- \\- Experience level: 11\\+ years Good to have: \\- Experience with writing Linux device drivers \\- Experience in container, Docker, Kubernetes
- 
-
-
-
-  
-
-
-
-
-
- \\- Experience in working in FPGA and QEMU \\- Experience in ARM Cortex\\-3, bare\\-metal driver development
- 
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
-***Contact***
-
-
-
-
- uday
- 
-
-
-
- muday\\_bhaskar@yahoo.com
- 
-
-
-
-***www.mulyatech.com***
-
-
-
-
-***""Mining the Knowledge Community""***","Computer Hardware Manufacturing, Software Development, and Semiconductor Manufacturing","https://www.linkedin.com/company/tsavorite-scalable-intelligence","https://media.licdn.com/dms/image/v2/D560BAQFfp2uugeAZJQ/company-logo_100_100/B56ZpuIhFxKAAQ-/0/1762784318063/tsavorite_scalable_intelligence_logo?e=2147483647&v=beta&t=QKsYcgBXZHRW6WFzc5ydwl90T5c4OQ2h1fW82A6oPYM","","","","","","","","","","",""
-"li-4447851851","linkedin","https://www.linkedin.com/jobs/view/4447851851","","Teamcenter Developer","Mavenberg Innovations","Pune District, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Teamcenter Senior Developer** 
-
-
-
-
-**Role Overview** 
-
-
-
-
- We are hiring
- **four Teamcenter Senior Developers** 
- to join our Engineering team and drive the development of enterprise PLM solutions.
- 
-
-
-
- We are seeking four Teamcenter Senior Developers with 4\\-6 years of hands\\-on experience to design, customize, and implement enterprise PLM solutions. This role focuses on BMIDE, ITK, SOA development, workflow automation, and CAD integrations to optimize our Teamcenter ecosystem and drive business process efficiency.
- 
-
-
-
-**What You'll Do** 
-
-
-
-
- As a Teamcenter Senior Developer, you will work on end\\-to\\-end PLM implementations, collaborating closely with business stakeholders and technical teams to deliver robust solutions.
- 
-
-
-
-**Development \\& Customization:** 
-
-
-
-* Develop Teamcenter customizations using BMIDE for UI components, data models, attributes, and forms
-* Implement server\\-side business logic using ITK (Integration Toolkit) in C/C\\+\\+
-* Design and develop custom SOA services (RESTful/SOAP) for enterprise integrations
-* Enhance and customize Rich Client and Active Workspace interfaces
-
-
-
-**Workflow \\& Integration:** 
-
-
-
-* Design, develop, and automate workflows to streamline cross\\-departmental business processes
-* Implement CAD integrations including NX, SWIM, IPEM, TCIC, OrCAD, Allegro, and Altium Designer
-* Configure enterprise integrations such as T4S, T4O, T4EA, FN4T, and CN4T
-
-
-
-**Project Delivery \\& Support:** 
-
-
-
-* Participate in requirement gathering, solution design, and technical documentation
-* Troubleshoot issues, optimize performance, and resolve bugs
-* Support deployments, system upgrades, data migrations, and UAT activities
-* Configure system elements including Preferences, ACL, Stylesheets, Dispatcher, and Microservices
-
-
-
-**What We're Looking For** 
-
-
-
-
-**Education \\& Certification:** 
-
-
-
-* Bachelor's or Master's degree in Computer Science, Mechanical Engineering, or related field
-* Active Teamcenter certification
 
 
 
 **Experience:** 
+ 5\\+ Years
+ 
 
 
 
-* 4\\-6 years of hands\\-on Teamcenter development experience
-* Demonstrated success in complex PLM implementations and system upgrades
-* Strong experience with BMIDE, ITK, and SOA development
-* Working knowledge of Teamcenter architecture and Linux command\\-line interface
-* Familiarity with Agile/Scrum development methodologies
+  
 
 
 
-**Technical Skills:** 
+
+
+**Location:** 
+ Pitampura, New Delhi (Work from Office)
+ 
 
 
 
-* Proficiency in C, C\\+\\+, Java, JavaScript, and Python
-* Expertise in BMIDE for data schema design and UI customization
-* Strong ITK development skills for server\\-side services
-* Experience with SOA service design and implementation (RESTful/SOAP)
-* Knowledge of Rich Client and Active Workspace customization
-* Hands\\-on experience with CAD integrations (NX, SWIM, IPEM, TCIC, OrCAD, Allegro, Altium Designer)
-* Enterprise integration experience (T4S, T4O, T4EA, FN4T, CN4T) is a plus","Engineering Services","https://in.linkedin.com/company/mavenberg-innovations-india-private-limited","https://media.licdn.com/dms/image/v2/C560BAQEErvtkxHyiOg/company-logo_100_100/company-logo_100_100/0/1630650214855/tesserakt_lab_india_private_limited_logo?e=2147483647&v=beta&t=cx1-LF8bxYnLSIXP39n4VgExU7KP3LyEoIHmBOvmpIs","","","","","","","","","","",""
-"li-4447855814","linkedin","https://www.linkedin.com/jobs/view/4447855814","","DevOps Engineer","WebMints","Gujarat, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**About The Role**
- As a DevOps Engineer at Webmints, you'll be responsible for building and maintaining our cloud infrastructure, implementing CI/CD pipelines, and ensuring the reliability, security, and scalability of our platform. You'll work closely with development teams to streamline deployment processes and optimize system performance.
+  
+
+
+
+
+
+**Key Responsibilities:** 
+
+
+
+
+  
+
+
+
+
+* Design, develop, and maintain scalable enterprise applications.
+* Collaborate with cross\\-functional teams to deliver high\\-quality software solutions.
+* Review code, ensure best coding practices, and drive technical excellence.
+* Participate in architecture discussions and provide technical guidance.
+* Troubleshoot production issues and optimize application performance.
+
+
+
+  
+
+
+
+
+
+**Required Skills:** 
+
+
+
+
+  
+
+
+
+
+* Strong hands\\-on experience in
+ **Core Java, Spring Boot, Spring MVC, and Microservices** 
+ .
+* Good knowledge of
+ **REST APIs, Hibernate/JPA** 
+ , and
+ **SQL databases (MySQL/PostgreSQL)** 
+ .
+* Experience with
+ **Git** 
+ , Maven/Gradle, and CI/CD pipelines.
+* Understanding of cloud platforms (AWS/Azure/GCP) is an added advantage.
+* Excellent problem\\-solving, communication, and leadership skills.
+
+
+
+  
+
+
+
+
+
+**What We Offer:** 
+
+
+
+
+  
+
+
+
+
+* Attractive Salary
+* Performance\\-Based Incentives
+* Career Growth Opportunities
+* Dynamic and Collaborative Work Environment
+
+
+
+  
+
+
+
+
+
+ if you are looking for change or have any refreance then pls send me the updated profile at dharmendra.singh@omvrti.ai along with below details .
+ 
+
+
+
+  
+
+
+
+
+
+ Total Exp
+ 
+
+
+
+ CTC
+ 
+
+
+
+ ECTC
+ 
+
+
+
+ Notice Period
+ 
+
+
+
+  
+
+
+
+
+
+ Thanks
+ 
+
+
+
+  
+
+
+
+
+
+ Dharmendra Singh
+ 
+
+
+
+  
+
+
+
+
+
+ Omvrti Ai","Artificial Intelligence","https://www.linkedin.com/company/omvrti","https://media.licdn.com/dms/image/v2/D4D0BAQHLLcXWkESl7w/company-logo_100_100/B4DZv95PhII8AQ-/0/1769491200552/omvrti_logo?e=2147483647&v=beta&t=OoUI09s-n0_1v3evPbk4M-axZZI0_dNtl2-Uy6Xrt-A","","","","","","","","","","",""
+"li-4445821886","linkedin","https://www.linkedin.com/jobs/view/4445821886","","Marketing Manager","EvidenceHire","Kolkata, West Bengal, India","","fulltime","","","","","",True,"entry level","Marketing and Sales","","","**Company Description** 
+ EvidenceHire is an AI\\-driven hiring platform that makes recruiting decisions fully auditable and evidence\\-backed. The platform addresses the gap between curated resumes or profiles and the need to verify candidate claims at scale. It ingests signals from sources such as GitHub, portfolios, Upwork, and publications to build a comprehensive picture of each candidate. EvidenceHire then generates ranked, role\\-specific fit reports, where every claimed skill is corroborated with verbatim excerpts and linked directly to its source. This approach helps hiring teams make more accurate, transparent, and data\\-driven decisions.
+ 
+
+
+
+**Role Description** 
+ The Marketing Manager will lead the development and execution of marketing strategies to drive awareness, adoption, and growth for EvidenceHire. In this full\\-time remote role, the Marketing Manager will plan and run campaigns across digital channels, manage content and messaging, and oversee brand positioning. Key day\\-to\\-day responsibilities include analyzing market trends, defining target segments, coordinating with product and sales teams, and optimizing marketing funnels. The Marketing Manager will also track performance metrics, manage marketing budgets, and identify opportunities to improve customer engagement and retention.
+ 
+
+
+
+**Qualifications** 
+
+
+
+
+
+
+
+* Demonstrated experience in marketing strategy, campaign planning, and go\\-to\\-market execution for B2B SaaS or technology products.
+* Skills in digital marketing, including performance marketing, marketing automation, and analytics tools to measure and optimize channel performance.
+* Ability to develop clear positioning and messaging, collaborate on content creation, and support brand\\-building initiatives.
+* Strong analytical and problem\\-solving skills, with experience using data to inform decisions and refine marketing tactics.
+* Excellent written and verbal communication skills, with the ability to convey complex concepts simply and persuasively.
+* Experience working remotely and cross\\-functionally with product, sales, and customer success teams.
+* Bachelor’s degree in Marketing, Business, Communications, or a related field, or equivalent practical experience.
+* Background in HR tech, AI\\-driven products, or recruiting solutions is a plus.","IT Services and IT Consulting","https://in.linkedin.com/company/evidencehire","https://media.licdn.com/dms/image/v2/D560BAQGtZQ3-FBCfNA/company-logo_100_100/B56Z7E3t8vIoAI-/0/1781419401236/evidencehire_logo?e=2147483647&v=beta&t=Zl2JYTS7yNoJL_ex3qh6fhYlV_uYkDER6gBsKmazvUs","","","","","","","","","","",""
+"li-4445827770","linkedin","https://www.linkedin.com/jobs/view/4445827770","","Area Sales Manager - Gujarat","MedicoValley","Ahmedabad, Gujarat, India","","fulltime","","","","","",False,"mid-senior level","Sales and Business Development","","","MedicoValley is looking for a sincere, energetic, and growth\\-focused Area Sales Manager – Gujarat to build and manage business across Gujarat in medical colleges, nursing colleges, hospitals, universities, simulation centres, and healthcare training institutes.
    
 
   
 
-**Responsibilities**
-* Design, implement, and maintain cloud infrastructure on AWS, Azure, or GCP
-* Build and improve CI/CD pipelines for automated testing and deployment
-* Monitor system performance and implement optimizations
-* Implement security best practices and ensure compliance requirements are met
-* Troubleshoot and resolve infrastructure and application issues
-* Automate manual processes to improve efficiency and reliability
-* Collaborate with development teams to improve deployment processes
-
-
-**Requirements**
-* 3\\+ years of experience in DevOps or Site Reliability Engineering
-* Strong knowledge of cloud platforms (AWS, Azure, or GCP)
-* Experience with infrastructure as code tools (Terraform, CloudFormation)
-* Proficiency with CI/CD tools (Jenkins, GitHub Actions, CircleCI)
-* Knowledge of containerization technologies (Docker, Kubernetes)
-* Understanding of networking, security, and system administration
-* Scripting and automation skills (Bash, Python, or similar)
-
-
- Nice to Have
-   
-
-  
-
-* Experience with monitoring and observability tools (Prometheus, Grafana, ELK)
-* Knowledge of database administration and optimization
-* Experience with microservices architecture
-* Security certifications or experience with security automation
-* Experience supporting SaaS applications in production","IT Services and IT Consulting","https://uk.linkedin.com/company/webmints","https://media.licdn.com/dms/image/v2/D4E0BAQFK_PaRQtwXoA/company-logo_100_100/B4EZbK5lICHYAY-/0/1747160814463/webmints_logo?e=2147483647&v=beta&t=O5y1vo5LEh_Emsvz8SF46J9qeLrK6u0mHlf-h2A-VL4","","","","","","","","","","",""
-"li-4438082100","linkedin","https://www.linkedin.com/jobs/view/4438082100","","Senior Digital Technology Developer, Full Stack Clienteling","Ralph Lauren","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"associate","Engineering and Information Technology","","","Ralph Lauren Corporation (NYSE:RL) is a global leader in the design, marketing and distribution of premium lifestyle products in five categories: apparel, accessories, home, fragrances, and hospitality. For more than 50 years, Ralph Lauren's reputation and distinctive image have been consistently developed across an expanding number of products, brands and international markets. The Company's brand names, which include Ralph Lauren, Ralph Lauren Collection, Ralph Lauren Purple Label, Polo Ralph Lauren, Double RL, Lauren Ralph Lauren, Polo Ralph Lauren Children, Chaps, among others, constitute one of the world's most widely recognized families of consumer brands.
-   
-
-  
-
- At Ralph Lauren, we unite and inspire the communities within our company as well as those in which we serve by amplifying voices and perspectives to create a culture of belonging, ensuring inclusion, and fairness for all. We foster a culture of inclusion through: Talent, Education \\& Communication, Employee Groups and Celebration.
-   
-
-  
-
- ,
-   
-
-  
-
- We are seeking a self\\-motivated Full Stack Developer with strong expertise in React Native for frontend development, NestJS for backend services, GraphQL API design and integration, and AI\\-enabled application development using Azure AI Foundry to build and enhance high\\-quality digital solutions within the Ralph Lauren Consumer Technology division. This role will be responsible for developing scalable mobile experiences, building robust backend services, enabling seamless data exchange across platforms, integrating Oracle Web APIs and other enterprise services, and delivering intelligent capabilities that support consumer\\-facing technology initiatives.
-   
-
-  
-
- This position requires close collaboration with Product, Design, Engineering, DevOps, QA, and AI stakeholders in an Agile environment to deliver end\\-to\\-end solutions across mobile frontend and backend systems. The ideal candidate will bring strong experience in building intuitive React Native applications, designing and developing backend services with NestJS, implementing efficient GraphQL APIs, integrating Oracle Web APIs and other enterprise services, and enabling AI\\-powered capabilities through Azure AI Foundry, while ensuring performance, scalability, maintainability, and secure service integration.
-   
-
-  
-
- This is an exciting opportunity to contribute to the development of customer\\-focused digital solutions and help strengthen Ralph Lauren’s technology landscape through modern, AI\\-enabled full stack engineering across React Native, NestJS, GraphQL, Oracle Web API integrations, and Azure AI Foundry.
-   
-
-  
-
- ,
-   
-
-  
-
-* Full Stack Application Development: Design, develop, enhance, and maintain end\\-to\\-end digital solutions across mobile frontend and backend systems using React Native, NestJS, and GraphQL, ensuring scalability, reliability, and high\\-quality user experiences.
-* React Native Frontend Development: Build responsive and reusable mobile UI components, implement application flows, manage state effectively, and translate business and design requirements into intuitive consumer\\-facing experiences.
-* NestJS Backend Development: Design, build, and maintain backend services, business logic, integration layers, and Oracle Web API integrations using NestJS and Node.js to support secure, scalable, and maintainable application functionality.
-* GraphQL API Design and Integration: Develop, integrate, and optimize GraphQL APIs through effective schema design, resolver implementation, and seamless communication between frontend and backend systems.
-* Azure AI Foundry Integration: Support AI\\-enabled application capabilities by integrating Azure AI Foundry services to enable intelligent workflows, automation, and personalized user experiences where appropriate.
-* System Integration and Performance Optimization: Ensure efficient frontend\\-backend communication, integrate backend services with Oracle Web APIs and other enterprise systems, monitor and improve application performance, troubleshoot issues across the stack, and optimize solutions for maintainability, security, and scalability.
-* Testing, Quality, and Engineering Standards: Write and maintain unit tests, participate in code reviews, follow coding standards, address maintainability concerns, and support secure, high\\-quality software delivery across application components.
-* Cross\\-Functional Collaboration and Agile Delivery: Work closely with Product, Design, Engineering, DevOps, QA, and AI stakeholders in an Agile environment to deliver features on time, support releases, and continuously improve digital products and platforms.
-
-
- ,
-   
-
-  
-
-**Technical Skills**
-* Strong experience in React Native with JavaScript/TypeScript, including component\\-based architecture, state management, navigation, and mobile performance optimization.
-* Hands\\-on experience building backend services with NestJS and Node.js, including modular architecture, business logic implementation, and REST/GraphQL API integration.
-* Strong understanding of GraphQL schema design, resolver development, API consumption, and efficient data flow.
-* Experience integrating Oracle Web APIs and other enterprise services with secure, reliable data exchange, authentication handling, and error management.
-* Familiarity with unit testing, debugging, code reviews, and performance tuning across frontend and backend components.
-* Working knowledge of Git, CI/CD pipelines, secure coding practices, and modern engineering standards across the app.
-
-
-**AI Integration**
-* Experience integrating Azure AI Foundry or related Azure AI services into applications to support intelligent workflows, automation, AI\\-assisted experiences, and scalable service orchestration.
-
-
-**Collaboration \\& Professional Experience**
-* Ability to work effectively with cross\\-functional teams in an Agile environment and communicate technical solutions clearly.
-* Experience contributing to code reviews, coding standards, and maintainable, secure full stack solutions.
-* Professional experience delivering features through development, testing, deployment, integration, and production support.
-
-
-**Quality, Testing \\& Delivery**
-* Experience writing and maintaining unit tests using Jest or similar frameworks, supporting broader testing efforts, and resolving code quality, maintainability, and technical debt issues.
-* Knowledge of application security fundamentals, secure coding practices, API reliability, observability, and CI/CD pipelines to support reliable build, test, deployment, and release workflows","Retail Apparel and Fashion","https://www.linkedin.com/company/ralph-lauren","https://media.licdn.com/dms/image/v2/D4E0BAQEYNzM2u6Vr4Q/company-logo_100_100/B4EZo6g7lXKYAQ-/0/1761918302885/ralph_lauren_logo?e=2147483647&v=beta&t=J44pCm2ips04RN9Cl6P-cc-UEaQlFbbTw_Fh-LniFL0","","","","","","","","","","",""
-"li-4447865632","linkedin","https://www.linkedin.com/jobs/view/4447865632","","Cloud Automation Developer, India","AlgoSec","New Delhi, Delhi, India","","fulltime","","","","","",False,"mid-senior level","Quality Assurance","","","At AlgoSec, what you do matters!
-   
-
-  
-
- AlgoSec helps the world’s leading organizations secure application connectivity across hybrid and multi\\-cloud environments. Trusted by more than 2,300 global organizations, our platform delivers visibility, security policy management, risk reduction, and compliance automation across complex enterprise networks.
-   
-
-  
-
- As we continue to expand our cloud and enterprise business globally, we are looking for a a QA Automation Developer to join our global team working in an agile environment.
-   
-
-  
-
- This is an opportunity to join a profitable, growing cybersecurity company with strong market traction, a collaborative culture, and significant growth potential.
-   
-
-  
-
-**Reporting to:** 
- Automation Team Leader
+ The candidate will be responsible for generating leads, visiting institutions, understanding client requirements, coordinating quotations, following up on proposals, and supporting order closure for medical simulation products, anatomy models, skill lab equipment, trainers, and simulation lab planning solutions.
    
 
   
 
 **Location:** 
- Gurgaon, India
+  
+
+ Ahmedabad / Vadodara / Rajkot
    
 
   
 
- Direct employment
+**Key Responsibilities** 
+ :
+   
+
+ Visit medical colleges, nursing colleges, hospitals, universities, and healthcare institutes across Gujarat.
    
 
   
 
-**What You’ll Do**
-* Plan, write and execute E2E automatic tests for complex features using java and selenium.
-* Perform testing for AlgoSec new SaaS product, working with multiple cloud vendors as AWS, Azure and GCP
-* Running tests in CI/CD environment.
-
-
-**What We’re Looking For**
-* BSc in Computer Science/Engineering.
-* At least 3 years of experience in object\\-oriented programming: Java.
-* At least 2 years of experience in developing complex automation tests using selenium (Java).
-* Experience in manual QA testing (ability to write your own test before automation)
-* Experience working with at least one cloud provider (AWS/Azure/GCP)
-* Good understanding of Prompt Engineering principals.
-* Proven ability to effectively use AI chatbot tools (e.g., ChatGPT) for tasks such as test scenario creation, troubleshooting, and workflow optimization.
-* Experience working with AI\\-powered coding assistants (e.g., GitHub Copilot, Cursor) within development environments.
-* Proven ability to effectively use/develop AI Agents.
-* Proven ability to effectively use/develop/configure MCPs.
-* Proven ability to effectively use/develop skills.
-* Multitasking and problem\\-solving abilities, context switching and ""out\\-of\\-the\\-box"" thinking abilities.
-* Team player, pleasant and with a high level of integrity.
-* Very organized, thorough, and devoted.
-* Bright, fast learner, independent.
-* Good written and verbal communication skills in English.
-
-
-**Nice To Have**
-* Experience in QA of network security software products
-* Experience with developing MCPs
-* Experience with transforming non\\-agentic system/SDLC into agentic system/ SDLC
-* Experience with RAG pipelines and semantic search (vector databases)
-
-
- AlgoSec is an Equal Opportunity Employer (EEO), committed to creating a friendly, diverse and inclusive company culture.","Computer and Network Security","https://www.linkedin.com/company/algosec","https://media.licdn.com/dms/image/v2/D4D0BAQH6B5u0Ir062w/company-logo_100_100/B4DZ9l.0t9HEAI-/0/1784122395733/algosec_logo?e=2147483647&v=beta&t=TCeK6YiJsxu-Q6bizqch_hY2hmwsNMWE1I6-G5FJkq4","","","","","","","","","","",""
-"li-4447853814","linkedin","https://www.linkedin.com/jobs/view/4447853814","","Sr. Data Engineer","Numerator","Vadodara, Gujarat, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**We’re reinventing the market research industry. Let’s reinvent it together.**
- At Numerator, we believe tomorrow’s success starts with today’s market intelligence. We empower the world’s leading brands and retailers with unmatched insights into consumer behavior and the influencers that drive it.
+ Generate new leads through field visits, calls, emails, references, exhibitions, and online research.
    
 
   
 
- We are seeking a highly skilled Senior Data Engineer with extensive experience in designing, building, and optimizing high\\-volume data pipelines. The ideal candidate will have strong expertise in Python, Databricks on Azure Cloud services, DevOps, and CI/CD tools, along with a solid understanding of AI/ML techniques and big data processing frameworks like Apache Spark and PySpark.
+ Promote MedicoValley’s products and services, including medical simulators, anatomical models, trainers, skill lab equipment, and simulation lab solutions.
    
 
   
 
-**Responsibilities**
-* Adhere to coding and Numerator technology standards
-* Build suitable automation test suites within Azure DevOps
-* Maintain and update automation test suites as required
-* Carry out manual testing, load testing, exploratory testing as required
-* Work closely with Business Analysts and Senior Data Developers to consistently achieve sprint goals
-* Assist in estimation of sprint\\-by\\-sprint stories and tasks
-* Pro\\-actively take a responsible approach to product delivery
+ Understand customer requirements and coordinate internally for quotations, technical details, demos, and proposals.
+   
+
+  
+
+ Follow up regularly with clients for quotations, tenders, payments, purchase orders, and project updates.
+   
+
+  
+
+ Maintain strong relationships with deans, principals, HODs, faculty, purchase departments, and biomedical teams.
+   
+
+  
+
+ Maintain daily visit reports, lead status, funnel updates, and monthly sales plans.
+   
+
+  
+
+ Support installation coordination, customer training, and after\\-sales communication when required.
+   
+
+  
+
+ Represent MedicoValley professionally during client meetings, conferences, and exhibitions.
+   
+
+  
+
+**Candidate Requirements :**
+ Graduate in Biomedical, Science, Pharmacy, Healthcare, Business, or any related field.
+   
+
+  
+
+ Good communication skills in Gujarati, Hindi, and basic English.
+   
+
+  
+
+ Comfortable travelling across Gujarat, including Ahmedabad, Vadodara, Rajkot, Surat, and nearby regions.
+   
+
+ Hardworking, disciplined, target\\-oriented, and consistent with follow\\-ups.
+   
+
+  
+
+**Ideal Candidate :**
+ We are looking for someone who is honest, confident, eager to grow, and comfortable meeting institutional customers. The candidate should be able to build long\\-term trust with healthcare education clients and strengthen MedicoValley’s presence across Gujarat.
+   
+
+  
+
+**Compensation :**
+ Salary will be based on capability and fit. Attractive incentives will be applicable based on sales performance and company policy.","Hospitals and Health Care","https://in.linkedin.com/company/medicovalley-enterprises","https://media.licdn.com/dms/image/v2/D4D0BAQF5cnWwD6gkIA/company-logo_100_100/company-logo_100_100/0/1690983617165?e=2147483647&v=beta&t=jdKKmQ3oCN5NYN5GHSjuIGUFZstNpVjaFxf9usBM2qE","","","","","","","","","","",""
+"li-4445826855","linkedin","https://www.linkedin.com/jobs/view/4445826855","","Public Relations Lead","Mondial Kommunications Pvt. Ltd.","Mumbai, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Marketing, Public Relations, and Writing/Editing","","hr@mondial.in","**About Mondial Kommunications:** 
 
 
-**What You'll Bring to Numerator**
-**Requirements**
-* 7\\-10 years of experience in data engineering roles
-* Good Python skills
-* Experience working with Microsoft Azure Cloud
-* Experience in Agile methodologies (Scrum/Kanban)
-* Experience with Apache Spark, PySpark, Databricks
-* Experience working with Devops pipeline, preferably Azure DevOps
 
 
-**Preferred Qualifications**
-* Bachelor's or master's degree in computer science, Information Technology, Data Science, or a related field.
-* Experience working in a support focused role
-* Knowledge/experience in AI ML techniques
-* Certification in relevant Data Engineering discipline or related fields.","IT Services and IT Consulting, Market Research, and Information Services","https://www.linkedin.com/company/numerator","https://media.licdn.com/dms/image/v2/D560BAQHf9odJ3AuR6Q/company-logo_100_100/B56Z8d9GVNKgAI-/0/1782913984186/numerator_logo?e=2147483647&v=beta&t=twDtL22YNoA0MDht7j9RixtGvD2RpyPcm2r0AJYBt0I","","","","","","","","","","",""
-"li-4441437114","linkedin","https://www.linkedin.com/jobs/view/4441437114","","Principal AI Compiler Engineer","Mulya Technologies","","","fulltime","","","","","",False,"mid-senior level","Research, Design, and Engineering","","_bhaskar@yahoo.com","www.enchargeai.com
+ Mondial Kommunications Pvt. Ltd. is a professional communications agency with expertise in strategic PR and media relations. The firm serves a diverse clientele, offering tailored solutions to elevate brand visibility and credibility through effective public engagement.
  
 
 
 
-**The 10 Hottest Semiconductor Startups Of 2025 (So Far)** 
+  
 
 
 
 
- AI Compiler Engineer\\-Staff/Principal
+
+**Role Description** 
+
+
+
+
+ We are seeking PR Professionals with core experience in Corporate Public Relations domain.
  
 
 
 
-**Locations: Bangalore (Hybrid)** 
+  
+
+
+
+
+
+**Requirement:** 
+
+
+
+
+**\\- Experience: 3 to 5 Years in core Corporate PR** 
+
+
+
+
+ \\- Strong writing, communication, and storytelling skills
+ 
+
+
+
+ \\- Preference for immediate joiners or candidates serving their Notice Period.
+ 
+
+
+
+  
+
+
+
+
+
+**Responsibilities:** 
+
+
+
+
+ \\-Closely working with the client to understand briefs and business objectives
+ 
+
+
+
+ \\-Creating well researched strategies meet the desired objectives
+ 
+
+
+
+ \\-Creating IPs and building properties to improve the client’s industry positioning
+ 
+
+
+
+ \\-Managing a team of about 3 to 4 persons \\- ensuring responsibilities completed and deadlines are met
+ 
+
+
+
+ \\-Approving plans, documents and copies including reports, press releases, statement, morning updates, etc created by the team.
+ 
+
+
+
+ \\-Build relationship with editors and senior editors
+ 
+
+
+
+ \\-Managing incoming media queries and responding to them within the stipulated timeframe
+ 
+
+
+
+ \\-Leading on\\-ground events, including press conference, influencer activities
+ 
+
+
+
+  
+
+
+
+
+
+***Candidates from Mumbai only!!***
 
 
 
@@ -933,8 +1041,259 @@
 
 
 
-**About EnCharge AI:** 
+**Share your CV and Cover Letter at hr@mondial.in**","Public Relations and Communications Services","https://in.linkedin.com/company/mondial-kommunications","https://media.licdn.com/dms/image/v2/C560BAQEtWNpA5ZhFMQ/company-logo_100_100/company-logo_100_100/0/1630637397316/mondial_kommunications_logo?e=2147483647&v=beta&t=3rCDayReY9pN7l-dB7fvH1xszdNU2AM73yPm-rRHf8g","","","","","","","","","","",""
+"li-4447644342","linkedin","https://www.linkedin.com/jobs/view/4447644342","","Regional Sales Manager","Tiger 4 India Limited","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Sales and Business Development","","","**Company Description** 
+ Tiger 4 India is a security solutions provider focused on delivering reliable, tailored protection for corporate, residential, and event environments across India. The organization combines an experienced security team with advanced technology and strategic planning to safeguard clients’ people, assets, and operations. Services are designed to ensure safety, peace of mind, and a proactive approach to risk management. Team members at Tiger 4 India contribute to creating safer communities while working closely with clients to understand and address their unique security needs. The company values professionalism, integrity, and a commitment to continuous improvement in security practices.
+   
 
+**Role Description** 
+ The Regional Sales Manager is a full\\-time, on\\-site role based in Bengaluru, responsible for driving sales growth and expanding Tiger 4 India’s client base within the assigned region. The role includes identifying new business opportunities, managing key accounts, and building strong relationships with corporate, residential, and event security clients. The Regional Sales Manager will prepare proposals, conduct client presentations, and collaborate with operations teams to ensure solutions align with customer requirements. Daily activities involve tracking sales performance, forecasting revenue, and reporting market insights to leadership. The role also includes mentoring local sales staff, ensuring compliance with company policies, and representing Tiger 4 India at industry events and client meetings.
+   
+
+**Qualifications**
+  
+
+* Demonstrated ability in regional sales management, including territory planning, target achievement, and account management.
+* Strong client relationship\\-building and negotiation skills, with experience handling corporate or institutional customers.
+* Proficiency in sales reporting, pipeline management, and use of CRM tools or relevant sales software.
+* Understanding of security services or related industries, with the ability to translate client needs into service offerings.
+* Excellent communication and presentation skills, with fluency in English; fluency in local languages in Bengaluru is an advantage.
+* Proven ability to work on\\-site, collaborate effectively with cross\\-functional teams, and travel within the region as required.
+* Bachelor’s degree in Business, Marketing, or a related field; an MBA or equivalent professional certification is a plus.
+* Prior experience in managing a sales team or leading regional business initiatives is highly beneficial.","Security Guards and Patrol Services","https://www.linkedin.com/company/tiger-4-ind","https://media.licdn.com/dms/image/v2/D560BAQGZgEcRbMOQyA/company-logo_100_100/company-logo_100_100/0/1726657883943?e=2147483647&v=beta&t=xawCGRPvWNByhOapgtz_fmN0xMUwD4TXGksqD8JrUpw","","","","","","","","","","",""
+"li-4447643397","linkedin","https://www.linkedin.com/jobs/view/4447643397","","L3 Splunk Monitoring Engineer (Hyderabad Onsite only)","Argus Consulting (India)","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Argus Consulting Private Limited** 
+ is looking for an experienced
+ **L3 Splunk Monitoring Engineer** 
+ to join our growing Technology Operations team in
+ **Hyderabad** 
+ .
+ 
+
+
+
+ If you're passionate about enterprise monitoring, log analytics, incident management, and building high\\-performing observability platforms, we'd love to hear from you.
+ 
+
+
+ Key Responsibilities
+ * Design, configure, and optimize enterprise Splunk environments.
+* Develop and maintain dashboards, alerts, reports, and monitoring use cases.
+* Analyze logs, events, and telemetry to proactively identify operational issues.
+* Perform advanced troubleshooting and Root Cause Analysis (RCA).
+* Support and mentor L1/L2 monitoring teams for escalated incidents.
+* Improve alert quality and reduce false positives.
+* Work closely with infrastructure, application, and security teams.
+* Contribute to automation using Python, Shell, or similar scripting languages.
+* Ensure monitoring aligns with security, compliance, and operational standards.
+* Support capacity planning and platform performance optimization.
+
+
+ Required Skills
+ 
+ ✔ 5–8\\+ years of experience in Splunk Administration/Monitoring
+ 
+
+
+
+ ✔ Strong expertise in:
+ 
+
+
+* Splunk Enterprise
+* Dashboards
+* Alerts
+* Log Analysis
+* SPL Queries
+
+
+
+ ✔ Experience with:
+ 
+
+
+* Linux \\& Windows
+* Network Monitoring
+* Application Monitoring
+* IT Operations
+* NOC/SOC
+
+
+
+ ✔ Good scripting knowledge (Python/Shell)
+ 
+
+
+
+ ✔ Excellent analytical and communication skills
+ 
+
+
+ Preferred
+ * Splunk Certified Administrator/Power User
+* Experience with ITSM tools (ServiceNow, Remedy, Jira)
+* Knowledge of cloud monitoring (Azure/AWS)
+
+
+
+ 📍
+ **Location:** 
+ Hyderabad (Onsite)
+ 
+
+
+
+ 💼
+ **Experience:** 
+ 5–8\\+ Years
+ 
+
+
+
+ 📩 Interested candidates may share their updated resume along with:
+ 
+
+
+* Total Experience
+* Relevant Splunk Experience
+* Current CTC
+* Expected CTC
+* Notice Period
+* Current Location
+
+
+
+ \\#Splunk \\#Monitoring \\#Observability \\#NOC \\#SOC \\#Hiring \\#Hyderabad \\#TechnologyJobs \\#ArgusConsulting","IT Services and IT Consulting","https://in.linkedin.com/company/argus-consulting","https://media.licdn.com/dms/image/v2/D560BAQHzaDUqAspYhA/company-logo_100_100/B56Z.ZI4wYJoAI-/0/1784980671886/argus_consulting_logo?e=2147483647&v=beta&t=r3VSkI9QThfBNXWgq6ph8Xngx1qCD9h-VC1mlFK-v-s","","","","","","","","","","",""
+"li-4447631632","linkedin","https://www.linkedin.com/jobs/view/4447631632","","Service Desk Specialist-L1 Support","Live Connections","Pune City, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","Khader@livecjobs.com","🚨
+ **Hiring Alert \\| Service Desk L1 Support – Pune** 
+ 🚨
+ 
+
+
+
+ We are looking for IT Service Desk professionals for an L1 support role.
+ 
+
+
+
+ 📌
+ **Experience:** 
+ 1–5 years (Mandatory in IT Service Desk / Tech Support)
+ 
+
+
+
+ 📌
+ **Location:** 
+ Pune
+ 
+
+
+
+ 📌
+ **CTC:** 
+ Up to 5\\.5 LPA (Based on experience; up to 30–35% hike)
+ 
+
+
+
+ 📌
+ **Notice Period:** 
+ Max 15 days
+ 
+
+
+
+ 📌
+ **Shift:** 
+ US / 24x7 Rotational \\| 100% WFO
+ 
+
+
+
+ 🔹
+ **Mandatory Skills:** 
+
+
+
+
+ ServiceNow Ticketing \\| Office 365 \\| Active Directory \\| Basic Azure AD \\| Outlook \\| MS Teams \\| Basic Networking
+ 
+
+
+
+ 🔹
+ **Role Highlights:** 
+
+
+
+
+ • L1 technical support via calls, chat \\& tickets
+ 
+
+
+
+ • Password reset, account unlock, user support
+ 
+
+
+
+ • O365 / Windows / Outlook / Teams troubleshooting
+ 
+
+
+
+ • Incident handling \\& ServiceNow updates
+ 
+
+
+
+ • SLA\\-based resolution \\& escalation
+ 
+
+
+
+ ⚠️
+ **Requirements:** 
+
+
+
+
+ • Excellent communication skills
+ 
+
+
+
+ • Full\\-time Graduate (Certificates mandatory)
+ 
+
+
+
+ • Willingness to work in rotational shifts
+ 
+
+
+
+ 📩
+ **Interested candidates can share CV:** 
+ Khader@livecjobs.com
+ 
+
+
+
+ 📌
+ **Please mention subject line: Service Desk \\- Pune** 
+
+
+
+
+ \\#Hiring \\#ServiceDesk \\#L1Support \\#ITJobs \\#PuneJobs \\#ServiceNow \\#Office365 \\#ActiveDirectory \\#ImmediateJoiners","Technology, Information and Media","https://in.linkedin.com/company/live-connections","https://media.licdn.com/dms/image/v2/D560BAQHdRzx4Rx0ltg/company-logo_100_100/company-logo_100_100/0/1707074421000/live_connections_logo?e=2147483647&v=beta&t=YTBZMruPI-_5Dg9y5tRIQ7ZsgZmBfw4YYKPo_PmhiAQ","","","","","","","","","","",""
+"li-4447625855","linkedin","https://www.linkedin.com/jobs/view/4447625855","","Site Engineering Manager","Ad-Lib Engineering & Services Pvt Ltd","Raigarh, Chhattisgarh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Company Description** 
+
+
+
+
+ Ad\\-Lib Engineering \\& Services Pvt Ltd is a team of accomplished academic and experienced experts specializing in the erection, commissioning, installation, operation, and maintenance of Material Handling Systems, including Belt Conveyors, Pipe Conveyors, Pumps, and Heavy Equipment in Thermal Power Plants, Steel and Cement Plants. We also offer expertise in the operation and maintenance of TG \\& Its Aux. with Balance of Plant, CHP, and Conveyors. Additionally, we provide consultancy and training services, aimed at upskilling managerial and leadership capabilities through programs focused on business etiquette, communication skills, enhancing interpersonal skills, leadership, and team building.
+ 
 
 
 
@@ -944,13 +1303,243 @@
 
 
 
- AI Compiler Engineer
+**Role Description** 
+
+
+
+
+ The Site Engineering Manager is responsible for planning, coordinating, supervising, and monitoring all day\\-to\\-day maintenance and operational activities at the Coal Handling Plant. The role ensures safe execution of work, optimum utilization of manpower and resources, timely completion of scheduled activities, and compliance with client requirements and statutory safety regulations.
  
 
 
 
- EnCharge AI is a leader in advanced AI hardware and software systems for edge\\-to\\-cloud computing. EnCharge’s robust and scalable next\\-generation in\\-memory computing technology provides orders\\-of\\-magnitude higher compute efficiency and density compared to today’s best\\-in\\-class solutions. The high\\-performance architecture is coupled with seamless software integration and will enable the immense potential of AI to be accessible in power, energy, and space constrained applications. EnCharge AI launched in 2022 and is led by veteran technologists with backgrounds in semiconductor design and AI systems.
+
+
+
+
+ Key Roles \\& Resposibility
  
+
+
+ 1\\. Planning \\& Execution
+ * Prepare daily, weekly, and shutdown maintenance plans.
+* Allocate manpower, tools, tackles, and equipment based on work priorities.
+* Ensure timely execution of preventive, predictive, and breakdown maintenance.
+* Coordinate with the client's operation team for work permits, equipment isolation, and shutdown planning.
+* Monitor work progress and take corrective action to achieve daily targets.
+
+
+ 2\\. Maintenance Management
+ * Supervise maintenance of:
+* Belt Conveyors
+* Crushers
+* Screens
+* Vibrating Feeders
+* Stacker Reclaimers
+* Wagon Tipplers
+* Transfer Points
+* Chutes
+* Gearboxes
+* Couplings
+* Bearings
+* Hydraulic Systems
+* Dust Suppression Systems
+* Ensure quality workmanship and adherence to maintenance standards.
+
+
+ 3\\. Manpower Management
+ * Plan daily manpower deployment.
+* Supervise engineers, supervisors, technicians, fitters, welders, electricians, and helpers.
+* Maintain attendance, shift rosters, overtime, and productivity records.
+* Conduct toolbox talks before the start of each shift.
+
+
+ 4\\. Safety Management
+ * Ensure strict compliance with safety procedures.
+* Verify availability and proper use of PPE.
+* Conduct Job Safety Analysis (JSA) and risk assessments.
+* Ensure compliance with Lockout\\-Tagout (LOTO) procedures.
+* Investigate incidents and implement corrective actions.
+
+
+ 5\\. Client Coordination
+ * Attend daily coordination and review meetings with the client.
+* Submit daily progress reports and maintenance status.
+* Coordinate shutdown schedules and emergency maintenance activities.
+* Resolve site issues promptly to minimize equipment downtime.
+
+
+ 6\\. Documentation \\& Reporting
+ * Prepare:
+* Daily Progress Reports (DPR)
+* Shift reports
+* Equipment maintenance history
+* Breakdown reports
+* Spare parts consumption reports
+* Preventive maintenance schedules
+* Maintain work permit and safety records.
+
+
+ 7\\. Resource \\& Inventory Management
+ * Monitor spare parts inventory.
+* Raise material indents and follow up for procurement.
+* Ensure proper utilization of tools and consumables.
+
+
+ 8\\. Quality Assurance
+ * Ensure maintenance work complies with engineering standards and OEM recommendations.
+* Inspect completed work before equipment commissioning.
+* Implement continuous improvement initiatives to enhance equipment reliability.
+
+
+
+  
+
+
+
+
+
+ Qualification.
+ 
+
+
+ Educational Qualification
+ * **Diploma in Mechanical Engineering** 
+ (Minimum)
+* **B.E./B.Tech in Mechanical Engineering** 
+ (Preferred)
+
+
+ Experience
+ * **Diploma:** 
+ 8–12 years of experience in Coal Handling Plants, Power Plants, Steel Plants, Cement Plants, or Bulk Material Handling Systems.
+* **B.E./B.Tech:** 
+ 5–8 years of relevant experience.
+* Minimum 3 years in a supervisory or site leadership role.
+
+
+
+  
+
+
+
+
+
+ Technical Knowledge
+ 
+
+
+
+ The candidate should have practical knowledge of:
+ 
+
+
+* Coal Handling Plant operations
+* Conveyor maintenance
+* Crusher maintenance
+* Belt alignment and splicing
+* Gearboxes and drives
+* Hydraulics and pneumatics
+* Lubrication systems
+* Material handling equipment
+* Preventive and predictive maintenance
+* Shutdown planning
+* Root Cause Analysis (RCA)
+
+
+
+  
+
+
+
+
+
+ Required Skill
+ 
+
+
+ Technical Skills
+ * Maintenance planning
+* Equipment troubleshooting
+* Reading mechanical drawings
+* Shutdown management
+* Work scheduling
+* Resource planning
+
+
+ Soft Skills
+ * Leadership
+* Team management
+* Communication
+* Decision\\-making
+* Problem\\-solving
+* Client handling
+* Time management
+
+
+
+  
+
+
+
+
+
+ Safety Knowledge
+ 
+
+
+
+ Must have knowledge of:
+ 
+
+
+* Permit to Work (PTW)
+* Lockout\\-Tagout (LOTO)
+* Confined Space Entry
+* Working at Height
+* Hot Work Procedures
+* Material Handling Safety
+* Incident Investigation
+* Risk Assessment
+* OSHA/Factory Act or applicable industrial safety standards
+
+
+
+  
+
+
+
+
+
+ KPI (Key Performance Indicator)
+ 
+
+
+
+  
+
+
+
+
+* Equipment availability (%)
+* Breakdown response time
+* Preventive maintenance compliance (%)
+* Zero Lost Time Injuries (LTI)
+* Schedule adherence
+* Manpower productivity
+* Shutdown completion within planned duration
+* Client satisfaction
+* Cost control
+* Zero repeat failures","Engineering Services","https://in.linkedin.com/company/ad-libgroup","https://media.licdn.com/dms/image/v2/D4D0BAQE-Z95Inbl-JA/company-logo_100_100/company-logo_100_100/0/1680784314246/ad_libgroup_logo?e=2147483647&v=beta&t=aS3MmL6eEsC7cYZEhhaf0hIvUvr0E9keA0Yl8b4tOac","","","","","","","","","","",""
+"li-4445596804","linkedin","https://www.linkedin.com/jobs/view/4445596804","","Marketing Associate |2Yrs|","Skillinabox","Pune City, Maharashtra, India","","fulltime","","","","","",False,"entry level","Marketing and Sales","","","**Warning** 
+ \\- We’re a lean, ambitious, and fast\\-moving team of 100\\+ creators building things that actually matter. We don’t just market products — we build communities and tell stories worth sharing. If ownership, creativity, and real\\-world impact excite you — you’ll love it here. If you’re looking for a comfortable 9–6 with scheduled posts and static strategies, this might not be your stage. We’re not glorifying hustle — but we are building something big, and that needs people who show up with intent. We’ve got your back — if you’ve got ours. 
+ 
+
+
+
+  
+
+
 
 
 
@@ -959,38 +1548,47 @@
 
 
 
- EnCharge AI is seeking a highly skilled and experienced AI Compiler Engineer to spearhead the efforts in developing and optimizing graph compilers tailored to cutting\\-edge AI and ML workloads. You will collaborate with hardware architects, and AI researchers to enhance performance, optimize computation graphs, and enable efficient model deployment on EnCharge’s Inference Accelerators.
+ We are looking for a creative and execution\\-oriented
+ **Marketing Associate** 
+ who is passionate about building impactful marketing campaigns and driving business growth. In this role, you will support the planning, execution, and optimization of marketing initiatives, create compelling content, analyze campaign performance, and collaborate with cross\\-functional teams to enhance brand visibility and generate quality leads. If you thrive in a fast\\-paced startup environment, enjoy experimenting with new ideas, and are eager to make a measurable impact, we'd love to hear from you.
  
 
 
 
-**Responsibilities** 
+  
 
 
 
-* Architect, design, and implement optimizations for AI model execution on graph compilers to improve performance, reduce latency, and maximize hardware utilization.
-* Work closely with ML researchers, hardware engineers, and software developers to design and deploy AI models, understanding and addressing hardware\\-specific challenges.
-* Work on performance optimizations for neural network models, such as layer fusion, operator fusion, and graph\\-level transformations.
-* Develop compiler optimizations and passes that convert high\\-level AI models (e.g., from TensorFlow, PyTorch) into intermediate representations (IR).
-* Implement parsing, semantic analysis, and IR generation for deep learning frameworks.
-* Research and integrate the latest advancements in compiler design, ML model optimizations, and hardware acceleration into graph compilers.
-* Provide leadership, mentorship, and technical guidance to a team of engineers focused on graph compiler optimizations.
+
+
+**You should apply if you** 
+ \\- 
+ 
 
 
 
-**Qualifications** 
+ • Love education \\& skilling and know the difference between the two. 
+ 
 
 
 
-* Bachelor’s or Master’s degree in Computer Science, Electrical Engineering, or related field (Ph.D. preferred).
-* 7\\-13 years in compiler development, with a strong focus on AI or ML graph compilers.
-* Proficiency in AI graph compiler frameworks (e.g., MLIR, Torch\\-FX)
-* Solid background in hardware architectures (e.g., GPUs, TPUs, ASICs) and optimization techniques such as fusion, quantization, and tiling.
-* Familiarity with neural networks operators and code generation.
-* Strong understanding of intermediate representations, code parsing, and semantic analysis in compiler design.
-* Proficiency in C\\+\\+, Python, or other programming languages commonly used in compiler development.
-* Open\\-source contributions to AI software frameworks and libraries is a plus
-* Demonstrated experience leading and mentoring engineering teams with successful project delivery
+ • Are inclined towards our mission (Do have a look at our website) 
+ 
+
+
+
+ • Want to work on empowering lives and having a thirst to grow 
+ 
+
+
+
+ • Accept challenges and align your goals with your firm 
+ 
+
+
+
+ • Have a ""Never Give In"" attitude • Love developing relationships with people 
+ 
 
 
 
@@ -1000,545 +1598,312 @@
 
 
 
-**Contact:** 
+**Key Responsibilities** 
 
 
 
-
-**Uday** 
-
-
-
-
-**Mulya Technologies** 
-
+* Plan and execute integrated marketing campaigns to drive brand awareness, engagement, and lead generation.
+* Manage social media platforms by creating, scheduling, and optimizing content across Instagram, LinkedIn, and YouTube.
+* Execute and monitor Meta Ads and Google Ads campaigns to improve reach, traffic, and conversions. Develop content calendars and create marketing assets, including posts, reels, videos, and email campaigns.
+* Track campaign performance, analyse key metrics, and provide actionable insights to improve ROI. Collaborate with teams to execute marketing initiatives effectively.
+* Organize and support offline marketing activities, including product launches, events, and brand activations.
+* Stay updated with industry trends, competitor activities, and AI tools to continuously enhance marketing strategies and processes.
 
 
-
-**muday\\_bhaskar@yahoo.com** 
-
-
-
-
-**""Mining The Knowledge Community""**","Semiconductor Manufacturing, Computer Hardware Manufacturing, and Software Development","https://in.linkedin.com/company/mulya-technologies","https://media.licdn.com/dms/image/v2/C510BAQEZIONblRZJWA/company-logo_100_100/company-logo_100_100/0/1631392513660?e=2147483647&v=beta&t=8mWHOWlzKAVMN032tCDV4YwTnCWr-w77ab1tl6I4QPw","","","","","","","","","","",""
-"li-4447868614","linkedin","https://www.linkedin.com/jobs/view/4447868614","","Automation Tester (C# .Net)","Numerator","Vadodara, Gujarat, India","","fulltime","","","","","",False,"mid-senior level","Quality Assurance","","","**We’re reinventing the market research industry. Let’s reinvent it together.**
- At Numerator, we believe tomorrow’s success starts with today’s market intelligence. We empower the world’s leading brands and retailers with unmatched insights into consumer behavior and the influencers that drive it.
-   
 
   
 
-**Role Overview**
- We are looking for an
- **Automation Tester with a strong interest in the Microsoft .NET** 
- ecosystem to design, build, and maintain automated end\\-to\\-end (E2E) test suites for our backend services and APIs. The role requires strong attention to detail, solid problem\\-solving capability, and good software engineering fundamentals applied to test automation.
-   
+
+
+
+
+**Who are we looking for?** 
+
+
+
+* 1–2 years of experience in Marketing, Digital Marketing, Performance Marketing, or a related field. Freshers with exceptional internships and a strong learning mindset may also be considered.
+* A creative and execution\\-driven individual with a passion for building impactful marketing campaigns.
+* Hands\\-on experience in planning, executing, and optimizing digital marketing campaigns across various channels.
+* Proactive, adaptable, and eager to learn in a fast\\-paced startup environment with a strong ownership mindset.
+* Ambitious to grow, experiment with new ideas, and contribute to building a high\\-growth brand.
+
+
 
   
 
- The role will expose you to API and service\\-level testing, behavior\\-driven development (BDD), cloud infrastructure, CI/CD pipelines, and owning the quality and reliability of software across distributed systems at scale.
-   
+
+
+
+
+**Why Us?** 
+
+
+
+
+ • We are one of a kind vernacular skilling platform disrupting the skilling landscape 
+ 
+
+
+
+ • Skills \\>\\> Education is a notion we are spreading through hands on skilling 
+ 
+
+
+
+ • Backed by leading angels in the industry as well as the government 
+ 
+
+
+
+ • With founders and the board having a combined experience of 100\\+ years in skilling \\- we definitely know what we are doing 
+ 
+
+
+
+ • We believe people \\>\\> product and would love to have you onboard to help scale this ship and make a meaningful impact 
+ 
+
+
+
+ • Amazing growing team! 
+ 
+
+
+
+ • We are growing 100% Month over month! 
+ 
+
+
+
+ • ESOPs for the core team 
+ 
+
+
+
+ • We are solving for Bharat \\& the world! 
+ 
+
+
 
   
 
-**Key Responsibilities**
-* Design, develop, and maintain automated E2E tests using C\\# / .NET and NUnit
-* Write behavior\\-driven test scenarios using Reqnroll / SpecFlow (Gherkin) and shared test helpers
-* Build and maintain automated REST API / Web API tests, validating status codes, payloads, and security headers
-* Write clean, maintainable, and reusable test code following engineering best practices
-* Investigate test failures, perform root cause analysis, and raise clear, reproducible defect reports
-* Integrate and run automated tests within CI/CD pipelines and report on results
-* Collaborate with backend engineers, frontend engineers, and product managers to define acceptance criteria and test coverage
-* Improve test reliability, stability, execution time, and reporting/observability
-* Document test approaches, coverage, and engineering decisions
 
 
-**What You'll Bring to Numerator**
-* Experience: 3 to 5 years
-* Experience with C\\# / .NET
-* Understanding of automated testing principles and the testing pyramid (unit, integration, E2E)
-* Familiarity with a unit/test framework such as NUnit, xUnit, or MSTest
-* Solid understanding of REST principles and how to test Web APIs
-* Good problem\\-solving and debugging skills
-* Understanding of software engineering fundamentals and clean code practices
-* Experience working with relational databases and writing SQL queries to set up and verify test data
-* Experience with Git and modern development workflows
-* Strong communication and collaboration skills
 
 
-**Good to Have**
-* Experience with BDD frameworks (Reqnroll / SpecFlow / Cucumber) and Gherkin
-* Experience with API testing tools (Postman, REST clients, or code\\-based HTTP clients)
-* Experience with test reporting tools (e.g. ExtentReports)
-* Experience with Microsoft Azure
-* Knowledge of CI/CD tooling and DevOps practices
-* Experience testing microservices\\-based architectures
-* Exposure to UI automation (Selenium, Appium, Playwright, or Cypress)
+**Who we are not looking for \\-** 
+  
+ 
 
 
-**Preferred Experience**
-* Experience working in agile delivery teams
-* Exposure to cloud\\-native application development
+
+ • Anyone looking for a part\\-time stint 
+ 
 
 
-**Our Technology Stack**
-* .NET / C\\#
-* Angular
-* REST APIs / Web APIs
-* SQL Server
-* Azure
-* Terraform
-* Azure DevOps
+
+ • If education and skilling don't spark your curiosity \\& interest 
+ 
 
 
- If you have strong problem\\-solving skills, a keen eye for quality, and a solid grasp of object\\-oriented programming concepts, we encourage you to apply even if you do not have experience with one or more of the technologies. We are looking for people who have strong software engineering fundamentals and the ability to learn.","IT Services and IT Consulting, Market Research, and Information Services","https://www.linkedin.com/company/numerator","https://media.licdn.com/dms/image/v2/D560BAQHf9odJ3AuR6Q/company-logo_100_100/B56Z8d9GVNKgAI-/0/1782913984186/numerator_logo?e=2147483647&v=beta&t=twDtL22YNoA0MDht7j9RixtGvD2RpyPcm2r0AJYBt0I","","","","","","","","","","",""
-"li-4447862633","linkedin","https://www.linkedin.com/jobs/view/4447862633","","Full Stack Developer","Olik Global","Telangana, India","","fulltime","","","","","",False,"mid-senior level","Other","","","**About The Role**
- Help us build India's next\\-generation payment gateway. You'll work alongside product, design, and engineering on the scalable, secure, high\\-performance infrastructure that will move money across 75 nations — both web frontend and backend services.
-   
+
+ • Impact creation is something you would not want to work for 
+ 
+
+
+
+ • Not willing to call the team at 2am when a crazy eccentric idea crosses your head \\- Yes we want you to be supremely proactive 
+ 
+
+
 
   
 
- Note: Candidates currently based in Mumbai, Bengaluru, Hyderabad, or other cities who are originally from Delhi/Noida and open to relocating are also welcome to apply.
-   
+
+
+
+
+**Comp \\& Benefits** 
+
+
+
+
+ • ESOPs (Stock Options) \\+ ₹3–4\\.5 LPA (based on experience) 
+ 
+
+
+
+ • Fast\\-track appraisals (4–10 months) — we reward impact, not time 
+ 
+
+
+
+ • Opportunity to be part of the core team 
+ 
+
+
+
+ • Work directly with founders \\& decision\\-makers 
+ 
+
+
+
+ • Build and lead your own accessories design vertical as you grow","E-Learning Providers","https://in.linkedin.com/company/skillinabox","https://media.licdn.com/dms/image/v2/C4D0BAQFNQHQlYwuKqA/company-logo_100_100/company-logo_100_100/0/1651645226018/skillinabox_logo?e=2147483647&v=beta&t=9yxvS-XRqyHOnUFBtsMn7J6Me3K-hyLbo6-MBO3pS-M","","","","","","","","","","",""
+"li-4447483078","linkedin","https://www.linkedin.com/jobs/view/4447483078","","Graphic Designer/ DTP Operator","Vardhman Books International Pvt. Ltd - India","Meerut, Uttar Pradesh, India","","fulltime","","","","","",True,"entry level","Design, Art/Creative, and Information Technology","","rnsvardhman@gmail.com","\\#hiring
+ 
+
+
+
+**Creative Minds Wanted! Join Our Growing Design Team in Meerut.** 
+
+
+
+
+ If you're passionate about design, typography, publishing, and creating products that people love, we'd love to hear from you!
+ 
+
+
+
+ We're expanding our creative team and are hiring for the following
+ **full\\-time, in\\-house** 
+ positions at our
+ **Meerut office** 
+ .
+ 
+
+
 
   
 
-**What You'll Do**
-* Design, develop, and maintain frontend applications using React.js and Next.js
-* Build and optimize backend services using Node.js, NestJS, Express, and TypeScript
-* Design and manage relational and non\\-relational database schemas
-* Develop and consume RESTful APIs
-* Write clean, testable, well\\-documented code with adequate test coverage
-* Work with Docker for containerized application deployment
-* Implement and maintain CI/CD pipelines for automated testing and deployment
-* Implement security best practices and data protection measures
-* Collaborate with UI/UX designers to deliver responsive, cross\\-platform experiences
-* Participate in code reviews, architectural discussions, and technical documentation
 
 
-**What We're Looking For**
-* 3\\+ years of professional full\\-stack web development experience
-* Strong JavaScript and TypeScript proficiency
-* Hands\\-on React.js and Next.js experience
-* Solid backend experience with Node.js, NestJS, or Express
-* Working knowledge of PostgreSQL or MongoDB
-* Docker experience
-* Familiarity with AWS cloud services
-* Understanding of RESTful API design principles
-* Experience with Git and CI/CD workflows
-* Strong problem\\-solving skills and attention to detail
-* Good verbal and written communication
 
 
-**Required Stack**
- JavaScript
-   
+**Senior Graphic Designer – Notebooks \\& Stationery** 
 
-  
 
- TypeScript
-   
 
-  
 
- React.js
-   
+ Bring ideas to life by designing original notebook covers, stationery collections, patterns, typography, and interior layouts that stand out in the market.
+ 
 
-  
 
- Next.js
-   
 
-  
+**We're looking for someone with:** 
 
- Node.js
-   
 
-  
 
- NestJS
-   
+* 4–5 years of experience in print \\& stationery design
+* A strong creative portfolio
+* Expertise in Adobe InDesign, Illustrator, Photoshop, and CorelDRAW
+* Excellent understanding of typography, colour theory, and current design trends
 
-  
 
- Express
-   
 
-  
+**Qualification:** 
+ Diploma/Degree (or equivalent) in Graphic Design, Printing \\& Packaging.
+ 
 
- PostgreSQL
-   
 
-  
 
- MongoDB
-   
+**\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-** 
 
-  
 
- Docker
-   
+
+
+**DTP Operators – School Books (2 Positions)** 
+
+
+
+
+ If you have a passion for precision and publishing, we'd love to have you on our team.
+ 
+
+
+
+**Responsibilities include:** 
+
+
+
+* Typesetting and formatting school books and publications
+* Maintaining consistency in layouts and typography
+* Working closely with editors and designers to deliver quality work on time
+
+
+
+**We're looking for:** 
+
+
+
+* 4–5 years of experience in typesetting, preferably in publishing
+* Strong command of Adobe InDesign, Illustrator, Photoshop, and CorelDRAW
+* Knowledge of publishing standards and typographic rules
+
+
+
+**Qualification:** 
+ Diploma/Degree (or equivalent) in Graphic Design.
+ 
+
+
 
   
 
- AWS
-   
+
+
+
+
+**Location:** 
+ Meerut (Uttar Pradesh)
+ 
+
+
+
+**Job Type:** 
+ Full\\-time \\| In\\-house
+ 
+
+
+
+**Please Note:** 
+
+
+
+
+ ❌ No Work From Home (WFH)
+ 
+
+
+
+ ❌ No Freelance opportunities
+ 
+
+
+
+ If you believe your creativity and attention to detail can make a difference, we'd love to connect with you.
+ 
+
+
+
+**To Apply:** 
+ Please send your
+ **resume and portfolio** 
+ via DM or email at
+ **rnsvardhman@gmail.com** 
+
+
+
+
+ Know someone who would be a great fit?
+ **Tag them in the comments or share this post with your network.** 
+
+
+
 
   
 
- Git
-   
 
-  
 
- CI/CD
-   
 
-  
 
-**Nice to have**
-* Go, Rust, or Python experience
-* Kubernetes and Terraform knowledge
-* Message\\-queue exposure — Kafka, RabbitMQ, Redis
-* GraphQL familiarity
-* Fintech or payments domain experience
-* Microservices architecture understanding
-* AWS infrastructure management experience","IT Services and IT Consulting","https://www.linkedin.com/company/olik-jobs","https://media.licdn.com/dms/image/v2/D560BAQF1u9honQkc4g/company-logo_100_100/B56Z5x4vRyIIAM-/0/1780027160134/olik_jobs_logo?e=2147483647&v=beta&t=YOHuS3Hu7A_IyyGSr3_tAU3yUgxSr02p3s-rwDVegFE","","","","","","","","","","",""
-"li-4447871546","linkedin","https://www.linkedin.com/jobs/view/4447871546","","Full Stack Developer","Olik Global","Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Other","","","**About The Role**
- Help us build India's next\\-generation payment gateway. You'll work alongside product, design, and engineering on the scalable, secure, high\\-performance infrastructure that will move money across 75 nations — both web frontend and backend services.
-   
-
-  
-
- Note: Candidates currently based in Mumbai, Bengaluru, Hyderabad, or other cities who are originally from Delhi/Noida and open to relocating are also welcome to apply.
-   
-
-  
-
-**What You'll Do**
-* Design, develop, and maintain frontend applications using React.js and Next.js
-* Build and optimize backend services using Node.js, NestJS, Express, and TypeScript
-* Design and manage relational and non\\-relational database schemas
-* Develop and consume RESTful APIs
-* Write clean, testable, well\\-documented code with adequate test coverage
-* Work with Docker for containerized application deployment
-* Implement and maintain CI/CD pipelines for automated testing and deployment
-* Implement security best practices and data protection measures
-* Collaborate with UI/UX designers to deliver responsive, cross\\-platform experiences
-* Participate in code reviews, architectural discussions, and technical documentation
-
-
-**What We're Looking For**
-* 3\\+ years of professional full\\-stack web development experience
-* Strong JavaScript and TypeScript proficiency
-* Hands\\-on React.js and Next.js experience
-* Solid backend experience with Node.js, NestJS, or Express
-* Working knowledge of PostgreSQL or MongoDB
-* Docker experience
-* Familiarity with AWS cloud services
-* Understanding of RESTful API design principles
-* Experience with Git and CI/CD workflows
-* Strong problem\\-solving skills and attention to detail
-* Good verbal and written communication
-
-
-**Required Stack**
- JavaScript
-   
-
-  
-
- TypeScript
-   
-
-  
-
- React.js
-   
-
-  
-
- Next.js
-   
-
-  
-
- Node.js
-   
-
-  
-
- NestJS
-   
-
-  
-
- Express
-   
-
-  
-
- PostgreSQL
-   
-
-  
-
- MongoDB
-   
-
-  
-
- Docker
-   
-
-  
-
- AWS
-   
-
-  
-
- Git
-   
-
-  
-
- CI/CD
-   
-
-  
-
-**Nice to have**
-* Go, Rust, or Python experience
-* Kubernetes and Terraform knowledge
-* Message\\-queue exposure — Kafka, RabbitMQ, Redis
-* GraphQL familiarity
-* Fintech or payments domain experience
-* Microservices architecture understanding
-* AWS infrastructure management experience","IT Services and IT Consulting","https://www.linkedin.com/company/olik-jobs","https://media.licdn.com/dms/image/v2/D560BAQF1u9honQkc4g/company-logo_100_100/B56Z5x4vRyIIAM-/0/1780027160134/olik_jobs_logo?e=2147483647&v=beta&t=YOHuS3Hu7A_IyyGSr3_tAU3yUgxSr02p3s-rwDVegFE","","","","","","","","","","",""
-"li-4447868591","linkedin","https://www.linkedin.com/jobs/view/4447868591","","Full Stack Developer","Olik Global","Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Other","","","**About The Role**
- Help us build India's next\\-generation payment gateway. You'll work alongside product, design, and engineering on the scalable, secure, high\\-performance infrastructure that will move money across 75 nations — both web frontend and backend services.
-   
-
-  
-
- Note: Candidates currently based in Mumbai, Bengaluru, Hyderabad, or other cities who are originally from Delhi/Noida and open to relocating are also welcome to apply.
-   
-
-  
-
-**What You'll Do**
-* Design, develop, and maintain frontend applications using React.js and Next.js
-* Build and optimize backend services using Node.js, NestJS, Express, and TypeScript
-* Design and manage relational and non\\-relational database schemas
-* Develop and consume RESTful APIs
-* Write clean, testable, well\\-documented code with adequate test coverage
-* Work with Docker for containerized application deployment
-* Implement and maintain CI/CD pipelines for automated testing and deployment
-* Implement security best practices and data protection measures
-* Collaborate with UI/UX designers to deliver responsive, cross\\-platform experiences
-* Participate in code reviews, architectural discussions, and technical documentation
-
-
-**What We're Looking For**
-* 3\\+ years of professional full\\-stack web development experience
-* Strong JavaScript and TypeScript proficiency
-* Hands\\-on React.js and Next.js experience
-* Solid backend experience with Node.js, NestJS, or Express
-* Working knowledge of PostgreSQL or MongoDB
-* Docker experience
-* Familiarity with AWS cloud services
-* Understanding of RESTful API design principles
-* Experience with Git and CI/CD workflows
-* Strong problem\\-solving skills and attention to detail
-* Good verbal and written communication
-
-
-**Required Stack**
- JavaScript
-   
-
-  
-
- TypeScript
-   
-
-  
-
- React.js
-   
-
-  
-
- Next.js
-   
-
-  
-
- Node.js
-   
-
-  
-
- NestJS
-   
-
-  
-
- Express
-   
-
-  
-
- PostgreSQL
-   
-
-  
-
- MongoDB
-   
-
-  
-
- Docker
-   
-
-  
-
- AWS
-   
-
-  
-
- Git
-   
-
-  
-
- CI/CD
-   
-
-  
-
-**Nice to have**
-* Go, Rust, or Python experience
-* Kubernetes and Terraform knowledge
-* Message\\-queue exposure — Kafka, RabbitMQ, Redis
-* GraphQL familiarity
-* Fintech or payments domain experience
-* Microservices architecture understanding
-* AWS infrastructure management experience","IT Services and IT Consulting","https://www.linkedin.com/company/olik-jobs","https://media.licdn.com/dms/image/v2/D560BAQF1u9honQkc4g/company-logo_100_100/B56Z5x4vRyIIAM-/0/1780027160134/olik_jobs_logo?e=2147483647&v=beta&t=YOHuS3Hu7A_IyyGSr3_tAU3yUgxSr02p3s-rwDVegFE","","","","","","","","","","",""
-"li-4447869529","linkedin","https://www.linkedin.com/jobs/view/4447869529","","Flutter Developer","Olik Global","Uttar Pradesh, India","","fulltime","","","","","",True,"entry level","Other","","","**What You'll Do**
-* Architect and build the app from the ground up on iOS and Android using Flutter and Dart
-* Own it end\\-to\\-end — architecture, code, releases, performance, and quality
-* Design for scale with a clean, modular, layered architecture
-* Optimize for performance, startup time, app size, and memory
-* Integrate REST APIs, push notifications, analytics, and crash reporting
-* Build automated tests — unit, widget, and integration — as part of how you ship
-* Instrument for observability (crash\\-free rate, ANR, performance) and act on it
-* Own releases: CI/CD, signing, staged rollouts, feature flags, and monitoring
-* Partner with backend on API contracts, and with design on polish
-* Apply fintech\\-grade security — secure storage, cert pinning, safe token handling
-
-
-**What We're Looking For**
-* 2\\+ years building production mobile apps, strong in Flutter and Dart
-* At least one app live on the Play Store and/or App Store
-* Solid CS fundamentals — data structures, algorithms, design patterns
-* Degree in CS or related field, or equivalent practical experience
-* Deep grasp of Flutter internals (widget tree, rendering, profiling with DevTools)
-* Strong Dart — async/await, Futures, Streams, isolates, null safety
-* Hands\\-on with structured state management (Bloc, Riverpod, or Provider)
-* Comfortable with clean/layered architecture and dependency injection
-* Experience with REST networking (Dio, Retrofit), auth, caching, error handling
-* Familiar with native iOS/Android builds, signing, and platform channels
-* Strong testing instincts and clean, disciplined Git workflow
-
-
-**Nice to have**
-* Fintech, payments, banking, or wallet experience (PPI, cards, UPI)
-* Mobile CI/CD (Fastlane, GitHub Actions, Codemagic, Bitrise)
-* Firebase (Crashlytics, Analytics, Remote Config, Push)
-* Offline\\-first design and local storage (Hive, Drift, SQLite)
-* Biometric auth, A/B testing, feature\\-flagged rollouts
-* A feel for motion and craft (Rive, Lottie, custom painters)
-* Accessibility and internationalization by default
-* Early/founding mobile engineer at a startup","IT Services and IT Consulting","https://www.linkedin.com/company/olik-jobs","https://media.licdn.com/dms/image/v2/D560BAQF1u9honQkc4g/company-logo_100_100/B56Z5x4vRyIIAM-/0/1780027160134/olik_jobs_logo?e=2147483647&v=beta&t=YOHuS3Hu7A_IyyGSr3_tAU3yUgxSr02p3s-rwDVegFE","","","","","","","","","","",""
-"li-4447854855","linkedin","https://www.linkedin.com/jobs/view/4447854855","","DevOps Engineer","Olik Global","Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Other","","","**About The Role**
- Own the platform that runs India's next\\-generation payment infrastructure. You'll architect, automate, and harden the rails — from CI/CD pipelines to production observability — so engineers can ship safely and the system stays up while it scales across 75 nations.
-   
-
-  
-
-**What You'll Do**
-* Design, build, and maintain CI/CD pipelines for fast, reliable releases
-* Provision and manage cloud infrastructure on AWS using Terraform or similar IaC tools
-* Run and scale containerized workloads on Kubernetes — clusters, networking, secrets, autoscaling
-* Build observability into everything: metrics, logs, traces, and alerting that catches issues before customers do
-* Lead incident response, run blameless post\\-mortems, and turn lessons into automation
-* Harden security across the platform — IAM, network policies, secrets management, vulnerability scanning, PCI\\-aligned controls
-* Partner with engineering on cost, performance, and reliability budgets
-
-
-**What We're Looking For**
-* 4\\+ years of hands\\-on DevOps, SRE, or platform engineering experience
-* Deep AWS knowledge — VPC, EC2, ECS/EKS, RDS, S3, IAM, CloudWatch
-* Strong infrastructure\\-as\\-code skills (Terraform, CloudFormation, or Pulumi)
-* Production Kubernetes experience — Helm, operators, networking, scaling
-* CI/CD tooling proficiency (GitHub Actions, GitLab CI, Jenkins, ArgoCD)
-* Comfortable scripting in Bash, Python, or Go
-* Solid Linux fundamentals and networking knowledge
-* Bias toward automation, documentation, and observability
-
-
-**Required Stack**
- AWS
-   
-
-  
-
- Terraform
-   
-
-  
-
- Kubernetes
-   
-
-  
-
- Docker
-   
-
-  
-
- CI/CD
-   
-
-  
-
- Linux
-   
-
-  
-
- Bash / Python
-   
-
-  
-
- Prometheus / Grafana
-   
-
-  
-
- Git
-   
-
-  
-
-**Nice to have**
-* Fintech, payments, or PCI\\-DSS environment experience
-* Service\\-mesh exposure — Istio, Linkerd
-* Database operations — PostgreSQL, MongoDB, Redis at scale
-* Chaos engineering or load\\-testing experience
-* Experience running multi\\-region or multi\\-cloud deployments","IT Services and IT Consulting","https://www.linkedin.com/company/olik-jobs","https://media.licdn.com/dms/image/v2/D560BAQF1u9honQkc4g/company-logo_100_100/B56Z5x4vRyIIAM-/0/1780027160134/olik_jobs_logo?e=2147483647&v=beta&t=YOHuS3Hu7A_IyyGSr3_tAU3yUgxSr02p3s-rwDVegFE","","","","","","","","","","",""
+ \\#Hiring \\#GraphicDesigner \\#DTPOperator \\#Publishing \\#PrintDesign \\#StationeryDesign","Book and Periodical Publishing","https://in.linkedin.com/company/vardhman-books-international-pvt-ltd---india","https://static.licdn.com/aero-v1/sc/h/aajlclc14rr2scznz5qm2rj9u","","","","","","","","","","",""
