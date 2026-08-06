@@ -1,5 +1,36 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4449155021","linkedin","https://www.linkedin.com/jobs/view/4449155021","","Software Engineer","Hola World","Kochi, Kerala, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","The ideal candidate will be responsible for developing high\\-quality applications. They will also be responsible for designing and implementing testable and scalable code.
+"li-4449921622","linkedin","https://www.linkedin.com/jobs/view/4449921622","","SDE 1 Intern (Java and AWS)","Zexovo","Hyderabad, Telangana, India","","internship","","","","","",True,"internship","Engineering and Information Technology","","","**Software Development Engineer 1 (Java and AWS)** 
+
+
+
+
+**Internship** 
+
+
+
+
+**Duration: 3 or 6 months** 
+
+
+
+
+**Remote** 
+
+
+
+
+  
+
+
+
+
+
+**About the role** 
+
+
+
+
+ We are a small founding team building a cloud\\-based SaaS platform and looking for a motivated SDE 1 intern to learn and contribute alongside our senior engineer. This is a hands\\-on internship. 
  
 
 
@@ -10,15 +41,17 @@
 
 
 
-**Responsibilities** 
+**What you will do?** 
 
 
 
-* Develop and maintain web applications
-* Build internal business systems
-* Integrate APIs and automation tools
-* Troubleshoot technical issues
-* Collaborate with cross\\-functional teams
+* Build and test REST API endpoints using Java and Spring Boot under senior engineer guidance.
+* Write SQL queries and work with relational databases including creating tables, writing joins, and understanding indexes.
+* Write unit tests and integration tests to ensure code quality.
+* Help with API documentation using Swagger and OpenAPI.
+* Fix bugs, investigate issues, and work through pull request reviews.
+* Learn AWS fundamentals by working alongside the senior engineer on real infrastructure.
+* Contribute to internal tools, scripts, and automation tasks.
 
 
 
@@ -28,5062 +61,890 @@
 
 
 
-**Qualifications** 
+**Technical skills required** 
 
 
 
-* Bachelor's degree or equivalent experience in Computer Science or related field
-* Development experience with programming languages
-* SQL database or relational database skills
-* **0 – 3 years** 
- of professional experience preferred","Higher Education","https://au.linkedin.com/company/hola-world","https://media.licdn.com/dms/image/v2/D560BAQHO8NmP9-nVsQ/company-logo_100_100/B56ZW6q63GGUAc-/0/1742593569081/hola_world_logo?e=2147483647&v=beta&t=sjI2bNLuglKOS3G8-nATHpNIpUNOPs5Wv6C9rc9NoGE","","","","","","","","","","",""
-"li-4413078654","linkedin","https://www.linkedin.com/jobs/view/4413078654","","Embedded Software Engineer","Signify","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Research and Engineering","","","**About Signify**
- Through bold discovery and cutting\\-edge innovation, we lead an industry that is vital for the future of our planet: lighting. Through our leadership in connected lighting and the Internet of Things, we're breaking new ground in data analytics, AI, and smart solutions for homes, offices, cities, and beyond.
+* Java fundamentals. Strong understanding of object\\-oriented programming, collections, exception handling, and core Java concepts. Not just theory. You have written Java code that actually runs.
+* Data structures and algorithms. You are comfortable with arrays, linked lists, stacks, queues, trees, hashmaps, and graphs. You understand Big O notation and can reason about the efficiency of your code. You practice on LeetCode, HackerRank, or similar platforms regularly.
+* Basic system design awareness. You understand what a server is, what a database is, what an API is, and how they connect. You do not need to be an expert but you should be curious about how systems are built and why certain design choices are made.
+* SQL basics. You can write SELECT queries with JOINs, WHERE clauses, GROUP BY, and ORDER BY without looking them up.
+* REST API understanding. You know what HTTP is, what GET POST PUT DELETE mean, what a status code is, and why APIs exist.
+* Git basics. Commit, push, pull, branch, merge. You have used Git on a real project, not just in a tutorial.
+* Problem solving. You can break a problem into smaller parts, think through edge cases, and write a working solution without needing every requirement spelled out perfectly
+
+
+
+  
+
+
+
+
+
+**Nice to have** 
+
+
+
+* Spring Boot exposure, even a small personal project.
+* Basic AWS or any cloud platform exposure.
+* A GitHub profile with projects you have built yourself, even small ones.
+* Active LeetCode or HackerRank profile with solved problems.
+* Participated in a hackathon, coding competition, or open source contribution.
+
+
+
+  
+
+
+
+
+
+**Availability** 
+
+
+
+
+ We are looking for someone who can join immediately or within one week of offer acceptance. Please apply only if you are available to start within this timeframe.","Technology, Information and Internet","https://in.linkedin.com/company/zexovo","https://media.licdn.com/dms/image/v2/D560BAQFNmMXB7QCeIw/img-crop_100/B56ZjG4C1XHkAM-/0/1755683238616?e=2147483647&v=beta&t=tSzM3iUxFkGexTHiCi2VGaF9mA9rDAslOPsghjN421Q","","","","","","","","","","",""
+"li-4449949073","linkedin","https://www.linkedin.com/jobs/view/4449949073","","Software Development Engineer I, Amazon Payments","Amazon","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Information Technology, Consulting, and Engineering","","","**Description**
+ It's still Day 1 at Amazon IN Payments, and we're at the beginning of building out an entire suite of rendering technologies that can standardize the way UX components interact and their look and feel on Amazon Pay pages. PayUI is a greenfield initiative in Amazon Pay org, offering a rare opportunity to build standardized UX components that have to be reused across all Amazon Pay pages.
    
 
   
 
- At Signify, you can shape tomorrow by building on our incredible 125\\+ year legacy while working toward even bolder sustainability goals. Our culture of continuous learning, creativity, and commitment to diversity and inclusion empowers you to grow your skills and career.
+ You will be part of a new team building a large scale tier\\-1 rendering platform that supports as the skeleton for all the payment pages to depend, host and render on, in Amazon Pay. This new system will be utilized by thousands of customers every day. You and a team of developers will work through all phases of the project life\\-cycle, including reviewing requirements, designing services that lay the foundation for the new technology platform, building from the basic blocks of the new UX components and their interfaces, developing and testing code, and delivering seamless implementations for our customers. You will help define, design, prototype, and build these experiences. To achieve this, you will collaborate closely with product managers, UX designers, Software developers and multiple client teams.
    
 
   
 
- Join us, and together, we’ll transform our industry, making a lasting difference for brighter lives and a better world.
+ Our team is looking for a seasoned engineer to design and build customer experiences that span multiple customer use cases in Amazon Pay space. The ability to work within a creative and positive team environment are key to the role.
    
 
   
 
-**Job Summary**
-**More about the role**
-* Analyzing \\& understanding assigned requirements from an end user perspective and translating them into software requirements.
-* Design and develop embedded firmware for wireless sensor devices integrated into lighting luminaires.
-* Implement embedded lighting controllers according to standards such as DALI and PWM.
-* Integrate wireless communication protocols (e.g., Zigbee, BLE) to ensure reliable data transfer to the IoT cloud.
-* Participate in hardware bring\\-up, validation, and troubleshooting.
-* Implementation of key modules and can develop quick working prototypes (when necessary)
-* Coaching junior team members in software engineering aspects.
-* Identifying and resolving technical risks
-
-
-**More About You**
- While we value and appreciate all applicants, we believe that the following experience and skills will be needed to shine brightly at this job opening:
-   
-
-  
-
-* Hands\\-on experience of 12\\+ years in embedded software development on MIPS/ARM devices
-* Hands\\-on experience in programming language: C is must and C\\+\\+ is preferred
-* Hands on experience in embedded ROTS
-* Experience working with ARM Cortex based microcontrollers and SoCs.
-* Knowledge of wireless protocols (e.g., Zigbee, BLE or Wi\\-Fi) and relevant stacks.
-* Working experience with Silicon Labs SoCs, Simplicity Studio and GSDK radio stack is a plus.
-* Ability to work with hardware schematics, debugging tools, and lab instrumentation.
-* Experience with IAR embedded workbench and compiler set is a plus.
-* Experienced in unit testing using NUnit
-* Repository management experience using GIT
-
-
-**Everything we’ll do for you**
- You can grow a lasting career here. We’ll encourage you, support you, and challenge you. We’ll help you learn and progress in a way that’s right for you, with coaching and mentoring along the way. We’ll listen to you too, because we see and value every one of our approximately 29,000 people.
-   
-
-  
-
- We believe that a diverse and inclusive workplace fosters creativity, innovation, and a full spectrum of bright ideas. With a global workforce representing 99 nationalities, we are dedicated to creating an inclusive environment where every voice is heard and valued, helping us all achieve more together.
-   
-
-  
-
-**Everything we’ll do for you**
- You can grow a lasting career here. We’ll encourage you, support you, and challenge you. We’ll help you learn and progress in a way that’s right for you, with coaching and mentoring along the way. We’ll listen to you too, because we see and value every one of our 27,000\\+ people. We believe that a diverse and inclusive workplace fosters creativity, innovation, and a full spectrum of bright ideas. With a global workforce present in 70\\+ countries, we are dedicated to creating an inclusive environment where every voice is heard and valued, helping us all achieve more together.
-   
-
-  
-
- Come join us, and together we can light up the future.","Appliances, Electrical, and Electronics Manufacturing","https://nl.linkedin.com/company/signifycompany","https://media.licdn.com/dms/image/v2/C4D0BAQEuCpzBXyjgxA/company-logo_100_100/company-logo_100_100/0/1631355538828/signifycompany_logo?e=2147483647&v=beta&t=GHSdd9Ftk6SQhoFuDQEse4tVzEluaLswnBzhiO93F1A","","","","","","","","","","",""
-"li-4445206111","linkedin","https://www.linkedin.com/jobs/view/4445206111","","Validation Engineer: HIL","Capgemini","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Quality Assurance","","","At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life\\-saving robots, our digital and software technology experts think outside the box as they provide unique R\\&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.
-   
-
-  
-
-**Job Description**
- Works in the area of Software Engineering, which encompasses the development, maintenance and optimization of software solutions/applications.
-   
-
-  
-
-* Applies scientific methods to analyse and solve software engineering problems.
-* He/she is responsible for the development and application of software engineering practice and knowledge, in research, design, development and maintenance.
-* His/her work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.
-* The software engineer builds skills and expertise of his/her software engineering discipline to reach standard software engineer skills expectations for the applicable role, as defined in Professional Communities.
-* The software engineer collaborates and acts as team player with other software engineers and stakeholders.
-
-
-**Job Description \\- Grade Specific**
- Has more than a year of relevant work experience. Solid understanding of programming concepts, software design and software development principles. Consistently works to direction with minimal supervision, producing accurate and reliable results. Individuals are expected to be able to work on a range of tasks and problems, demonstrating their ability to apply their skills and knowledge. Organises own time to deliver against tasks set by others with a mid term horizon. Works co\\-operatively with others to achieve team goals and has a direct and positive impact on project performance and make decisions based on their understanding of the situation, not just the rules.
-   
-
-  
-
- Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55\\-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end\\-to\\-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
-"li-4448064559","linkedin","https://www.linkedin.com/jobs/view/4448064559","","Software Engineer II","Mastercard","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","**Our Purpose**
-*Mastercard powers economies and empowers people in 200\\+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.*
-****Title And Summary****
- Software Engineer II
-   
-
-  
-
- Who is Mastercard?
-   
-
-  
-
- Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.
-   
-
-  
-
- Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.
-   
-
-  
-
-**Overview**
- The Mastercard Payment Networks team is looking for a talented Developer to drive our customer experience strategy forward by consistently innovating and problem\\-solving. Our solutions are built on the Digital Network Architecture, around Cloud Native principles and in a Scaled Agile Framework. The ideal candidate is passionate about the customer experience journey, highly motivated, intellectually curious, analytical, and possesses an entrepreneurial mindset.
-   
-
-  
-
- The Role
-   
-
-  
-
-* A talented Developer with adequate skills in delivering Object Oriented code of high quality.
-* Drive development in Java 8 and above using Object Oriented SOLID principles and patterns towards creating reusable and scalable microservices leveraging technologies such as Spring Boot Framework, Event Driven Architecture etc.
-* Develop in a CICD environment leveraging a Cloud Environment
-* Leverage the appropriate persistence mechanisms such as RDBMS, No SQL etc based on needs
-* Implement Coding Best Practices. Implement Code Quality gates as per the program norms.
-* Perform various Proofs\\-of\\-concept depending on the business needs
-* Coordinate with various groups in MasterCard to ensure success of the projects
-* Exhibit teamwork aligned completely with the Agile environment
-
-
-**All About You**
-* Passionate about technology, with strong Object\\-Oriented Programming Skills
-* Good knowledge of product development
-* Strong expertise in Java and Spring Boot. Experience working on Event Driven Architecture would be an added advantage.
-* Experience in Online / Real Time Systems development
-* Experience in CI and CD. Experience in Cloud based development is desirable
-* Strong Communicator
-* Quick grasping and learning abilities
-
-
- Corporate Security Responsibility
-   
-
-  
-
- Every Person Working For, Or On Behalf Of, Mastercard Is Responsible For Information Security. All Activities Involving Access To Mastercard Assets, Information, And Networks Comes With An Inherent Risk To The Organization And Therefore, It Is Expected That The Successful Candidate For This Position Must:
-   
-
-  
-
-* Abide by Mastercard’s security policies and practices.
-* Ensure the confidentiality and integrity of the information being accessed
-* Report any suspected information security violation or breach, and
-* Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.
-
-
-**Corporate Security Responsibility**
- All Activities Involving Access To Mastercard Assets, Information, And Networks Comes With An Inherent Risk To The Organization And, Therefore, It Is Expected That Every Person Working For, Or On Behalf Of, Mastercard Is Responsible For Information Security And Must:
-   
-
-  
-
-* Abide by Mastercard’s security policies and practices;
-* Ensure the confidentiality and integrity of the information being accessed;
-* Report any suspected information security violation or breach, and
-* Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.","Financial Services, IT Services and IT Consulting, and Technology, Information and Internet","https://www.linkedin.com/company/mastercard","https://media.licdn.com/dms/image/v2/C560BAQGOW4NIyYRRqQ/company-logo_100_100/company-logo_100_100/0/1631340300330?e=2147483647&v=beta&t=xq1ySX9pM18Xr0xQJaRgCbH1ap_xO8Yn0h21FM105Ls","","","","","","","","","","",""
-"li-4449320210","linkedin","https://www.linkedin.com/jobs/view/4449320210","","Senior Software Engineer, AI/ML, Search","Google","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Minimum qualifications:**
-* Bachelor’s degree or equivalent practical experience.
-* 5 years of experience with software development in one or more programming languages.
-* 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
-* 3 years of experience with one or more of the following: Speech/audio (e.g., technology duplicating and responding to the human voice), reinforcement learning (e.g., sequential decision making), ML infrastructure, or specialization in another ML field.
-* 3 years of experience with ML infrastructure (e.g., model deployment, model evaluation, optimization, data processing, debugging).
-
-
-**Preferred qualifications:**
-* Master's degree or PhD in Computer Science or related technical field.
-* 5 years of experience with data structures and algorithms.
-* 1 year of experience in a technical leadership role.
-* Experience developing accessible technologies.
-
-
-**About The Job**
- Google's software engineers develop the next\\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast\\-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\\-stack as we continue to push technology forward.
-   
-
-  
-
- In Google Search, we're reimagining what it means to search for information – any way and anywhere. To do that, we need to solve complex engineering challenges and expand our infrastructure, while maintaining a universally accessible and useful experience that people around the world rely on. In joining the Search team, you'll have an opportunity to make an impact on billions of people globally.
-   
-
-  
-
-**Responsibilities**
-* Write and test product or system development code.
-* Collaborate with peers and stakeholders through design and code reviews to ensure best practices amongst available technologies (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
-* Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
-* Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
-* Design and implement solutions in one or more specialized ML areas, leverage ML infrastructure, and demonstrate expertise in a chosen field.
-
-
- Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .","Information Services and Technology, Information and Internet","https://www.linkedin.com/company/google","https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0","","","","","","","","","","",""
-"li-4447339265","linkedin","https://www.linkedin.com/jobs/view/4447339265","","Senior Software Engineer - Java","Barclays","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Join us as a Senior Software Engineer \\-Java. At Barclays, we don’t just adapt to the future, we create it. As a Senior Software Engineer \\-Java you will support the organisation, achieve its strategic objectives by the identification of business requirements and solutions that address business problems and opportunities.
-   
-
-  
-
-**To be a successful Senior Software Engineer \\-Java you should have experience with:**
-* Extensive hands\\-on development experience with Core Java (Java 17\\+), Spring Framework, and Spring Boot.
-* Strong expertise in designing and developing Microservices\\-based architectures using Spring Boot, JPA, Hibernate, and Spring Data.
-* Proven experience in building and integrating RESTful APIs, Web Services, and event\\-driven applications.
-* Strong understanding of Object\\-Oriented Design (OOD) principles, design patterns, and software engineering best practices.
-* Hands\\-on experience with CI/CD pipelines using GitLab, Jenkins, and source control tools such as Git and Bitbucket.
-* Experience leading technical design discussions, code reviews, and mentoring development teams.
-* Strong knowledge of application performance tuning, scalability, security, and resiliency patterns.
-* Experience working in Agile delivery environments with responsibility for end\\-to\\-end feature delivery.
-* Excellent problem\\-solving, analytical, and stakeholder communication skills.
-* 8\\+years of professional experience
-
-
-**Additional Relevant Skills Given Below Are Highly Valued**
-* Experience with cloud platforms such as AWS, Azure, or Barclays Cloud Platform (BCP).
-* Hands\\-on experience with messaging and streaming technologies such as Kafka and IBM MQ.
-* Exposure to containerization and orchestration technologies such as Docker, Kubernetes, or OpenShift.
-* Experience with Liquibase or similar database schema/version management tools.
-* Familiarity with distributed systems, event\\-driven architectures, and domain\\-driven design principles.
-* Strong understanding of Agile/Scrum methodologies and delivery tools such as Jira.
-* Experience in the banking, wealth management, or financial services domain.
-* Exposure to observability and monitoring tools such as Splunk, Dynatrace, or AppDynamics.
-* Ability to drive technical innovation, modernization initiatives, and engineering best practices across teams.
-
-
- You may be assessed on key critical skills relevant for success in role, such as risk and controls, change and transformation, business acumen, strategic thinking and digital and technology, as well as job\\-specific technical skills.
-   
-
-  
-
- This role is based in Pune.
-   
-
-  
-
-**Purpose of the role**
- To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues.
-   
-
-  
-
-**Accountabilities**
-* Development and delivery of high\\-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance.
-* Cross\\-functional collaboration with product managers, designers, and other engineers to define software requirements, devise solution strategies, and ensure seamless integration and alignment with business objectives.
-* Collaboration with peers, participate in code reviews, and promote a culture of code quality and knowledge sharing.
-* Stay informed of industry technology trends and innovations and actively contribute to the organization’s technology communities to foster a culture of technical excellence and growth.
-* Adherence to secure coding practices to mitigate vulnerabilities, protect sensitive data, and ensure secure software solutions.
-* Implementation of effective unit testing practices to ensure proper code design, readability, and reliability.
-
-
-**Assistant Vice President Expectations**
-* To advise and influence decision making, contribute to policy development and take responsibility for operational effectiveness. Collaborate closely with other functions/ business divisions.
-* Lead a team performing complex tasks, using well developed professional knowledge and skills to deliver on work that impacts the whole business function. Set objectives and coach employees in pursuit of those objectives, appraisal of performance relative to objectives and determination of reward outcomes
-* If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.
-* OR for an individual contributor, they will lead collaborative assignments and guide team members through structured assignments, identify the need for the inclusion of other areas of specialisation to complete assignments. They will identify new directions for assignments and/ or projects, identifying a combination of cross functional methodologies or practices to meet required outcomes.
-* Consult on complex issues; providing advice to People Leaders to support the resolution of escalated issues.
-* Identify ways to mitigate risk and developing new policies/procedures in support of the control and governance agenda.
-* Take ownership for managing risk and strengthening controls in relation to the work done.
-* Perform work that is closely related to that of other areas, which requires understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub\\-function.
-* Collaborate with other areas of work, for business aligned support areas to keep up to speed with business activity and the business strategy.
-* Engage in complex analysis of data from multiple sources of information, internal and external sources such as procedures and practises (in other areas, teams, companies, etc).to solve problems creatively and effectively.
-* Communicate complex information. 'Complex' information could include sensitive information or information that is difficult to communicate because of its content or its audience.
-* Influence or convince stakeholders to achieve outcomes.
-
-
- All colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave.","Banking and Financial Services","https://uk.linkedin.com/company/barclays-bank","https://media.licdn.com/dms/image/v2/C4E0BAQFAXc9z0Go7Uw/company-logo_100_100/company-logo_100_100/0/1663677974291/barclays_bank_logo?e=2147483647&v=beta&t=Wbhfg6jCeqyGRAAHRm9rt8zG3NCAuhHikGg5bL1tH-U","","","","","","","","","","",""
-"li-4449924422","linkedin","https://www.linkedin.com/jobs/view/4449924422","","Micro Frontend Engineer","Hitachi Vantara","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Location:** 
- Hyderabad, India
-   
-
-  
-
-**Function:** 
- (DEAI HV) Engineering
-   
-
-  
-
-**Requisition ID:** 
- R0134488
-   
-
-  
-
-****Our Company****
- We're Hitachi Vantara, the data foundation trusted by the world's innovators. Our resilient, high\\-performance data infrastructure means that customers \\- from banks to theme parks \\- can focus on achieving the incredible with data. If you've seen the Las Vegas Sphere, you've seen just one example of how we empower businesses to automate, optimize, innovate \\- and wow their customers. Right now, we're laying the foundation for our next wave of growth. We're looking for people who love being part of a diverse, global team \\- and who get excited about making a real\\-world impact with data.
-   
-
-  
-
- Our Company
-   
-
-  
-
- We’re Hitachi Vantara, the data foundation trusted by the world’s innovators. Our resilient, high\\-performance data infrastructure means that customers – from banks to theme parks – can focus on achieving the incredible with data. If you’ve seen the Las Vegas Sphere, you’ve seen just one example of how we empower businesses to automate, optimize, innovate – and wow their customers. Right now, we’re laying the foundation for our next wave of growth. We’re looking for people who love being part of a diverse, global team – and who get excited about making a real\\-world impact with data.
-   
-
-  
-
- The team
-   
-
-  
-
- This position will be part of the team building the next generation user interface for managing Hitachi Vantara storage and AI products. The team focuses on developing software solutions that provide intuitive and efficient management experiences for customers. Working with modern frontend technologies and software development practices, the team contributes to building scalable, secure, and high\\-quality applications that support Hitachi Vantara’s innovative data infrastructure solutions.
-   
-
-  
-
- The role
-   
-
-  
-
- As a
- **Micro Frontend Engineer** 
- , you will be responsible for developing next\\-generation user interfaces for Hitachi Vantara storage and AI products. You will work as an expert TypeScript/JavaScript developer with significant experience in Micro Frontend frameworks and design. The role involves applying software development best practices, developing secure and scalable frontend solutions, implementing authentication and authorization mechanisms, and contributing to frontend architecture decisions. You will work with React and Angular, build and maintain CI/CD pipelines, integrate with REST APIs, and use your expertise in frontend design and architecture to help shape the next generation of management software for Hitachi Vantara.
-   
-
-  
-
- What you’ll bring
-   
-
-  
-
-* Expert\\-level experience in TypeScript/JavaScript development.
-* Significant experience with Micro Frontend frameworks and architectures.
-* Strong understanding of software architecture patterns, including microservices.
-* Proficiency in implementing secure authentication and authorization mechanisms.
-* Experience with both React and Angular development.
-* 8\\+ years of experience with JavaScript or TypeScript.
-* Demonstrated ability to set up and maintain continuous integration and continuous deployment (CI/CD) pipelines.
-* Experience with REST APIs.
-* Experience with CSS.
-* Strong frontend design and architecture skills.
-
-
-**About Us**
- We’re a global team of innovators. Together, we harness engineering excellence and passion for insight to co\\-create meaningful solutions to complex challenges. We turn organizations into data\\-driven leaders that can make a positive impact on their industries and society. If you believe that innovation can inspire the future, this is the place to fulfill your purpose and achieve your potential.
-   
-
-  
-
-****About Us****
- We're a global team of innovators. Together, we harness engineering excellence and passion for insight to co\\-create meaningful solutions to complex challenges. We turn organizations into data\\-driven leaders that can make a positive impact on their industries and society. If you believe that innovation can inspire the future, this is the place to fulfil your purpose and achieve your potential.
-   
-
-  
-
-**Fostering innovation through diverse perspectives**
- Hitachi is a global company operating across a wide range of industries and regions. One of the things that sets Hitachi apart is the diversity of our business and people, which drives our innovation and growth.
-   
-
-  
-
- We are committed to building an inclusive culture based on mutual respect and merit\\-based systems. We believe that when people feel valued, heard, and safe to express themselves, they do their best work.
-   
-
-  
-
-****How We Look After You****
- We help take care of your today and tomorrow with industry\\-leading benefits, support, and services that look after your holistic health and wellbeing. We're also champions of life balance and offer flexible arrangements that work for you (role and location dependent). We're always looking for new ways of working that bring out our best, which leads to unexpected ideas. So here, you'll experience a sense of belonging, and discover autonomy, freedom, and ownership as you work alongside talented people you enjoy sharing knowledge with.
-   
-
-  
-
- We're proud to say we're an equal opportunity employer and welcome all applicants for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, veteran, age, disability status or any other protected characteristic. Should you need reasonable accommodations during the recruitment process, please let us know so that we can do our best to set you up for success.","Data Infrastructure and Analytics","https://www.linkedin.com/company/hitachi-vantara","https://media.licdn.com/dms/image/v2/D4E0BAQFigwPi_6m_8g/company-logo_100_100/B4EZYBScsiHYAQ-/0/1743778336351/hitachi_vantara_logo?e=2147483647&v=beta&t=EucTqwpw2Ehl3RAUKkCTpm-d2hBx2uI790WdTZMt1bc","","","","","","","","","","",""
-"li-4448059798","linkedin","https://www.linkedin.com/jobs/view/4448059798","","Software QA Engineer 3","SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED","Chennai, Tamil Nadu, India","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","**Requisition ID:** 
- 112584\\-0
-   
-
-  
-
- Software QA Engineer 3
-   
-
-  
-
- Software QA Engineer : Debugs software products through the use of systematic tests to develop, apply, and maintain quality standards for company products. Develops, modifies, and executes software test plans. Analyzes and writes test standards and procedures. Maintains documentation of test results to assist in debugging and modification of software. Analyzes test results to ensure existing functionality and recommends corrective action. Consults with development engineers in resolution of problems. Provides feedback in preparation of technical appraisals of programming languages, systems, and computation software. Ensures quality computer integration into the overall functions of scientific computation, data acquisition, and processing.
-   
-
-  
-
- Viking Enterprise Solutions is a supplier of storage array systems, providing solutions to customers who are seeking a flexible, scalable and resilient platform on which to build a storage, public cloud or private cloud service. We are looking for an experienced software QA Engineer to work on end to end validation of our storage management solutions.
-   
-
-  
-
- The successful candidate will be work in a team responsible for building, maintaining, and validating storage management applications for our storage array systems utilizing open source and third\\-party software.
-   
-
-  
-
-**Key Accountabilities \\& Skills Required**
-* Experience with developing Software test plan per product feature requirement
-* Experience with Software QA processes and methodologies
-* Working knowledge of CI/CD test automation pipelines
-* Working knowledge in JIRA Confluence toolsets
-* Project Management experiences such as schedule, risk management
-* Experience with assisting field team on debug analysis, customer issue recreate activities.
-* Working knowledge of Server/Storage and Networking infrastructures
-* Collaborate with other team members on shared items of work and communicate effectively in a team\\-oriented environment to ensure end to end delivery of features
-* Experience with web services API integration.
-* Experience with Python, JavaScript, Shell script and other software languages
-
-
-**Qualifications /Education**
-*Skills and knowledge: Essential*
-* Bachelor's degree in Computer Science or related field, or demonstrated experience
-* 5\\+ years of software development or Storage Software QA experience
-* Experience working with a team and collaborating in a remote work scenario
-* Experience utilizing Agile development and QA methodologies
-* A record of successful delivery of software applications as an individual QA engineer in a team environment
-* Understanding of the software development and quality assurance program cycle
-* Problem\\-solving skills \\- methodical approach
-* Communication skills both verbal and written
-* Ability to communicate and work with customers and end users
-* Experience in Python, JavaScript, Shell script and other software languages
-
-
-*Skills and knowledge: Desirable*
-* Familiar with data storage technologies (S3 Object, Block Devices, NFS and SMB File Systems).
-* Familiarity with developing and testing software in a Linux environment
-
-
- Viking is seeking a team player who enjoys technical challenges within a fast\\-paced environment, applies sound judgment in successful task planning and execution, meets deadlines, and communicates the highest standards of professionalism in his/her work habits.
-   
-
-  
-
- Apply Back to results","Appliances, Electrical, and Electronics Manufacturing","https://in.linkedin.com/company/sanmina-sci-technology-india-private-limited","https://media.licdn.com/dms/image/v2/C4D0BAQF4-6xzVjMVYg/company-logo_100_100/company-logo_100_100/0/1630491231224/sanmina_sci_technology_india_private_limited_logo?e=2147483647&v=beta&t=cf_8ENBn2T8xa6SL7qP3t2Opk-KQVh6fdDSSRE8_SBk","","","","","","","","","","",""
-"li-4448082275","linkedin","https://www.linkedin.com/jobs/view/4448082275","","Software QA Engineer 3","SANMINA-SCI TECHNOLOGY INDIA PRIVATE LIMITED","Chennai, Tamil Nadu, India","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","**Requisition ID:** 
- 112582\\-0
-   
-
-  
-
- Software QA Engineer 3
-   
-
-  
-
- Software QA Engineer : Debugs software products through the use of systematic tests to develop, apply, and maintain quality standards for company products. Develops, modifies, and executes software test plans. Analyzes and writes test standards and procedures. Maintains documentation of test results to assist in debugging and modification of software. Analyzes test results to ensure existing functionality and recommends corrective action. Consults with development engineers in resolution of problems. Provides feedback in preparation of technical appraisals of programming languages, systems, and computation software. Ensures quality computer integration into the overall functions of scientific computation, data acquisition, and processing.
-   
-
-  
-
- Viking Enterprise Solutions is a supplier of storage array systems, providing solutions to customers who are seeking a flexible, scalable and resilient platform on which to build a storage, public cloud or private cloud service. We are looking for an experienced software QA Engineer to work on end to end validation of our storage management solutions.
-   
-
-  
-
- The successful candidate will be work in a team responsible for building, maintaining, and validating storage management applications for our storage array systems utilizing open source and third\\-party software.
-   
-
-  
-
-**Key Accountabilities \\& Skills Required**
-* Experience with developing Software test plan per product feature requirement
-* Experience with Software QA processes and methodologies
-* Working knowledge of CI/CD test automation pipelines
-* Working knowledge in JIRA Confluence toolsets
-* Project Management experiences such as schedule, risk management
-* Experience with assisting field team on debug analysis, customer issue recreate activities.
-* Working knowledge of Server/Storage and Networking infrastructures
-* Collaborate with other team members on shared items of work and communicate effectively in a team\\-oriented environment to ensure end to end delivery of features
-* Experience with web services API integration.
-* Experience with Python, JavaScript, Shell script and other software languages
-
-
-**Qualifications /Education**
-*Skills and knowledge: Essential*
-* Bachelor's degree in Computer Science or related field, or demonstrated experience
-* 5\\+ years of software development or Storage Software QA experience
-* Experience working with a team and collaborating in a remote work scenario
-* Experience utilizing Agile development and QA methodologies
-* A record of successful delivery of software applications as an individual QA engineer in a team environment
-* Understanding of the software development and quality assurance program cycle
-* Problem\\-solving skills \\- methodical approach
-* Communication skills both verbal and written
-* Ability to communicate and work with customers and end users
-* Experience in Python, JavaScript, Shell script and other software languages
-
-
-*Skills and knowledge: Desirable*
-* Familiar with data storage technologies (S3 Object, Block Devices, NFS and SMB File Systems).
-* Familiarity with developing and testing software in a Linux environment
-
-
- Viking is seeking a team player who enjoys technical challenges within a fast\\-paced environment, applies sound judgment in successful task planning and execution, meets deadlines, and communicates the highest standards of professionalism in his/her work habits.
-   
-
-  
-
- Apply Back to results","Appliances, Electrical, and Electronics Manufacturing","https://in.linkedin.com/company/sanmina-sci-technology-india-private-limited","https://media.licdn.com/dms/image/v2/C4D0BAQF4-6xzVjMVYg/company-logo_100_100/company-logo_100_100/0/1630491231224/sanmina_sci_technology_india_private_limited_logo?e=2147483647&v=beta&t=cf_8ENBn2T8xa6SL7qP3t2Opk-KQVh6fdDSSRE8_SBk","","","","","","","","","","",""
-"li-4449699840","linkedin","https://www.linkedin.com/jobs/view/4449699840","","Software Engineer III","JPMorganChase","Hyderabad, Telangana, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Job Description**
- We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.
-   
-
-  
-
- As a Software Engineer III at JPMorganChase within the Consumer \\& Commercial Banking you serve as a seasoned member of an agile team to design and deliver trusted market\\-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm's business objectives.
-   
-
-  
-
-**Job Responsibilities**
-* Design, build, and maintain scalable ETL/data pipelines using Python and PySpark on AWS Glue and S3\\.
-* Ensure data quality, reliability, and performance via validation checks, monitoring, and Spark/Glue job optimization.
-* Collaborate with upstream/downstream teams to gather requirements, troubleshoot issues, and deliver well\\-documented datasets/interfaces.
-* Own end\\-to\\-end hands\\-on technical delivery (100%), following engineering standards; Java exposure is a plus.
-* Leverages enterprise\\-authorized AI coding assist tools within the work environment to improve code quality, delivery speed, and productivity across complex deliverables (e.g., code generation/refactoring, unit test creation, documentation), while validating outputs through peer review, automated testing, and secure coding standards; contributes learnings and reusable patterns to improve broader team effectiveness.
-* Applies knowledge of tools within the Software Development Life Cycle toolchain, including enterprise\\-authorized AI\\-assisted development and automation capabilities, to improve the value realized by automation.
-* A reproducible training pipeline with automated validation and promotion to production.
-* A low\\-latency inference service with monitoring, alerting, and drift detection.
-* Infrastructure\\-as\\-code for ML environments with secure networking and least\\-privilege IAM
-
-
-**Required Qualifications, Skills, And Capabilities**
-* 3\\+ years (or equivalent) building and deploying ML systems in production.
-* Strong programming skills in Python and solid software engineering fundamentals (APIs, testing, design patterns).
-* Strong hands\\-on experience with Python and PySpark for building production\\-grade ETL pipelines.
-* Hands\\-on AWS experience, including several of: S3, IAM, VPC, EC2, ECR, ECS/EKS, Lambda, CloudWatch, CloudFormation/Terraform.
-* Experience with data processing tools (e.g., Spark, AWS Glue, Athena, EMR) and SQL.
-* Practical knowledge of deploying/serving models (REST/gRPC), performance tuning, and monitoring.
-* Solid knowledge of ETL concepts, data modeling basics, and handling large\\-scale batch/incremental processing.
-* Hands\\-on experience using enterprise\\-authorized AI\\-assisted software development tools within the work environment (e.g., for coding, test creation, troubleshooting, or documentation) with demonstrated ability to critically evaluate, validate, and refine AI\\-generated outputs for correctness, performance, and security.
-* Understanding of responsible AI use in engineering workflows, including data sensitivity considerations, secure handling of inputs/outputs, and adherence to resiliency and security expectations; ability to guide peers on safe and effective usage within team practices.
+**Basic Qualifications**
+* 1\\+ years of non\\-internship professional software development experience
+* Experience programming with at least one software programming language
 
 
 **Preferred Qualifications**
-* Hands\\-on experience with AWS Glue (Jobs, Crawlers, Data Catalog) and Amazon S3\\.
-* Strong SQL skills and experience implementing data quality / observability practices (reconciliations, validation checks, monitoring/alerting).
-* Experience with CI/CD for data pipelines, Git\\-based workflows, and automated testing.","Financial Services","https://www.linkedin.com/company/jpmorganchase","https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_100_100/company-logo_100_100/0/1718711710850/jpmorganchase_logo?e=2147483647&v=beta&t=kP6Xf9uye25nDGkk4RmP87zYyfNqaQWny7e5o3WyKhI","","","","","","","","","","",""
-"li-4449934444","linkedin","https://www.linkedin.com/jobs/view/4449934444","","Digital Continuity & Manuf Engineer","Capgemini","Gandhinagar, Gujarat, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
-**MES TrakSYS Developer**
-**Location:** 
- Mumbai, Pune, Bangalore, Hyderabad, Chennai
-   
-
-  
-
-**Experience:** 
- 4 to 6 Years
-   
-
-  
-
- Join us to be part of a high\\-impact team delivering advanced Manufacturing Execution Systems (MES) solutions that enable digital manufacturing transformation and operational excellence.
-   
-
-  
-
-**Role Overview**
- We are looking for an experienced
- **MES TrakSYS Developer** 
- with strong expertise in Parsec TrakSYS to design, develop, and implement MES solutions. The role involves translating manufacturing business requirements into scalable system solutions while ensuring seamless execution and support.
-   
-
-  
-
-**Key Responsibilities**
-* Design, develop, and implement MES solutions using Parsec TrakSYS.
-* Understand MES user stories and translate them into functional and technical solutions.
-* Perform technical design and development for MES functionalities.
-* Participate in end\\-to\\-end MES implementation lifecycle including development, testing, deployment, and support.
-
-
-**Required Skills \\& Qualifications**
-* Minimum 4\\+ years of MES implementation experience.
-* Hands\\-on experience with Parsec TrakSYS (Tracksys) platform.
-* Strong knowledge of MES development and configuration.
-* Experience with management indicators, operational management, and performance management systems.
-* Ability to handle production support, troubleshooting, and critical incidents.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
-"li-4449938143","linkedin","https://www.linkedin.com/jobs/view/4449938143","","Frontend Developer","Virtual Labs","","","fulltime","","","","","",False,"mid-senior level","","","","**Job Title: Frontend Developer (Pharma Domain)** 
-
-
-
-
-**Employment Type: Full time** 
-
-
-
-
-  
-
-
-
-
-
-**Job Summary** 
-
-
-
-
- We are seeking a highly skilled
- **Frontend Developer** 
- with strong hands\\-on coding expertise to design and develop modern, scalable, and responsive web applications. The ideal candidate will have extensive experience in frontend technologies and a proven background working in the
- **Pharmaceutical domain** 
- supporting regulated applications and digital health platforms. This role requires close collaboration with UX designers, backend developers, product owners, and business stakeholders to deliver high\\-quality user experiences.
- 
-
-
-
- Required Skills \\& Experience
- 
-
-
-* 8\\+ years of professional experience in Frontend Development.
-* Strong hands\\-on experience with
- **React.js** 
- ,
- **TypeScript** 
- , JavaScript (ES6\\+), HTML5, and CSS3\\.
-* Experience with modern frontend frameworks, state management (Redux/Context API), and component\\-based architecture.
-* Strong knowledge of REST APIs and integrating frontend applications with backend services.
-* Experience with responsive design, cross\\-browser compatibility, and accessibility (WCAG).
-* Familiarity with frontend build tools such as Webpack, Vite, Babel, and npm/yarn.
-* Experience with version control tools like Git and CI/CD pipelines.
-* Knowledge of testing frameworks such as Jest, React Testing Library, or Cypress.
-* Experience working in Agile/Scrum environments.
-
-
-
- Pharma Domain Experience (Mandatory)
- 
-
-
-* Minimum
- **3\\+ years of experience in the Pharmaceutical industry.**
-* Experience developing applications supporting:
-* Clinical Trials
-* Drug Safety/Pharmacovigilance
-* Regulatory Affairs
-* Medical Affairs
-* Quality \\& Compliance
-* Commercial Pharma Solutions
-* Understanding of GxP, FDA, or other regulated healthcare environments.
-* Experience working with validated systems and compliance requirements is highly preferred.
-
-
-
- Responsibilities
- 
-
-
-* Develop, maintain, and enhance enterprise\\-grade frontend applications using React.js and TypeScript.
-* Translate UI/UX designs into clean, reusable, and maintainable code.
-* Collaborate with backend engineers to integrate APIs and optimize application performance.
-* Ensure responsive, accessible, and high\\-performance user interfaces.
-* Write unit tests and participate in code reviews to maintain high code quality.
-* Troubleshoot production issues and implement performance improvements.
-* Participate in Agile ceremonies including sprint planning, stand\\-ups, and retrospectives.
-* Follow coding standards, security best practices, and regulatory compliance requirements.
-
-
-
- Preferred Qualifications
- 
-
-
-* Experience with Next.js or similar modern React frameworks.
-* Familiarity with Material UI, Tailwind CSS, or other component libraries.
-* Knowledge of Azure, AWS, or other cloud platforms.
-* Experience with GraphQL is a plus.
-* Understanding of OAuth, SSO, and authentication/authorization mechanisms.
-* Bachelor's degree in Computer Science, Information Technology, or a related field.
-
-
-
- Must\\-Have Skills
- 
-
-
-* React.js
-* TypeScript
-* JavaScript (ES6\\+)
-* HTML5/CSS3
-* REST API Integration
-* Git
-* Agile/Scrum
-* **Pharmaceutical Domain Experience (Mandatory)**
-* Hands\\-on Frontend Development Experience
-* Strong Communication Skills
-
-
--","IT Services and IT Consulting and Pharmaceutical Manufacturing","https://www.linkedin.com/company/virtual-labb","https://media.licdn.com/dms/image/v2/D4E0BAQFf0W3HKM4qxg/company-logo_100_100/B4EZUXGuryHcAU-/0/1739849395534?e=2147483647&v=beta&t=MEkwuEh7d0ewXloRahOdDnkZNRe_zjcndpJjyA03r-0","","","","","","","","","","",""
-"li-4449916492","linkedin","https://www.linkedin.com/jobs/view/4449916492","","Senior Software Engineer - iOS","Warner Bros. Discovery","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","***Welcome to Warner Bros. Discovery… the stuff dreams are made of.***
-
-
-
-
-
-
-
-
-**Who We Are…**
-
-
-
-
-
- When we say, “the stuff dreams are made of,” we’re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD’s vast portfolio of iconic content and beloved brands, are the
- *storytellers* 
- bringing our characters to life, the
- *creators* 
- bringing them to your living rooms and the
- *dreamers* 
- creating what’s next…
- 
-
-
-
-
-
-
-
-
-
- From brilliant creatives, to technology trailblazers, across the globe, WBD offers career defining opportunities, thoughtfully curated benefits, and the tools to explore and grow into your best selves. Here you are supported, here you are celebrated, here you can thrive.
- 
-
-
-
-
-
-
-
-
-
-**Senior Software Engineer (iOS) – Sports Tech Team , Bangalore** 
-
-
-
-
-
-
-**About Warner Bros. Discovery:**
-
- Warner Bros. Discovery is a global leader in entertainment, news, and sports, delivering brands like CNN, HLN, TNT, TBS, Adult Swim, Cartoon Network, Turner Sports, and more. Our innovations impact advertising, data management, information security, content creation and delivery, business operations, broadcasting, and ultimately, the fan experience.
-   
-
-  
- 
-
-
-
- At Warner Bros. Discovery, we believe in the power of sports to bring people together, fuel passion and create unforgettable moments. The Global Sports Technology Platform team is the engine driving our sports streaming, content delivery and fan engagement technology — powering premium experiences for millions of fans around the world through brands like Bleacher Report, Eurosport, TNT Sports and March Madness.
-   
-
- For more information, please visit www.wbd.com
-   
-
-  
- 
-
-
-
-
-**Meet Our Team:**
-
- WBD Sports encompasses a wide range of sports brands and channels, reaching over 130 million people monthly in more than 200 markets and 20\\+ languages. Our key brands include Bleacher Report, Eurosport and TNT Sports. WBD Sports offers a comprehensive coverage of major sports events, like the Olympics in Europe, tennis Grand Slams and road cycling Grand Tours (e.g. Tour de France) across various platforms including TV and streaming services like Max and Discovery\\+.
-   
-
- Additionally, it manages and promotes 55 global events annually. TNT Sports UK features exclusive live sports such as the Premier League and UEFA Champions League.
- 
-
-
-
-  
-
-
-**Roles \\& Responsibilities:**
-
- As we continue to grow and innovate in a fast\\-paced, highly\\-competitive digital environment, we are seeking a Senior Software Engineer (iOS) who will be a key member of the WBD Global Sports Tech team, responsible for building and maintaining systems supporting Warner Bros. Discovery’s family of Sports products/brands, including Eurosport, NCAA/MML, and Bleacher Report. As a recognized subject\\-matter expert for one or more of our production iOS systems, you will independently ship high\\-quality features while working closely with product/project managers, users, development staff, and senior leadership to implement designs, develop and deploy fan\\-facing solutions.
- 
-
-
-* Independently ship high\\-quality, complex features across one or more production iOS systems as a recognized subject\\-matter expert, helping drive clarity by defining problems proactively.
-* Devise solutions from limited information and precedent, using sound judgment to drive implementations autonomously with work reviewed at critical points.
-* Build and maintain highly available, low\\-latency systems that serve sports content to customers in production, and own the long\\-term health of your code, monitoring, alerting, and documentation.
-* Integrate service health, monitoring, alerting and documentation capabilities in parallel to your software development deliverables.
-* Influence peers persuasively through code and design reviews, and communicate effectively with stakeholders and adjacent teams, adapting your style to different audiences.
-* Participate in Agile ceremonies with strong ownership of work throughout the sprint, while helping create an inclusive and supportive engineering culture.
-* Help newcomers become productive with the team’s processes and optimize team mechanisms to drive efficiency.
-
-
-
-  
-
-
-**What to Bring:** 
-
-
-
-
-* Independently ship high\\-quality, complex features across one or more production iOS systems as a recognized subject\\-matter expert, helping drive clarity by defining problems proactively.
-* Devise solutions from limited information and precedent, using sound judgment to drive implementations autonomously with work reviewed at critical points.
-* Build and maintain highly available, low\\-latency systems that serve sports content to customers in production, and own the long\\-term health of your code, monitoring, alerting, and documentation.
-* Integrate service health, monitoring, alerting and documentation capabilities in parallel to your software development deliverables.
-* Influence peers persuasively through code and design reviews, and communicate effectively with stakeholders and adjacent teams, adapting your style to different audiences.
-* Participate in Agile ceremonies with strong ownership of work throughout the sprint, while helping create an inclusive and supportive engineering culture.
-* Help newcomers become productive with the team’s processes and optimize team mechanisms to drive efficiency.
-
-
-
-  
-
-
-**Bonus Skills:** 
-
-
-
-
-* Experience with Apollo GraphQL or similar frameworks.
-* Experience working with design tokens.
-* Exposure to sports, media, or entertainment platforms.
-
-
-
-  
-
-
-**Technical Environment:** 
-
-
-
-
-* Tech Stack: Swift, SwiftUI
-* Development Practices: TDD, pair programming, code reviews, continuous integration and delivery (CI/CD)
-* Deployment: Automated using Github Actions, Firebase App Distribution
-* Technologies Used: GraphQL backend, dependency injection, async programming
-* Agile Practices: Dailies, story detailing, planning, retrospectives
-
-
-
-  
-
-
-**What We Offer:** 
-
-
-
-
-* A Great Place to work
-* Equal opportunity employer
-* Fast track growth opportunities
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-**How We Get Things Done…**
-
-
-
-
-
-
-
-
-
- This last bit is probably the most important! Here at WBD, our guiding principles are the core values by which we operate and are central to how we get things done. You can find them at
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- www.wbd.com/guiding\\-principles/
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- along with some insights from the team on what they mean and how they show up in their day to day. We hope they resonate with you and look forward to discussing them during your interview.
- 
-
-
-
-
-
-
-
-
-**Championing Inclusion at WBD**
-
-
-
- Warner Bros. Discovery embraces the opportunity to build a workforce that reflects a wide array of perspectives, backgrounds and experiences. Being an equal opportunity employer means that we take seriously our responsibility to consider qualified candidates on the basis of merit, regardless of sex, gender identity, ethnicity, age, sexual orientation, religion or belief, marital status, pregnancy, parenthood, disability or any other category protected by law.
- 
-
-
-
-
-
-
-
-
-
- If you’re a qualified candidate with a disability and you require adjustments or accommodations during the job application and/or recruitment process, please visit our
- 
- accessibility page
- 
- for instructions to submit your request.","Entertainment Providers","https://www.linkedin.com/company/warner-bros-discovery","https://media.licdn.com/dms/image/v2/C4D0BAQGx5RV9AvJFYg/company-logo_100_100/company-logo_100_100/0/1649455844543/warner_bros_discovery_logo?e=2147483647&v=beta&t=Y1wvgvddjPchRXRn5qHzevYF0yQmZeRh6jUTWZChhWs","","","","","","","","","","",""
-"li-4447003831","linkedin","https://www.linkedin.com/jobs/view/4447003831","","Java Full Stack Developer","Saicon","Hyderabad, Telangana, India","","temporary","","","","","",False,"mid-senior level","Information Technology and Engineering","","","**Java Full Stack Developer** 
-
-
-
-
-**Location: Hyderabad, India (Onsite)** 
-
-
-
-
-  
-
-
-
-
-
-**Job Summary** 
-
-
-
-
- We are seeking a talented
- **Java Full Stack Developer** 
- to join our team and support a leading enterprise client. The ideal candidate should possess strong backend development expertise, excellent analytical skills, and experience building scalable enterprise applications using modern Java technologies.
- 
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
-**Key Responsibilities** 
-
-
-
-* Design, develop, test, and maintain scalable Java\\-based full stack applications.
-* Build and enhance RESTful APIs and backend services using Java, Spring Boot, and related technologies.
-* Develop responsive front\\-end components using Angular and integrate them with backend services.
-* Collaborate with cross\\-functional teams to analyze requirements, design technical solutions, and deliver high\\-quality software.
-* Perform code reviews, troubleshoot production issues, optimize application performance, and ensure adherence to coding standards.
-* Mentor junior developers, participate in Agile ceremonies, and contribute to continuous improvement and successful project delivery
-
-
-
-  
-
-
-
-
-
-**Desired Qualifications** 
-
-
-
-* **5\\+ years of hands\\-on experience in Java development**
-* Strong Core Java/J2EE fundamentals
-* Hands\\-on experience with Java 8 and Spring Boot
-* Experience with Angular, Apache Spark, MongoDB, MySQL, and REST APIs
-* Experience with messaging platforms such as Kafka
-* Strong analytical and problem\\-solving skills
-* Hands\\-on experience with at least two of the following frameworks: Spring, Hibernate, JSF, or Struts
-* Experience with Web Services or JMS is a plus
-* Strong Oracle/SQL database skills
-* Familiarity with Agile development methodologies
-* Ability to perform code reviews and mentor junior developers
-* Excellent communication and collaboration skills
-* Proven track record of delivering high\\-quality, production\\-ready solutions with minimal defects","Information Services, Software Development, and IT System Custom Software Development","https://www.linkedin.com/company/saicon","https://media.licdn.com/dms/image/v2/D560BAQF0sgXVSQ8cxg/company-logo_100_100/B56ZlTwvbNG0AQ-/0/1758046910539/saicon_logo?e=2147483647&v=beta&t=cd_7OIx7CZJ2TC2Kew8ax9KwQh8fhZdjdmgWCLZ9gpk","","","","","","","","","","",""
-"li-4449925582","linkedin","https://www.linkedin.com/jobs/view/4449925582","","SOFTWARE ENGINEER SENIOR","H1B Metrics","Goa, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","H\\-1B LCA Data
-   
-
-  
-
-* FY 2026
-
-
- Software Engineer Senior H\\-1B Salary 2026
-   
-
-  
-
- H\\-1B LCA filings and salary data from the U.S. Department of Labor public disclosure files. Filter by employer, job title, city, and fiscal year.
-   
-
-  
-
- 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016
-   
-
-  
-
- Popular: Software Engineer Data Scientist Product Manager Seattle, WA New York, NY San Francisco, CA
-   
-
-  
-
- Total results
-   
-
-  
-
- 91
-   
-
-  
-
- Average salary
-   
-
-  
-
- $0
-   
-
-  
-
- Certified
-   
-
-  
-
- 0
-   
-
-  
-
- ↑ 100% approval rate
-   
-
-  
-
- Denied
-   
-
-  
-
- 0
-   
-
-  
-
- Withdrawn
-   
-
-  
-
- 91
-   
-
-  
-
- Job titles: Software Engineer Senior
-   
-
-  
-
- Locations: Alharetta, GA Alpharetta, GA Baton Rouge, LA Jacksonville, FL Oakland, CA Irvine, CA Milford, OH Austin, TX West Valley City, UT Tulsa, OK Morrow, OH Cincinnati, OH
-   
-
-  
-
- Show 500 rows 1,000 rows 2,000 rows All 91
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR ALHARETTA, GA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $129,376
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-23
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-04\\-10
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR ALPHARETTA, GA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $129,376
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-23
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-04\\-10
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR BATON ROUGE, LA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $124,715
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-06\\-09
-   
-
-  
-
- Start date
-   
-
-  
-
- 2025\\-12\\-07
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR JACKSONVILLE, FL
-   
-
-  
-
- Base salary
-   
-
-  
-
- $124,715
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-06\\-09
-   
-
-  
-
- Start date
-   
-
-  
-
- 2025\\-12\\-07
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR JACKSONVILLE, FL
-   
-
-  
-
- Base salary
-   
-
-  
-
- $122,400
-   
-
-  
-
- Filed
-   
-
-  
-
- 2024\\-12\\-09
-   
-
-  
-
- Start date
-   
-
-  
-
- 2024\\-12\\-15
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR OAKLAND, CA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $120,840
-   
-
-  
-
- Filed
-   
-
-  
-
- 2024\\-12\\-09
-   
-
-  
-
- Start date
-   
-
-  
-
- 2024\\-12\\-15
-   
-
-  
-
- SAMSUNG RESEARCH AMERICA INC SOFTWARE ENGINEER SENIOR IRVINE, CA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $119,870
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-16
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-05\\-01
-   
-
-  
-
- SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR MILFORD, OH
-   
-
-  
-
- Base salary
-   
-
-  
-
- $160,721
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-16
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-03\\-23
-   
-
-  
-
- OURO GLOBAL INC SOFTWARE ENGINEER SENIOR AUSTIN, TX
-   
-
-  
-
- Base salary
-   
-
-  
-
- $119,992
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-13
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-09\\-09
-   
-
-  
-
- IHC HEALTH SERVICES INC SOFTWARE ENGINEER SENIOR WEST VALLEY CITY, UT
-   
-
-  
-
- Base salary
-   
-
-  
-
- $128,440
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-13
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-08\\-18
-   
-
-  
-
- SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR MILFORD, OH
-   
-
-  
-
- Base salary
-   
-
-  
-
- $133,348
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-13
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-09\\-11
-   
-
-  
-
- INFOR US LLC SOFTWARE ENGINEER SENIOR TULSA, OK
-   
-
-  
-
- Base salary
-   
-
-  
-
- $97,000
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-12
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-08\\-30
-   
-
-  
-
- WORLDPAY LLC SOFTWARE ENGINEER SENIOR MORROW, OH
-   
-
-  
-
- Base salary
-   
-
-  
-
- $140,060
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-11
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-04\\-06
-   
-
-  
-
- WORLDPAY LLC SOFTWARE ENGINEER SENIOR CINCINNATI, OH
-   
-
-  
-
- Base salary
-   
-
-  
-
- $140,060
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-11
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-04\\-06
-   
-
-  
-
- OURO GLOBAL INC SOFTWARE ENGINEER SENIOR AUSTIN, TX
-   
-
-  
-
- Base salary
-   
-
-  
-
- $119,992
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-13
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-09\\-10
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR HUNTERSVILLE, NC
-   
-
-  
-
- Base salary
-   
-
-  
-
- $118,050
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-06
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-03\\-16
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR JACKSONVILLE, FL
-   
-
-  
-
- Base salary
-   
-
-  
-
- $118,050
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-06
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-03\\-16
-   
-
-  
-
- SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR MILFORD, OH
-   
-
-  
-
- Base salary
-   
-
-  
-
- $134,032
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-04
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-08\\-30
-   
-
-  
-
- ARIZONA STATE UNIVERSITY SOFTWARE ENGINEER SENIOR SCOTTSDALE, AZ
-   
-
-  
-
- Base salary
-   
-
-  
-
- $79,934
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-03
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-07\\-09
-   
-
-  
-
- SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR COSTA MESA, CA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $170,000
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-03
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-08\\-23
-   
-
-  
-
- CONSUMERINFOCOM INC SOFTWARE ENGINEER SENIOR COLUMBUS, GA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $124,599
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-03\\-02
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-09\\-01
-   
-
-  
-
- SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR MILFORD, OH
-   
-
-  
-
- Base salary
-   
-
-  
-
- $131,045
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-02\\-25
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-08\\-13
-   
-
-  
-
- DECHEN CONSULTING GROUP INC SOFTWARE ENGINEER SENIOR DEARBORN, MI
-   
-
-  
-
- Base salary
-   
-
-  
-
- $54/hr
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-02\\-24
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-06\\-14
-   
-
-  
-
- SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR ROUNDROCK, TX
-   
-
-  
-
- Base salary
-   
-
-  
-
- $165,800
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-02\\-23
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-08\\-10
-   
-
-  
-
- IHC HEALTH SERVICES INC SOFTWARE ENGINEER SENIOR MURRAY, UT
-   
-
-  
-
- Base salary
-   
-
-  
-
- $152,402
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-02\\-20
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-07\\-09
-   
-
-  
-
- TSYS ACQUIRING SOLUTIONS LLC SOFTWARE ENGINEER SENIOR RALEIGH, NC
-   
-
-  
-
- Base salary
-   
-
-  
-
- $100,459
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-02\\-19
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-08\\-07
-   
-
-  
-
- OURO GLOBAL INC SOFTWARE ENGINEER SENIOR AUSTIN, TX
-   
-
-  
-
- Base salary
-   
-
-  
-
- $163,550
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-02\\-19
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-02\\-19
-   
-
-  
-
- EPITEC INC SOFTWARE ENGINEER SENIOR DEARBORN, MI
-   
-
-  
-
- Base salary
-   
-
-  
-
- $75/hr
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-01\\-07
-   
-
-  
-
- Start date
-   
-
-  
-
- 2025\\-03\\-07
-   
-
-  
-
- NEWFOLD DIGITAL INC SOFTWARE ENGINEER SENIOR HUDSON, NH
-   
-
-  
-
- Base salary
-   
-
-  
-
- $93,173
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-02\\-04
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-08\\-01
-   
-
-  
-
- UPMC PRESBYTERIAN SHADYSIDE SOFTWARE ENGINEER SENIOR PITTSBURGH, PA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $127,628
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-02\\-03
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-07\\-17
-   
-
-  
-
- WORLDPAY LLC SOFTWARE ENGINEER SENIOR FORNEY, TX
-   
-
-  
-
- Base salary
-   
-
-  
-
- $140,000
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-04\\-25
-   
-
-  
-
- Start date
-   
-
-  
-
- 2025\\-10\\-01
-   
-
-  
-
- WORLDPAY LLC SOFTWARE ENGINEER SENIOR CINCINNATI, OH
-   
-
-  
-
- Base salary
-   
-
-  
-
- $140,000
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-04\\-25
-   
-
-  
-
- Start date
-   
-
-  
-
- 2025\\-10\\-01
-   
-
-  
-
- ZEBRA TECHNOLOGIES CORPORATION SOFTWARE ENGINEER SENIOR KENNESAW, GA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $112,362
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-27
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-03\\-20
-   
-
-  
-
- UNITED SERVICES AUTOMOBILE ASSOCIATION SOFTWARE ENGINEER SENIOR SAN ANTONIO, TX
-   
-
-  
-
- Base salary
-   
-
-  
-
- $148,866
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-27
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-06\\-02
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR ATLANTA, GA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $152,523
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-23
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-04\\-06
-   
-
-  
-
- ZEBRA TECHNOLOGIES CORPORATION SOFTWARE ENGINEER SENIOR KENNESAW, GA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $112,362
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-23
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-03\\-20
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR WOODSTOCK, GA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $152,523
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-23
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-04\\-06
-   
-
-  
-
- SHIFT4 PAYMENTS SOFTWARE ENGINEER SENIOR WINCHESTER, VA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $123,471
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-22
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-03\\-03
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR CONCORD, NC
-   
-
-  
-
- Base salary
-   
-
-  
-
- $135,428
-   
-
-  
-
- Filed
-   
-
-  
-
- 2024\\-09\\-13
-   
-
-  
-
- Start date
-   
-
-  
-
- 2024\\-10\\-04
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR JACKSONVILLE, FL
-   
-
-  
-
- Base salary
-   
-
-  
-
- $135,428
-   
-
-  
-
- Filed
-   
-
-  
-
- 2024\\-09\\-13
-   
-
-  
-
- Start date
-   
-
-  
-
- 2024\\-10\\-04
-   
-
-  
-
- THE PNC FINANCIAL SERVICES GROUP INC SOFTWARE ENGINEER SENIOR DULUTH, GA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $130,800
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-21
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-01\\-28
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR BONNEY LAKE, WA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $128,600
-   
-
-  
-
- Filed
-   
-
-  
-
- 2024\\-01\\-22
-   
-
-  
-
- Start date
-   
-
-  
-
- 2024\\-02\\-02
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR JACKSONVILLE, FL
-   
-
-  
-
- Base salary
-   
-
-  
-
- $128,600
-   
-
-  
-
- Filed
-   
-
-  
-
- 2024\\-01\\-22
-   
-
-  
-
- Start date
-   
-
-  
-
- 2024\\-02\\-02
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR JACKSONVILLE, FL
-   
-
-  
-
- Base salary
-   
-
-  
-
- $135,000
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-17
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-07\\-12
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR ST JOHNS, FL
-   
-
-  
-
- Base salary
-   
-
-  
-
- $135,000
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-17
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-07\\-12
-   
-
-  
-
- WORLDPAY LLC SOFTWARE ENGINEER SENIOR CINCINNATI, OH
-   
-
-  
-
- Base salary
-   
-
-  
-
- $144,591
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-16
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-04\\-01
-   
-
-  
-
- WORLDPAY LLC SOFTWARE ENGINEER SENIOR PHOENIX, AZ
-   
-
-  
-
- Base salary
-   
-
-  
-
- $144,591
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-16
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-04\\-01
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR CINCINNATI, OH
-   
-
-  
-
- Base salary
-   
-
-  
-
- $158,672
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-13
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-06\\-12
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR CINCINNATI, OH
-   
-
-  
-
- Base salary
-   
-
-  
-
- $158,672
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-13
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-06\\-12
-   
-
-  
-
- DECHEN CONSULTING GROUP INC SOFTWARE ENGINEER SENIOR DEARBORN, MI
-   
-
-  
-
- Base salary
-   
-
-  
-
- $65/hr
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-07
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-03\\-28
-   
-
-  
-
- FISERV SOLUTIONS LLC SOFTWARE ENGINEER SENIOR BERKELEY HEIGHTS, NJ
-   
-
-  
-
- Base salary
-   
-
-  
-
- $160,805
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-06
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-06\\-26
-   
-
-  
-
- UNITED SERVICES AUTOMOBILE ASSOCIATION SOFTWARE ENGINEER SENIOR SAN ANTONIO, TX
-   
-
-  
-
- Base salary
-   
-
-  
-
- $157,632
-   
-
-  
-
- Filed
-   
-
-  
-
- 2026\\-01\\-05
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-06\\-12
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR BATTLE GROUND, WA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $127,878
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-12\\-30
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-06\\-07
-   
-
-  
-
- ARTIFICIAL INTELLIGENCE STAFFING LLC SOFTWARE ENGINEER SENIOR AUSTIN, TX
-   
-
-  
-
- Base salary
-   
-
-  
-
- $68,702
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-12\\-30
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-01\\-06
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR JACKSONVILLE, FL
-   
-
-  
-
- Base salary
-   
-
-  
-
- $127,878
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-12\\-30
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-06\\-07
-   
-
-  
-
- FAST SWITCHGREAT LAKES LLC SOFTWARE ENGINEER SENIOR DEARBORN, MI
-   
-
-  
-
- Base salary
-   
-
-  
-
- $58/hr
-   
-
-  
-
- Filed
-   
-
-  
-
- 2023\\-02\\-22
-   
-
-  
-
- Start date
-   
-
-  
-
- 2023\\-08\\-09
-   
-
-  
-
- THE PNC FINANCIAL SERVICES GROUP INC SOFTWARE ENGINEER SENIOR FARMERS BRANCH, TX
-   
-
-  
-
- Base salary
-   
-
-  
-
- $134,971
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-12\\-16
-   
-
-  
-
- Start date
-   
-
-  
-
- 2025\\-12\\-23
-   
-
-  
-
- ARTIFICIAL INTELLIGENCE LLC SOFTWARE ENGINEER SENIOR AUSTIN, TX
-   
-
-  
-
- Base salary
-   
-
-  
-
- $90,355
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-12\\-16
-   
-
-  
-
- Start date
-   
-
-  
-
- 2025\\-12\\-23
-   
-
-  
-
- WAUSAU FINANCIAL SYSTEMS INC SOFTWARE ENGINEER SENIOR HERNDON, VA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $138,567
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-02\\-28
-   
-
-  
-
- Start date
-   
-
-  
-
- 2025\\-08\\-08
-   
-
-  
-
- UPMC PRESBYTERIAN SHADYSIDE SOFTWARE ENGINEER SENIOR PITTSBURGH, PA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $141,402
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-12\\-12
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-06\\-12
-   
-
-  
-
- UPMC PRESBYTERIAN SHADYSIDE SOFTWARE ENGINEER SENIOR PITTSBURGH, PA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $144,690
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-12\\-12
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-06\\-12
-   
-
-  
-
- THE PNC FINANCIAL SERVICES GROUP INC SOFTWARE ENGINEER SENIOR PITTSBURGH, PA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $140,800
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-12\\-11
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-02\\-02
-   
-
-  
-
- Global Payment Holding Company Software Engineer Senior Alpharetta, Ga
-   
-
-  
-
- Base salary
-   
-
-  
-
- $124,298
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-12\\-11
-   
-
-  
-
- Start date
-   
-
-  
-
- 2025\\-12\\-23
-   
-
-  
-
- THE PNC FINANCIAL SERVICES GROUP INC SOFTWARE ENGINEER SENIOR PITTSBURGH, PA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $119,475
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-12\\-10
-   
-
-  
-
- Start date
-   
-
-  
-
- 2025\\-12\\-18
-   
-
-  
-
- DELUXE CORPORATION SOFTWARE ENGINEER SENIOR MANKATO, MN
-   
-
-  
-
- Base salary
-   
-
-  
-
- $121,680
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-12\\-05
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-06\\-06
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR CHARLOTTE, NC
-   
-
-  
-
- Base salary
-   
-
-  
-
- $129,534
-   
-
-  
-
- Filed
-   
-
-  
-
- 2024\\-06\\-25
-   
-
-  
-
- Start date
-   
-
-  
-
- 2024\\-07\\-08
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR JACKSONVILLE, FL
-   
-
-  
-
- Base salary
-   
-
-  
-
- $129,534
-   
-
-  
-
- Filed
-   
-
-  
-
- 2024\\-06\\-23
-   
-
-  
-
- Start date
-   
-
-  
-
- 2024\\-07\\-08
-   
-
-  
-
- SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR COSTA MESA, CA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $148,000
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-11\\-25
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-05\\-21
-   
-
-  
-
- GENERAL DYNAMICS INFORMATION TECHNOLOGY INC SOFTWARE ENGINEER SENIOR CHARLOTTE, NC
-   
-
-  
-
- Base salary
-   
-
-  
-
- $133,536
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-11\\-25
-   
-
-  
-
- Start date
-   
-
-  
-
- 2025\\-12\\-04
-   
-
-  
-
- SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR MILFORD, OH
-   
-
-  
-
- Base salary
-   
-
-  
-
- $143,570
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-11\\-20
-   
-
-  
-
- Start date
-   
-
-  
-
- 2025\\-12\\-15
-   
-
-  
-
- UPMC PRESBYTERIAN SHADYSIDE SOFTWARE ENGINEER SENIOR PITTSBURGH, PA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $130,908
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-11\\-18
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-04\\-01
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR JACKSONVILLE, FL
-   
-
-  
-
- Base salary
-   
-
-  
-
- $144,264
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-11\\-07
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-01\\-02
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR COLLIERVILLE, TN
-   
-
-  
-
- Base salary
-   
-
-  
-
- $144,264
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-11\\-07
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-01\\-02
-   
-
-  
-
- SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR BELLEVUE, WA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $170,000
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-11\\-06
-   
-
-  
-
- Start date
-   
-
-  
-
- 2025\\-11\\-17
-   
-
-  
-
- OURO GLOBAL INC SOFTWARE ENGINEER SENIOR AUSTIN, TX
-   
-
-  
-
- Base salary
-   
-
-  
-
- $145,000
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-11\\-05
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-03\\-20
-   
-
-  
-
- CITIZENS PROPERTY INSURANCE CORPORATION SOFTWARE ENGINEER SENIOR JACKSONVILLE, FL
-   
-
-  
-
- Base salary
-   
-
-  
-
- $103,000
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-11\\-04
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-05\\-06
-   
-
-  
-
- EXTO INC SOFTWARE ENGINEER SENIOR SAN FRANCISCO, CA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $165,000
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-11\\-03
-   
-
-  
-
- Start date
-   
-
-  
-
- 2025\\-11\\-10
-   
-
-  
-
- PROGRESS SOFTWARE CORPORATION SOFTWARE ENGINEER SENIOR MILPITAS, CA
-   
-
-  
-
- Base salary
-   
+* Bachelor's degree in computer science or equivalent
 
-  
-
- $160,000
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-11\\-01
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-04\\-10
-   
-
-  
-
- JACK HENRY ASSOCIATES INC SOFTWARE ENGINEER SENIOR MT JULIET, TN
-   
-
-  
-
- Base salary
-   
-
-  
-
- $140,920
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-09\\-30
-   
-
-  
-
- Start date
-   
-
-  
-
- 2025\\-09\\-30
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR JACKSONVILLE, FL
-   
-
-  
-
- Base salary
-   
-
-  
-
- $133,575
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-09\\-30
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-03\\-20
-   
-
-  
-
- FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR ELICOTT CITY, MD
-   
-
-  
-
- Base salary
-   
-
-  
-
- $133,575
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-09\\-30
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-03\\-20
-   
-
-  
-
- UPMC PRESBYTERIAN SHADYSIDE SOFTWARE ENGINEER SENIOR PITTSBURGH, PA
-   
-
-  
-
- Base salary
-   
-
-  
-
- $141,560
-   
-
-  
-
- Filed
-   
-
-  
-
- 2025\\-09\\-29
-   
-
-  
-
- Start date
-   
-
-  
-
- 2026\\-03\\-27
-   
-
-  
-
- WORLDPAY LLC SOFTWARE ENGINEER SENIOR CHARLOTTE, NC
-   
-
-  
-
- Base salary
-   
-
-  
-
- $141,985
-   
-
-  
 
- Filed
+ Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
    
 
   
-
- 2026\\-03\\-25
-   
 
   
 
- Start date
+**Company** 
+ \\- ADCI HYD 13 SEZ
    
 
   
 
- 2026\\-08\\-30
+ Job ID: A10472171","Software Development","https://www.linkedin.com/company/amazon","https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg","","","","","","","","","","",""
+"li-4448060775","linkedin","https://www.linkedin.com/jobs/view/4448060775","","Software Engineer","Cargill","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Job Purpose and Impact
    
 
   
 
- WORLDPAY LLC SOFTWARE ENGINEER SENIOR CINCINNATI, OH
-   
+* The Software Engineer – Ag \\& Trade will design, develop, and maintain scalable, high quality software applications that support Cargill's Ag \\& Trade business. The ideal candidate is a hands\\-on Full Stack Engineer with strong expertise in JavaScript/TypeScript, React or React Native, modern backend technologies (Node.js or equivalent), and a passion for building enterprise\\-grade applications. This role partners closely with Product Managers, Architects, UX Designers, QA Engineers, and fellow Software Engineers to deliver secure, reliable, and performant software solutions. The engineer will leverage modern engineering practices, AI\\-assisted development tools, and cloud\\-native technologies to accelerate delivery while maintaining high engineering standards. The role also actively participates in technical design discussions, code reviews, and continuous improvement initiatives.
 
-  
 
- Base salary
+ Key Accountabilities
    
 
   
 
- $141,985
-   
+* SOFTWARE DEVELOPMENT
 
-  
 
- Filed
+ Design, develop, test, and maintain scalable software applications using JavaScript/TypeScript for backend and frontend development. Build clean, reusable, maintainable, and well\\-tested code following software engineering best practices.
    
 
   
 
- 2026\\-03\\-25
+**FULL STACK APPLICATION DEVELOPMENT**
+ Develop end\\-to\\-end web and mobile applications using React or React Native, backend APIs, database integrations, and modern UI frameworks to deliver intuitive user experiences. Design and develop secure RESTful APIs, backend services, authentication mechanisms, and data access layers while ensuring application scalability and performance.
    
 
   
 
- Start date
+**AI\\-ENABLED ENGINEERING**
+ Leverage AI\\-assisted development tools such as GitHub Copilot, Cursor, ChatGPT, Claude, Amazon Q, or similar tools to improve engineering productivity. Experience integrating LLM APIs or AI\\-powered capabilities into applications is desirable.
    
 
   
 
- 2026\\-08\\-30
+**COLLABORATION**
+ Collaborate with Product Managers, Business Analysts, UX Designers, QA Engineers, Architects, and cross\\-functional engineering teams to understand business requirements and deliver scalable software solutions. Participate in sprint planning, technical discussions, estimation, backlog refinement, and Agile ceremonies.
    
 
   
 
- LOGITECH INC SOFTWARE ENGINEER SENIOR ANDROID FRAMEWORK ENGINEER SAN JOSE, CA
+**TESTING \\& QUALITY**
+ Develop unit tests, integration tests, and participate in peer code reviews to ensure software quality, maintainability, reliability, and performance. Follow secure coding standards and engineering best practices.
    
 
   
 
- Base salary
+**CLOUD \\& DEVOPS** 
+ (Preferred) Contribute to CI/CD pipelines and cloud\\-native application deployments using technologies such as Docker, Kubernetes, Azure, AWS, GitHub Actions, or Azure DevOps. CONTINUOUS IMPROVEMENT Identify opportunities to improve software architecture, engineering standards, automation, developer productivity, and application performance. Adopt AI\\-assisted engineering workflows and modern software development practices. TECHNICAL SUPPORT Troubleshoot production issues, perform root cause analysis, and resolve application issues while ensuring minimal business disruption.
    
 
   
 
- $176,033
-   
+**Qualifications**
+* Required Experience
 
-  
 
- Filed
+ Bachelor's degree in Computer Science, Engineering, Information Technology, or related field (or equivalent practical experience).
    
 
   
 
- 2025\\-11\\-19
-   
+* 3–5 years of professional software development experience.
+* Minimum 2\\+ years of hands\\-on Full Stack development experience.
+* Experience developing production\\-grade web or mobile applications (not academic or personal projects).
+* Strong proficiency in JavaScript/TypeScript.
+* Experience developing applications using React or React Native.
+* Experience developing backend services using Node.js or equivalent backend technologies.
+* Strong understanding of REST API development.
+* Experience with relational databases such as PostgreSQL, MySQL, SQL Server, or equivalent.
+* Strong knowledge of Git and modern software engineering practices.
+* Experience working in Agile/Scrum teams.
+* Strong understanding of object\\-oriented programming, software design principles, and data structures.
 
-  
 
- Start date
+**Preferred Qualifications**
+* Experience with cloud platforms such as Azure or AWS.
+* Experience with Docker, Kubernetes, and CI/CD pipelines.
+* Experience with GraphQL or Microservices.
+* Exposure to AI\\-assisted development tools (GitHub Copilot, Cursor, ChatGPT, Claude, Amazon Q, etc.).
+* Experience integrating OpenAI, Azure OpenAI, or other LLM APIs.
+* Python development experience (Good to Have, not mandatory).
+* Exposure to Agriculture, Commodity Trading, Supply Chain, or Enterprise Product Development.","Chemical Manufacturing, Food and Beverage Services, and Food and Beverage Manufacturing","https://www.linkedin.com/company/cargill","https://media.licdn.com/dms/image/v2/D560BAQE-JavwZhEueQ/company-logo_100_100/B56ZVIHolwGoAQ-/0/1740671715990/cargill_logo?e=2147483647&v=beta&t=RPlPp82xXXkRoQDn4nzjP9Bwsl_J6fJiIf6-9ZmVxZo","","","","","","","","","","",""
+"li-4449330101","linkedin","https://www.linkedin.com/jobs/view/4449330101","","Software Engineer — UniData","Vensure Employer Solutions","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**One of the rarest skills in payroll engineering — treated as strategic, not legacy.**
+ MultiValue and UniData expertise is genuinely scarce. At PrismHR it sits at the core of the payroll engine, not in a maintenance backwater. If you have these skills you already know how few places can offer work at this scale.
    
 
   
 
- 2026\\-05\\-10
+ PrismHR is the HR, payroll, and benefits platform used by employer\\-services organizations across the US, backed by Vensure Employer Solutions.
    
 
   
 
- BLACKBAUD INC SOFTWARE ENGINEER SENIOR B UNION, NJ
+ You will write and debug UniData BASIC across SaaS, mobile, and on\\-premise environments, troubleshoot across every application tier, and support QA on quality and performance. You will use AI\\-assisted tools like GitHub Copilot and Claude Code to move faster and build understanding of a large codebase. You will work in Agile teams and can lead R\\&D initiatives. There is real opportunity at the boundary between the MultiValue core and the modern stack, which is where the most interesting modernization work sits.
    
 
   
 
- Base salary
-   
+**You will need\\~**
+* Hands\\-on UniData or another MultiValue platform, and MultiValue BASIC
+* Practical experience with AI\\-assisted coding tools such as GitHub Copilot or Claude Code
+* Strong problem\\-solving and cross\\-tier troubleshooting
+* Good interpersonal skills — you will work with Support, Product, QA, and sometimes customers
+* Agile, unit testing, TDD
 
-  
 
- $160,810
+**Helpful, not required\\~** 
+ SB\\+ or 4GL, Java, Scala, JavaScript, REST services, HR, payroll, or accounting background.
    
 
   
 
- Filed
+**Do not have UniData specifically?** 
+ If you have deep MultiValue experience in another dialect — UniVerse, D3, jBASE, Pick — or strong engineering skills and appetite for a rare specialization, apply anyway. We would rather hire the right engineer and teach the dialect.
    
 
   
 
- 2025\\-11\\-07
+**The schedule\\~** 
+ 6\\~00 PM \\- 3\\~00 AM IST, Monday to Friday, first four hours from the Noida office and the rest from home. The deepest knowledge of this codebase sits with our US team, and overlap is how you learn it in conversation rather than from documentation.
    
 
   
 
- Start date
+ Competitive compensation, health coverage, learning support, and a specialization that makes you more valuable over time. Apply now.
    
 
   
 
- 2026\\-01\\-31
+ \\#VensureHRIndia
    
 
   
 
- ALLSTATE INSURANCE COMPANY SOFTWARE ENGINEER SENIOR CONSULTANT II LEANDER, TX
+ We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.","Transportation, Logistics, Supply Chain and Storage","https://www.linkedin.com/company/vensurehr","https://media.licdn.com/dms/image/v2/D560BAQFXMI2muka8Cw/company-logo_100_100/company-logo_100_100/0/1689271229200/vensurehr_logo?e=2147483647&v=beta&t=elo3wcuj05ytn0QZNBDNdAEYNvwkLWUdQcsyTAXc3m4","","","","","","","","","","",""
+"li-4414144522","linkedin","https://www.linkedin.com/jobs/view/4414144522","","Senior DevOps Engineer I (Automation)","Smartsheet","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.
    
 
   
 
- Base salary
+ When was the last occasion you had the opportunity to contribute to a company that is shaping an industry and empowering individuals to translate ideas into tangible impact with speed? Smartsheet's core mission is to empower everyone to enhance their work processes. Our business model is founded on identifying exceptional talent and providing them with the autonomy to develop our acclaimed Software as a Service (SaaS) offering. With a user base exceeding 10 million, our platform is utilized across various industries, including construction, retail, and software development, presenting us with unique technical challenges.
    
 
   
 
- $132,638
+ Smartsheet is seeking a Senior Business DevOps Engineer to join our Corporate Systems Development team in Bangalore. This role will focus on building and scaling our CI/CD pipelines, infrastructure automation, monitoring frameworks, and deployment processes supporting mission\\-critical integrations across Finance, People, Sales, Legal, IT, and Engineering systems.
    
 
   
 
- Filed
+ You’ll work across a variety of systems and platforms (AWS, GitLab, DataDog, Terraform, Boomi, UiPath) to streamline deployment of backend integrations and automation solutions. If you thrive on optimizing developer velocity, ensuring system reliability, and automating everything from build to deploy, this role is for you.
    
 
   
 
- 2026\\-03\\-18
+ The position reports to the Senior Manager, Systems Development and collaborates closely with global developers, architects, and application administrators to ensure our platform foundations are secure, efficient, and scalable.
    
 
   
 
- Start date
-   
+**You Will**
+* Design, implement and maintain CI/CD pipelines using GitLab and AWS Code Pipeline for integration, automation, and infrastructure projects.
+* Develop and manage infrastructure\\-as\\-code (Terraform, TerraGrunt, CloudFormation) for consistent, versioned deployment environments.
+* Build observability and monitoring frameworks using DataDog, Cloudwatch and custom dashboards for integration health.
+* Automate environment provisioning and configuration management.
+* Reviewing and remediating any vulnerabilities reported by SecEng monitoring tools like WIZ within the agreed upon SLA, ensuring compliance
+* Proactively monitoring for code obsolescence and upgrading any AWS code bases
+* Collaborate with developers to containerize workloads and streamline Lambda deployment packaging and dependency management.
+* Enhance system reliability and deployment speed through automation of build/test/release workflows.
+* Support developers in managing staging and production release processes, including rollback plans and change validation.
+* Partner with architects to define DevOps best practices for security, scaling, and fault tolerance across integration services.
+* Participate in a production support rotation, triaging environment\\-level issues and improving alerting and recovery automation.
 
-  
 
- 2026\\-06\\-28
-   
+**You Have**
+* BS in Computer Science, related field, or equivalent industry experience
+* 7\\+ years of experience in DevOps or System Engineering roles
+* Proven expertise in AWS services (Lambda, Step Functions, EC2, SQS/SNS, S3\\)
+* Hands\\-on experience in with Terraform, TerraGrunt, GitLab CI/CD, AWS CDK and Infrastructure as Code principles
+* Solid understanding of networking, security groups, VPC, and API gateway configurations
+* Experience with containerization (Docker) and orchestration
+* Familiar with Python and/or Javascript/Typescript scripting for automation
+* Strong experience implementing monitoring, logging and alerting systems
+* Understanding of deployment strategies (blue/green, canary, rolling)
+* A strong analytical mindset to identify complex issues, troubleshoot effectively, and propose innovative solutions.
+* The capacity to share knowledge, coach team members, and foster a learning environment.
+* Excellent communication and collaboration skills with global, distributed teams
+* Proven ability to troubleshoot production systems and drive root\\-cause resolution.
+* The flexibility to adjust to changing priorities, new technologies, and evolving project requirements.
+* Comfortable operating in an Agile environment, and familiar with Sprint ceremonies like Daily stand\\-up, Sprint planning, Sprint Finalization etc.
 
-  
 
- EQUIFAX INC SOFTWARE ENGINEER SENIOR MANAGER ALPHARETTA, GA
+**Get To Know Us**
+ At Smartsheet, your ideas are heard, your potential is supported, and your contributions have real impact. You’ll have the freedom to explore, push boundaries, and grow beyond your role. We welcome diverse perspectives and nontraditional paths—because we know that impact comes from individuals who care deeply and challenge thoughtfully. When you’re doing work that stretches you, excites you, and connects you to something bigger, that’s magic at work. Let’s build what’s next, together.
    
 
   
 
- Base salary
+**Equal Opportunity Employer**
+ Smartsheet is an Equal Opportunity (EEO) employer committed to fostering an inclusive environment with the best employees. It is our policy to provide equal employment opportunities to all qualified applicants in accordance with applicable laws in the US, UK, Australia, Germany, Costa Rica, Japan, Bulgaria, India, and Singapore. All qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information.
    
 
   
 
- $158,865
+ If there are preparations we can make to help ensure you have a comfortable and positive interview experience, please let us know.","Software Development","https://www.linkedin.com/company/smartsheet-com","https://media.licdn.com/dms/image/v2/D560BAQEkCNGen9QogA/company-logo_100_100/company-logo_100_100/0/1688057851137/smartsheet_com_logo?e=2147483647&v=beta&t=YiMN_zbEvcoqSohH9gaYJoLibtSXvNH4opmbZXvs72w","","","","","","","","","","",""
+"li-4449311465","linkedin","https://www.linkedin.com/jobs/view/4449311465","","Principal Software Engineer","Vensure Employer Solutions","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Set the technical direction — then build it yourself.**
+ This is not an architecture role that hands specs to other people. You design it, write meaningful parts of it, and stay accountable for how it behaves in production.
    
 
   
 
- Filed
+ PrismHR is the HR, payroll, and benefits platform used by employer\\-services organizations across the US, backed by Vensure Employer Solutions. The problem is genuinely interesting\\~ a mature payroll engine customers depend on absolutely, and a modern multi\\-tenant SaaS layer being built around and through it.
    
 
   
 
- 2026\\-02\\-04
+ You will design single\\-page applications over a Node.js API tier, evaluate technologies and build proof\\-of\\-concepts, write technical specifications, and communicate them credibly to engineers and executives alike. Live problems right now\\~ mobile performance, per\\-tenant branding without redeployment, accessibility, and making a distributed system observable enough to diagnose rather than guess.
    
 
   
 
- Start date
-   
+**You will need\\~**
+* 10\\+ years with TypeScript and JavaScript
+* Expert\\-level Angular 2\\+ single\\-page applications
+* Expert\\-level Node.js and Express services, APIs, microservices
+* Docker and AKS or equivalent
+* Architectural judgment on multi\\-tenant SaaS — security, performance, scale
+* The ability to hold a technical position with executives through credibility, not authority
 
-  
 
- 2026\\-02\\-16
+**Nice to have\\~** 
+ legacy modernization, observability depth, accessibility standards, payroll or HCM domain knowledge.
    
 
   
 
- SYNERGY TECHNOLOGIES LLC SOFTWARE ENGINEER SENIOR MOBILE APPLICATION ENGINEER INDIAN LAND, SC
+**The schedule\\~** 
+ 6\\~00 PM \\- 3\\~00 AM IST, Monday to Friday, first four hours from the Noida office and the rest from home. For a Principal role the overlap is the point — you cannot influence decisions you are asleep for.
    
 
   
 
- Base salary
+ Competitive compensation, health coverage, conference and learning budget, and a real path toward Architect scope. Apply now.
    
 
   
 
- $138,258
+ \\#VensureHRIndia
    
 
   
 
- Filed
-   
+ We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.","Transportation, Logistics, Supply Chain and Storage","https://www.linkedin.com/company/vensurehr","https://media.licdn.com/dms/image/v2/D560BAQFXMI2muka8Cw/company-logo_100_100/company-logo_100_100/0/1689271229200/vensurehr_logo?e=2147483647&v=beta&t=elo3wcuj05ytn0QZNBDNdAEYNvwkLWUdQcsyTAXc3m4","","","","","","","","","","",""
+"li-4449328421","linkedin","https://www.linkedin.com/jobs/view/4449328421","","Advisory Quality Assurance Software Engineer","Pitney Bowes","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**We’re hiring at Pitney Bowes, where top talent builds meaningful careers and lasting impact. We Move fast, Deliver excellence, and Win together…that’s The Pitney Bowes way. Here, how we work matters just as much as what we achieve.**
+**We’re Looking For People Who**
+* Act with urgency, accountability, and purpose
+* Deliver high quality work with consistency and pride
+* Collaborate effectively and elevate those around them
+* Focus on outcomes that drive impact and growth
 
-  
 
- 2026\\-03\\-05
+**Job Description**
+**Join Pitney Bowes as Advisory Quality Assurance Software Engineer**
+**Years of Experience: 5\\+ years**
+**Job Location \\- Noida/Pune**
+**Impact**
+ As Advisory Quality Assurance Engineer (Automation), you will be part of the team that designs and develops cloud\\-based offerings. You will be deeply involved in leading the validation of the SaaS based offering including collaborating across the organization with Architects, UX experts, product managers and other software developers. You will use your expertise in building automation test framework to do sanity of the product. You are expected to be hands on and up to date with the latest technology stack. If this type of position motivates you, tell us why you are the right person for this challenging role!
    
 
   
 
- Start date
-   
+**The Job**
+* Design, create and maintain automated test cases and determine priority for the test cases and create execution plans to implement these scenarios.
+* Maintain automated regression suites/packages to be compliant with changing requirements and features.
+* The candidate should be able to work independently to identify test cases/test scripts from requirements and map test cases/scripts back to the original requirement
+* Understand business objectives and build alignment and buy\\-in cross\\-functionally. Analyze functional and technical requirements and translate them into manual and/or automatable scenarios.
+* Developing and Executing testing automation for Cross Browser (browsers like Safari, Chrome, Mobile browsers) and android tablet
+* Participate in Agile working practices such as daily scrum meetings, sprint planning meetings, reviews, and retrospectives.
+* Mentor \\& guide the junior developers in the team
 
-  
 
- 2026\\-03\\-16
-   
+**Qualifications \\& Skills Required**
+**Must Have**
+* Around 5\\+ years overall Software QA experience
+* Minimum 4\\+ years of experience with test automation
+* Experience in developing and implementing automated test cases for web and mobile applications
+* Exceptional ability to develop maintainable test automation solutions using Appium, Cypress, Pytest
+* Experience in TypeScript is must have
+* Experience in Appium is must have
+* Experience in Android Tablet and mobile application testing is must have
+* Experience in IOT domain is must have
+* Experience working with relational/NoSQL databases like MongoDB
+* Experience with performance testing tools like JMeter
+* Understanding of RESTful APIs and experience in testing APIs using tools like Postman
+* Experience in integrating automation tests into CI/CD pipelines
 
-  
 
- ARMADA SYSTEMS INC SOFTWARE ENGINEER SENIOR SOFTWARE ENGINEER BELLEVUE, WA
-   
+**Good to Have**
+* Experience in Android application development
+* Exposure to IOT domain
+* Good understanding of fundamental design principles behind a scalable application. Understanding of the HTTP2\\.0 protocol, web applications, performance and monitoring.
+* Understanding of the differences between multiple delivery platforms, such as mobile vs desktop, and optimizing output to match the specific platform
+* Knowledge of user authentication and authorization between multiple systems OAuth2\\.0
+* Proficient understanding of Gitlab, CI/CD, DevOps practices
+* Knowledge in network architecture \\& server administration
+* Having the knowledge of front\\-end technologies like Angular 16\\+ and NodeJS is a plus.
+* Great attention to details and Organizational skills
 
-  
 
- Base salary
-   
+**Education**
+* Degree in Computer Science, Statistics, or relevant field
 
-  
 
- $180,710
+**The Team**
+ Pitney Bowes, a global technology company, provides shipping \\& mailing solutions, data management software, and location intelligence offerings, powering billions of physical and digital transactions in the connected and borderless world of commerce.
    
 
   
 
- Filed
+ Helping clients achieve their greatest commerce potential are Pitney Bowes' 16,000\\+ passionate employees around the world, our relentless pursuit of innovation with over 2,300 active patents, and our focus on clients, who are at the center of all that we do \\- from small businesses to 90% of the Fortune 500\\.
    
 
   
 
- 2026\\-02\\-20
-   
+**We Will**
+* Provide the will: opportunity to grow and develop your career
+* Offer an inclusive environment that encourages diverse perspectives and ideas
+* Deliver challenging and unique opportunities to contribute to the success of a transforming organization
+* Offer comprehensive benefits globally (PB Benefits and Wellbeing Programs)
 
-  
 
- Start date
+ Pitney Bowes is an equal opportunity employer that values diversity and inclusiveness in the workplace.
    
 
   
 
- 2026\\-03\\-16
-   
+ All interested individuals must apply online.","Software Development","https://www.linkedin.com/company/pitney-bowes","https://media.licdn.com/dms/image/v2/D560BAQHqkhAa7BWPZA/company-logo_100_100/company-logo_100_100/0/1688663536023/pitney_bowes_logo?e=2147483647&v=beta&t=ykC_if0AabJ1i4RnvGkthBYjhRXqAZYAds8m--Icgzo","","","","","","","","","","",""
+"li-4449328422","linkedin","https://www.linkedin.com/jobs/view/4449328422","","Advisory Quality Assurance Software Engineer","Pitney Bowes","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**We’re hiring at Pitney Bowes, where top talent builds meaningful careers and lasting impact. We Move fast, Deliver excellence, and Win together…that’s The Pitney Bowes way. Here, how we work matters just as much as what we achieve.**
+**We’re Looking For People Who**
+* Act with urgency, accountability, and purpose
+* Deliver high quality work with consistency and pride
+* Collaborate effectively and elevate those around them
+* Focus on outcomes that drive impact and growth
 
-  
 
- JUNIPER NETWORKS INC SOFTWARE ENGINEER SENIOR STAFF SUNNYVALE, CA
+**Job Description**
+**Join Pitney Bowes as Advisory Quality Assurance Software Engineer**
+**Years of Experience: 5\\+ years**
+**Job Location \\- Noida/Pune**
+**Impact**
+ As Advisory Quality Assurance Engineer (Automation), you will be part of the team that designs and develops cloud\\-based offerings. You will be deeply involved in leading the validation of the SaaS based offering including collaborating across the organization with Architects, UX experts, product managers and other software developers. You will use your expertise in building automation test framework to do sanity of the product. You are expected to be hands on and up to date with the latest technology stack. If this type of position motivates you, tell us why you are the right person for this challenging role!
    
 
   
 
- Base salary
-   
+**The Job**
+* Design, create and maintain automated test cases and determine priority for the test cases and create execution plans to implement these scenarios.
+* Maintain automated regression suites/packages to be compliant with changing requirements and features.
+* The candidate should be able to work independently to identify test cases/test scripts from requirements and map test cases/scripts back to the original requirement
+* Understand business objectives and build alignment and buy\\-in cross\\-functionally. Analyze functional and technical requirements and translate them into manual and/or automatable scenarios.
+* Developing and Executing testing automation for Cross Browser (browsers like Safari, Chrome, Mobile browsers) and android tablet
+* Participate in Agile working practices such as daily scrum meetings, sprint planning meetings, reviews, and retrospectives.
+* Mentor \\& guide the junior developers in the team
 
-  
 
- $194,875
-   
+**Qualifications \\& Skills Required**
+**Must Have**
+* Around 5\\+ years overall Software QA experience
+* Minimum 4\\+ years of experience with test automation
+* Experience in developing and implementing automated test cases for web and mobile applications
+* Exceptional ability to develop maintainable test automation solutions using Appium, Cypress, Pytest
+* Experience in TypeScript is must have
+* Experience in Appium is must have
+* Experience in Android Tablet and mobile application testing is must have
+* Experience in IOT domain is must have
+* Experience working with relational/NoSQL databases like MongoDB
+* Experience with performance testing tools like JMeter
+* Understanding of RESTful APIs and experience in testing APIs using tools like Postman
+* Experience in integrating automation tests into CI/CD pipelines
 
-  
 
- Filed
-   
+**Good to Have**
+* Experience in Android application development
+* Exposure to IOT domain
+* Good understanding of fundamental design principles behind a scalable application. Understanding of the HTTP2\\.0 protocol, web applications, performance and monitoring.
+* Understanding of the differences between multiple delivery platforms, such as mobile vs desktop, and optimizing output to match the specific platform
+* Knowledge of user authentication and authorization between multiple systems OAuth2\\.0
+* Proficient understanding of Gitlab, CI/CD, DevOps practices
+* Knowledge in network architecture \\& server administration
+* Having the knowledge of front\\-end technologies like Angular 16\\+ and NodeJS is a plus.
+* Great attention to details and Organizational skills
 
-  
 
- 2025\\-02\\-27
-   
+**Education**
+* Degree in Computer Science, Statistics, or relevant field
 
-  
 
- Start date
+**The Team**
+ Pitney Bowes, a global technology company, provides shipping \\& mailing solutions, data management software, and location intelligence offerings, powering billions of physical and digital transactions in the connected and borderless world of commerce.
    
 
   
 
- 2025\\-03\\-10
+ Helping clients achieve their greatest commerce potential are Pitney Bowes' 16,000\\+ passionate employees around the world, our relentless pursuit of innovation with over 2,300 active patents, and our focus on clients, who are at the center of all that we do \\- from small businesses to 90% of the Fortune 500\\.
    
 
   
 
- Employer Job Title Base Salary Location Filed Start Date FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $129,376 ALHARETTA, GA 3/23/2026 4/10/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $129,376 ALPHARETTA, GA 3/23/2026 4/10/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $124,714 BATON ROUGE, LA 6/9/2025 12/7/2025 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $124,714 JACKSONVILLE, FL 6/9/2025 12/7/2025 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $122,400 JACKSONVILLE, FL 12/9/2024 12/15/2024 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $120,840 OAKLAND, CA 12/9/2024 12/15/2024 SAMSUNG RESEARCH AMERICA INC SOFTWARE ENGINEER SENIOR $119,870 IRVINE, CA 3/16/2026 5/1/2026 SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR $160,720 MILFORD, OH 3/16/2026 3/23/2026 OURO GLOBAL INC SOFTWARE ENGINEER SENIOR $119,991 AUSTIN, TX 3/13/2026 9/9/2026 IHC HEALTH SERVICES INC SOFTWARE ENGINEER SENIOR $128,440 WEST VALLEY CITY, UT 3/13/2026 8/18/2026 SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR $133,348 MILFORD, OH 3/13/2026 9/11/2026 INFOR US LLC SOFTWARE ENGINEER SENIOR $97,000 TULSA, OK 3/12/2026 8/30/2026 WORLDPAY LLC SOFTWARE ENGINEER SENIOR $140,060 MORROW, OH 3/11/2026 4/6/2026 WORLDPAY LLC SOFTWARE ENGINEER SENIOR $140,060 CINCINNATI, OH 3/11/2026 4/6/2026 OURO GLOBAL INC SOFTWARE ENGINEER SENIOR $119,991 AUSTIN, TX 3/13/2026 9/10/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $118,049 HUNTERSVILLE, NC 3/6/2026 3/16/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $118,049 JACKSONVILLE, FL 3/6/2026 3/16/2026 SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR $134,031 MILFORD, OH 3/4/2026 8/30/2026 ARIZONA STATE UNIVERSITY SOFTWARE ENGINEER SENIOR $79,934 SCOTTSDALE, AZ 3/3/2026 7/9/2026 SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR $170,000 COSTA MESA, CA 3/3/2026 8/23/2026 CONSUMERINFOCOM INC SOFTWARE ENGINEER SENIOR $124,598 COLUMBUS, GA 3/2/2026 9/1/2026 SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR $131,045 MILFORD, OH 2/25/2026 8/13/2026 DECHEN CONSULTING GROUP INC SOFTWARE ENGINEER SENIOR $54/h DEARBORN, MI 2/24/2026 6/14/2026 SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR $165,800 ROUNDROCK, TX 2/23/2026 8/10/2026 IHC HEALTH SERVICES INC SOFTWARE ENGINEER SENIOR $152,402 MURRAY, UT 2/20/2026 7/9/2026 TSYS ACQUIRING SOLUTIONS LLC SOFTWARE ENGINEER SENIOR $100,459 RALEIGH, NC 2/19/2026 8/7/2026 OURO GLOBAL INC SOFTWARE ENGINEER SENIOR $163,550 AUSTIN, TX 2/19/2026 2/19/2026 EPITEC INC SOFTWARE ENGINEER SENIOR $75/h DEARBORN, MI 1/7/2025 3/7/2025 NEWFOLD DIGITAL INC SOFTWARE ENGINEER SENIOR $93,173 HUDSON, NH 2/4/2026 8/1/2026 UPMC PRESBYTERIAN SHADYSIDE SOFTWARE ENGINEER SENIOR $127,627 PITTSBURGH, PA 2/3/2026 7/17/2026 WORLDPAY LLC SOFTWARE ENGINEER SENIOR $140,000 FORNEY, TX 4/25/2025 10/1/2025 WORLDPAY LLC SOFTWARE ENGINEER SENIOR $140,000 CINCINNATI, OH 4/25/2025 10/1/2025 ZEBRA TECHNOLOGIES CORPORATION SOFTWARE ENGINEER SENIOR $112,362 KENNESAW, GA 1/27/2026 3/20/2026 UNITED SERVICES AUTOMOBILE ASSOCIATION SOFTWARE ENGINEER SENIOR $148,866 SAN ANTONIO, TX 1/27/2026 6/2/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $152,523 ATLANTA, GA 1/23/2026 4/6/2026 ZEBRA TECHNOLOGIES CORPORATION SOFTWARE ENGINEER SENIOR $112,362 KENNESAW, GA 1/23/2026 3/20/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $152,523 WOODSTOCK, GA 1/23/2026 4/6/2026 SHIFT4 PAYMENTS SOFTWARE ENGINEER SENIOR $123,471 WINCHESTER, VA 1/22/2026 3/3/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $135,427 CONCORD, NC 9/13/2024 10/4/2024 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $135,427 JACKSONVILLE, FL 9/13/2024 10/4/2024 THE PNC FINANCIAL SERVICES GROUP INC SOFTWARE ENGINEER SENIOR $130,800 DULUTH, GA 1/21/2026 1/28/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $128,600 BONNEY LAKE, WA 1/22/2024 2/2/2024 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $128,600 JACKSONVILLE, FL 1/22/2024 2/2/2024 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $135,000 JACKSONVILLE, FL 1/17/2026 7/12/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $135,000 ST JOHNS, FL 1/17/2026 7/12/2026 WORLDPAY LLC SOFTWARE ENGINEER SENIOR $144,591 CINCINNATI, OH 1/16/2026 4/1/2026 WORLDPAY LLC SOFTWARE ENGINEER SENIOR $144,591 PHOENIX, AZ 1/16/2026 4/1/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $158,671 CINCINNATI, OH 1/13/2026 6/12/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $158,671 CINCINNATI, OH 1/13/2026 6/12/2026 DECHEN CONSULTING GROUP INC SOFTWARE ENGINEER SENIOR $65/h DEARBORN, MI 1/7/2026 3/28/2026 FISERV SOLUTIONS LLC SOFTWARE ENGINEER SENIOR $160,805 BERKELEY HEIGHTS, NJ 1/6/2026 6/26/2026 UNITED SERVICES AUTOMOBILE ASSOCIATION SOFTWARE ENGINEER SENIOR $157,632 SAN ANTONIO, TX 1/5/2026 6/12/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $127,878 BATTLE GROUND, WA 12/30/2025 6/7/2026 ARTIFICIAL INTELLIGENCE STAFFING LLC SOFTWARE ENGINEER SENIOR $68,702 AUSTIN, TX 12/30/2025 1/6/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $127,878 JACKSONVILLE, FL 12/30/2025 6/7/2026 FAST SWITCHGREAT LAKES LLC SOFTWARE ENGINEER SENIOR $58/h DEARBORN, MI 2/22/2023 8/9/2023 THE PNC FINANCIAL SERVICES GROUP INC SOFTWARE ENGINEER SENIOR $134,971 FARMERS BRANCH, TX 12/16/2025 12/23/2025 ARTIFICIAL INTELLIGENCE LLC SOFTWARE ENGINEER SENIOR $90,355 AUSTIN, TX 12/16/2025 12/23/2025 WAUSAU FINANCIAL SYSTEMS INC SOFTWARE ENGINEER SENIOR $138,567 HERNDON, VA 2/28/2025 8/8/2025 UPMC PRESBYTERIAN SHADYSIDE SOFTWARE ENGINEER SENIOR $141,401 PITTSBURGH, PA 12/12/2025 6/12/2026 UPMC PRESBYTERIAN SHADYSIDE SOFTWARE ENGINEER SENIOR $144,689 PITTSBURGH, PA 12/12/2025 6/12/2026 THE PNC FINANCIAL SERVICES GROUP INC SOFTWARE ENGINEER SENIOR $140,800 PITTSBURGH, PA 12/11/2025 2/2/2026 GLOBAL PAYMENT HOLDING COMPANY SOFTWARE ENGINEER SENIOR $124,298 ALPHARETTA, GA 12/11/2025 12/23/2025 THE PNC FINANCIAL SERVICES GROUP INC SOFTWARE ENGINEER SENIOR $119,475 PITTSBURGH, PA 12/10/2025 12/18/2025 DELUXE CORPORATION SOFTWARE ENGINEER SENIOR $121,680 MANKATO, MN 12/5/2025 6/6/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $129,533 CHARLOTTE, NC 6/25/2024 7/8/2024 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $129,533 JACKSONVILLE, FL 6/23/2024 7/8/2024 SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR $148,000 COSTA MESA, CA 11/25/2025 5/21/2026 GENERAL DYNAMICS INFORMATION TECHNOLOGY INC SOFTWARE ENGINEER SENIOR $133,536 CHARLOTTE, NC 11/25/2025 12/4/2025 SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR $143,570 MILFORD, OH 11/20/2025 12/15/2025 UPMC PRESBYTERIAN SHADYSIDE SOFTWARE ENGINEER SENIOR $130,908 PITTSBURGH, PA 11/18/2025 4/1/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $144,264 JACKSONVILLE, FL 11/7/2025 1/2/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $144,264 COLLIERVILLE, TN 11/7/2025 1/2/2026 SIEMENS INDUSTRY SOFTWARE INC SOFTWARE ENGINEER SENIOR $170,000 BELLEVUE, WA 11/6/2025 11/17/2025 OURO GLOBAL INC SOFTWARE ENGINEER SENIOR $145,000 AUSTIN, TX 11/5/2025 3/20/2026 CITIZENS PROPERTY INSURANCE CORPORATION SOFTWARE ENGINEER SENIOR $103,000 JACKSONVILLE, FL 11/4/2025 5/6/2026 EXTO INC SOFTWARE ENGINEER SENIOR $165,000 SAN FRANCISCO, CA 11/3/2025 11/10/2025 PROGRESS SOFTWARE CORPORATION SOFTWARE ENGINEER SENIOR $160,000 MILPITAS, CA 11/1/2025 4/10/2026 JACK HENRY ASSOCIATES INC SOFTWARE ENGINEER SENIOR $140,920 MT JULIET, TN 9/30/2025 9/30/2025 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $133,575 JACKSONVILLE, FL 9/30/2025 3/20/2026 FIS MANAGEMENT SERVICES LLC SOFTWARE ENGINEER SENIOR $133,575 ELICOTT CITY, MD 9/30/2025 3/20/2026 UPMC PRESBYTERIAN SHADYSIDE SOFTWARE ENGINEER SENIOR $141,560 PITTSBURGH, PA 9/29/2025 3/27/2026 WORLDPAY LLC SOFTWARE ENGINEER SENIOR $141,985 CHARLOTTE, NC 3/25/2026 8/30/2026 WORLDPAY LLC SOFTWARE ENGINEER SENIOR $141,985 CINCINNATI, OH 3/25/2026 8/30/2026 LOGITECH INC SOFTWARE ENGINEER SENIOR ANDROID FRAMEWORK ENGINEER $176,033 SAN JOSE, CA 11/19/2025 5/10/2026 BLACKBAUD INC SOFTWARE ENGINEER SENIOR B $160,810 UNION, NJ 11/7/2025 1/31/2026 ALLSTATE INSURANCE COMPANY SOFTWARE ENGINEER SENIOR CONSULTANT II $132,637 LEANDER, TX 3/18/2026 6/28/2026 EQUIFAX INC SOFTWARE ENGINEER SENIOR MANAGER $158,865 ALPHARETTA, GA 2/4/2026 2/16/2026 SYNERGY TECHNOLOGIES LLC SOFTWARE ENGINEER SENIOR MOBILE APPLICATION ENGINEER $138,258 INDIAN LAND, SC 3/5/2026 3/16/2026 ARMADA SYSTEMS INC SOFTWARE ENGINEER SENIOR SOFTWARE ENGINEER $180,710 BELLEVUE, WA 2/20/2026 3/16/2026 JUNIPER NETWORKS INC SOFTWARE ENGINEER SENIOR STAFF $194,875 SUNNYVALE, CA 2/27/2025 3/10/2025
-   
+**We Will**
+* Provide the will: opportunity to grow and develop your career
+* Offer an inclusive environment that encourages diverse perspectives and ideas
+* Deliver challenging and unique opportunities to contribute to the success of a transforming organization
+* Offer comprehensive benefits globally (PB Benefits and Wellbeing Programs)
 
-  
 
- How to read H\\-1B LCA salary data
+ Pitney Bowes is an equal opportunity employer that values diversity and inclusiveness in the workplace.
    
 
   
 
- What is an LCA?
-   
+ All interested individuals must apply online.","Software Development","https://www.linkedin.com/company/pitney-bowes","https://media.licdn.com/dms/image/v2/D560BAQHqkhAa7BWPZA/company-logo_100_100/company-logo_100_100/0/1688663536023/pitney_bowes_logo?e=2147483647&v=beta&t=ykC_if0AabJ1i4RnvGkthBYjhRXqAZYAds8m--Icgzo","","","","","","","","","","",""
+"li-4449314580","linkedin","https://www.linkedin.com/jobs/view/4449314580","","Advisory Quality Assurance Software Engineer","Pitney Bowes","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**We’re hiring at Pitney Bowes, where top talent builds meaningful careers and lasting impact. We Move fast, Deliver excellence, and Win together…that’s The Pitney Bowes way. Here, how we work matters just as much as what we achieve.**
+**We’re Looking For People Who**
+* Act with urgency, accountability, and purpose
+* Deliver high quality work with consistency and pride
+* Collaborate effectively and elevate those around them
+* Focus on outcomes that drive impact and growth
 
-  
 
- An LCA is a Labor Condition Application employers file before submitting an H\\-1B petition. It includes job title, worksite location, and wage information.
+**Job Description**
+**Join Pitney Bowes as Advisory Quality Assurance Software Engineer**
+**Years of Experience: 5\\+ years**
+**Job Location \\- Noida/Pune**
+**Impact**
+ As Advisory Quality Assurance Engineer (Automation), you will be part of the team that designs and develops cloud\\-based offerings. You will be deeply involved in leading the validation of the SaaS based offering including collaborating across the organization with Architects, UX experts, product managers and other software developers. You will use your expertise in building automation test framework to do sanity of the product. You are expected to be hands on and up to date with the latest technology stack. If this type of position motivates you, tell us why you are the right person for this challenging role!
    
 
   
 
- Is this the exact employee salary?
-   
+**The Job**
+* Design, create and maintain automated test cases and determine priority for the test cases and create execution plans to implement these scenarios.
+* Maintain automated regression suites/packages to be compliant with changing requirements and features.
+* The candidate should be able to work independently to identify test cases/test scripts from requirements and map test cases/scripts back to the original requirement
+* Understand business objectives and build alignment and buy\\-in cross\\-functionally. Analyze functional and technical requirements and translate them into manual and/or automatable scenarios.
+* Developing and Executing testing automation for Cross Browser (browsers like Safari, Chrome, Mobile browsers) and android tablet
+* Participate in Agile working practices such as daily scrum meetings, sprint planning meetings, reviews, and retrospectives.
+* Mentor \\& guide the junior developers in the team
 
-  
 
- It reflects the wage reported on the application and may represent a range or offered wage depending on the record type.
-   
+**Qualifications \\& Skills Required**
+**Must Have**
+* Around 5\\+ years overall Software QA experience
+* Minimum 4\\+ years of experience with test automation
+* Experience in developing and implementing automated test cases for web and mobile applications
+* Exceptional ability to develop maintainable test automation solutions using Appium, Cypress, Pytest
+* Experience in TypeScript is must have
+* Experience in Appium is must have
+* Experience in Android Tablet and mobile application testing is must have
+* Experience in IOT domain is must have
+* Experience working with relational/NoSQL databases like MongoDB
+* Experience with performance testing tools like JMeter
+* Understanding of RESTful APIs and experience in testing APIs using tools like Postman
+* Experience in integrating automation tests into CI/CD pipelines
 
-  
 
- Why are some fields missing?
-   
+**Good to Have**
+* Experience in Android application development
+* Exposure to IOT domain
+* Good understanding of fundamental design principles behind a scalable application. Understanding of the HTTP2\\.0 protocol, web applications, performance and monitoring.
+* Understanding of the differences between multiple delivery platforms, such as mobile vs desktop, and optimizing output to match the specific platform
+* Knowledge of user authentication and authorization between multiple systems OAuth2\\.0
+* Proficient understanding of Gitlab, CI/CD, DevOps practices
+* Knowledge in network architecture \\& server administration
+* Having the knowledge of front\\-end technologies like Angular 16\\+ and NodeJS is a plus.
+* Great attention to details and Organizational skills
 
-  
 
- Some items are excluded or blank due to PII rules or data entry anomalies in the DOL public disclosure files.
-   
+**Education**
+* Degree in Computer Science, Statistics, or relevant field
 
-  
 
- Summary of H\\-1B salary data for 2026
+**The Team**
+ Pitney Bowes, a global technology company, provides shipping \\& mailing solutions, data management software, and location intelligence offerings, powering billions of physical and digital transactions in the connected and borderless world of commerce.
    
 
   
 
- Software Engineer Senior H\\-1B salary data for 2026 provides a data\\-driven view into employer\\-sponsored visa compensation trends.
+ Helping clients achieve their greatest commerce potential are Pitney Bowes' 16,000\\+ passionate employees around the world, our relentless pursuit of innovation with over 2,300 active patents, and our focus on clients, who are at the center of all that we do \\- from small businesses to 90% of the Fortune 500\\.
    
 
   
 
- Based on 91 Labor Condition Application (LCA) filings from 2026, the average reported base salary is approximately $0\\. Out of 91 total applications, 0 were certified and 0 were denied.
-   
+**We Will**
+* Provide the will: opportunity to grow and develop your career
+* Offer an inclusive environment that encourages diverse perspectives and ideas
+* Deliver challenging and unique opportunities to contribute to the success of a transforming organization
+* Offer comprehensive benefits globally (PB Benefits and Wellbeing Programs)
 
-  
 
- Across all reported worksites, the overall approval rate is approximately 100%, including certified and withdrawn applications.
+ Pitney Bowes is an equal opportunity employer that values diversity and inclusiveness in the workplace.
    
 
   
 
- This page is designed to help job seekers, employers, and researchers better understand H\\-1B salary trends, hiring patterns, and approval outcomes using publicly available U.S. Department of Labor disclosure data.","IT System Data Services","https://www.linkedin.com/company/h1bmetrics","https://media.licdn.com/dms/image/v2/D560BAQFFuFJZtWXTFA/company-logo_100_100/B56Z7WL_u8HIAI-/0/1781709929640/h1bmetrics_logo?e=2147483647&v=beta&t=6u26PPcrsJHpAGbIaouWBhJCmow8BNwBOyZH4LOG2ME","","","","","","","","","","",""
-"li-4449310314","linkedin","https://www.linkedin.com/jobs/view/4449310314","","Apps Dev Programmer Analyst","Citi","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","The Applications Development Programmer Analyst is an intermediate level position responsible for participation in the establishment and implementation of new or revised application systems and programs in coordination with the Technology team. The overall objective of this role is to contribute to applications systems analysis and programming activities.
-   
+ All interested individuals must apply online.","Software Development","https://www.linkedin.com/company/pitney-bowes","https://media.licdn.com/dms/image/v2/D560BAQHqkhAa7BWPZA/company-logo_100_100/company-logo_100_100/0/1688663536023/pitney_bowes_logo?e=2147483647&v=beta&t=ykC_if0AabJ1i4RnvGkthBYjhRXqAZYAds8m--Icgzo","","","","","","","","","","",""
+"li-4449312628","linkedin","https://www.linkedin.com/jobs/view/4449312628","","Advisory Quality Assurance Software Engineer","Pitney Bowes","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**We’re hiring at Pitney Bowes, where top talent builds meaningful careers and lasting impact. We Move fast, Deliver excellence, and Win together…that’s The Pitney Bowes way. Here, how we work matters just as much as what we achieve.**
+**We’re Looking For People Who**
+* Act with urgency, accountability, and purpose
+* Deliver high quality work with consistency and pride
+* Collaborate effectively and elevate those around them
+* Focus on outcomes that drive impact and growth
 
-  
 
-**Responsibilities:**
-* Utilize knowledge of applications development procedures and concepts, and basic knowledge of other technical areas to identify and define necessary system enhancements
-* Identify and analyze issues, make recommendations, and implement solutions
-* Utilize knowledge of business processes, system processes, and industry standards to solve complex issues
-* Analyze information and make evaluative judgements to recommend solutions and improvements
-* Conduct testing and debugging, utilize script tools, and write basic code for design specifications
-* Assess applicability of similar experiences and evaluate options under circumstances not covered by procedures
-* Develop working knowledge of Citi’s information systems, procedures, standards, client server application development, network operations, database administration, systems administration, data center operations, and PC\\-based applications
-* Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.
-
-
-**Experience:** 
- 1\\-3 Years
+**Job Description**
+**Join Pitney Bowes as Advisory Quality Assurance Software Engineer**
+**Years of Experience: 5\\+ years**
+**Job Location \\- Noida/Pune**
+**Impact**
+ As Advisory Quality Assurance Engineer (Automation), you will be part of the team that designs and develops cloud\\-based offerings. You will be deeply involved in leading the validation of the SaaS based offering including collaborating across the organization with Architects, UX experts, product managers and other software developers. You will use your expertise in building automation test framework to do sanity of the product. You are expected to be hands on and up to date with the latest technology stack. If this type of position motivates you, tell us why you are the right person for this challenging role!
    
 
   
-
-**Key Skills:**
-* 1\\-3 years of experience working with Openlink Endur/ION Endur platform.
-* Basic to intermediate knowledge of Energy Trading \\& Risk Management (ETRM) concepts.
-* Hands\\-on experience with Java development and customization.
-* Good understanding of SQL and Oracle databases.
-* Experience in application support, troubleshooting, and incident resolution.
-* Knowledge of trade lifecycle, settlements, risk management, and reporting processes.
-* Exposure to interface development, system integrations, and batch monitoring.
-* Strong analytical and problem\\-solving skills.
-* Excellent communication and stakeholder management abilities.
-
-
-**Preferred Skills:**
-* Exposure to OpenJVS, AVS, or Endur configuration.
-* Experience with support or enhancement projects within commodity or energy trading environments.
-* Understanding of Oil, Gas, Power, LNG, or Commodity Trading business processes.
 
+**The Job**
+* Design, create and maintain automated test cases and determine priority for the test cases and create execution plans to implement these scenarios.
+* Maintain automated regression suites/packages to be compliant with changing requirements and features.
+* The candidate should be able to work independently to identify test cases/test scripts from requirements and map test cases/scripts back to the original requirement
+* Understand business objectives and build alignment and buy\\-in cross\\-functionally. Analyze functional and technical requirements and translate them into manual and/or automatable scenarios.
+* Developing and Executing testing automation for Cross Browser (browsers like Safari, Chrome, Mobile browsers) and android tablet
+* Participate in Agile working practices such as daily scrum meetings, sprint planning meetings, reviews, and retrospectives.
+* Mentor \\& guide the junior developers in the team
 
-**Qualification:**
-* Bachelor's degree in Computer Science, Information Technology, Engineering, or related field.
 
+**Qualifications \\& Skills Required**
+**Must Have**
+* Around 5\\+ years overall Software QA experience
+* Minimum 4\\+ years of experience with test automation
+* Experience in developing and implementing automated test cases for web and mobile applications
+* Exceptional ability to develop maintainable test automation solutions using Appium, Cypress, Pytest
+* Experience in TypeScript is must have
+* Experience in Appium is must have
+* Experience in Android Tablet and mobile application testing is must have
+* Experience in IOT domain is must have
+* Experience working with relational/NoSQL databases like MongoDB
+* Experience with performance testing tools like JMeter
+* Understanding of RESTful APIs and experience in testing APIs using tools like Postman
+* Experience in integrating automation tests into CI/CD pipelines
 
- This version is suitable for sourcing candidates with
- **1\\-3 years of Endur experience** 
- while keeping the Java requirement realistic for junior to mid\\-level professionals.
-   
-
-  
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
-   
+**Good to Have**
+* Experience in Android application development
+* Exposure to IOT domain
+* Good understanding of fundamental design principles behind a scalable application. Understanding of the HTTP2\\.0 protocol, web applications, performance and monitoring.
+* Understanding of the differences between multiple delivery platforms, such as mobile vs desktop, and optimizing output to match the specific platform
+* Knowledge of user authentication and authorization between multiple systems OAuth2\\.0
+* Proficient understanding of Gitlab, CI/CD, DevOps practices
+* Knowledge in network architecture \\& server administration
+* Having the knowledge of front\\-end technologies like Angular 16\\+ and NodeJS is a plus.
+* Great attention to details and Organizational skills
 
-  
 
-**Job Family Group:**
- Technology
-   
+**Education**
+* Degree in Computer Science, Statistics, or relevant field
 
-  
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+**The Team**
+ Pitney Bowes, a global technology company, provides shipping \\& mailing solutions, data management software, and location intelligence offerings, powering billions of physical and digital transactions in the connected and borderless world of commerce.
    
 
   
 
-**Job Family:**
- Applications Development
+ Helping clients achieve their greatest commerce potential are Pitney Bowes' 16,000\\+ passionate employees around the world, our relentless pursuit of innovation with over 2,300 active patents, and our focus on clients, who are at the center of all that we do \\- from small businesses to 90% of the Fortune 500\\.
    
 
   
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
-   
+**We Will**
+* Provide the will: opportunity to grow and develop your career
+* Offer an inclusive environment that encourages diverse perspectives and ideas
+* Deliver challenging and unique opportunities to contribute to the success of a transforming organization
+* Offer comprehensive benefits globally (PB Benefits and Wellbeing Programs)
 
-  
 
-**Time Type:**
- Full time
+ Pitney Bowes is an equal opportunity employer that values diversity and inclusiveness in the workplace.
    
 
   
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
-   
+ All interested individuals must apply online.","Software Development","https://www.linkedin.com/company/pitney-bowes","https://media.licdn.com/dms/image/v2/D560BAQHqkhAa7BWPZA/company-logo_100_100/company-logo_100_100/0/1688663536023/pitney_bowes_logo?e=2147483647&v=beta&t=ykC_if0AabJ1i4RnvGkthBYjhRXqAZYAds8m--Icgzo","","","","","","","","","","",""
+"li-4449313646","linkedin","https://www.linkedin.com/jobs/view/4449313646","","Advisory Quality Assurance Software Engineer","Pitney Bowes","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**We’re hiring at Pitney Bowes, where top talent builds meaningful careers and lasting impact. We Move fast, Deliver excellence, and Win together…that’s The Pitney Bowes way. Here, how we work matters just as much as what we achieve.**
+**We’re Looking For People Who**
+* Act with urgency, accountability, and purpose
+* Deliver high quality work with consistency and pride
+* Collaborate effectively and elevate those around them
+* Focus on outcomes that drive impact and growth
 
-  
 
-**Most Relevant Skills**
- Please see the requirements listed above.
+**Job Description**
+**Join Pitney Bowes as Advisory Quality Assurance Software Engineer**
+**Years of Experience: 5\\+ years**
+**Job Location \\- Noida/Pune**
+**Impact**
+ As Advisory Quality Assurance Engineer (Automation), you will be part of the team that designs and develops cloud\\-based offerings. You will be deeply involved in leading the validation of the SaaS based offering including collaborating across the organization with Architects, UX experts, product managers and other software developers. You will use your expertise in building automation test framework to do sanity of the product. You are expected to be hands on and up to date with the latest technology stack. If this type of position motivates you, tell us why you are the right person for this challenging role!
    
 
   
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
-   
+**The Job**
+* Design, create and maintain automated test cases and determine priority for the test cases and create execution plans to implement these scenarios.
+* Maintain automated regression suites/packages to be compliant with changing requirements and features.
+* The candidate should be able to work independently to identify test cases/test scripts from requirements and map test cases/scripts back to the original requirement
+* Understand business objectives and build alignment and buy\\-in cross\\-functionally. Analyze functional and technical requirements and translate them into manual and/or automatable scenarios.
+* Developing and Executing testing automation for Cross Browser (browsers like Safari, Chrome, Mobile browsers) and android tablet
+* Participate in Agile working practices such as daily scrum meetings, sprint planning meetings, reviews, and retrospectives.
+* Mentor \\& guide the junior developers in the team
 
-  
 
-**Other Relevant Skills**
- For complementary skills, please see above and/or contact the recruiter.
-   
+**Qualifications \\& Skills Required**
+**Must Have**
+* Around 5\\+ years overall Software QA experience
+* Minimum 4\\+ years of experience with test automation
+* Experience in developing and implementing automated test cases for web and mobile applications
+* Exceptional ability to develop maintainable test automation solutions using Appium, Cypress, Pytest
+* Experience in TypeScript is must have
+* Experience in Appium is must have
+* Experience in Android Tablet and mobile application testing is must have
+* Experience in IOT domain is must have
+* Experience working with relational/NoSQL databases like MongoDB
+* Experience with performance testing tools like JMeter
+* Understanding of RESTful APIs and experience in testing APIs using tools like Postman
+* Experience in integrating automation tests into CI/CD pipelines
 
-  
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
-   
+**Good to Have**
+* Experience in Android application development
+* Exposure to IOT domain
+* Good understanding of fundamental design principles behind a scalable application. Understanding of the HTTP2\\.0 protocol, web applications, performance and monitoring.
+* Understanding of the differences between multiple delivery platforms, such as mobile vs desktop, and optimizing output to match the specific platform
+* Knowledge of user authentication and authorization between multiple systems OAuth2\\.0
+* Proficient understanding of Gitlab, CI/CD, DevOps practices
+* Knowledge in network architecture \\& server administration
+* Having the knowledge of front\\-end technologies like Angular 16\\+ and NodeJS is a plus.
+* Great attention to details and Organizational skills
 
-  
 
-*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*
-*If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review* 
-*Accessibility at Citi.*
-*View Citi’s EEO Policy Statement and the Know Your Rights poster.*","Banking, Financial Services, and Investment Banking","https://www.linkedin.com/company/citi","https://media.licdn.com/dms/image/v2/D4E0BAQFgF4xtqyXBcg/company-logo_100_100/company-logo_100_100/0/1719257286385/citi_logo?e=2147483647&v=beta&t=E0LjmXX_MaMB3pwg6W_ragjyCPSpChEG51ham_xSNVc","","","","","","","","","","",""
-"li-4449319229","linkedin","https://www.linkedin.com/jobs/view/4449319229","","Developer - Shotscope™ (.NET Full Stack) - Husky(Guindy, Chennai)","Husky Technologies","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
-**Title:** 
- Developer \\- Shotscope™ (.NET Full Stack) \\- Husky(Guindy, Chennai)
-   
+**Education**
+* Degree in Computer Science, Statistics, or relevant field
 
-  
 
-**Id:** 
- 20959
+**The Team**
+ Pitney Bowes, a global technology company, provides shipping \\& mailing solutions, data management software, and location intelligence offerings, powering billions of physical and digital transactions in the connected and borderless world of commerce.
    
 
   
 
-**Type:** 
- FullTime
+ Helping clients achieve their greatest commerce potential are Pitney Bowes' 16,000\\+ passionate employees around the world, our relentless pursuit of innovation with over 2,300 active patents, and our focus on clients, who are at the center of all that we do \\- from small businesses to 90% of the Fortune 500\\.
    
 
   
 
-**Location:** 
- Chennai, India
-   
+**We Will**
+* Provide the will: opportunity to grow and develop your career
+* Offer an inclusive environment that encourages diverse perspectives and ideas
+* Deliver challenging and unique opportunities to contribute to the success of a transforming organization
+* Offer comprehensive benefits globally (PB Benefits and Wellbeing Programs)
 
-  
 
- At Husky TechnologiesTM, our success is based on your success. Our ability to keep our customers in the lead is based on building the strongest team possible.
+ Pitney Bowes is an equal opportunity employer that values diversity and inclusiveness in the workplace.
    
 
   
 
- Husky TechnologiesTM has a strong foundation built on innovation, close customer relationships and a unique culture and values. We are dedicated to offering our customers the highest quality products and services and are looking for people with the inspiration and talent to develop with us as we pursue our ambitious growth strategy. We are a leader in developing state\\-of\\-the\\-art technology and it is this technology base that uniquely positions us to serve customers who seek differentiation through solutions that provide speed, flexibility and maximum productivity. This capability is at the core of our mission and competitive strategy.
-   
+ All interested individuals must apply online.","Software Development","https://www.linkedin.com/company/pitney-bowes","https://media.licdn.com/dms/image/v2/D560BAQHqkhAa7BWPZA/company-logo_100_100/company-logo_100_100/0/1688663536023/pitney_bowes_logo?e=2147483647&v=beta&t=ykC_if0AabJ1i4RnvGkthBYjhRXqAZYAds8m--Icgzo","","","","","","","","","","",""
+"li-4449314581","linkedin","https://www.linkedin.com/jobs/view/4449314581","","Advisory Quality Assurance Software Engineer","Pitney Bowes","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**We’re hiring at Pitney Bowes, where top talent builds meaningful careers and lasting impact. We Move fast, Deliver excellence, and Win together…that’s The Pitney Bowes way. Here, how we work matters just as much as what we achieve.**
+**We’re Looking For People Who**
+* Act with urgency, accountability, and purpose
+* Deliver high quality work with consistency and pride
+* Collaborate effectively and elevate those around them
+* Focus on outcomes that drive impact and growth
 
-  
 
- Husky TechnologiesTM offers a wealth of opportunity for personal growth and development. Most importantly, Husky Technologies TM offers an opportunity to work with – and be challenged by – a team of great people. Our success is possible because of the creativity, intelligence and passion of our people around the world and their desire to lead change. At the same time, we are not afraid to expect a lot and strive for leadership in all of our key markets. We are a company taking on new challenges and for the right people this means exceptional career development opportunities, the chance to be part of a team that is the best in the world at what we do and the experience that comes from working in an environment that demands constant transformation and innovation.
+**Job Description**
+**Join Pitney Bowes as Advisory Quality Assurance Software Engineer**
+**Years of Experience: 5\\+ years**
+**Job Location \\- Noida/Pune**
+**Impact**
+ As Advisory Quality Assurance Engineer (Automation), you will be part of the team that designs and develops cloud\\-based offerings. You will be deeply involved in leading the validation of the SaaS based offering including collaborating across the organization with Architects, UX experts, product managers and other software developers. You will use your expertise in building automation test framework to do sanity of the product. You are expected to be hands on and up to date with the latest technology stack. If this type of position motivates you, tell us why you are the right person for this challenging role!
    
 
   
 
- Husky TechnologiesTM is an exciting company with tremendous potential. We have a great team and great expectations. If you are attracted to bold goals, believe in uncompromising honesty, support mutual respect, care about environmental responsibility, have a passion for excellence and a desire to make a positive contribution – then we want you to join the Husky TechnologiesTM team!
-   
+**The Job**
+* Design, create and maintain automated test cases and determine priority for the test cases and create execution plans to implement these scenarios.
+* Maintain automated regression suites/packages to be compliant with changing requirements and features.
+* The candidate should be able to work independently to identify test cases/test scripts from requirements and map test cases/scripts back to the original requirement
+* Understand business objectives and build alignment and buy\\-in cross\\-functionally. Analyze functional and technical requirements and translate them into manual and/or automatable scenarios.
+* Developing and Executing testing automation for Cross Browser (browsers like Safari, Chrome, Mobile browsers) and android tablet
+* Participate in Agile working practices such as daily scrum meetings, sprint planning meetings, reviews, and retrospectives.
+* Mentor \\& guide the junior developers in the team
 
-  
 
-****Job Description****
- Do you want to work an industrial grade software solution powering real time manufacturing intelligence on factory floors worldwide?
-   
+**Qualifications \\& Skills Required**
+**Must Have**
+* Around 5\\+ years overall Software QA experience
+* Minimum 4\\+ years of experience with test automation
+* Experience in developing and implementing automated test cases for web and mobile applications
+* Exceptional ability to develop maintainable test automation solutions using Appium, Cypress, Pytest
+* Experience in TypeScript is must have
+* Experience in Appium is must have
+* Experience in Android Tablet and mobile application testing is must have
+* Experience in IOT domain is must have
+* Experience working with relational/NoSQL databases like MongoDB
+* Experience with performance testing tools like JMeter
+* Understanding of RESTful APIs and experience in testing APIs using tools like Postman
+* Experience in integrating automation tests into CI/CD pipelines
 
-  
 
- As a Developer on our Shotscope™ team, you will help build and maintain industrial\\-grade manufacturing intelligence software used by customers worldwide. You will implement features and components on a .NET and Azure\\-based full stack, contribute clean and reliable code, and support the continuous evolution of a mission\\-critical product that connects machines, processes, and data.
-   
+**Good to Have**
+* Experience in Android application development
+* Exposure to IOT domain
+* Good understanding of fundamental design principles behind a scalable application. Understanding of the HTTP2\\.0 protocol, web applications, performance and monitoring.
+* Understanding of the differences between multiple delivery platforms, such as mobile vs desktop, and optimizing output to match the specific platform
+* Knowledge of user authentication and authorization between multiple systems OAuth2\\.0
+* Proficient understanding of Gitlab, CI/CD, DevOps practices
+* Knowledge in network architecture \\& server administration
+* Having the knowledge of front\\-end technologies like Angular 16\\+ and NodeJS is a plus.
+* Great attention to details and Organizational skills
 
-  
 
- This role is ideal for a motivated engineer who enjoys hands\\-on development, learning from experienced teammates, and seeing their work deployed in real production environments—with clear opportunities to grow toward senior and lead roles.
-   
+**Education**
+* Degree in Computer Science, Statistics, or relevant field
 
-  
 
- If you want your code to have visible impact on how factories operate, Shotscope™ is where software meets the real world.
+**The Team**
+ Pitney Bowes, a global technology company, provides shipping \\& mailing solutions, data management software, and location intelligence offerings, powering billions of physical and digital transactions in the connected and borderless world of commerce.
    
 
   
 
-****Responsibilities****
-**Technical Implementation**
-* Implement software components and features based on provided designs, specifications, and guidance.
-* Contribute to the development of reliable, maintainable, and secure code within the assigned scope.
-* Apply agreed coding standards, patterns, and best practices in daily development work.
-* Make basic technical decisions within assigned tasks, escalating questions or uncertainties when needed.
-
-
-**Delivery \\& Execution Excellence**
-* Translate assigned requirements and tasks into working software.
-* Complete development work in alignment with sprint goals and delivery commitments.
-* Contribute to task breakdowns and effort estimates for assigned work.
-* Proactively raise risks, blockers, or implementation issues to the team.
-
-
-**Quality, Standards \\& Engineering Practices**
-* Write clean, testable code and contribute to unit and integration tests.
-* Participate in code reviews, incorporating feedback and learning from peers.
-* Ensure individual contributions meet Definition of Ready (DoR) and Definition of Done (DoD) criteria.
-* Follow established DevOps, security, and quality practices.
-
-
-**Incident \\& Operational Support**
-* Assist in troubleshooting defects and issues in development and production environments.
-* Support corrective (bug fixes) and evolutive (enhancements) maintenance of existing solutions.
-
-
-**Collaboration \\& Growth**
-* Collaborate effectively with other developers, QA, Product Owners, and Tech Leads.
-* Seeking feedback and guidance to continuously improve technical skills.
-* Actively learn the systems, tools, and technologies used by the team.
-* Contribute positively to team culture and shared ownership of outcomes.
-
-
-****Qualifications****
-* Bachelor’s degree in computer science, IT, or related field.
-* 4\\+ years’ professional experience in software development.
-* Proficiency in .NET technologies (C\\#, ASP.NET Core, SQL, .NET Framework, Entity Framework).
-* Strong grasp of Agile methodologies, DevOps principles, application security and version control systems (e.g., Azure DevOps).
-* Proficiency in modern front\\-end frameworks (e.g., preference: React; Angular).
-* Clean Code Development and working experience with Unit Testing, and Test\\-driven Development.
-* Familiarity with source code version control, branching strategies, CI/CD pipelines and other DevOps practices.
-* Working knowledge of Agile development practices.
-* Excellent communication skills and ability to work in a team.
-* Fluency in English (spoken and written).
-* Strong problem\\-solving skills and attention to detail.
-* Ability to adjust quickly to changing assignments, and priorities.
-
-
-**Assets**
-* Familiarity with CI/CD and pipelines.
-* Experience using AI‑assisted coding tools (e.g. GitHub Copilot) responsibly, with full accountability for code quality, security, and compliance.
-* Familiarity with Microsoft Azure, with experience in leveraging key services (e.g., Azure App Services, Azure Functions).
-* Exposure to Microsoft SQL Server BI stack, including SSAS (OLAP cube design), SSRS (report development), and SSIS (ETL processes and data integration).
-
-
-**Why Husky?**
-* Regulated Working Hours: Enjoy a structured work schedule that promotes a healthy work\\-life balance, allowing you to excel professionally while maintaining personal well\\-being.
-* Visible Impact: Experience the satisfaction of seeing the direct outcomes of your work, as you contribute to projects that visibly enhance our company's technological capabilities and efficiency.
-* Strategic Influence: Participate in architectural and technical reviews, contributing to the strategic direction of our cloud initiatives and making a tangible impact on our company's technological landscape.
-* Empowered Involvement: Take an active role in decision\\-making processes and architectural reviews, where your expertise helps shape the future of our cloud solutions and overall business strategy.
-* Valued Contributions: Be more than just a number in a large organization; at our company, every individual's input is valued and can lead to significant, tangible improvements in our operations and services.
-* Impactful Role: Play a crucial part in both developing new applications and maintaining existing systems, ensuring their optimal performance and reliability.
-* Cutting\\-Edge Projects: Work on innovative cloud solutions that are transforming our and our customer’s business, giving you the opportunity to be at the forefront of technological advancements.
-* Supportive Community: Work in an environment that recognizes and celebrates individual achievements, fostering a sense of community and mutual respect among team members.
-* Collaborative Environment: Join a global team of skilled professionals around the globe where your ideas are valued, and collaboration is encouraged to solve complex challenges and drive success.
-
-
- Husky TechnologiesTM offers a competitive compensation and benefits package and excellent opportunities for growth and advancement. We are committed to equal employment opportunity and respect, value and welcome diversity in our workplace. Husky TechnologiesTM also values being a great place to work and strives to maintain a safe workplace. Accordingly, Husky TechnologiesTM conditions all offers of employment on satisfactory completion of background checks. No agency or telephone inquiries please.","Machinery Manufacturing","https://ca.linkedin.com/company/husky-technologies","https://media.licdn.com/dms/image/v2/C4D0BAQHsvZ0ebIsc4w/company-logo_100_100/company-logo_100_100/0/1636124255401/husky_injection_molding_systems_logo?e=2147483647&v=beta&t=DOW-hRVyemixk1uzPur_5PLKICQw58KUNmIrpYtA4rk","","","","","","","","","","",""
-"li-4442752652","linkedin","https://www.linkedin.com/jobs/view/4442752652","","Software Engineer (II) - Commodity Senior Engineer","TekWissen India","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Overview**
- TekWissen is a global workforce management provider throughout India and many other countries in the world. The below client is a global company with shared ideals and a deep sense of family. From our earliest days as a pioneer of modern transportation, we have sought to make the world a better place – one that benefits lives, communities and the planet
+ Helping clients achieve their greatest commerce potential are Pitney Bowes' 16,000\\+ passionate employees around the world, our relentless pursuit of innovation with over 2,300 active patents, and our focus on clients, who are at the center of all that we do \\- from small businesses to 90% of the Fortune 500\\.
    
 
   
-
-**Job Title: Software Engineer (II) \\- Commodity Senior Engineer**
-**Location: Chennai**
-**Work Type: Hybrid (4 Days work From Office)**
-**Position Description**
-* Employees in this job function are responsible for designing, developing, testing and maintaining software applications and products to meet customer needs.
-* They are involved in the entire software development lifecycle including designing software architecture, writing code, testing for quality and deploying the software to meet customer requirements.
-* Full\\-stack software engineering roles, who can develop all components of software including user interface and server side also fall within this job function.
-
-
-**Key Responsibilities**
-* Engage with customers to deeply understand their use\\-cases, pain points, and requirements, showcasing empathy and advocating for user\\-centric software solutions
-* Solve complex problems by designing, developing, and delivering using various tools, languages, frameworks, methodologies (like agile) and technologies
-* Assess the requirements of the software application or service and determine the most suitable technology stack, integration method, deployment strategy, etc.
-* Create high\\-level software architecture designs that outline the overall structure, components, and interfaces of the application
-* Collaborate with cross functional teams like product owners, designers, architects etc.
-* Define and implement software test strategy, guidelines, policies and processes in line with organization vision, industry regulations and market best practices.
-* Work on continuously improving performance and optimizing the application and implement new technologies to maximize development efficiency
-* Familiar with programming practices, such as test\\-driven development, continuous integration, and continuous delivery
-* Support security practices to safeguard user data including encryption and anonymization.
-* Create user\\-friendly and interactive interfaces
-* Develop and maintain back\\-end applications like APIs and microservices using server\\-side languages
-* Evaluate and incorporate emerging technologies and capabilities to deliver their solutions, and are monitoring and participating in solutions for new stack layers, often involving industry collaboration
-
-
-**Skills Required**
-* Pega PRPC Proficiency
 
+**We Will**
+* Provide the will: opportunity to grow and develop your career
+* Offer an inclusive environment that encourages diverse perspectives and ideas
+* Deliver challenging and unique opportunities to contribute to the success of a transforming organization
+* Offer comprehensive benefits globally (PB Benefits and Wellbeing Programs)
 
-**Experience Required**
-* Senior Engineer Exp: Prac. In 2 coding lang. or adv. Prac. in 1 lang.; guides.
-* 10\\+ years in IT; 8\\+ years in development
 
-
-**Experience Preferred**
-* An experienced Pega tech lead who can think through requirements, guide overall design with phases, coach less experienced developers, resolve technical blockers, take accountability for overall design and implementation quality, adapt to evolving requirements, ensure sustainability.
-
-
-**Education Required**
-* Bachelor's Degree
-
-
-**TekWissen® Group is an equal opportunity employer supporting workforce diversity.**","IT Services and IT Consulting","https://in.linkedin.com/company/tekwissenindia","https://media.licdn.com/dms/image/v2/D560BAQHo1e1dk_56Pg/company-logo_100_100/company-logo_100_100/0/1699651809502?e=2147483647&v=beta&t=_aOpmYEhtoGohPFwFpHUIpAIdD7c8z19Anx4jWK5YEs","","","","","","","","","","",""
-"li-4445902989","linkedin","https://www.linkedin.com/jobs/view/4445902989","","Software Engineer (IV) - Premium Senior Engineer","TekWissen India","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Overview**
- TekWissen is a global workforce management provider throughout India and many other countries in the world. The below client is a global company with shared ideals and a deep sense of family. From our earliest days as a pioneer of modern transportation, we have sought to make the world a better place – one that benefits lives, communities and the planet
+ Pitney Bowes is an equal opportunity employer that values diversity and inclusiveness in the workplace.
    
 
   
-
-**Job Title: Software Engineer (IV) \\- Premium Senior Engineer**
-**Location: Chennai**
-**Work Type: Hybrid (4 Days work From Office)**
-**Position Description**
-* Employees in this job function are responsible for designing, developing, testing and maintaining software applications and products to meet customer needs.
-* They are involved in the entire software development lifecycle including designing software architecture, writing code, testing for quality and deploying the software to meet customer requirements.
-* Full\\-stack software engineering roles, who can develop all components of software including user interface and server side also fall within this job function.
-
-
-**Key Responsibilities**
-* Engage with customers to deeply understand their use\\-cases, pain points, and requirements, showcasing empathy and advocating for user\\-centric software solutions
-* Solve complex problems by designing, developing, and delivering using various tools, languages, frameworks, methodologies (like agile) and technologies
-* Assess the requirements of the software application or service and determine the most suitable technology stack, integration method, deployment strategy, etc.
-* Create high\\-level software architecture designs that outline the overall structure, components, and interfaces of the application
-* Collaborate with cross functional teams like product owners, designers, architects etc.
-* Define and implement software test strategy, guidelines, policies and processes in line with organization vision, industry regulations and market best practices.
-* Work on continuously improving performance and optimizing the application and implement new technologies to maximize development efficiency
-* Familiar with programming practices, such as test\\-driven development, continuous integration, and continuous delivery
-* Support security practices to safeguard user data including encryption and anonymization.
-* Create user\\-friendly and interactive interfaces
-* Develop and maintain back\\-end applications like APIs and microservices using server\\-side languages
-* Evaluate and incorporate emerging technologies and capabilities to deliver their solutions, and are monitoring and participating in solutions for new stack layers, often involving industry collaboration
-
-
-**Skills Required**
-* ABAP CDS, SAP UI5, Advanced Business Application Programming (ABAP), SAP Fiori, SAP S4 HANA
-
-
-**Experience Required**
-* Senior Engineer Exp: Prac. In 2 coding lang. or adv. Prac. in 1 lang.; guides.
-* 10\\+ years in IT; 8\\+ years in development
-
-
-**Education Required**
-* Bachelor's Degree
-
-
-**Additional Information**
-* Hands on experience in SAP S4 HANA and S4 RISE exposure. Good to have BTP knowledge
-
 
-**TekWissen® Group is an equal opportunity employer supporting workforce diversity.**","IT Services and IT Consulting","https://in.linkedin.com/company/tekwissenindia","https://media.licdn.com/dms/image/v2/D560BAQHo1e1dk_56Pg/company-logo_100_100/company-logo_100_100/0/1699651809502?e=2147483647&v=beta&t=_aOpmYEhtoGohPFwFpHUIpAIdD7c8z19Anx4jWK5YEs","","","","","","","","","","",""
-"li-4449917127","linkedin","https://www.linkedin.com/jobs/view/4449917127","","Software Engineering LMTS - Tableau","SalesForce-ad","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Description**
- We’re Salesforce, the Customer Company, inspiring the future of business with AI\\+ Data\\+ CRM. Leading with our core values, we help companies across every industry blaze new trails and connect with customers in a whole new way. And, we empower you to be a Trailblazer, too — driving your performance and career growth, charting new paths, and improving the state of the world. If you believe in business as the greatest platform for change and in companies doing well and doing good – you’ve come to the right place.
+ All interested individuals must apply online.","Software Development","https://www.linkedin.com/company/pitney-bowes","https://media.licdn.com/dms/image/v2/D560BAQHqkhAa7BWPZA/company-logo_100_100/company-logo_100_100/0/1688663536023/pitney_bowes_logo?e=2147483647&v=beta&t=ykC_if0AabJ1i4RnvGkthBYjhRXqAZYAds8m--Icgzo","","","","","","","","","","",""
+"li-4449957011","linkedin","https://www.linkedin.com/jobs/view/4449957011","","Data Engineer, WW Prime - Core Services","Amazon","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Information Technology","","","**Description**
+ Amazon Prime team is building an evergreen platform that will provide real time insights of traffic, sales, deals, prime engagement and is looking for rock start data engineer to build this. At Amazon Prime, understanding customer data is paramount to our success in providing customers with relevant and enticing benefits such as fast free shipping, instant videos, streaming music and free Kindle books in the US and international markets. At Amazon you will be working in one of the world's largest and most complex data environments.
    
 
   
 
-**At Tableau,** 
- we are on a mission to help people see and understand data. With Tableau we offer our customers an easy\\-to\\-use, self\\-service analytics cloud platform designed to deliver insights where you work. We create intuitive and powerful analytics software that enables thousands of leading organizations and millions of people around the world to find insights in their data. With data governance, security and compliance built in, Tableau offers the most choice and flexibility as your technology and AI strategy evolve. Tableau is committed to supporting the needs of organizations around the world with the largest partner and success ecosystem.
+ You will be part of team that will work with the marketing, retail, finance, analytics, machine learning and technology teams to provide real time data processing solution that give Amazon leadership, marketers, PMs timely, flexible and structured access to customer insights. The team will be responsible for building this platform end to end using latest AWS technologies and software development principles.
    
 
   
 
- We are looking for technically strong Software Engineers passionate about engineering high\\-quality software that delights our customers. You will be working with a group of world\\-class engineers to strengthen product capabilities, resolve product defects, validate system integrity, and ensuring our customers have highly reliable and scalable products and services. The software engineer role at Salesforce encompasses architecture, design, implementation, and testing to ensure we build products right and release them with high quality. We pride ourselves in writing high\\-quality, maintainable code that strengthens the stability of the product and makes our lives easier. You will collaborate with cross\\-functional teams and ensure the delivery of high\\-quality software solutions that meet our needs. We believe that autonomous teams with the freedom to make decisions will empower the individuals, the product, the company, and the customers they serve to thrive.
+ As a Data Engineer , you will be responsible for leading the architecture, design and development of the data, metrics and reporting platform for Prime. You will architect and implement new and automated Business Intelligence solutions, including big data and new analytical capabilities that support our Development Engineers, Analysts and Retail business stakeholders with timely, actionable data, metrics and reports while satisfying scalability, reliability, accuracy, performance and budget goals and driving automation and operational efficiencies. You will partner with business leaders to drive strategy and prioritize projects and feature sets. You will also write and review business cases and drive the development process from design to release. In addition, you will provide technical leadership and mentoring for a team of highly capable Data Engineers.
    
 
   
 
 **Responsibilities**
-* Design, development, and maintenance of robust and scalable client \\& server\\-side components
-* Analyze existing issues both functional and technical and provide the right solution in a high data analytics environment.
-* Investigate, troubleshoot and resolve customer defects, production issues, installation, and configuration issues with Tableau products in a timely manner.
-* Ensure the security and integrity of software components through the implementation of appropriate security measures.
-* Ensure and guide on effective AI usage across the lifecycle of workitems
-* Drive complex fixes involving multiple product/functional areas, core component changes
-* Act as the final technical escalation point for highly complex issues.
-* Manage the technical execution and prioritization of compliance and security remediation efforts across platform.
-* Replicate, debug, and fix complex product issues in various environments, working with feature developers as needed.
-* Analyzing product log files, crash dumps, network traces, etc.
-* Make design decisions on the basis of performance, scalability, and reliability.
-* Assist in writing code (new development, bug fixes), and automated tests, conduct code reviews and ensure adherence to coding standards and best practices.
-* Maintain strong working knowledge of products and develop product improvements
-* Ensure coding standards and other quality standards like code coverage, security, performance are met.
-* Review the team designs and provide constructive and clear feedback to advocate for the right thing and unblock team members quickly.
-* Provide technical coaching to junior team members to help improve their overall skills and knowledge.
-* Develop high\\-quality, production\\-ready code that can be used by millions of users.
-* Work in a Hybrid Engineering model, collaborating with product managers, architects, and other stakeholders to define technical requirements and specifications.
-* Engage with Product Managers to clarify customer requirements, propose viable workarounds, and understand related priorities better.
-* Communicate clearly and efficiently with cross functional partners and stakeholders to share information, resolve dependencies or problems, and integrate feedback.
+* Own design and execution of end to end projects
+* Own managing WW Prime core services data infrastructure
+* Establish key relationships which span Amazon business units and Business Intelligence teams
+* Implement standardized, automated operational and quality control processes to deliver accurate and timely data and reporting to meet or exceed SLAs
 
 
-**Qualifications**
-* Experience B.S/M.S. in Computer Sciences or equivalent field,
-* 10\\+ years of relevant software development experience with deep working expertise primarily in C\\+\\+ 17 or Java 17 and later.
-* Expertise in other languages like, C\\#, Javascript, Typescript, Python
-* Deep Expertise in object\\-oriented programming and relational and non\\-relational databases and transaction fundamentals
-* Deep Expertise in architecture principles, design patterns, multithreading, concurrency, queues, locks, scheduling, event\\-driven architecture, workload distribution, along with expertise of relational databases and non\\-relational databases.
-* Deep Expertise in debugging and performance optimization techniques
-* Hands on experience in developing high performing software systems which can connect to multiple data sources, process information and visualize data.
-* Expertise in developing enterprise\\-level SaaS products and deploying services on public cloud platforms (GCP, AWS, Azure).
-* Expertise in designing and building large scale distributed systems with 100K\\+ users, working with microservices, container orchestration and/or distributed architecture.
-* Expertise in data processing, data transformation and analytical technologies.
-* Proven experience designing and developing distributed systems at scale.
-* Expertise in Agile methodologies and software engineering best practices including coding standards, SCM, CI, build processes, testing, and operations.
-* Excellent problem\\-solving, organizational and analytical skills
+**Basic Qualifications**
+* 3\\+ years of data engineering experience
+* Experience with data modeling, warehousing and building ETL pipelines
+* Experience with SQL
 
 
-**Benefits \\& Perks**
-* Comprehensive benefits package including well\\-being reimbursement, generous parental leave, adoption assistance, fertility benefits, and more!
-* World\\-class enablement and on\\-demand training with Trailhead.com
-* Exposure to executive thought leaders and regular 1:1 coaching with leadership
-* Volunteer opportunities and participation in our 1:1:1 model for giving back to the community
-* For more details, visit https://www.salesforcebenefits.com/","Technology, Information and Internet","https://www.linkedin.com/company/salesforce-ad","https://media.licdn.com/dms/image/v2/C4D0BAQE5_3pkaWdr1Q/company-logo_100_100/company-logo_100_100/0/1652241664013?e=2147483647&v=beta&t=v4OYZcvFqgT-b7DCHfyA7rZuQUSVP5HlOizuZypPk3k","","","","","","","","","","",""
-"li-4449920462","linkedin","https://www.linkedin.com/jobs/view/4449920462","","Senior Staff Software Engineer - iOS","Warner Bros. Discovery","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","***Welcome to Warner Bros. Discovery… the stuff dreams are made of.***
+**Preferred Qualifications**
+* Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions
+* Experience with non\\-relational databases / data stores (object storage, document or key\\-value stores, graph databases, column\\-family databases)
 
 
-
-
-
-
-
-
-**Who We Are…**
-
-
-
-
-
- When we say, “the stuff dreams are made of,” we’re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD’s vast portfolio of iconic content and beloved brands, are the
- *storytellers* 
- bringing our characters to life, the
- *creators* 
- bringing them to your living rooms and the
- *dreamers* 
- creating what’s next…
- 
-
-
-
-
-
-
-
-
-
- From brilliant creatives, to technology trailblazers, across the globe, WBD offers career defining opportunities, thoughtfully curated benefits, and the tools to explore and grow into your best selves. Here you are supported, here you are celebrated, here you can thrive.
- 
-
-
-
-
-
-
-
-
-
-**Senior Staff Software Engineer (iOS) – Sports Tech Team , Bangalore**
-
-  
- 
-
-
-
-
-**About Warner Bros. Discovery:**
-
- Warner Bros. Discovery is a global leader in entertainment, news, and sports, delivering brands like CNN, HLN, TNT, TBS, Adult Swim, Cartoon Network, Turner Sports, and more. Our innovations impact advertising, data management, information security, content creation and delivery, business operations, broadcasting, and ultimately, the fan experience.
+ Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
    
-
-  
- 
-
-
-
- At Warner Bros. Discovery, we believe in the power of sports to bring people together, fuel passion and create unforgettable moments. The Global Sports Technology Platform team is the engine driving our sports streaming, content delivery and fan engagement technology — powering premium experiences for millions of fans around the world through brands like Bleacher Report, Eurosport, TNT Sports and March Madness.
-   
-
- For more information, please visit www.wbd.com
-   
-
-  
- 
-
-
-
-
-**Meet Our Team:**
-
- WBD Sports encompasses a wide range of sports brands and channels, reaching over 130 million people monthly in more than 200 markets and 20\\+ languages. Our key brands include Bleacher Report, Eurosport and TNT Sports. WBD Sports offers a comprehensive coverage of major sports events, like the Olympics in Europe, tennis Grand Slams and road cycling Grand Tours (e.g. Tour de France) across various platforms including TV and streaming services like Max and Discovery\\+.
-   
-
- Additionally, it manages and promotes 55 global events annually. TNT Sports UK features exclusive live sports such as the Premier League and UEFA Champions League.
- 
-
-
 
   
 
+  
 
-**Roles \\& Responsibilities:**
-
- As we continue to grow and innovate in a fast\\-paced, highly\\-competitive digital environment, we are seeking a Sr. Staff Software Engineer (iOS) who will be a senior technical leader on the WBD Global Sports Tech team, responsible for building and maintaining systems supporting Warner Bros. Discovery’s family of Sports products/brands, including Eurosport, NCAA/MML, and Bleacher Report. Operating with a function\\-wide view, you will work across multiple teams to drive technical solutions, influence architecture and decisions, and partner closely with product/project managers, users, development staff, and senior leadership to implement designs, develop and deploy fan\\-facing solutions.
- 
-
-
-* Drive strategic architecture investments across the WBD Sports platform, taking a function\\-wide view of technical solutions and their long\\-term implications.
-* Independently map business and product needs to engineering projects, driving initiatives from conception through completion with minimal oversight.
-* Serve as a key influencer in sports platform strategy, contributing significantly to both tactical execution and long\\-term technical vision.
-* Ensure implementation of comprehensive test coverage, resiliency, disaster recovery, and operational excellence practices across Sports products and systems.
-* Demonstrate excellent ability to document technical solutions and articulate them to both business and technical audiences.
-* Present, advocate and champion engineering perspectives.
-* Participate in Agile ceremonies and show ownership of work throughout the sprint process.
-* Build and maintain highly available, low\\-latency systems that successfully serve sports content to customers in production environments.
-* Integrate service health, monitoring, alerting and documentation capabilities in parallel to your software development deliverables.
-* Coach and mentor engineers up to Senior Software Engineer level, providing input to leadership on team development needs and growth opportunities.
-
-
-
-
-
-
-
-
-**What to Bring:** 
-
-
-
-
-* 13\\+ years of demonstrated expertise in building scalable iOS applications, including deep experience with Swift and SwiftUI.
-* Strong understanding of software design patterns and architectural principles, including VIP Architecture (View–Interactor–Presenter), Dependency Injection (DI), and SOLID Principles.
-* Strong knowledge of GraphQL, including schema design, fragment management, and client/server integration.
-* Advanced proficiency in TDD, unit/integration testing strategies, and establishing testing standards across complex applications.
-* Deep understanding of networking, dependency injection, and async programming – including experience with Swift Package Manager (SPM).
-* Experience translating complex design features into modular components using design software (e.g., Figma).
-* Proven track record architecting and maintaining large\\-scale, modular codebases across multiple teams.
-* Ability to design and implement robust APIs and data transport layers.
-* Solid performance optimization and monitoring expertise for high\\-traffic applications.
-* Ability to create functional\\-level impact, independently define and drive work to completion, and deliver complex initiatives with little to no oversight.
-* Effective communication skills as exemplified by technical documentation deliverables, and stakeholder and adjacent team interactions, including the ability to persuade diverse audiences.
-* Demonstrated leadership in technical decision\\-making, mentoring up to Staff level, and cross\\-team collaboration.
-* Fluency in English is a must.
-
-
+**Company** 
+ \\- ADCI \\- Karnataka
+   
 
   
 
-**Bonus Skills:**
-
-
-
-* Experience with Apollo GraphQL or similar frameworks.
-* Experience working with design tokens.
-* Exposure to sports, media, or entertainment platforms.
-
-
-
-
-
-
-
-
-**Technical Environment:** 
-
-
-
-
-* Tech Stack: Swift, SwiftUI
-* Development Practices: TDD, pair programming, code reviews, continuous integration and delivery (CI/CD)
-* Deployment: Automated using Github Actions, Firebase App Distribution
-* Technologies Used: GraphQL backend, dependency injection, async programming
-* Agile Practices: Dailies, story detailing, planning, retrospectives
-
-
-
-  
-
-
-**What We Offer:** 
-
-
-
-
-* A Great Place to work
-* Equal opportunity employer
-* Fast track growth opportunities
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-**How We Get Things Done…**
-
-
-
-
-
-
-
-
-
- This last bit is probably the most important! Here at WBD, our guiding principles are the core values by which we operate and are central to how we get things done. You can find them at
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- www.wbd.com/guiding\\-principles/
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- along with some insights from the team on what they mean and how they show up in their day to day. We hope they resonate with you and look forward to discussing them during your interview.
- 
-
-
-
-
-
-
-
-
-**Championing Inclusion at WBD**
-
-
-
- Warner Bros. Discovery embraces the opportunity to build a workforce that reflects a wide array of perspectives, backgrounds and experiences. Being an equal opportunity employer means that we take seriously our responsibility to consider qualified candidates on the basis of merit, regardless of sex, gender identity, ethnicity, age, sexual orientation, religion or belief, marital status, pregnancy, parenthood, disability or any other category protected by law.
- 
-
-
-
-
-
-
-
-
-
- If you’re a qualified candidate with a disability and you require adjustments or accommodations during the job application and/or recruitment process, please visit our
- 
- accessibility page
- 
- for instructions to submit your request.","Entertainment Providers","https://www.linkedin.com/company/warner-bros-discovery","https://media.licdn.com/dms/image/v2/C4D0BAQGx5RV9AvJFYg/company-logo_100_100/company-logo_100_100/0/1649455844543/warner_bros_discovery_logo?e=2147483647&v=beta&t=Y1wvgvddjPchRXRn5qHzevYF0yQmZeRh6jUTWZChhWs","","","","","","","","","","",""
+ Job ID: A10493050","Software Development","https://www.linkedin.com/company/amazon","https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg","","","","","","","","","","",""
