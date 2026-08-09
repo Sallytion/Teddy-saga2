@@ -1,419 +1,97 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4451369133","linkedin","https://www.linkedin.com/jobs/view/4451369133","","Intermediate/Senior/Staff Backend Engineer (C), Tenant Scale: Git","GitLab","Itanagar, Arunachal Pradesh, India","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100\\* trust GitLab to ship better, more secure software faster.
+"li-4450995462","linkedin","https://www.linkedin.com/jobs/view/4450995462","","C++软件工程师","INL International Technology Pte Ltd","Dadri, Uttar Pradesh, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","岗位职责：
    
 
   
 
- The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high\\-performance culture is driven by our values and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. Co\\-create the future with us as we build technology that transforms how the world develops software.
+ 1、根据项目具体要求，承担开发任务，按计划完成任务目标；
    
 
   
 
-* Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025\\. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.
-
-
- An overview of this role
+ 2、根据用户需求完成软件开发进度，分析功能是否能达到客户的要求，以及保证软件的稳定性；
    
 
   
 
- As a Backend Engineer on the Tenant Scale: Git team, you'll help improve one of the most widely used foundations of modern software development. Git is at the core of how developers collaborate, and this role focuses on making Git and Gitaly more capable, reliable, and efficient for GitLab and the people who use our platform. You'll contribute directly to upstream Git, help shape technical direction, and connect open source community discussions with GitLab product needs.
+ 3、负责产品主要功能的代码实现，参与软件的维护工作，及时解决客户使用中遇到的问题；
    
 
   
 
- Reporting to the Git team lead, you'll work across Git and Gitaly to deliver changes that improve repository access, performance, and long\\-term maintainability. This is a unique opportunity to influence both an essential open source project and the systems GitLab uses to serve repositories at scale, while helping guide larger efforts that affect the future direction of Git.
+ 4、协助测试人员完成软件系统及模块的测试；
    
 
   
 
-* Some examples of our projects: contributing new features and fixes to upstream Git, and adapting Gitaly to make effective use of new and existing Git capabilities
-
-
- What you’ll do
+ 5、负责制订和修改技术规程、编制产品的使用、维修和技术安全等有关的技术规定；
    
 
   
 
-* Participate in architectural discussions and technical decisions related to Git and Gitaly, helping drive implementation choices that improve correctness, performance, and maintainability.
-* Contribute features, bug fixes, and performance improvements to upstream Git in line with team and community goals, delivering changes that improve repository access and reliability for users.
-* Adapt Gitaly to make effective use of Git capabilities, including integrating newly available features to improve scalability, efficiency, and long\\-term maintainability.
-* Connect discussions in the open source Git project with GitLab's product direction and engineering work, helping align upstream contributions with product and platform needs.
-* Scope tasks, estimate effort, and describe implementation plans that support the team's priorities and enable predictable delivery of technical work.
-* Test and validate the features you build and integrate, with a focus on correctness and reliability to reduce regressions and support stable production use.
-* Collaborate with team members, contributors and the Git ecosystem
-* Represent GitLab as a constructive participant in the open source ecosystem, building productive relationships that support ongoing collaboration with the Git community.
-
-
- What you’ll bring
+ 6、负责公司新技术引进和产品开发工作的计划、实施，确保产品开发工作按时完成。
    
 
   
 
-* Experience building instrumented, observable software systems.
-* Knowledge of Git internals, including its code and data structures, or practical experience operating Git servers.
-* Experience writing and testing production\\-quality code in C.
-* Experience contributing to open source projects, including Git or similar systems, and working effectively in public collaboration spaces.
-* Familiarity with Go for backend development and understanding of Linux internals such as processes, memory management, input/output, and filesystems.
-* Interest or experience in large\\-scale or distributed systems, storage formats, graph theory, or highly available production environments, including transferable backend or infrastructure experience.
-
-
-**About The Team**
- The Tenant Scale: Git team works on the Git capabilities that underpin repository access in GitLab, with a strong connection to Gitaly and the upstream Git project. The team contributes directly to open source Git, improves how GitLab uses Git in production, and helps shape technical direction in areas such as performance, correctness, and maintainability. Team members collaborate asynchronously across regions, balancing internal engineering needs with active participation in public open source discussions. For more on the domain this role supports, see the Team Direction Page.
+ 7、做好各类技术信息和数据收集、整理、分析、归档保管工作，为新产品的开发提供可靠的指导依据；
    
 
   
 
-**How GitLab Supports Full\\-Time Employees**
-* Benefits to support your health, finances, and well\\-being
-* Flexible Paid Time Off
-* Team Member Resource Groups
-* Equity Compensation \\& Employee Stock Purchase Plan
-* Growth and Development Fund
-* Parental Leave
-
-
- Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from underrepresented groups are less likely to apply to a job unless they meet every single qualification. If you're excited about this role, please apply and allow our recruiters to assess your application.
+ 8、参与公司产品的企业统一标准，实现产品的规范化管理；
    
 
   
 
-**Country Hiring Guidelines:** 
- GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location\\-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.
+ 9、负责软件技术数据的归档工作，严格按照研发中心规章制度交接技术数据；
    
 
   
 
-**Privacy Policy:** 
- Please review our Recruitment Privacy Policy. Your privacy is important to us.
+ 10、及时指导、处理、协调和解决产品出现的技术问题，确保经营工作的正常进行；
    
 
   
 
- GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also GitLab’s EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know during the recruiting process.","IT Services and IT Consulting and Software Development","https://www.linkedin.com/company/gitlab-com","https://media.licdn.com/dms/image/v2/D560BAQEMpW43u_veYQ/company-logo_100_100/company-logo_100_100/0/1707968675381/gitlab_com_logo?e=2147483647&v=beta&t=LeVuLxevWPnMNByO6pDS1vko-s18OjvvwCfGGvTqZoM","","","","","","","","","","",""
-"li-4449515563","linkedin","https://www.linkedin.com/jobs/view/4449515563","","Backend Engineer (Nodejs, Nestjs, AWS)","Narix Labs","Jaipur, Rajasthan, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","hr@narixlabs.com","**About the Role** 
-
-
-
-
- Narix Labs is looking for a
- **Backend Engineer** 
- with
- **1–3 years of professional experience** 
- to join our engineering team in Jaipur. The ideal candidate should have strong hands\\-on experience with
- **Node.js, NestJS, and AWS** 
- and be comfortable building scalable, secure, and maintainable backend applications.
- 
-
-
-
- This is a
- **full\\-time, onsite position based in Jaipur, Rajasthan** 
- .
- 
-
-
-
-**Key Responsibilities** 
-
-
-
-
- • Design, develop, and maintain scalable backend applications using
- **Node.js and NestJS** 
-
-
-
-
- • Build and maintain
- **RESTful APIs** 
- and backend services
- 
-
-
-
- • Work with databases such as
- **PostgreSQL, MySQL, or MongoDB** 
-
-
-
-
- • Deploy and manage backend applications and services on
- **AWS** 
-
-
-
-
- • Implement authentication, authorization, API security, and data validation
- 
-
-
-
- • Write clean, efficient, reusable, and maintainable code
- 
-
-
-
- • Debug application issues and optimize backend performance
- 
-
-
-
- • Collaborate with frontend developers, designers, QA engineers, and other team members
- 
-
-
-
- • Participate in code reviews and contribute to improving development practices
- 
-
-
-
-**Required Skills** 
-
-
-
-
- •
- **1–3 years** 
- of professional backend development experience
- 
-
-
-
- • Strong proficiency in
- **Node.js** 
-
-
-
-
- • Hands\\-on experience with
- **NestJS** 
-
-
-
-
- • Practical experience with
- **AWS** 
- and cloud\\-based deployments
- 
-
-
-
- • Good understanding of
- **REST APIs** 
- and backend architecture
- 
-
-
-
- • Experience working with relational and/or NoSQL databases
- 
-
-
-
- • Understanding of authentication, authorization, and API security
- 
-
-
-
- • Familiarity with
- **Git** 
- and version control workflows
- 
-
-
-
- • Strong debugging and problem\\-solving skills
- 
-
-
-
-**Job Details** 
-
-
-
-
- • Position:
- **Backend Engineer** 
-
-
-
-
- • Experience:
- **1–3 Years** 
-
-
-
-
- • Employment Type:
- **Full\\-time** 
-
-
-
-
- • Work Mode:
- **Onsite** 
-
-
-
-
- • Location:
- **Jaipur, Rajasthan** 
-
-
-
-
- • Compensation:
- **Up to ₹5 LPA** 
- , depending on skills and experience
- 
-
-
-
-**Candidate Preference** 
-
-
-
-
- Candidates who are
- **currently based in Jaipur or nearby locations will be preferred** 
- , as this is a completely onsite opportunity.
- 
-
-
-
-**How to Apply** 
-
-
-
-
- Interested candidates can send their updated resume to:
- 
-
-
-
-**hr@narixlabs.com** 
-
-
-
-
- Please use the subject line:
- **Application for Backend Engineer – Jaipur** 
-
-
-
-
- We’re looking for engineers who enjoy solving backend challenges, writing quality code, and growing with a fast\\-moving technology team.","Software Development","https://www.linkedin.com/company/narix-labs","https://media.licdn.com/dms/image/v2/D560BAQEdg_QE3WZZlQ/company-logo_100_100/B56Z9FsWzsGUAI-/0/1783580683950/narix_labs_logo?e=2147483647&v=beta&t=E02J577zW7F27hXF8ptQiQqKhjvxgyeNWSe0qXw3J7I","","","","","","","","","","",""
-"li-4451361353","linkedin","https://www.linkedin.com/jobs/view/4451361353","","Software Engr II","Honeywell Technologies","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
- Be part of a team that designs, develops and integrates highly complex software functions within Honeywell Technologies. You will use your experience and judgment to plan and accomplish goals. You will also generate innovative solutions in work situations; trying different and novel ways to deal with problems and opportunities.
+ 11、完成领导临时交办的其他工作。
    
 
   
 
-**Responsibilities**
- Key Responsibilities
+ 任职资格：
    
 
   
 
-* Requirements and design
-* Software architecture and coding
-* Integration
-* Test
-* Feature Definition
-* Production Support
-* Verification and Validation
-* Ability to code in multiple languages
-* Analytical skills \\& software development skills
-* Experience with the following Programming Languages:
-* C\\# / .NET
-* Python
-* NodeJS,TypeScript
-* React
-* Strong working Knowledge of Databases – MySQL, PostGreSQL
-* Cloud Infra \\- Azure,GCP,Alibaba
-
-
-**Qualifications**
- Bachelors/master's degree in engineering or computer science
+ 1、熟悉c\\+\\+ builder数据库编程技术，懂report报表开发；
    
 
   
 
-* 3\\-5 years of Product development experience
-* Strong working experience on Full stack with micro service development.
-* Strong working experience on created reusable components for multiple products.
-* Good knowledge on software engineering concepts like OOPs, design patterns \\& principles (SOLID), architecture patterns (SOA, EIA etc)
-* Understands the significance of UX for products and enables UX experts to work effectively with engineering
-* Exposure to Agile Software development methodology; CI/CD practices and tools.
-* Understanding of cloud infrastructure services (e.g., Microsoft Azure)
-* Enterprise scale Software issue fixing, debugging, Reverse Engineering skills and tools usage towards it.
-* Knowledge of test\\-driven development
-* Adoption of evolving and established technology enablers in day\\-to\\-day execution to be productive e.g. levering CoPilot integrations in SDLC
-
-
- WE VALUE
+ 2、熟悉SQL Server，熟练编写T\\-SQL语句，SQL性能优化，存储过程，触发器，视图，有过大批量数据处理与优化经验；
    
 
   
 
-* Understanding various software development lifecycle
-* Demonstrate the ability to develop efficient and high quality software
-* Knowledge of software configuration management and change management practices
-* Diverse and global teaming and collaboration
-* Effective communicator
-* Individuals who are self\\-motivated and able to work with little supervision, who consistently take the initiative to get things done, do things before being asked by others or forced to by events
-* Ability to consistently make timely decisions even in the face of complexity, balancing systematic analysis with decisiveness
-* Can quickly analyze, incorporate and apply new information and concepts
-
-
-**About Us**
- Honeywell helps organizations solve the world's most complex challenges in automation, the future of aviation and energy transition. As a trusted partner, we provide actionable solutions and innovation through our Aerospace Technologies, Building Automation, Energy and Sustainability Solutions, and Industrial Automation business segments – powered by our Honeywell Forge software – that help make the world smarter, safer and more sustainable.","Automation Machinery Manufacturing","https://www.linkedin.com/company/honeywell","https://media.licdn.com/dms/image/v2/D4E0BAQE0raKQ0HHHXQ/company-logo_100_100/B4EZ8SY0aJH8AM-/0/1782719924150/honeywell_logo?e=2147483647&v=beta&t=akNGC3_0nFpYKyV4oDlMpAeGqlsqvk1AGJK5SfBiRfo","","","","","","","","","","",""
-"li-4414707098","linkedin","https://www.linkedin.com/jobs/view/4414707098","","Principal Software Engineer","Cadence","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.**
- Cadence is a pivotal leader in electronic design, building upon more than 30 years of computational software expertise. The company applies its underlying Intelligent System Design strategy to deliver software, hardware and IP that turn design concepts into reality. Cadence customers are the world’s most innovative companies, delivering extraordinary electronic products from chips to boards to systems for the most dynamic market applications including consumer, hyperscale computing, 5G communications, automotive, aerospace industrial and health.
+ 3、精通面向对象分析设计；有软件建模经验更好；
    
 
   
 
- At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.
+ 4、优秀的编程效率，良好的编码习惯；
    
 
   
 
-**The Cadence Advantage**
-* The opportunity to work on cutting\\-edge technology in an environment that encourages you to be creative, innovative, and to make an impact.
-* Cadence’s employee\\-friendly policies focus on the physical and mental well\\-being of employees, career development, providing opportunities for learning, and celebrating success in recognition of specific needs of the employees.
-* The unique “One Cadence – One Team” culture promotes collaboration within and across teams to ensure customer success
-* Multiple avenues of learning and development available for employees to explore as per their specific requirement and interests
-* You get to work with a diverse team of passionate, dedicated, and talented individuals who go above and beyond for our customers, our communities, and each other—every day.
-
-
-**Job Description**
-* Proficient in C, C\\+\\+ programming and scripting languages.
-* Knowledge of protocols such as AMBA, PCIe, USB, Ethernet etc.
-* Background in developing IP/VIP, Sub\\-system, SoC level verification environment with both UVM and SW\\-driven (embedded c).
-* Strong interest and understanding of design and verification methodologies.
-* Should possess strong analytical and communication skills.
-* The position requires the ability to ramp up on new technologies quickly and independently.
-
-
-**Education**
- MS in Electrical/Electronics/Computer Engineering with 6\\+ year experience or BE/BTech in Electrical/Computer/Electronics Engineering.
+ 5、热爱计算机技术，热衷于软件开发工作；
    
 
   
 
-**Behavioral Skills Required**
-* Must possess strong written, verbal and presentation skills.
-* Good communication and interpersonal skills, demonstrate teamwork and collaboration skills.
-* Ability to establish a close working relationship with both customer peers and management.
-* Explore what’s possible to get the job done, including creative use of unconventional solutions
-* Work effectively across functions and geographies
-* Push to raise the bar while always operating with integrity
-
-
-**We’re doing work that matters. Help us solve what others can’t.**","Software Development","https://www.linkedin.com/company/cadence","https://media.licdn.com/dms/image/v2/C560BAQFORFBYBIoPHQ/company-logo_100_100/company-logo_100_100/0/1630668285973?e=2147483647&v=beta&t=2J-kabPjQZhiv-NQmJBV5GTY1H_oVFa73HtuaA2-b0M","","","","","","","","","","",""
+ 6、有团队精神与沟通能力。","Textile Manufacturing","https://sg.linkedin.com/company/inl-international-technology-ptd-ltd","https://media.licdn.com/dms/image/v2/C510BAQEWIZjd5QD6Qg/company-logo_100_100/company-logo_100_100/0/1630615721815/inl_international_technology_ptd_ltd_logo?e=2147483647&v=beta&t=lguCOueNjlodimhW4HBSzyl5DxHX3gmL9_EdUUTZtcA","","","","","","","","","","",""
+"li-4451367225","linkedin","https://www.linkedin.com/jobs/view/4451367225","","Data Engineer","AB InBev APAC","","","fulltime","","","","","",False,"entry level","Information Technology","","","**Dreaming big is in our DNA. It’s who we are as a company. It’s our culture. It’s our heritage. And more than ever, it’s our future. A future where we’re always looking forward. Always serving up new ways to meet life’s moments. A future where we keep dreaming bigger. We look for people with passion, talent, and curiosity, and provide them with the teammates, resources and opportunities to unleash their full potential. The power we create together – when we combine your strengths with ours – is unstoppable. Are you ready to join a team that dreams as big as you do?**
+ Data Engineering for GenAI program","Food and Beverage Services","https://cn.linkedin.com/company/ab-inbev-apac","https://media.licdn.com/dms/image/v2/C510BAQFyETDBKULOsg/company-logo_100_100/company-logo_100_100/0/1630614455524/ab_inbev_apac_logo?e=2147483647&v=beta&t=gYXT9jaq5olC0IkZSYzfNQMdCTlA43STfU_3T_Y-qVk","","","","","","","","","","",""
 "li-4451349914","linkedin","https://www.linkedin.com/jobs/view/4451349914","","System Integrator Engineer (2 to 4 Years)","PhonePe","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering","","","**About PhonePe Limited:**
  Headquartered in India, its flagship product, the PhonePe digital payments app, was launched in Aug 2016\\. As of April 2025, PhonePe has over 60 Crore (600 Million) registered users and a digital payments acceptance network spread across over 4 Crore (40\\+ million) merchants. PhonePe also processes over 33 Crore (330\\+ Million) transactions daily with an Annualized Total Payment Value (TPV) of over INR 150 lakh crore.
    
@@ -473,763 +151,1693 @@
 ***.***
 **Life at PhonePe**
 **PhonePe in the news**","Software Development","https://in.linkedin.com/company/phonepe-internet","https://media.licdn.com/dms/image/v2/D560BAQHLOrShxWW33g/company-logo_100_100/company-logo_100_100/0/1732870614932/phonepe_internet_logo?e=2147483647&v=beta&t=09gfiudcKM9d5Urbb5ZWLBlHIshGNxCo6uG3oQpoL_g","","","","","","","","","","",""
-"li-4414973986","linkedin","https://www.linkedin.com/jobs/view/4414973986","","Vice President, Full-Stack Engineer","BNY","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
-**Vice President ,Full\\-Stack Engineer**
- At BNY, our culture allows us to run our company better and enables employees’ growth and success. As a leading global financial services company at the heart of the global financial system, we influence nearly 20% of the world’s investible assets. Every day, our teams harness cutting\\-edge AI and breakthrough technologies to collaborate with clients, driving transformative solutions that redefine industries and uplift communities worldwide.
+"li-4414702722","linkedin","https://www.linkedin.com/jobs/view/4414702722","","Principal Software Engineer","Cadence","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.**
+**Job Title:** 
+ Principal Software Engineer
    
 
   
 
- Recognized as a top destination for innovators, BNY is where bold ideas meet advanced technology and exceptional talent. Together, we power the future of finance – and this is what is all about. Join us and be part of something extraordinary.
+**Location:** 
+ Bangalore
    
 
   
 
- We’re seeking a future team member for the role of
- **Vice President, Full\\-Stack Engineer** 
- to join our team . This role is located in Chennai.
+**Cadence** 
+ is a pivotal leader in electronic design, building upon more than 30 years of computational software expertise. The company applies its underlying Intelligent System Design strategy to deliver software, hardware and IP that turn design concepts into reality. Cadence customers are the world’s most innovative companies, delivering extraordinary electronic products from chips to boards to systems for the most dynamic market applications including consumer, hyperscale computing, 5G communications, automotive, aerospace industrial and health.
    
 
   
 
-**In this role, you’ll make an impact in the following ways:**
-* Design, develop, and maintain scalable web applications using Java and modern frontend technologies (e.g., React, Angular).
-* Collaborate with cross\\-functional teams including product, design, and QA to deliver high\\-quality software solutions.
-* Write clean, maintainable, and well\\-tested code following best practices.
-* Optimize application performance and troubleshoot issues across the stack.
-* Participate in code reviews, mentoring, and knowledge sharing to elevate team capabilities.
-* Continuously learn and apply new technologies to improve development processes and product quality.
-
-
-**To be successful in this role, we’re seeking the following:**
-* Strong proficiency in Java and related frameworks (Spring Boot, Hibernate).
-* Experience with frontend frameworks such as React or Angular.
-* Solid understanding of RESTful APIs, microservices architecture, and cloud platforms
-* Expertise in database design and SQL/NoSQL databases.
-* Familiarity with CI/CD pipelines, containerization (Docker, Kubernetes), automated testing and test\\-driven development.
-* Excellent problem\\-solving skills and ability to work independently and collaboratively.
-* Proven track record of delivering complex projects efficiently.
-* Experience in Agile/Scrum environments.
-* Knowledge of security best practices in web development.
-* Strong communication skills.
-* Node JS, WebSocket, Hazel cast, JMS MQ, JPA for distributed service based architecture, understanding of Gitlab, Docker, bootstrap, bower, grunt and related development/deployment tools.
-* Exposure to asynchronous programming and web sockets.
-
-
-**At BNY, our culture speaks for itself, check out the latest BNY news at:**
- BNY Newsroom
-   
-
-  
-
- BNY LinkedIn
-   
-
-  
-
-**Here’s a Few Of Our Recent Awards**
-* America’s Most Innovative Companies, Fortune, 2025
-* World’s Most Admired Companies, Fortune 2025
-* “Most Just Companies”, Just Capital and CNBC, 2025
-
-
-**Our Benefits And Rewards**
- BNY offers highly competitive compensation, benefits, and wellbeing programs rooted in a strong culture of excellence and our pay\\-for\\-performance philosophy. We provide access to flexible global resources and tools for your life’s journey. Focus on your health, foster your personal resilience, and reach your financial goals as a valued member of our team, along with generous paid leaves, including paid volunteer time, that can support you and your family through moments that matter.
-   
-
-  
-
- BNY is an Equal Employment Opportunity/Affirmative Action Employer \\- Underrepresented racial and ethnic groups/Females/Individuals with Disabilities/Protected Veterans.","Financial Services","https://www.linkedin.com/company/bnyglobal","https://media.licdn.com/dms/image/v2/D4E0BAQE72gHn5DlpMw/company-logo_100_100/company-logo_100_100/0/1719256014898/bny_mellon_logo?e=2147483647&v=beta&t=PnwSjZO6h_PzXADc2uZm6wKVN90Qzv9xCGJsKPo4iz4","","","","","","","","","","",""
-"li-4062318272","linkedin","https://www.linkedin.com/jobs/view/4062318272","","Senior Member Technical","Broadridge India","","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","At Broadridge, we've built a culture where the highest goal is to empower others to accomplish more. If you’re passionate about developing your career, while helping others along the way, come join the Broadridge team.
-   
-
-  
-
-**Must Have:**
-* Ability to work on their own or as part of team as required
-* C / C\\+\\+ (experienced)
-* Database experience (of some sort) – Ideally SQL Server (2016\\+)
-* Security vulnerabilities (OWASP)
-
-
-**Preferable to have:**
-* C\\#
-* TFS
-* Team City
-* Web Development
-* PowerShell \\- including DSC (Desired State Configuration) as deployment mechanism
-* TDD
-* Containers
-* Familiarity with PKI and Certificate Management esp. on Windows Platform.
-* Familiarity with encryption and secure connectivity
-* Basic knowledge of Networks, Firewalls and DMZs
-* Basic knowledge of Virtual Machine management – bias towards VMware \\\\ ESXi
-* Github
-* Pester or other testing frameworks","Financial Services and IT Services and IT Consulting","https://in.linkedin.com/company/broadridge-financial-solutions-india-private-ltd","https://media.licdn.com/dms/image/v2/D560BAQEcWDQPQ2IuKg/company-logo_100_100/company-logo_100_100/0/1688159554079/broadridge_financial_solutions_india_private_ltd_logo?e=2147483647&v=beta&t=C5bpMZCSP9lX5GBNrWEYA26U7C395u-ZKZZtWjlwOeI","","","","","","","","","","",""
-"li-4450994419","linkedin","https://www.linkedin.com/jobs/view/4450994419","","Principal Engineer","Yubi","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering","","","**ABOUT YUBI** 
-
-
-
-
- Yubi (formerly CredAvenue) is redefining global debt markets by freeing the flow of finance between borrowers, lenders, and investors — the world's possibility platform for the discovery, investment, fulfilment, and collection of any debt solution. In March 2022, we became India's fastest fintech unicorn with a $137M Series B. Our platforms — Yubi Credit Marketplace, Yubi Invest, Financial Services Platform, Spocto, and Corpository — serve 17,000\\+ enterprises and 6,200\\+ investors, facilitating over ₹1,40,000 crore in debt volumes. Backed by Insight Partners, Sequoia Capital, Dragoneer, B Capital, LightSpeed, and Lightrock.
- 
-
-
-
-**ROLE OVERVIEW** 
-
-
-
-
- As a Principal Engineer (Agentic AI), you will be the technical visionary behind Yubi's AI platform — setting the long\\-term architecture direction, establishing engineering excellence standards, and driving the adoption of agentic AI across our entire product suite. This is a hands\\-on leadership role: you will write critical code, mentor senior engineers, define platform\\-level abstractions, and partner directly with the CTO and VP Engineering to shape Yubi's AI strategy. Your work will determine how intelligent agents transform the future of debt markets at scale.
- 
-
-
-
-**KEY RESPONSIBILITIES** 
-
-
-
-
-**Platform Architecture \\& Strategy** 
-
-
-
-* Define the multi\\-year technical vision and architecture for Yubi's Agentic AI platform — spanning agent runtimes, LLM integration layers, data pipelines, and developer tooling.
-* Establish platform\\-level abstractions and internal frameworks that accelerate agent development across multiple product teams.
-* Lead architectural reviews across engineering, ensuring AI systems are scalable, explainable, compliant, and cost\\-efficient at millions\\-of\\-transactions scale.
-* Identify build vs. buy decisions for AI infrastructure; evaluate and adopt emerging frameworks, foundation models, and tooling ahead of the curve.
-* Define and own AI engineering standards: prompt versioning, evaluation frameworks, guardrail policies, and responsible AI practices.
-
-
-
-**Hands\\-On Agentic AI Engineering** 
-
-
-
-* Design and build the most complex, high\\-stakes agent systems — multi\\-agent orchestration, long\\-horizon planning, reflection loops, and tool\\-augmented reasoning.
-* Architect LLM fine\\-tuning and alignment workflows for domain\\-specific financial tasks where general models fall short.
-* Own the agent evaluation and reliability framework — golden datasets, LLM\\-as\\-judge pipelines, regression suites, and production monitoring.
-* Drive RAG platform evolution — advanced retrieval, hybrid search, knowledge graph integration, and context compression.
-* Build developer experience tooling — internal SDKs, agent testing harnesses, and observability dashboards used by all AI teams.
-
-
-
-**Organisational Impact** 
-
-
-
-* Mentor and coach Lead, and Senior engineers across AI teams; act as a technical multiplier across the organisation.
-* Define the engineering hiring bar for AI roles; lead final\\-round technical interviews and calibration sessions.
-* Represent Yubi's engineering at external conferences, tech talks, and open\\-source communities to attract top talent.
-* Collaborate with CTO, VP Engineering, and business leadership to translate AI opportunities into executable technical roadmaps.
-
-
-
-**REQUIRED SKILLS \\& QUALIFICATIONS** 
-
-
-
-
-**Technical** 
-
-
-
-* 8–12 years of full\\-stack engineering experience; 2\\+ years in production LLM / AI agent system development.
-* Very strong problem solving capability and doing HLD and LLD for a given problem
-* Good understanding of data structures , algorithms
-* Good Understanding of CI/CD pipelines and test driven development
-* Deep expertise in Spring Boot, Spring Cloud, and Hibernate for enterprise\\-grade, high\\-throughput microservices.
-* Deep Understanding of Observability frameworks , Async processing frameworks
-* Strong React/TypeScript and Node.js skills; experience with large\\-scale frontend architectures.
-* Proven track record of architecting and shipping production LLM\\-powered systems handling significant load.
-* Expert\\-level knowledge of agent orchestration (LangGraph, AutoGen, custom runtimes), RAG pipelines, and LLM evaluation.
-* Deep experience with Kafka, event\\-driven architectures, and large\\-scale data pipelines.
-* Kubernetes, AWS (EKS, MSK, RDS, SageMaker), and infrastructure\\-as\\-code expertise.
-* Strong understanding of responsible AI — explainability, bias mitigation, hallucination control, and regulatory compliance.
-
-
-
-**Leadership \\& Soft Skills** 
-
-
-
-* Demonstrated technical leadership across multiple teams and products simultaneously.
-* Exceptional written and verbal communication — able to influence executives, engineers, and external partners.
-* Track record of building and growing high\\-performing engineering teams.
-* Strategic thinker who can operate at both the architecture white\\-board and the code editor.
-* B.E. / B.Tech in Computer Science or related field; M.Tech / PhD advantageous.","Banking","https://in.linkedin.com/company/go-yubi","https://media.licdn.com/dms/image/v2/D4D0BAQEt4HK6B5ewww/company-logo_100_100/company-logo_100_100/0/1710832365066/go_yubi_logo?e=2147483647&v=beta&t=ntViQy2vun3Q-ixdJ8m1ZniIv-zqbjtyKj0VhKr42es","","","","","","","","","","",""
-"li-4449518450","linkedin","https://www.linkedin.com/jobs/view/4449518450","","Co-Owner","DIV Solution","","","fulltime","","","","","",True,"executive","Business Development and Sales","","manager@divsolution.in, divypatel@divsolution.in, pateldharmik096@gmail.com","Company: Div Solutions
-   
-
- Location: Ahmedabad, Gujarat (Remote / Work From Office)
-   
-
- Job Type: Full\\-time
-   
-
-  
-
- About Div Solutions
-   
-
-  
-
- Div Solutions is an IT service company specializing in Website Development, UI/UX Design, and Full Stack Development. We build modern, scalable, and user\\-friendly digital solutions for startups, businesses, and brands.
-   
-
-  
-
- Key Responsibilities
-   
-
-  
-
- \\- Develop responsive and modern websites and web applications.
-   
-
- \\- Design clean and user\\-friendly UI/UX interfaces.
-   
-
- \\- Work on both frontend and backend development tasks.
-   
-
- \\- Collaborate with designers and developers to deliver high\\-quality projects.
-   
-
- \\- Optimize websites for performance, security, and scalability.
-   
-
- \\- Test, debug, and maintain web applications.
-   
-
- \\- Communicate project progress and provide technical support when required.
-   
-
-  
-
- Qualification Requirements
-   
-
-  
-
- \\- Bachelor’s degree in Computer Engineering, Information Technology, Computer Science, or a related field.
-   
-
- \\- Diploma holders with relevant web development or UI/UX experience may also apply.
-   
-
- \\- Basic understanding of HTML, CSS, JavaScript, and modern web technologies.
-   
-
- \\- Knowledge of React, Next.js, Node.js, Express.js, or other full stack technologies is preferred.
-   
-
- \\- Familiarity with UI/UX design tools such as Figma, Adobe XD, or similar software is an advantage.
-   
-
- \\- Understanding of Git/GitHub and version control systems.
-   
-
- \\- Good problem\\-solving and communication skills.
-   
-
- \\- Ability to work independently and as part of a team.
-   
-
-  
-
- Preferred Skills
-   
-
-  
-
- \\- Responsive Web Design
-   
-
- \\- API Integration
-   
-
- \\- Database knowledge (MySQL / MongoDB)
-   
-
- \\- UI Prototyping \\& Wireframing
-   
-
- \\- Deployment and hosting basics (Vercel, Netlify, or similar)
-   
-
-  
-
- What We Offer
-   
-
-  
-
- \\- Opportunity to work on real client projects.
-   
-
- \\- Creative and collaborative work environment.
-   
-
- \\- Growth opportunities in UI/UX, Full Stack, and Web Development.
-   
-
- \\- Flexible working options based on project requirements.
-   
-
-  
-
- Apply Now:
-   
-
-  
-
- Interested candidates can send their resume, portfolio, and project details to
-   
-
-  
-
- manager@divsolution.in
-   
-
- CC: divypatel@divsolution.in,
-   
-
- pateldharmik096@gmail.com","IT Services and IT Consulting","https://in.linkedin.com/company/div-solution","https://media.licdn.com/dms/image/v2/D4D0BAQEi5SI7huYG9g/company-logo_100_100/B4DZ.TLFVwJwAM-/0/1784880584307?e=2147483647&v=beta&t=8RH5riLoYUuA1TnA5vGnrRl8uoer7G7O14TmJ5AxiR4","","","","","","","","","","",""
-"li-4050207479","linkedin","https://www.linkedin.com/jobs/view/4050207479","","Senior Member Technical","Broadridge India","Hyderabad, Telangana, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","At Broadridge, we've built a culture where the highest goal is to empower others to accomplish more. If you’re passionate about developing your career, while helping others along the way, come join the Broadridge team.
-   
-
-  
-
-* Full Stack .NET Developer
-
-
- Essential
-   
-
-  
-
-* Over 4 years’ relevant software development experience
-* Strong proficiency in .NET C\\# applications development (.net framework/.net core) including .net web development frameworks e.g. MVC, Web API
-* Experience in web development technologies: Javascript, HTML, CSS
-* Professional experience working with relational databases (SQL Server), writing, maintaining and tuning SQL Server stored procedures and also .NET data access layers (e.g. Entity Framework)
-* Hands\\-on professional experience with aspects of devops \\- developing and deploying solutions, particularly on cloud\\-based infrastructure
-* Able to create, support and maintain .Net Web and Windows applications in a mature, fast\\-paced agile development environment creating the next generation of innovative applications and services for the funds industry. Working on all aspects of the implementation including database, back\\-end logic and UI
-* Ability to gather requirements and translate these into technical requirements, working as part of an agile (scrum) multi\\-functional systems development team, delivering high quality software.
-* Ability to share in responsibility for testing of applications, ensuring software quality and excellence of UI \\\\ UX design is maintained to the highest standards. Familiar with TDD, BDD and unit testing.
-* Able to adhere to good design practices and ensure standards are maintained as part of code reviews to ensure secure, robust, maintainable, scalable and extendable applications.
-* Ability to conduct troubleshooting, debugging and other operations support activities and ownership of problems or incidents to support the business.
-* Desirable
-* Experience in the following highly desirable:
-* Experience in the development of Cloud native applications primarily for Microsoft Azure
-* Experience in configuring Azure resources including SaaS
-* Experience of docker or other containerization technologies
-* Experience with tools and frameworks e.g. Knockout.js, Vue.js, Angular, react and associated toolsets like Typescript and bundlers. Legacy frameworks like jQuery
-* Experience of alternative data storage solutions e.g. Nosql, ElasticSearch, Couchbase
-* Experience with or knowledge of web security best practices
-* Understanding of Design Patterns, SOLID principles, Inversion of Control and RESTful Web Services and general software architecture best practices","Financial Services and IT Services and IT Consulting","https://in.linkedin.com/company/broadridge-financial-solutions-india-private-ltd","https://media.licdn.com/dms/image/v2/D560BAQEcWDQPQ2IuKg/company-logo_100_100/company-logo_100_100/0/1688159554079/broadridge_financial_solutions_india_private_ltd_logo?e=2147483647&v=beta&t=C5bpMZCSP9lX5GBNrWEYA26U7C395u-ZKZZtWjlwOeI","","","","","","","","","","",""
-"li-4414984348","linkedin","https://www.linkedin.com/jobs/view/4414984348","","Vice President, Full-Stack Engineer","BNY","","","fulltime","","","","","",False,"executive","Engineering and Information Technology","","","**Job Description**
- We’re seeking a future team member for the role of Vice President Full Stack Engineer to join our GSS Enablement team. This role is located in Pune
-   
-
-  
-
- In this role, you’ll make an impact in the following ways:
-   
-
-  
-
-* Design and development of backend features and components.
-* Provide application software development services or technical support in more complex situations.
-* Design and code programs, create test transactions and write documentation that describes installation and operating procedures.
-* Utilize standard procedures and techniques to write new complex programs
-* Integrate software components into a fully functional software system. Apply security and privacy principles.
-* Participate in deployment process following all change controls. Provide ongoing maintenance, support and enhancements in existing systems and platforms. Provide recommendations for continuous improvement.
-* Work alongside other engineers on the team to elevate technology and consistently apply best practices. Collaborate closely with all the other members of the team to take shared responsibility for the overall efforts that the team commits to. Collaborate cross\\-functionally with data engineers, business users, project managers and other engineers to achieve elegant solutions.
-* Comply with BNY’s standard development methodology
-
-
- To be successful in this role, we’re seeking the following:
-   
-
-  
-
-* Bachelor's degree in computer science engineering or related discipline, or equivalent work experience.
-* 10\\+ years of experience in software development with hands on experience in Backend \\- core Java, Spring Boot, REST API development, Microservices and Frontend technologies– Angular, HTML, CSS, Javascript with responsive UI development and building distributed systems. Strong technical credentials and deep hands\\-on technical expertise building complex, highly scalable software systems that have been successfully delivered to the customers.
-* Design code that can be changed/refactored easily. This includes not only a design that allows it but the unit tests to prove nothing will break
-* Passion for problem solving and designing for scale.
-* Strong experience in messaging (IBM MQ preferred).
-* Experience required in SQL, Stored Procedures and transaction management.
-* Experience following best practices of design, development, testing and release management.
-* Experience working with APIs to create, test and manage APIs for inter\\-process communication.
-* Oracle, SQL Server or any other relational database experience necessary. NoSQL knowledge preferred.
-* Experience leveraging AI tools (e.g., GitHub Copilot, Cursor, Windsurf, or similar LLM\\-based assistants) to accelerate daily development tasks such as code generation, debugging, code review, and documentation
-* Experience with SDLC and CI/CD pipeline best practices.
-* Experience with Angular and developing UI screens preferred.
-* Experience with scripting using Linux preferred.
-* Good understanding of monitoring tools such as AppDynamics, Splunk, Moogsoft.
-* Enthusiastically adopt AI\\-first software development practices
-* Experience in the securities or financial services industry is a big plus.","Financial Services","https://www.linkedin.com/company/bnyglobal","https://media.licdn.com/dms/image/v2/D4E0BAQE72gHn5DlpMw/company-logo_100_100/company-logo_100_100/0/1719256014898/bny_mellon_logo?e=2147483647&v=beta&t=PnwSjZO6h_PzXADc2uZm6wKVN90Qzv9xCGJsKPo4iz4","","","","","","","","","","",""
-"li-4433468122","linkedin","https://www.linkedin.com/jobs/view/4433468122","","Senior Application Engineer","Swiss Re","Hyderabad, Telangana, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","Hyderabad, India \\| Hybrid
-   
-
-  
-
- Are you a seasoned engineer who thrives at the intersection of cutting\\-edge technology and complex business challenges? Do you love turning ambiguity into elegant, scalable solutions? If you're passionate about engineering excellence, mentoring others, and shaping the future of reinsurance technology — this role was built for you.
-   
-
-  
-
-**About The Role**
- As a Senior Application Engineer, you will be at the heart of designing and delivering robust, enterprise\\-grade applications that power Swiss Re's Life \\& Health Reinsurance business. You'll collaborate with Product Owners, Business Analysts, and Architects across global teams to craft solutions that are not only technically sound but strategically aligned with business goals. This is a role where your engineering depth, your curiosity, and your ability to lead will all be put to work — every single day.
-   
-
-  
-
- Key Responsibilities
-   
-
-  
-
-* Design and implement end\\-to\\-end application and product lifecycle solutions, ensuring scalability, reliability, and performance across enterprise systems
-* Collaborate closely with Product Owners, Business Analysts, and Architects to translate business requirements into pragmatic, future\\-proof technical designs
-* Assess and manage technical risk, prioritize non\\-functional requirements, and champion engineering best practices across the team
-* Lead and mentor junior engineers, fostering a culture of continuous learning, knowledge sharing, and technical excellence
-* Drive cloud\\-native development on platforms such as Azure, contributing to the evolution of modern, microservices\\-based architectures
-* Contribute to AI\\-driven development practices, leveraging frontier AI models to enhance the Software Development Life Cycle (SDLC) and product delivery
-* Build and maintain CI/CD pipelines, ensuring smooth, automated delivery of high\\-quality software using tools like Maven and Git
-* Engage across global, cross\\-functional teams — both internal and external — to align on solutions, share knowledge, and deliver outcomes collaboratively
-* Challenge requirements constructively, listen to the broader vision, and implement realistic, well\\-reasoned designs that balance innovation with pragmatism
-* Contribute to technical research and feasibility studies, bringing structured analytical thinking and creative problem\\-solving to complex challenges
-
-
-**About The Team**
- We are the Global L\\&H Reinsurance Engineering team — a passionate group of technologists dedicated to building enterprise\\-grade IT solutions for Swiss Re's Reinsurance business unit. Our team brings together deep technical expertise and a genuine curiosity for the reinsurance domain, enabling us to engineer solutions that truly make a difference.
-   
-
-  
-
- We believe in the power of collaboration — working closely with colleagues and teams across the globe to share knowledge, co\\-create solutions, and continuously raise the bar. As you grow within the team, you'll gain a broad perspective on the Architecture \\& Engineering landscape of a global reinsurer, developing a comprehensive understanding of the people, systems, and business outcomes that define our industry. This foundation will open doors to exciting career opportunities across our global organization — whether in engineering leadership, architecture, or roles closer to the operational business.
-   
-
-  
-
-**About You**
- You are a hands\\-on, outcome\\-driven engineer with a passion for solving hard problems and a genuine commitment to quality. You bring both the technical depth to architect complex systems and the interpersonal skills to inspire and collaborate across cultures and geographies. You're energized by change, resilient in the face of setbacks, and always looking for ways to grow — and to help those around you grow too.
-   
-
-  
-
-**We Are Looking For Candidates Who Meet These Requirements**
-* 12\\+ years of experience in software engineering with strong fundamentals in Java, data structures, algorithms, and architectural patterns
-* Extensive hands\\-on experience with Spring Framework, Spring Boot, and microservices architecture in enterprise environments
-* Proven expertise in REST API and service design, with a solid understanding of enterprise system integration
-* Cloud\\-native application development experience, particularly with Azure, including deployment, operations, and modern DevOps practices
-* Proficiency with CI/CD tooling including Maven, Git, and automated pipeline management
-
-
-**These Are Additional Nice To Haves**
-* Experience with front\\-end technologies such as React JS, Angular, TypeScript, or JavaScript
-* Familiarity with ORM frameworks and RDBMS technologies
-* Experience working in agile, cross\\-functional, and globally distributed teams across complex organizational contexts
-* Ability to leverage AI frontier models to enhance product development and SDLC workflows
-* Understanding of insurance or reinsurance business concepts and domain knowledge
-* Strong analytical and structured problem\\-solving skills, with a track record of contributing to technical research and feasibility studies
-* Excellent communication and presentation skills in English, with the ability to engage effectively at all organizational levels
-* A growth mindset with a commitment to continuous learning and self\\-improvement
-* Comfort with ambiguity and the ability to navigate complexity with confidence and adaptability
-
-
- Our company has a hybrid work model where the expectation is that you will be in the office at least three days per week.
-   
-
-  
-
-**About Swiss Re**
- Swiss Re is one of the world’s leading providers of reinsurance, insurance and other forms of insurance\\-based risk transfer, working to make the world more resilient. We anticipate and manage a wide variety of risks, from natural catastrophes and climate change to cybercrime. We cover both Property \\& Casualty and Life \\& Health. Combining experience with creative thinking and cutting\\-edge expertise, we create new opportunities and solutions for our clients. This is possible thanks to the collaboration of more than 15,000 employees across the world.
-   
-
-  
-
- Our success depends on our ability to build an inclusive culture encouraging fresh perspectives and innovative thinking. We embrace a workplace where everyone has equal opportunities to thrive and develop professionally regardless of their age, gender, race, ethnicity, gender identity and/or expression, sexual orientation, physical or mental ability, skillset, thought or other characteristics. In our inclusive and flexible environment everyone can bring their authentic selves to work and their passion for sustainability.
-   
-
-  
-
- If you are an experienced professional returning to the workforce after a career break, we encourage you to apply for open positions that match your skills and experience.
-   
-
-  
-
- We may use AI\\-powered tools to support the review and evaluation of applications for this position. These tools provide additional insights to our recruitment teams, but all hiring decisions are carefully reviewed and made by people. To learn more about how we use AI in recruitment and how we handle your personal data, please review our Data Privacy Statement before applying.
-   
-
-  
-
-**Keywords**
-**Reference Code:** 
- 138537","Insurance","https://ch.linkedin.com/company/swiss-re","https://media.licdn.com/dms/image/v2/D4E0BAQEE2fqjaAIw5A/company-logo_100_100/company-logo_100_100/0/1719819515471/swiss_re_logo?e=2147483647&v=beta&t=X_mSd8jie4XQZJtOH-oOOCqyoI_VCqHWzeO0-Kf_PMM","","","","","","","","","","",""
-"li-4450979432","linkedin","https://www.linkedin.com/jobs/view/4450979432","","Java Backend Developer","Tata Consultancy Services","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Required:** 
-
-
-
-* Experience in implementing Java Spring Boot
-* Excellent expertise in Java 8, Multithreading, Microservices,
-* Proficiency with databases (Postgres, SQL and NoSQL) and ORM frameworks.
-* Knowledge of microservices architecture and cloud platforms (e.g., AWS,OpenShift).
-* Strong hands\\-on experience on Spring core and Spring JPA
-* Experienced in Version control using Git and collaborative tools like GitHub.
-* Experience with containerization (Docker) and orchestration (Kubernetes).
-* Knowledge of CI/CD pipelines and DevOps practices.
-* Familiarity with front\\-end libraries/frameworks (e.g., React, Angular).
-
-
-
-
-
-
-
-
-
-
-
-**Preferred:** 
-
-
-
-* Appian good to have.
-* Exposure to Payment systems, FX
-* Understanding of Agile/Scrum methodologies.","Information Services","https://in.linkedin.com/company/tata-consultancy-services","https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4","","","","","","","","","","",""
-"li-4424916382","linkedin","https://www.linkedin.com/jobs/view/4424916382","","Python Engineering AI Lead-Assistant Vice president","Citi","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Job Summary**
- We are seeking a highly motivated and experienced
- **Principal Engineer** 
- to join our
- **Retail and Wealth Risk Engineering** 
- team under the
- **Enterprise Risk Technology** 
- platform. This is an intermediate\\-level position responsible for designing, building, and maintaining robust, scalable data pipelines and solutions that leverage cutting\\-edge Mandatory platform for the secure and scalable deployment of AI agents, Big Data, Databrick and AI technologies. The ideal candidate is a high\\-impact individual with a passion for data, analytics, and problem\\-solving. You will play a key role in driving business engagement and growth by building the next generation of data and analytics platforms.
-   
-
-  
-
-**Responsibilities**
-* Design, develop, and maintain scalable, enterprise\\-grade AI agents , supporting ELT/ETL processes to handle large data volumes using the Python, FAST API, Microservices , PySpark, Kafka and Databricks ecosystem.
-* Build and Deploy GEN AI Agents using Googles ADK and Google Flash 2\\.5\\+ LLMs to support application automation supports and its deep insights, workflow support with HIL \\- Human in loop architecture.
-* Build and maintain data federation layers for lambda and Data Mesh architectures using tools like Starburst, with a strategy for adopting AI\\-based use cases (e.g., machine learning, deep learning, NLP) to drive efficiency.
-* Develop, deploy, and automate microservice integrations to support data\\-intensive applications, ensuring scalability, resilience, and maintainability using cloud native infrastructure and openshift or Kubernates architecture including CI/CD pipelines.
-* Integrate and leverage agentic AI tools (e.g., Devin.AI, Github Copilot) and platforms (e.g., MCP) through advanced prompt engineering to enhance development and operational efficiency.
-* Ensure data quality, integrity, and security throughout the entire data lifecycle.
-* Contribute to the continuous improvement of data engineering processes, standards, and best practices within the team.
-* Appropriately assess risk when business decisions are made, demonstrating consideration for the firm's reputation and safeguarding Citi, its clients, and assets by driving compliance with applicable laws, rules, and regulations. Adhere to Policy, apply sound ethical judgment, and escalate, manage, and report control issues with transparency.
+**The Cadence Advantage**
+* The opportunity to work on cutting\\-edge technology in an environment that encourages you to be creative, innovative, and to make an impact.
+* Cadence’s employee\\-friendly policies focus on the physical and mental well\\-being of employees, career development, providing opportunities for learning, and celebrating success in recognition of specific needs of the employees.
+* The unique “One Cadence – One Team” culture promotes collaboration within and across teams to ensure customer success
+* Multiple avenues of learning and development available for employees to explore as per their specific requirement and interests
+* You get to work with a diverse team of passionate, dedicated, and talented individuals who go above and beyond for our customers, our communities, and each other—every day.
+
+
+**Experience And Technical Skills Required**
+* 5\\+ to 12 years of hands\\-on experience in Software development experience with object\\-oriented languages (C\\+\\+, Java, Python, etc.) in an industrial setting
+* Strong fundamental knowledge in designing data structures, algorithms, and software engineering principles
+* Strong experience in C/C\\+\\+ development
+* Strong experience in Java development
+* Excellent verbal and written communications skills
+* Strong problem solving and analytical skills
+
+
+**Advantage**
+* Knowledge/Experience with IP\\-XACT
+* Knowledge/Experience with SystemVerilog and/or UVM
+* Knowledge/Experience of communication protocols such as USB/AMBA/Ethernet
 
 
 **Qualifications**
-**Required:**
-* 8\\+ years of overall experience in large\\-scale application development with recent mandatory platform for the secure and scalable deployment of AI agents into application contexts
-* Minimum of 5\\+ years of proven experience in a Python and pyspark Engineering lead role focused on building enterprise\\-grade, high\\-volume ELT/ETL processes using the PySpark and Databricks ecosystem.
-* Hands\\-on experience with agentic AI development using YAML, JSON, FAST API or Spring boot, Google ADK, LLM itegrations, including Devin.AI or Github Copilot, and integrating models via platforms like MCP using advanced prompt engineering.
-* Proven experience developing and automating microservice integrations to support data\\-intensive applications.
-* Proficiency in at least one programming language commonly used for data analytics, engineering, such as Python or Scala.
-* Strong SQL skills and experience with various relational databases.
-* Deep understanding of data modeling, data warehousing concepts, Data Mesh architecture, and data federation.
-* Excellent communication, collaboration, and problem\\-solving skills.
-
-
-**Preferred:**
-* Experience with cloud\\-based Big Data platforms (e.g., Cloudera, Databricks, AWS, Azure, GCP).
-* Experience with frontend technologies such as Angular or React JS for building data\\-driven application interfaces.
-* Practical experience applying AI/ML techniques to solve real\\-world business problems.
-* Familiarity with containerization technologies (e.g., Docker, Kubernetes).
-* Experience in data engineering within the banking retail products domain (e.g., Cards, Mortgage, Deposits, Wealth Management).
-* Relevant industry certifications (e.g., AWS Certified Big Data \\- Specialty, Azure Data Engineer Associate).
-
-
-**Education**
-* Bachelor’s degree in Computer Science, Engineering, or a related field.
-* Master’s degree is a plus.
-
-
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ BE/BTech or ME/M.Tech Graduate with Computer Science/Electronics \\& Communication/Electrical \\& Electronics/VLSI engineering or any other equivalent courses
    
 
   
 
-**Job Family Group:**
- Technology
-   
-
-  
-
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
-   
-
-  
-
-**Job Family:**
- Applications Development
-   
-
-  
-
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
-   
-
-  
-
-**Time Type:**
- Full time
-   
-
-  
-
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
-   
-
-  
-
-**Most Relevant Skills**
- Please see the requirements listed above.
-   
-
-  
-
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
-   
-
-  
-
-**Other Relevant Skills**
- For complementary skills, please see above and/or contact the recruiter.
-   
-
-  
-
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
-   
-
-  
-
-*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*
-*If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review* 
-*Accessibility at Citi.*
-*View Citi’s EEO Policy Statement and the Know Your Rights poster.*","Banking, Financial Services, and Investment Banking","https://www.linkedin.com/company/citi","https://media.licdn.com/dms/image/v2/D4E0BAQFgF4xtqyXBcg/company-logo_100_100/company-logo_100_100/0/1719257286385/citi_logo?e=2147483647&v=beta&t=E0LjmXX_MaMB3pwg6W_ragjyCPSpChEG51ham_xSNVc","","","","","","","","","","",""
-"li-4411538434","linkedin","https://www.linkedin.com/jobs/view/4411538434","","Frontend infrastructure CAD/tools Engineer","Marvell Technology","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"associate","Engineering and Information Technology","","","**About Marvell**
- Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud and AI, and carrier architectures, our innovative technology is enabling new possibilities.
-   
-
-  
-
- At Marvell, you can affect the arc of individual lives, lift the trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on purposeful and enduring innovation, above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead.
-   
-
-  
-
-**Your Team, Your Impact**
- The Switch Business Unit in Marvell designs and develops the next generation datacenter and enterprise System\\-On\\-Chip switch processors on leading edge process technology. We develop the architecture, collaborate on IP development, create the physical design, develop switching solutions and work with the world’s leading data center and enterprise companies to bring next generation networking to reality.
-   
-
-  
-
-**What You Can Expect**
-* Develop and support EDA/home grown tools automation using Python and Perl.
-* Develop AI integration to existing tool and Integrate existing AI tools.
-* Support and develop source control (Git/GitHub), Unix setup and LSF grid scripting.
-* Understand end\\-to\\-end Frontend development EDA flow like Simulators, Waveforms, Linting and more.
+**Behavioral Skills Required**
+* Must possess strong written, verbal and presentation skills
+* Ability to establish a close working relationship with both customer peers and management
+* Explore what’s possible to get the job done, including creative use of unconventional solutions
+* Work effectively across functions and geographies
+* Push to raise the bar while always operating with integrity
 
 
-**What We're Looking For**
- We are seeking a highly motivated Frontend infrastructure CAD/tools Engineer to join our team.
-   
-
-  
-
- The candidate will be responsible for developing and supporting the frontend infrastructure tools used for development of VLSI chips. The Frontend infrastructure consist of tools and automation to support EDA tools/flows as well as home grown application , Unix environment configuration and Git/Github source control.
-   
-
-  
-
- The role involve hand\\-on work with Python, Perl scripting, AI integration using LLM and RAG and integration of existing AI tools and IDE like DVT, Euclide and VScode.
-   
-
-  
-
-**Qualifications**
-* B.Sc. or M.Sc. in Electrical Engineering, Computer Engineering, or a related field.
-* 5\\+ years in tools development and automation, Advantage for EDA flow development experience .
-* Hands\\-on experience in automation development in Python, Perl. Advantage for JavaScript, C/C\\+\\+ and Web/PHP.
-* Ability to effectively develop and utilize AI tools and technologies and integrate them into existing flows/tools.
-* Knowledge of Pre Silicon frontend EDA flows is an advantage.
-* Knowledge and experience in Verification, UVM and SV is an advantage.
-* Excellent problem\\-solving skills, great debug abilities and attention to details.
-* Strong communication skills and ability to work in a cross\\-functional team environment.
-
-
-**Additional Compensation And Benefit Elements**
- With competitive compensation and great benefits, you will enjoy our workstyle within an environment of shared collaboration, transparency, and inclusivity. We’re dedicated to giving our people the tools and resources they need to succeed in doing work that matters, and to grow and develop with us. For additional information on what it’s like to work at Marvell, visit our Careers page.
-   
-
-  
-
- All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.
-   
-
-  
-
-**Interview Integrity**
- To support fair and authentic hiring practices, candidates are not permitted to use AI tools (such as transcription apps, real\\-time answer generators like ChatGPT or Copilot, or automated note\\-taking bots) during interviews.
-   
-
-  
-
- These tools must not be used to record, assist with, or enhance responses in any way. Our interviews are designed to evaluate your individual experience, thought process, and communication skills in real time. Use of AI tools without prior instruction from the interviewer will result in disqualification from the hiring process.
-   
-
-  
-
-**This position may require access to technology and/or software subject to U.S. export control laws and regulations, including the Export Administration Regulations (EAR). As such, applicants must be eligible to access export\\-controlled information as defined under applicable law. Marvell may be required to obtain export licensing approval from the U.S. Department of Commerce and/or the U.S. Department of State. Except for U.S. citizens, lawful permanent residents, or protected individuals as defined by 8 U.S.C. 1324b(a)(3\\), all applicants may be subject to an export license review process prior to employment.**","Semiconductor Manufacturing","https://www.linkedin.com/company/marvell","https://media.licdn.com/dms/image/v2/C560BAQGoDZZ9PaOE0w/company-logo_100_100/company-logo_100_100/0/1656682241711/marvell_logo?e=2147483647&v=beta&t=71THn50Q7jjidVmXMW9Su0nbAvBz2uftbc_w1qf5aJE","","","","","","","","","","",""
-"li-4330212978","linkedin","https://www.linkedin.com/jobs/view/4330212978","","Sr Application Engineer","Cadence","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.**
 **We’re doing work that matters. Help us solve what others can’t.**","Software Development","https://www.linkedin.com/company/cadence","https://media.licdn.com/dms/image/v2/C560BAQFORFBYBIoPHQ/company-logo_100_100/company-logo_100_100/0/1630668285973?e=2147483647&v=beta&t=2J-kabPjQZhiv-NQmJBV5GTY1H_oVFa73HtuaA2-b0M","","","","","","","","","","",""
-"li-4433487048","linkedin","https://www.linkedin.com/jobs/view/4433487048","","Sr. Developer","Cognizant","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Summary**
- Serve as a senior developer specializing in Azure data platforms and Snowflake to design build and optimize scalable data solutions in a hybrid work environment. Apply deep expertise in Azure Data Lake Store Azure Data Factory Python and Snowflake features to deliver secure high quality data products that empower analytics and strategic decision making for global stakeholders.
+"li-4451355592","linkedin","https://www.linkedin.com/jobs/view/4451355592","","MTS-System Runtime Engineer","Tsavorite Scalable Intelligence","","","fulltime","","","","","",False,"mid-senior level","Research, Engineering, and Design","","_bhaskar@yahoo.com","MTS\\-System Runtime Engineer
+ 
+
+
+
+**LOCATION: GREATER BENGALURU AREA** 
+
+
+
+
+  
+
+
+
+
+
+**Company Description** 
+
+
+
+
+**We are looking for exceptional talent and leadership to join Fast Growing Startup into Scalable Intelligence, the world’s first company developing Agentic Silicon for powering the future of AI.** 
+
+
+
+
+**Founded in 2023, We have deep customer engagements across America, Europe, and Asia, and demonstrated functional prototypes to prove our concept and vision.** 
+
+
+
+
+  
+
+
+
+
+
+ MTS\\-System Runtime Engineer Responsibilities: Develop and optimize the runtime environment for executing ML models. This includes managing memory allocation, optimizing data movement, and ensuring efficient execution on targeted hardware platforms.
+ 
+
+
+
+  
+
+
+
+
+
+ Experience working with open standard API. Required Skills: \\- Excellent C/C\\+\\+ programming skills \\- Strong background in systems programming \\- Experience with hardware accelerators \\- Prior experience in runtime environment \\- Proficiency in performance profiling and debugging tools \\- Hands on working experience in Python, Shell script will be a plus \\- Experience level – 8\\+ years
+ 
+
+
+
+  
+
+
+
+
+
+***Contact***
+
+
+
+
+ uday
+ 
+
+
+
+ muday\\_bhaskar@yahoo.com
+ 
+
+
+
+***www.mulyatech.com***
+
+
+
+
+***""Mining the Knowledge Community""***","Computer Hardware Manufacturing, Software Development, and Semiconductor Manufacturing","https://www.linkedin.com/company/tsavorite-scalable-intelligence","https://media.licdn.com/dms/image/v2/D560BAQFfp2uugeAZJQ/company-logo_100_100/B56ZpuIhFxKAAQ-/0/1762784318063/tsavorite_scalable_intelligence_logo?e=2147483647&v=beta&t=QKsYcgBXZHRW6WFzc5ydwl90T5c4OQ2h1fW82A6oPYM","","","","","","","","","","",""
+"li-4450976488","linkedin","https://www.linkedin.com/jobs/view/4450976488","","嵌入式软硬件开发工程师","INL International Technology Pte Ltd","Dadri, Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","岗位职责：
+   
+
+  
+
+ 1、参与部门的项目及业务技术评审；
+   
+
+  
+
+ 2、负责项目需求分析和设计，研究项目技术细节；
+   
+
+  
+
+ 3、编写相应的技术文档；
+   
+
+  
+
+ 4、完成原理图设计、元器件选型等；
+   
+
+  
+
+ 5、对完成的PCB工程文件进行校验、核对；
+   
+
+  
+
+ 6、负责产品技术的研究及开发过程中关键技术问题的解决；
+   
+
+  
+
+ 7、按照规范的软件开发流程，完成软件的设计、编程等工作；
+   
+
+  
+
+ 8、解决电子产品实际使用过程中的问题；
+   
+
+  
+
+ 9、对问题产品进行原因分析、改善对策拟定，提出产品改良方案，以不断提高产品质量；
+   
+
+  
+
+ 10、重要事情作到事前有计划(请示)，事后有汇报，必要时整理成文字资料并存档；
+   
+
+  
+
+ 11、完成上级领导交办的其它工作。
+   
+
+  
+
+ 任职资格：
+   
+
+  
+
+ 1、本科以上学历，计算机、电子、自动化等相关专业，3年以上工作经验；
+   
+
+  
+
+ 2、熟悉C语言编程；
+   
+
+  
+
+ 3、熟悉基本硬件原理；熟悉I2C、UART、CAN、SPI等一些基本通讯协议；
+   
+
+  
+
+ 4、熟悉MCU，ARM嵌入式软件编程，掌握至少一种常见MCU芯片开发环境；
+   
+
+  
+
+ 5、熟悉使用示波器万用表等设备分析解决问题；
+   
+
+  
+
+ 6、能独立完成系统的功能需求分析、软硬件设计需求;
+   
+
+  
+
+ 7、具有良好的学习能力和沟通能力，工作积极主动，能够承受较强的工作压力；
+   
+
+  
+
+ 8、良好的英语资料阅读能力和沟通能力优先；
+   
+
+  
+
+ 9、能适应出差；
+   
+
+  
+
+ 10、良好的团队合作精神，工作认真细致，有责任心及自主工作能力。","Textile Manufacturing","https://sg.linkedin.com/company/inl-international-technology-ptd-ltd","https://media.licdn.com/dms/image/v2/C510BAQEWIZjd5QD6Qg/company-logo_100_100/company-logo_100_100/0/1630615721815/inl_international_technology_ptd_ltd_logo?e=2147483647&v=beta&t=lguCOueNjlodimhW4HBSzyl5DxHX3gmL9_EdUUTZtcA","","","","","","","","","","",""
+"li-4451368228","linkedin","https://www.linkedin.com/jobs/view/4451368228","","SMTS- System Software Engineer","Tsavorite Scalable Intelligence","","","fulltime","","","","","",False,"mid-senior level","Research, Engineering, and Design","","_bhaskar@yahoo.com","**SMTS\\-System Software Engineer** 
+
+
+
+
+  
+
+
+
+
+
+**LOCATION: GREATER BENGALURU AREA** 
+
+
+
+
+  
+
+
+
+
+
+**Company Description** 
+
+
+
+
+**We are looking for exceptional talent and leadership to join Fast Growing Startup into Scalable Intelligence, the world’s first company developing Agentic Silicon for powering the future of AI.** 
+
+
+
+
+**Founded in 2023, We have deep customer engagements across America, Europe, and Asia, and demonstrated functional prototypes to prove our concept and vision.** 
+
+
+
+
+  
+
+
+
+
+
+**Responsibilities:** 
+
+
+
+
+**Design and develop the system software required to support running the ML runtime and SW stack, system initialization configuration management system, observability, and monitoring. Develop the hardware abstraction layer and necessary drivers.** 
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+**Required Skills:** 
+
+
+
+* **Excellent C/C\\+\\+ programming skills, prior experience of developing system software and drivers for products which have been deployed.**
+* **Excellent knowledge in Linux kernel internals, IPC/System V.**
+* **Experience developing software using POSIX libraries, multi\\-threading software, semaphores, process management.**
+* **Experience in Linux memory management, NUMA, Linux High Availability.**
+* **Hands on working experience in Python, Shell script**
+* **Experience in trusted firmware, secure boot, boot loader, CMRT**
+* **Jtag, HW/SW debugging tools**
+* **Experience level: 11\\+ years**
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+**Good to have:** 
+
+
+
+* **Experience with writing Linux device drivers**
+* **Experience in NVMe, RoCE2, interface and cluster management, control plane**
+* **Experience in container, Docker, Kubernetes**
+* **Experience in working in FPGA and QEMU**
+* **Experience in ARM Cortex\\-3, bare\\-metal driver development**
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+***Contact***
+
+
+
+
+ uday
+ 
+
+
+
+ muday\\_bhaskar@yahoo.com
+ 
+
+
+
+***www.mulyatech.com***
+
+
+
+
+***""Mining the Knowledge Community""***","Computer Hardware Manufacturing, Software Development, and Semiconductor Manufacturing","https://www.linkedin.com/company/tsavorite-scalable-intelligence","https://media.licdn.com/dms/image/v2/D560BAQFfp2uugeAZJQ/company-logo_100_100/B56ZpuIhFxKAAQ-/0/1762784318063/tsavorite_scalable_intelligence_logo?e=2147483647&v=beta&t=QKsYcgBXZHRW6WFzc5ydwl90T5c4OQ2h1fW82A6oPYM","","","","","","","","","","",""
+"li-4450990480","linkedin","https://www.linkedin.com/jobs/view/4450990480","","LIMS Operation engineer","Infosys","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","* Primary skills:Domain\\-\\>Energy Oil \\& Gas \\- Downstream\\-\\>Operations and Performance Management
+
+
+ A day in the life of an Infoscion
+   
+
+  
+
+* As part of the Infosys delivery team, your primary role would be to ensure effective Design, Development, Validation and Support activities, to assure that our clients are satisfied with the high levels of service in the technology domain.
+* You will gather the requirements and specifications to understand the client requirements in a detailed manner and translate the same into system requirements.
+* You will play a key role in the overall estimation of work requirements to provide the right information on project estimations to Technology Leads and Project Managers.
+* You would be a key contributor to building efficient programs/ systems and if you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you! If you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the place for you!
+* 
+* 
+* 
+* K
+* n
+* o
+* w
+* l
+* e
+* d
+* g
+* e
+* 
+* o
+* f
+* 
+* d
+* e
+* s
+* i
+* g
+* n
+* 
+* p
+* r
+* i
+* n
+* c
+* i
+* p
+* l
+* e
+* s
+* 
+* a
+* n
+* d
+* 
+* f
+* u
+* n
+* d
+* a
+* m
+* e
+* n
+* t
+* a
+* l
+* s
+* 
+* o
+* f
+* 
+* a
+* r
+* c
+* h
+* i
+* t
+* e
+* c
+* t
+* u
+* r
+* e
+* 
+* 
+* 
+* 
+* U
+* n
+* d
+* e
+* r
+* s
+* t
+* a
+* n
+* d
+* i
+* n
+* g
+* 
+* o
+* f
+* 
+* p
+* e
+* r
+* f
+* o
+* r
+* m
+* a
+* n
+* c
+* e
+* 
+* e
+* n
+* g
+* i
+* n
+* e
+* e
+* r
+* i
+* n
+* g
+* 
+* 
+* 
+* 
+* K
+* n
+* o
+* w
+* l
+* e
+* d
+* g
+* e
+* 
+* o
+* f
+* 
+* q
+* u
+* a
+* l
+* i
+* t
+* y
+* 
+* p
+* r
+* o
+* c
+* e
+* s
+* s
+* e
+* s
+* 
+* a
+* n
+* d
+* 
+* e
+* s
+* t
+* i
+* m
+* a
+* t
+* i
+* o
+* n
+* 
+* t
+* e
+* c
+* h
+* n
+* i
+* q
+* u
+* e
+* s
+* 
+* 
+* 
+* 
+* B
+* a
+* s
+* i
+* c
+* 
+* u
+* n
+* d
+* e
+* r
+* s
+* t
+* a
+* n
+* d
+* i
+* n
+* g
+* 
+* o
+* f
+* 
+* p
+* r
+* o
+* j
+* e
+* c
+* t
+* 
+* d
+* o
+* m
+* a
+* i
+* n
+* 
+* 
+* 
+* 
+* A
+* b
+* i
+* l
+* i
+* t
+* y
+* 
+* t
+* o
+* 
+* t
+* r
+* a
+* n
+* s
+* l
+* a
+* t
+* e
+* 
+* f
+* u
+* n
+* c
+* t
+* i
+* o
+* n
+* a
+* l
+* 
+* /
+* 
+* n
+* o
+* n
+* f
+* u
+* n
+* c
+* t
+* i
+* o
+* n
+* a
+* l
+* 
+* r
+* e
+* q
+* u
+* i
+* r
+* e
+* m
+* e
+* n
+* t
+* s
+* 
+* t
+* o
+* 
+* s
+* y
+* s
+* t
+* e
+* m
+* s
+* 
+* r
+* e
+* q
+* u
+* i
+* r
+* e
+* m
+* e
+* n
+* t
+* s
+* 
+* 
+* 
+* 
+* A
+* b
+* i
+* l
+* i
+* t
+* y
+* 
+* t
+* o
+* 
+* d
+* e
+* s
+* i
+* g
+* n
+* 
+* a
+* n
+* d
+* 
+* c
+* o
+* d
+* e
+* 
+* c
+* o
+* m
+* p
+* l
+* e
+* x
+* 
+* p
+* r
+* o
+* g
+* r
+* a
+* m
+* s
+* 
+* 
+* 
+* 
+* A
+* b
+* i
+* l
+* i
+* t
+* y
+* 
+* t
+* o
+* 
+* w
+* r
+* i
+* t
+* e
+* 
+* t
+* e
+* s
+* t
+* 
+* c
+* a
+* s
+* e
+* s
+* 
+* a
+* n
+* d
+* 
+* s
+* c
+* e
+* n
+* a
+* r
+* i
+* o
+* s
+* 
+* b
+* a
+* s
+* e
+* d
+* 
+* o
+* n
+* 
+* t
+* h
+* e
+* 
+* s
+* p
+* e
+* c
+* i
+* f
+* i
+* c
+* a
+* t
+* i
+* o
+* n
+* s
+* 
+* 
+* 
+* 
+* G
+* o
+* o
+* d
+* 
+* u
+* n
+* d
+* e
+* r
+* s
+* t
+* a
+* n
+* d
+* i
+* n
+* g
+* 
+* o
+* f
+* 
+* S
+* D
+* L
+* C
+* 
+* a
+* n
+* d
+* 
+* a
+* g
+* i
+* l
+* e
+* 
+* m
+* e
+* t
+* h
+* o
+* d
+* o
+* l
+* o
+* g
+* i
+* e
+* s
+* 
+* 
+* 
+* 
+* 
+* A
+* w
+* a
+* r
+* e
+* n
+* e
+* s
+* s
+* 
+* o
+* f
+* 
+* l
+* a
+* t
+* e
+* s
+* t
+* 
+* t
+* e
+* c
+* h
+* n
+* o
+* l
+* o
+* g
+* i
+* e
+* s
+* 
+* a
+* n
+* d
+* 
+* t
+* r
+* e
+* n
+* d
+* s
+* 
+* 
+* 
+* 
+* L
+* o
+* g
+* i
+* c
+* a
+* l
+* 
+* t
+* h
+* i
+* n
+* k
+* i
+* n
+* g
+* 
+* a
+* n
+* d
+* 
+* p
+* r
+* o
+* b
+* l
+* e
+* m
+* 
+* s
+* o
+* l
+* v
+* i
+* n
+* g
+* 
+* s
+* k
+* i
+* l
+* l
+* s
+* 
+* a
+* l
+* o
+* n
+* g
+* 
+* w
+* i
+* t
+* h
+* 
+* a
+* n
+* 
+* a
+* b
+* i
+* l
+* i
+* t
+* y
+* 
+* t
+* o
+* 
+* c
+* o
+* l
+* l
+* a
+* b
+* o
+* r
+* a
+* t
+* e
+
+
+- 
+
+-","IT Services and IT Consulting","https://in.linkedin.com/company/infosys","https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I","","","","","","","","","","",""
+"li-4451358605","linkedin","https://www.linkedin.com/jobs/view/4451358605","","Dotnet  Full Stack Developer","Tata Consultancy Services","Hyderabad, Telangana, India","","fulltime","","","","","",False,"associate","Other","","","***JD :***
+
+
+
+
+***Position: Dotnet Fullstack Developer***
+
+
+
+
+***Job Location: PAN India***
+
+
+
+
+***Experience: 5\\-7 years***
+
+
+
+
+  
+
+
+
+
+
+***Detailed Job requirements***
+*:* 
+
+
+
+
+  
+
+
+
+
+
+***Role \\& responsibilities:***
+
+
+
+
+  
+
+
+
+
+
+***Must Have:***
+
+
+
+* *Net Full stack ( .Net, Web API, MVC, Angular, SQL,)*
+* *Responsibilities:*
+* *Develop application code components. Follow Agile practices \\& coding/testing policies*
+* *Participate in Solution Design, develop codes in .Net core, Web API and MVC*
+
+
+
+  
+
+
+
+
+
+***Responsibilities of the job:***
+
+
+
+* *Develop application code components.*
+* *Follow Agile practices \\& coding/testing policies Participate in Solution Design, develop codes in .NET core, Web API and MVC.*
+* *Perform unit testing using JUnit, build functional test script.*
+* *Debugging/defect resolution.*
+* *(Optional) Set\\-up CI/CD environment \\& implement/use DevOps tools for automated build, test \\& release.*
+* *Provide insights and recommendations from past experience.*
+* *Feedback incorporation as per Agile principle via Show and Tell*
+* *Development will meet 90% JUnit test coverage at the API level*","IT Services and IT Consulting","https://in.linkedin.com/company/tata-consultancy-services","https://media.licdn.com/dms/image/v2/D4D0BAQGsGR9p4ikS5w/company-logo_100_100/company-logo_100_100/0/1708946550425/tata_consultancy_services_logo?e=2147483647&v=beta&t=P-PkUMh7Ks1GQY0_l7GhzQiwfyLfQpvKWwX8Tq18Yc4","","","","","","","","","","",""
+"li-4450976469","linkedin","https://www.linkedin.com/jobs/view/4450976469","","Java Full Stack Developer – Spring, REST APIs & SQL","Synechron","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","****Job Summary****
+ Synechron is seeking a
+ **Java Full Stack (Java FS) professional** 
+ with
+ **5\\+ years of experience** 
+ in Java software development. The role will develop, maintain, and enhance Java\\-based applications and systems while contributing to full\\-stack web application delivery.The position will support business objectives by delivering clean, maintainable, scalable, and reliable software; collaborating with cross\\-functional teams; resolving technical issues; and applying current Java, web development, database, and Agile engineering practices.
+   
+
+  
+
+****Required****
+**Software Requirements**
+* Strong knowledge of Java and the Java EE platform.
+* Experience using Java 8 or later and current supported Java versions, based on project requirements.
+* Experience with web development frameworks such as Spring, Hibernate, or JSF.
+* Knowledge of relational databases and SQL.
+* Familiarity with Agile software development methodologies.
+* Experience with Git or equivalent version control systems.
+* Understanding of RESTful web services and API integration.
+* Experience with software development lifecycle practices, including design, development, testing, deployment, maintenance, and support.
+* Ability to write clean, maintainable, scalable, and testable code.
+* Experience participating in code reviews and applying software development standards.
+* Ability to debug and resolve technical issues in a timely manner.
+
+
+****Preferred****
+* Experience developing enterprise\\-scale Java full\\-stack applications.
+* Experience with Spring Boot, Spring MVC, Spring Security, or related technologies.
+* Experience with frontend technologies such as JavaScript, TypeScript, HTML5, and CSS3\\.
+* Experience with Angular, React, or another modern frontend framework.
+* Knowledge of microservices and distributed application development.
+* Experience with automated testing, CI/CD, and DevOps practices.
+* Familiarity with application monitoring, logging, and performance improvement tools.
+* Knowledge of secure coding practices and efficient use of computing resources.
+
+
+****Overall Responsibilities****
+* Develop and maintain Java\\-based applications and systems.
+* Contribute to frontend and full\\-stack web application development where required.
+* Write clean, maintainable, scalable, and testable code.
+* Collaborate with cross\\-functional teams to develop new features and improve existing functionality.
+* Design, develop, and integrate RESTful web services.
+* Work with relational databases and SQL to support application functionality and data requirements.
+* Participate in code reviews and ensure that code adheres to applicable industry and project standards.
+* Debug, troubleshoot, and fix technical issues in a timely manner.
+* Contribute to technical design discussions and application architecture decisions.
+* Participate in Agile ceremonies, including planning, estimation, refinement, reviews, and retrospectives.
+* Support application testing, deployment, maintenance, and production issue resolution.
+* Identify opportunities to improve code quality, application performance, maintainability, and delivery efficiency.
+* Stay up to date with the latest developments in Java, Java EE, web development, and related technologies.
+* Consider security, scalability, operational efficiency, and sustainability when designing and implementing solutions.
+
+
+****Technical Skills (By Category)****
+**Programming Languages**
+****Essential****
+* Java using Java 8 or later and current supported versions as applicable to the project.
+* Strong understanding of object\\-oriented programming principles.
+* Knowledge of Java collections, exception handling, multithreading, and application performance.
+* Understanding of data structures and algorithms.
+* Ability to develop maintainable, testable, and production\\-quality code.
+
+
+****Preferred****
+* JavaScript or TypeScript.
+* HTML5 and CSS3\\.
+* Experience with responsive web development.
+* Knowledge of scripting languages used for automation or development support.
+
+
+**Databases/Data Management**
+****Essential****
+* Knowledge of relational database management systems.
+* Strong understanding of SQL, data modeling, and database integration.
+* Experience writing queries and supporting application data\\-access requirements.
+* Understanding of data integrity, transactions, indexing, and database performance.
+
+
+****Preferred****
+* Experience with database schema design and query optimization.
+* Knowledge of NoSQL databases.
+* Familiarity with object\\-relational mapping and data persistence practices.
+* Understanding of data security, backup, and data lifecycle considerations.
+
+
+**Cloud Technologies**
+****Essential****
+* Working knowledge of cloud computing concepts and infrastructure.
+* Understanding of application deployment, scalability, availability, monitoring, and configuration in cloud environments.
+* Ability to support Java applications across development, testing, and production environments.
+
+
+****Preferred****
+* Experience deploying Java full\\-stack applications to cloud platforms.
+* Familiarity with containers, orchestration, managed databases, storage, networking, and identity services.
+* Experience with cloud monitoring, automation, and cost optimization.
+* Understanding of efficient and sustainable cloud resource usage.
+
+
+**Frameworks and Libraries**
+****Essential****
+* Experience with Java web development frameworks such as Spring, Hibernate, or JSF.
+* Understanding of RESTful web services and API integration.
+* Knowledge of component\\-based application development.
+* Experience with unit testing and integration testing practices.
+* Understanding of ORM concepts and database connectivity.
+
+
+****Preferred****
+* Experience with Spring Boot, Spring MVC, and Spring Security.
+* Experience with Angular, React, or another modern frontend framework.
+* Knowledge of microservices, API gateways, messaging frameworks, or integration libraries.
+* Familiarity with application performance and distributed system libraries.
+
+
+**Development Tools and Methodologies**
+****Essential****
+* Familiarity with Agile software development methodologies.
+* Experience with Git or equivalent version control systems.
+* Understanding of branching, merging, pull requests, and code review practices.
+* Experience with software development lifecycle processes.
+* Familiarity with issue tracking, project management, and collaboration tools.
+* Experience with testing, defect management, documentation, and release processes.
+
+
+****Preferred****
+* Experience with CI/CD pipelines and DevOps practices.
+* Familiarity with build and dependency management tools.
+* Knowledge of automated quality checks, code analysis, and test automation.
+* Experience with application logging, monitoring, and troubleshooting tools.
+* Understanding of software architecture and design patterns.
+
+
+**Security Protocols**
+****Essential****
+* Understanding of secure software development principles.
+* Awareness of authentication, authorization, access controls, encryption, and secure data handling.
+* Knowledge of secure RESTful API development.
+* Ability to identify and address common web application security risks.
+
+
+****Preferred****
+* Experience with application security testing and vulnerability remediation.
+* Familiarity with secure configuration, secrets management, and identity management.
+* Knowledge of security practices for cloud\\-based Java applications.
+* Understanding of privacy and regulatory considerations applicable to software development.
+
+
+****Experience Requirements****
+* Minimum 5\\+ years of experience in Java software development.
+* Experience with Java and the Java EE platform.
+* Experience with Java web development frameworks such as Spring, Hibernate, or JSF.
+* Experience with relational databases and SQL.
+* Experience developing and integrating RESTful web services.
+* Experience with Agile software development methodologies.
+* Experience using Git or an equivalent version control system.
+* Experience writing clean, maintainable, scalable, and testable code.
+* Experience participating in code reviews and applying software development standards.
+* Experience debugging and resolving complex technical issues.
+* Experience with software design, application maintenance, testing, deployment, and production support.
+* Experience with frontend development and Java full\\-stack applications is preferred.
+* Experience in enterprise software development, financial services, banking, insurance, or other complex technology environments is preferred.
+* Candidates may also qualify through equivalent practical experience, relevant technical training, certifications, or a portfolio demonstrating Java development capabilities.
+
+
+**Day\\-to\\-Day Activities**
+* Develop, enhance, test, and maintain Java applications, RESTful services, frontend components, and related system integrations.
+* Collaborate with cross\\-functional teams through Agile meetings, requirement discussions, technical design sessions, code reviews, and delivery planning.
+* Investigate and resolve technical issues, contribute to project deliverables, document changes, and support application releases and maintenance.
+* Make implementation decisions within established technical standards, escalate risks when required, and recommend improvements to code quality, performance, security, and maintainability.
+
+
+****Qualifications****
+* Bachelor’s degree in Computer Science, Information Technology, Engineering, or a related field; equivalent professional experience may be considered.
+* Minimum 5\\+ years of experience in Java software development, including relevant experience with Java web technologies.
+* Certifications in Java, cloud computing, Agile, software architecture, or related technologies are preferred but are not mandatory unless required for a project.
+* Complete Synechron\\-required training related to information security, data protection, software development standards, and responsible technology use.
+* Maintain continuous professional development in Java, Java EE, full\\-stack development, cloud technologies, databases, security, testing, and Agile delivery.
+
+
+**Professional Competencies**
+* Critical thinking, analytical reasoning, strong problem\\-solving, and effective debugging.
+* Technical teamwork, collaboration, knowledge sharing, and accountability for assigned deliverables.
+* Clear written and verbal communication with effective coordination across project teams.
+* Adaptability, continuous learning, and application of evolving Java and full\\-stack development practices.
+* Innovation focused on practical, secure, scalable, maintainable, and sustainable software solutions.
+* Effective organization, prioritization, time management, and delivery of multiple development activities.
+
+
+***S***
+***YNECHRON’S DIVERSITY \\& INCLUSION STATEMENT***
+ Diversity \\& Inclusion are fundamental to our culture, and Synechron is proud to be an equal opportunity workplace and is an affirmative action employer. Our Diversity, Equity, and Inclusion (DEI) initiative ‘Same Difference’ is committed to fostering an inclusive culture – promoting equality, diversity and an environment that is respectful to all. We strongly believe that a diverse workforce helps build stronger, successful businesses as a global company. We encourage applicants from across diverse backgrounds, race, ethnicities, religion, age, marital status, gender, sexual orientations, or disabilities to apply. We empower our global workforce by offering flexible workplace arrangements, mentoring, internal mobility, learning and development programs, and more.
+   
+
+  
+
+ All employment decisions at Synechron are based on business needs, job requirements and individual qualifications, without regard to the applicant’s gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.
+   
+
+  
+
+ Candidate Application Notice","Software Development and IT Services and IT Consulting","https://www.linkedin.com/company/synechron","https://media.licdn.com/dms/image/v2/D4E0BAQGU3XDmI-XtZg/company-logo_100_100/B4EZbozLqWHcAU-/0/1747662453848/synechron_logo?e=2147483647&v=beta&t=967JcOKqVUEfAxo-JLDXVLacACGsfj3Itpkbmqz1HrA","","","","","","","","","","",""
+"li-4450977470","linkedin","https://www.linkedin.com/jobs/view/4450977470","","Java, React & Python Full Stack Developer – Cloud, APIs & Agile Delivery","Synechron","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","****Job Summary****
+ Synechron is seeking a
+ **Java, React \\& Python technology professional** 
+ with
+ **5\\+ years of experience** 
+ in technology leadership and software development. The role will support the design, development, and delivery of scalable software solutions while contributing technical guidance, stakeholder collaboration, and delivery oversight across cross\\-functional teams.The position will contribute to business objectives by translating requirements into technology solutions, improving engineering processes, evaluating new technologies, maintaining technology roadmaps, and supporting successful project delivery.
+   
+
+  
+
+****Required****
+**Software Requirements**
+* In\\-depth understanding of Java, React, Python, and related software systems.
+* Experience using current and supported versions of Java, React, and Python.
+* Familiarity with project management tools and methodologies.
+* Knowledge of Agile development methodologies.
+* Understanding of software architecture and design patterns.
+* Knowledge of cloud computing platforms and infrastructure.
+* Knowledge of database management systems and data structures.
+* Experience with software development lifecycle practices, including requirements analysis, design, development, testing, deployment, and maintenance.
+* Familiarity with source control, code review, testing, documentation, and release processes.
+* Ability to translate business requirements into technical solutions.
+* Experience leading or coordinating cross\\-functional technology teams and projects.
+* Ability to evaluate technology options based on business requirements, technical feasibility, security, cost, and maintainability.
+
+
+****Preferred****
+* Experience developing enterprise applications using Java, React, and Python.
+* Experience with Java\\-based backend frameworks, React\\-based frontend applications, and Python services or automation.
+* Knowledge of RESTful APIs, microservices, application integration, and distributed systems.
+* Experience with cloud\\-native application development and deployment.
+* Familiarity with DevOps, CI/CD, infrastructure automation, monitoring, and observability tools.
+* Experience managing technology vendors and supporting contract negotiations.
+* Knowledge of secure software development, responsible technology use, and sustainable resource utilization.
+* Experience developing and maintaining technology roadmaps.
+
+
+****Overall Responsibilities****
+* Lead and manage cross\\-functional technology teams.
+* Provide technical guidance, mentorship, and support to team members.
+* Drive technology initiatives and ensure successful delivery of projects.
+* Identify areas for improvement and implement process changes to increase efficiency.
+* Collaborate with internal stakeholders to understand business requirements and translate them into Java, React, and Python\\-based technology solutions.
+* Define or contribute to software architecture, technical designs, integration approaches, and implementation plans.
+* Develop and maintain scalable, secure, maintainable, and cost\\-effective applications.
+* Evaluate new technologies and make recommendations for adoption.
+* Develop and maintain technology roadmaps aligned with overall business strategy.
+* Manage delivery risks, dependencies, technical issues, and project priorities.
+* Manage vendor relationships and negotiate contracts in collaboration with relevant stakeholders.
+* Promote effective engineering practices, knowledge sharing, technical documentation, and continuous improvement.
+* Ensure project outcomes meet agreed scope, timelines, quality standards, and business objectives.
+* Consider security, operational efficiency, cost management, and sustainability when selecting and implementing technology solutions.
+
+
+****Technical Skills (By Category)****
+**Programming Languages**
+****Essential****
+* Java using current and supported versions.
+* Python using current and supported versions.
+* JavaScript and/or TypeScript for React application development.
+* Strong understanding of object\\-oriented programming, modular design, exception handling, and testing.
+* Knowledge of data structures and algorithms.
+* Ability to develop clean, maintainable, scalable, and testable code.
+
+
+****Preferred****
+* Experience with shell scripting or automation languages.
+* Knowledge of asynchronous programming and event\\-driven application development.
+* Experience developing reusable services, libraries, components, and automation utilities.
+
+
+**Databases/Data Management**
+****Essential****
+* Knowledge of relational database management systems.
+* Understanding of SQL, data modeling, data structures, and database integration.
+* Knowledge of data quality, data integrity, data lifecycle management, and secure data handling.
+* Ability to select appropriate data storage approaches based on performance, scalability, availability, and security requirements.
+
+
+****Preferred****
+* Experience with NoSQL databases.
+* Knowledge of caching, data persistence, and distributed data management.
+* Experience optimizing database queries and data\\-access patterns.
+* Familiarity with data pipelines, data governance, metadata management, and data integration.
+
+
+**Cloud Technologies**
+****Essential****
+* Knowledge of cloud computing platforms and infrastructure.
+* Understanding of cloud\\-based application deployment, scalability, availability, monitoring, and cost management.
+* Ability to assess cloud services and infrastructure options based on business and technical requirements.
+
+
+****Preferred****
+* Experience deploying Java, React, and Python applications on cloud platforms.
+* Familiarity with containers, orchestration, serverless services, managed databases, storage, networking, and identity services.
+* Experience with cloud security, infrastructure automation, and cloud cost optimization.
+* Understanding of efficient and sustainable cloud resource utilization.
+
+
+**Frameworks and Libraries**
+****Essential****
+* Experience with React and component\\-based frontend development.
+* Experience with Java\\-based application frameworks.
+* Experience using Python frameworks or libraries for application development, automation, data processing, or service development.
+* Understanding of RESTful APIs and application integration.
+* Knowledge of unit testing, integration testing, and application performance practices.
+
+
+****Preferred****
+* Experience with Spring\\-based Java frameworks.
+* Familiarity with React routing, state management, forms, hooks, and reusable UI components.
+* Experience with Python web frameworks and data\\-processing libraries.
+* Knowledge of microservices, API gateways, messaging frameworks, and integration libraries.
+* Familiarity with frontend accessibility and responsive design practices.
+
+
+**Development Tools and Methodologies**
+****Essential****
+* Knowledge of Agile development methodologies.
+* Familiarity with project management tools and software delivery workflows.
+* Understanding of software architecture, design patterns, and technical documentation.
+* Experience with version control, branching, merging, pull requests, and code reviews.
+* Experience with testing, defect management, release processes, and production support.
+* Experience leading projects or workstreams involving cross\\-functional technology teams.
+
+
+****Preferred****
+* Experience with CI/CD pipelines and DevOps practices.
+* Knowledge of infrastructure as code and automated quality checks.
+* Familiarity with logging, monitoring, observability, and incident management tools.
+* Experience with Agile planning, estimation, backlog management, risk tracking, and delivery reporting.
+* Knowledge of software development lifecycle governance and engineering standards.
+
+
+**Security Protocols**
+****Essential****
+* Understanding of secure software development principles.
+* Awareness of authentication, authorization, identity and access management, encryption, secrets management, and secure data handling.
+* Ability to consider security, privacy, and regulatory requirements during solution design and implementation.
+* Knowledge of secure API development and application access controls.
+
+
+****Preferred****
+* Experience applying security controls to cloud\\-based applications and APIs.
+* Familiarity with security testing, threat modeling, vulnerability management, and secure coding practices.
+* Knowledge of application security monitoring and audit logging.
+* Understanding of privacy, responsible technology, and secure data management practices.
+
+
+****Experience Requirements****
+* Minimum 5\\+ years of experience in technology leadership and software development.
+* Strong technical expertise in multiple areas of software development and technology.
+* Experience developing and supporting applications using Java, React, and Python.
+* Experience leading or coordinating cross\\-functional technology teams.
+* Experience managing projects, workstreams, or technology initiatives.
+* Experience translating business requirements into technical solutions.
+* Experience with cloud computing platforms and infrastructure.
+* Knowledge of Agile development methodologies and project management tools.
+* Experience providing technical guidance and mentorship to team members.
+* Experience evaluating new technologies and supporting technology adoption decisions.
+* Experience developing or maintaining technology roadmaps is preferred.
+* Experience managing vendor relationships and negotiating contracts is preferred.
+* Experience in technology consulting, financial services, banking, insurance, or other complex enterprise environments is preferred.
+* Candidates may also qualify through equivalent practical experience, relevant technical training, certifications, or a portfolio demonstrating Java, React, and Python capabilities.
+
+
+**Day\\-to\\-Day Activities**
+* Collaborate with internal stakeholders to understand business requirements, priorities, constraints, and expected outcomes while contributing to technical designs and delivery plans.
+* Lead or coordinate cross\\-functional technology teams, provide technical guidance, participate in Agile meetings, and collaborate with engineering, product, operations, security, and business stakeholders.
+* Evaluate new technologies, maintain technology roadmaps, monitor project progress, manage risks and dependencies, and support successful project delivery.
+* Mentor team members, coordinate with vendors, maintain technical documentation, and make or facilitate technical decisions within established governance boundaries.
+
+
+****Qualifications****
+* Bachelor’s or Master’s degree in Computer Science, Information Technology, Engineering, or a related field; equivalent professional experience may be considered.
+* Minimum of 5\\+ years of experience in technology leadership and software development, including relevant experience with Java, React, and Python.
+* Certifications in cloud computing, Agile, Scrum, project management, software architecture, or relevant technologies are preferred.
+* Complete Synechron\\-required training related to information security, data protection, workplace conduct, risk management, and responsible technology use.
+* Maintain continuous professional development in Java, React, Python, cloud technologies, databases, security, software architecture, and Agile delivery.
+
+
+**Professional Competencies**
+* Critical thinking, analytical reasoning, and effective problem\\-solving.
+* Technical leadership, cross\\-functional teamwork, mentorship, and collaboration.
+* Clear communication, negotiation, and stakeholder management.
+* Adaptability, continuous learning, and effective application of new technologies.
+* Innovation focused on practical, secure, scalable, maintainable, and sustainable technology solutions.
+* Effective time management, prioritization, decision\\-making, and delivery focus.
+
+
+***S***
+***YNECHRON’S DIVERSITY \\& INCLUSION STATEMENT***
+ Diversity \\& Inclusion are fundamental to our culture, and Synechron is proud to be an equal opportunity workplace and is an affirmative action employer. Our Diversity, Equity, and Inclusion (DEI) initiative ‘Same Difference’ is committed to fostering an inclusive culture – promoting equality, diversity and an environment that is respectful to all. We strongly believe that a diverse workforce helps build stronger, successful businesses as a global company. We encourage applicants from across diverse backgrounds, race, ethnicities, religion, age, marital status, gender, sexual orientations, or disabilities to apply. We empower our global workforce by offering flexible workplace arrangements, mentoring, internal mobility, learning and development programs, and more.
+   
+
+  
+
+ All employment decisions at Synechron are based on business needs, job requirements and individual qualifications, without regard to the applicant’s gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.
+   
+
+  
+
+ Candidate Application Notice","Software Development and IT Services and IT Consulting","https://www.linkedin.com/company/synechron","https://media.licdn.com/dms/image/v2/D4E0BAQGU3XDmI-XtZg/company-logo_100_100/B4EZbozLqWHcAU-/0/1747662453848/synechron_logo?e=2147483647&v=beta&t=967JcOKqVUEfAxo-JLDXVLacACGsfj3Itpkbmqz1HrA","","","","","","","","","","",""
+"li-4414490771","linkedin","https://www.linkedin.com/jobs/view/4414490771","","Lead Software Engineer ( Verification )","Cadence","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","kmadhup@cadence.com","**At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.**
+ Job Title:
+ **Verification ( SV , UVM \\& VHDL** 
+**)**
+**Cadence** 
+ is a pivotal leader in electronic design, building upon more than 30 years of computational software expertise. The company applies its underlying Intelligent System Design strategy to deliver software, hardware and IP that turn design concepts into reality. Cadence customers are the world’s most innovative companies, delivering extraordinary electronic products from chips to boards to systems for the most dynamic market applications including consumer, hyperscale computing, 5G communications, automotive, aerospace industrial and health.
+   
+
+  
+
+**The Cadence Advantage**
+* The opportunity to work on cutting\\-edge technology in an environment that encourages you to be creative, innovative, and to make an impact.
+* Cadence’s employee\\-friendly policies focus on the physical and mental well\\-being of employees, career development, providing opportunities for learning, and celebrating success in recognition of specific needs of the employees.
+* The unique “One Cadence – One Team” culture promotes collaboration within and across teams to ensure customer success.
+* Multiple avenues of learning and development available for employees to explore as per their specific requirement and interests.
+* You get to work with a diverse team of passionate, dedicated, and talented individuals who go above and beyond for our customers, our communities, and each other—every day.
+
+
+**Job Summary**
+ We are looking for a candidate with excellent communication skills and ability to ramp up on new technologies quickly and independently. This position requires the technical expertise in protocol and formal verification methodologies.
+   
+
+  
+
+ This an excellent opportunity to work in a supportive and friendly work environment, where we are vested in each other’s success, and are passionate about technology and innovation.
+   
+
+  
+
+ Work location: Bangalore
+   
+
+  
+
+ Experience : 5 \\- 8 Years or equivalent relevant experience
+   
+
+  
+
+**Education :** 
+ M.E./MTech (Electronics or similar) or B.E/BTech. (Electronics or similar)
+   
+
+  
+
+**JD**
+**Position Description**
+ We’re looking for talented SW engineer to join us and be part of a team that is responsible for developing Cadence SW driven verification Solutions.
+   
+
+  
+
+ Duties will include active development and support of verification libraries for different architectures\\-based systems and other IPs.
+   
+
+  
+
+ The candidate must have background in verification and verification methodologies, very strong problem\\-solving skills and written and verbal communication skills.
+   
+
+  
+
+**SW Engineers are expected to**
+ Develop verification products based on the multiple customer requirements
+   
+
+  
+
+ Analyze customer requirements and translate them to product enhancements bringing their technical understanding of the customer needs and issues
+   
+
+  
+
+ Provide active support and guidance to customer issues
+   
+
+  
+
+ Collaborate with other team members and different functions in the organization such as PV and field
+   
+
+  
+
+**Position Requirements**
+* B.Tech/B.E/M.tech/M.E in Electronics and communication
+* Strong programming skills (OOP)
+* Background in developing IP, Sub\\-system, SoC level verification environment with both UVM and SW\\-driven (embedded c)
+* Excellent verbal and written communications skills
+* Strong interest and understanding of design and verification methodologies
+* Strong problem solving and analytical skills
+* UNIX shell scripting
+
+
+**Strong Plus**
+ Experience with System Verilog, Specman e, VHDL, Verilog
+   
+
+  
+
+ Working knowledge of embedded c
+   
+
+  
+
+ Knowledge of protocols such as AMBA, PCI\\-E, USB, Ethernet, 10 Gig, NVMe etc.
+   
+
+  
+
+ Understanding of verification methodologies (UVM)
+   
+
+  
+
+ Prior experience in metric driven functional verification
+   
+
+  
+
+ Regards
+   
+
+  
+
+ Madhu
+   
+
+  
+
+ kmadhup@cadence.com
+   
+
+  
+
+**We’re doing work that matters. Help us solve what others can’t.**","Software Development","https://www.linkedin.com/company/cadence","https://media.licdn.com/dms/image/v2/C560BAQFORFBYBIoPHQ/company-logo_100_100/company-logo_100_100/0/1630668285973?e=2147483647&v=beta&t=2J-kabPjQZhiv-NQmJBV5GTY1H_oVFa73HtuaA2-b0M","","","","","","","","","","",""
+"li-4441744503","linkedin","https://www.linkedin.com/jobs/view/4441744503","","Infra Dev Specialist","Cognizant","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Other","","","**Job Summary**
+ Seeking an Infra Dev Specialist with six to ten years of experience to design automate and optimize monitoring solutions using Splunk within a hybrid work model. The role focuses on resilient infrastructure robust observability and scalable log analytics for cards and payments systems while enabling faster incident resolution and secure operations aligned with enterprise standards.
    
 
   
 
 **Responsibilities**
-* Design robust batch and near real time data ingestion pipelines using Azure Data Factory to integrate diverse enterprise data sources into Azure Data Lake Store and Snowflake in a secure and scalable manner.
-* Develop efficient data models and curated layers in Snowflake using advanced Snowflake SQL features to support analytics ready structures and trusted business reporting across multiple domains.
-* Implement modular reusable Python components and utilities that automate data transformations validations and orchestration logic to reduce manual effort and improve overall pipeline reliability.
-* Optimize performance of Azure Data Lake Store and Snowflake workloads through tuning of queries storage patterns and resource configurations to meet strict service level objectives for critical data processes.
-* Configure and manage Snowflake Tasks and related scheduling capabilities to orchestrate complex dependency chains and ensure timely execution of data refresh cycles for downstream consumers.
-* Apply Snowflake Cortex capabilities and other advanced data services to deliver intelligent data products that unlock deeper insights and accelerate data driven decision making for business teams.
-* Create comprehensive technical design documents and maintain up to date data flow diagrams to provide clear traceability from source systems through Azure and Snowflake layers to final consumable outputs.
-* Collaborate closely with data architects business analysts and product teams to translate analytical requirements into detailed technical solutions that align with enterprise data standards.
-* Implement robust monitoring alerting and logging across Azure Data Factory pipelines Python jobs and Snowflake processes to enable proactive issue detection and faster incident resolution.
-* Ensure strong data governance practices by applying data quality rules security controls and access policies across Azure Data Lake Store and Snowflake environments in line with organizational guidelines.
-* Conduct code reviews and share best practices on Python development Snowflake query design and Azure data engineering patterns to raise overall engineering quality across the team.
-* Support user acceptance testing and production rollout activities by analyzing defects resolving data issues and refining solution behavior based on stakeholder feedback.
-* Continuously evaluate new Azure and Snowflake capabilities and propose practical improvements that enhance scalability resilience and usability of the data ecosystem for future initiatives.
+* Design and implement resilient infrastructure monitoring solutions using Splunk to provide proactive visibility into critical enterprise systems and ensure high service availability
+* Develop and maintain reusable Splunk configurations including indexes searches and dashboards that support standardized observability across hybrid environments
+* Build automated ingestion pipelines in Splunk for logs metrics and events from diverse infrastructure components to improve data quality and timeliness of operational insights
+* Optimize Splunk searches alerts and dashboards to reduce query latency improve resource utilization and enhance the experience of operations and engineering teams
+* Collaborate with platform and application teams to translate infrastructure and business requirements into actionable Splunk based monitoring use cases that support clear service level objectives
+* Configure robust alerting strategies in Splunk that minimize noise yet ensure swift detection of anomalies and incidents across day shift operations for critical services
+* Document monitoring architectures runbooks and Splunk usage guidelines in a clear and reusable format to support consistent adoption across teams and reduce onboarding time
+* Coordinate with security and compliance stakeholders to implement Splunk configurations that support audit readiness data governance and safe handling of sensitive transaction information
+* Analyze production incidents and trends using Splunk to identify recurring patterns and recommend infrastructure improvements that reduce downtime and enhance customer experience
+* Partner with cards and payments domain specialists when available to tailor monitoring views that reflect authorization settlement and transaction flows and highlight business relevant risks
+* Support continuous improvement initiatives by evaluating new Splunk features and infra automation practices that can enhance reliability while optimizing operational cost and resource footprint
+* Guide peers on best practices for logging standards tagging conventions and data onboarding so that Splunk datasets remain consistent discoverable and easy to correlate across platforms
+* Coordinate with global teams in a hybrid working model ensuring effective handoffs knowledge sharing and alignment on monitoring strategies without requiring travel
 
 
 **Qualifications**
-* Demonstrate substantial hands on experience in designing and delivering enterprise data solutions using Azure Data Lake Store as the central storage layer for large scale datasets.
-* Exhibit strong expertise with Azure Data Factory including data flows mapping configurations and integration runtimes to orchestrate complex ingestion and transformation pipelines.
-* Show advanced Python programming proficiency for data engineering including data processing frameworks automation scripts and integration with Azure and Snowflake services.
-* Provide proven experience working with Snowflake SQL Snowflake Tasks and related platform components to build performant data models and automated processing chains.
-* Display practical exposure to Snowflake Cortex or similar advanced analytics features enabling intelligent transformations feature engineering and augmented insights within the data platform.
-* Possess solid understanding of data warehousing principles data modeling concepts and performance optimization techniques relevant to both Azure and Snowflake environments.
-* Utilize effective communication and collaboration skills to work with cross functional stakeholders in a hybrid work model ensuring clarity of requirements and timely delivery of data solutions.
-
-
-**Certifications Required**
- Preferred certifications include Microsoft Certified Azure Data Engineer Associate and Snowflake SnowPro Core or advanced specialty certification.","IT Services and IT Consulting and Business Consulting and Services","https://www.linkedin.com/company/cognizant","https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_100_100/B4EZk_EfNgHgAU-/0/1757699778309/cognizant_logo?e=2147483647&v=beta&t=pEIgD9-D_EFoL3rsreK0H2EZEcsXWdZSN64-dV7VrSU","","","","","","","","","","",""
-"li-4449525046","linkedin","https://www.linkedin.com/jobs/view/4449525046","","Quantitative Developer","QFI Research Capital","","","fulltime","","","","","",True,"entry level","Finance and Sales","","","**QFI Research Capital — Full\\-Stack Engineer (FastAPI \\+ React \\+ Docker)** 
+* Possess six to ten years of hands on experience in infrastructure engineering or operations with a strong focus on observability automation and environment stability
+* Demonstrate advanced proficiency in Splunk implementation including data onboarding search processing knowledge objects dashboards and alerting for large scale environments
+* Apply sound knowledge of operating systems networks middleware and cloud components to design meaningful Splunk monitoring solutions that accurately reflect infrastructure health
+* Utilize scripting or automation tools such as Python PowerShell or similar technologies to streamline Splunk configuration deployment and log onboarding workflows
+* Leverage any exposure to cards and payments systems when available to design monitoring views that align with transaction integrity fraud detection signals and service reliability expectations
+* Communicate clearly with technical and nontechnical stakeholders to explain Splunk insights incident findings and recommended improvements in a concise and outcome oriented manner
+* Adapt effectively to hybrid work arrangements by using collaboration tools structured documentation and disciplined time management to support global teams across shared projects","IT Services and IT Consulting and Business Consulting and Services","https://www.linkedin.com/company/cognizant","https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_100_100/B4EZk_EfNgHgAU-/0/1757699778309/cognizant_logo?e=2147483647&v=beta&t=pEIgD9-D_EFoL3rsreK0H2EZEcsXWdZSN64-dV7VrSU","","","","","","","","","","",""
+"li-4451362432","linkedin","https://www.linkedin.com/jobs/view/4451362432","","SMTS-System Software Engineer -- Security","Tsavorite Scalable Intelligence","","","fulltime","","","","","",False,"mid-senior level","Research, Engineering, and Design","","_bhaskar@yahoo.com",". SMTS\\-System Software Engineer \\-\\- Security
+ 
 
 
 
+**LOCATION: GREATER BENGALURU AREA** 
 
- We're hiring a Full\\-Stack Engineer to help build our live Indian F\\&O research \\+ execution desk.
+
+
+
+  
+
+
+
+
+
+**Company Description** 
+
+
+
+
+**We are looking for exceptional talent and leadership to join Fast Growing Startup into Scalable Intelligence, the world’s first company developing Agentic Silicon for powering the future of AI.** 
+
+
+
+
+**Founded in 2023, We have deep customer engagements across America, Europe, and Asia, and demonstrated functional prototypes to prove our concept and vision.** 
+
+
+
+
+ . System Software Engineer \\-\\- Security
  
 
 
@@ -1240,8 +1848,7 @@
 
 
 
-**What we build:** 
- A desk\\-grade F\\&O research \\+ execution platform. Capital stays at the trader's broker. Humans enable every strategy. Our Advisor Gen AI explains live numbers — it never invents data or places orders.
+ Responsibilities: Design and develop the system software required to support running the secure SW stack, system initialization configuration management system, observability, and monitoring. Develop the hardware abstraction layer and necessary drivers.
  
 
 
@@ -1252,15 +1859,7 @@
 
 
 
-**You'll own:** 
- • FastAPI \\+ Redis APIs — marketdata, orders, orderbook, quotes, health/sync • React Desk \\+ Advisor UI • Docker / AWS Mumbai ops — health checks, logs, safe deploys
- 
-
-
-
- We want engineers who care about
- **correctness under load** 
- — not tip bots. Prefer WAIT / visible failure over silent wrong numbers.
+ Required Skills: \\- Excellent C/C\\+\\+ programming skills, prior experience of developing system software \\- Solid understanding of Kernel and User space and related security aspects \\- Excellent knowledge in Linux kernel internals, IPC/System V
  
 
 
@@ -1271,8 +1870,7 @@
 
 
 
-**Must\\-have:** 
- FastAPI (or strong Python web) · React · Docker Compose · Redis · Linux/SSH · clear written communication
+ \\- Experience in trusted firmware, secure boot, boot loader, Root of Trust
  
 
 
@@ -1283,8 +1881,7 @@
 
 
 
-**Bonus:** 
- Postgres · Kafka · Nginx/TLS · AWS · charting libs · Kite/broker APIs · genuine interest in markets (not tip culture)
+ \\- Hands\\-on working with Crypto co\\-processors e.g. CMRT \\- Experience developing software using POSIX libraries, multi\\-threading software, semaphores, process management.
  
 
 
@@ -1295,43 +1892,7 @@
 
 
 
-**Role details:** 
-
-
-
-
- • Experience: 1–3 yrs (or a strong portfolio)
- 
-
-
-
- • Location: Hybrid/Remote (India) · IST market\\-hours overlap mandatory
- 
-
-
-
- • Probation: 3 months
- 
-
-
-
-**Hiring process:** 
-
-
-
-1. CV \\+ GitHub screen
-2. 4 interview rounds
-3. 1\\-week practical project
-
-
-
-  
-
-
-
-
-
- If you like pipelines and UIs that must tell the same truth, let's talk.
+ \\- Experience in Linux memory management, NUMA, Linux High Availability. \\- Hands on working experience in Python, Shell script \\- Jtag, HW/SW debugging tools
  
 
 
@@ -1342,239 +1903,309 @@
 
 
 
- \\#hiring \\#fullstack \\#fastapi \\#react \\#devops \\#fintech \\#India","Financial Services","https://in.linkedin.com/company/qfi-research-capital","https://media.licdn.com/dms/image/v2/D560BAQERgns8txVh2g/company-logo_100_100/B56Zd.KooaHQAc-/0/1750168407519/qfi_research_capital_logo?e=2147483647&v=beta&t=R_ucAJj845-4k44YdVcRFnveH7m68RQJTml-i3cgMaM","","","","","","","","","","",""
-"li-4393005488","linkedin","https://www.linkedin.com/jobs/view/4393005488","","Senior Java Fullstack Developer - Vice President","Citi","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","**Overview**
- Finance Technology enables Citi to achieve its day\\-to\\-day and long\\-term growth goals, facilitating the execution of Citi’s Strategy by providing services, technical solutions, and infrastructure across the bank. These solutions enable Citi to comply with regulatory mandates and empower our businesses to achieve their goals, both current and long\\-term. In Finance Technology, we’re pushing the limits of technology. Our products and initiatives adhere to Citi’s strategic architecture principles and support the end\\-to\\-end integration of multiple global functions within the bank including Finance, Risk, and Controllers. As a senior technical leader, you will play a pivotal role in driving innovation and technical strategy within our dynamic environment.
+ \\- Experience level: 11\\+ years Good to have: \\- Experience with writing Linux device drivers \\- Experience in container, Docker, Kubernetes
+ 
+
+
+
+  
+
+
+
+
+
+ \\- Experience in working in FPGA and QEMU \\- Experience in ARM Cortex\\-3, bare\\-metal driver development
+ 
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+***Contact***
+
+
+
+
+ uday
+ 
+
+
+
+ muday\\_bhaskar@yahoo.com
+ 
+
+
+
+***www.mulyatech.com***
+
+
+
+
+***""Mining the Knowledge Community""***","Computer Hardware Manufacturing, Software Development, and Semiconductor Manufacturing","https://www.linkedin.com/company/tsavorite-scalable-intelligence","https://media.licdn.com/dms/image/v2/D560BAQFfp2uugeAZJQ/company-logo_100_100/B56ZpuIhFxKAAQ-/0/1762784318063/tsavorite_scalable_intelligence_logo?e=2147483647&v=beta&t=QKsYcgBXZHRW6WFzc5ydwl90T5c4OQ2h1fW82A6oPYM","","","","","","","","","","",""
+"li-4451365363","linkedin","https://www.linkedin.com/jobs/view/4451365363","","SMTS-System Software Engineer -- Security","Tsavorite Scalable Intelligence","","","fulltime","","","","","",False,"mid-senior level","Research, Engineering, and Design","","_bhaskar@yahoo.com",". SMTS\\-System Software Engineer \\-\\- Security
+ 
+
+
+
+**LOCATION: GREATER BENGALURU AREA** 
+
+
+
+
+  
+
+
+
+
+
+**Company Description** 
+
+
+
+
+**We are looking for exceptional talent and leadership to join Fast Growing Startup into Scalable Intelligence, the world’s first company developing Agentic Silicon for powering the future of AI.** 
+
+
+
+
+**Founded in 2023, We have deep customer engagements across America, Europe, and Asia, and demonstrated functional prototypes to prove our concept and vision.** 
+
+
+
+
+ . System Software Engineer \\-\\- Security
+ 
+
+
+
+  
+
+
+
+
+
+ Responsibilities: Design and develop the system software required to support running the secure SW stack, system initialization configuration management system, observability, and monitoring. Develop the hardware abstraction layer and necessary drivers.
+ 
+
+
+
+  
+
+
+
+
+
+ Required Skills: \\- Excellent C/C\\+\\+ programming skills, prior experience of developing system software \\- Solid understanding of Kernel and User space and related security aspects \\- Excellent knowledge in Linux kernel internals, IPC/System V
+ 
+
+
+
+  
+
+
+
+
+
+ \\- Experience in trusted firmware, secure boot, boot loader, Root of Trust
+ 
+
+
+
+  
+
+
+
+
+
+ \\- Hands\\-on working with Crypto co\\-processors e.g. CMRT \\- Experience developing software using POSIX libraries, multi\\-threading software, semaphores, process management.
+ 
+
+
+
+  
+
+
+
+
+
+ \\- Experience in Linux memory management, NUMA, Linux High Availability. \\- Hands on working experience in Python, Shell script \\- Jtag, HW/SW debugging tools
+ 
+
+
+
+  
+
+
+
+
+
+ \\- Experience level: 11\\+ years Good to have: \\- Experience with writing Linux device drivers \\- Experience in container, Docker, Kubernetes
+ 
+
+
+
+  
+
+
+
+
+
+ \\- Experience in working in FPGA and QEMU \\- Experience in ARM Cortex\\-3, bare\\-metal driver development
+ 
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+***Contact***
+
+
+
+
+ uday
+ 
+
+
+
+ muday\\_bhaskar@yahoo.com
+ 
+
+
+
+***www.mulyatech.com***
+
+
+
+
+***""Mining the Knowledge Community""***","Computer Hardware Manufacturing, Software Development, and Semiconductor Manufacturing","https://www.linkedin.com/company/tsavorite-scalable-intelligence","https://media.licdn.com/dms/image/v2/D560BAQFfp2uugeAZJQ/company-logo_100_100/B56ZpuIhFxKAAQ-/0/1762784318063/tsavorite_scalable_intelligence_logo?e=2147483647&v=beta&t=QKsYcgBXZHRW6WFzc5ydwl90T5c4OQ2h1fW82A6oPYM","","","","","","","","","","",""
+"li-4450994465","linkedin","https://www.linkedin.com/jobs/view/4450994465","","嵌入式软硬件开发工程师","INL International Technology Pte Ltd","Dadri, Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","岗位职责：
    
 
   
 
-**Responsibilities**
-* Lead the establishment and evolution of technology standards across your functional area, ensuring development, understanding, and adherence across global teams.
-* Define strategic technical goals within your functional area, aligning them with broader Operations \\& Technology objectives.
-* Drive and lead significant technical initiatives and projects, contributing to the IT Project Leadership function to harmonize with overall business/technology objectives.
-* Mentor and guide a team of engineers, fostering an environment where subject matter experts can work efficiently, deliver effectively, and grow their technical capabilities.
-* Drive the technical strategy and execution of the IT roadmap for assigned technology areas, translating business requirements into scalable and resilient technical solutions.
-* Exhibit expert\\-level understanding of software engineering principles and patterns, providing technical thought leadership and guidance to the team.
-* Responsible for coaching team members, conducting performance management, monitoring the quantity and quality of work, and addressing development needs for assigned personnel.
-* Make evaluative judgments and complex architectural decisions based on in\\-depth information analysis in complicated or unique situations, utilizing multiple sources of information.
-* Negotiate with senior leaders (across functions) and communicate and negotiate with external parties on technical matters.
-* Appropriately assess risk when business and technical decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules, and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct, and business practices, and escalating, managing, and reporting control issues with transparency, as well as effectively supervise the activity of others and create accountability with those who fail to maintain these standards.
-
-
-**Skillsets And Experience**
-* 9\\+ years of strong, hands\\-on experience in full\\-stack development, with significant expertise in React, TypeScript, Node.js, and Java/JVM\\-based languages (e.g., Java, Kotlin) for building robust microservices architectures.
-* Expert\\-level experience in designing, building, and evolving scalable UI architectures using React, adhering to best practices, performance optimization, and accessibility standards.
-* Deep expertise in designing, developing, and managing high\\-performance, secure, and scalable API ecosystems (RESTful, GraphQL).
-* Demonstrated hands\\-on working experience with React, JavaScript, Java / Spring / Spring Cloud / Spring Data JPA / Spring Boot Microservices.
-* Advanced troubleshooting and performance tuning expertise across the full stack, using debuggers, logs, and monitoring tools.
-* Demonstrated expertise in implementing and promoting advanced testing strategies (TDD, BDD) and utilizing comprehensive testing frameworks (Jest, Cypress, JUnit, Mockito).
-* Proven experience with public cloud platforms (AWS, Azure, or GCP), including cloud\\-native design patterns, serverless architectures, and infrastructure as code (IaC).
-* Strong experience with containerization technologies such as OpenShift, Docker, and Kubernetes.
-* Deep understanding and practical experience with CI/CD pipelines and modern build/deployment tools (e.g., Jenkins, Tekton, Harness, ArgoCD, NPM, Maven, Gradle).
-* Expert proficiency in SQL Databases (e.g., Oracle, PostgreSQL) and No\\-SQL databases (e.g., MongoDB), including complex query optimization and database design.
-
-
-**Nice to Have**
-* Strong experience with observability and monitoring tech stack (e.g., Prometheus, Grafana, ELK stack).
-* Understanding of Generative AI based productivity tools like Microsoft Co\\-Pilot, Devin, Claude etc.
-* Understanding of Middleware technologies like Tibco RV, EMS, Solace, Kafka etc.
-* Experience with Python and its applications, especially in data engineering or AI/ML contexts.
-
-
-**Qualifications**
-* 11\\+ years of progressive experience in software engineering, with a significant portion in a lead or architect role.
-* Proven track record of designing, architecting, and building robust, scalable, and maintainable applications within the Capital Markets Technology industry.
-* Ability to build, deploy, and test application components in a development environment during the implementation phase, working across all layers of the application stack.
-* Work proactively \\& independently to address project requirements, and articulate issues/challenges with enough lead time to address project delivery risks.
-* Lead code reviews, test case reviews, and ensure code developed meets the highest quality standards and requirements.
-* Influence and negotiate with senior technical leaders from partner teams (software engineers, DevOps, and production support staff) to deliver robust software solutions and drive strategic initiatives.
-* Experience working in Financial Services or a large, complex, and/or global environment.
-* Consistently demonstrates clear and concise written and verbal communication, capable of presenting complex technical information to diverse audiences.
-* Comprehensive knowledge of design metrics, analytics tools, benchmarking activities, and related reporting to identify best practices.
-* Demonstrated advanced analytic/diagnostic skills for complex technical problems.
-* Ability to work effectively in a matrix environment and partner with virtual teams across different geographies.
-* Ability to work independently, prioritize, and take ownership of various parts of a project or initiative, demonstrating strong self\\-direction.
-* Ability to work under pressure and manage to tight deadlines or unexpected changes in expectations or requirements.
-* Proven track record of driving operational process changes and improvements.
-* Demonstrated strong leadership, mentoring, and project management skills.
-
-
-**Educational Qualification**
-* Bachelor’s degree/University degree or equivalent experience in Computer Science, Engineering, or a related field.
-* Master’s degree preferred.
-
-
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ 1、参与部门的项目及业务技术评审；
    
 
   
 
-**Job Family Group:**
- Technology
+ 2、负责项目需求分析和设计，研究项目技术细节；
    
 
   
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ 3、编写相应的技术文档；
    
 
   
 
-**Job Family:**
- Applications Development
+ 4、完成原理图设计、元器件选型等；
    
 
   
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ 5、对完成的PCB工程文件进行校验、核对；
    
 
   
 
-**Time Type:**
- Full time
+ 6、负责产品技术的研究及开发过程中关键技术问题的解决；
    
 
   
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ 7、按照规范的软件开发流程，完成软件的设计、编程等工作；
    
 
   
 
-**Most Relevant Skills**
- Please see the requirements listed above.
+ 8、解决电子产品实际使用过程中的问题；
    
 
   
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ 9、对问题产品进行原因分析、改善对策拟定，提出产品改良方案，以不断提高产品质量；
    
 
   
 
-**Other Relevant Skills**
- For complementary skills, please see above and/or contact the recruiter.
+ 10、重要事情作到事前有计划(请示)，事后有汇报，必要时整理成文字资料并存档；
    
 
   
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ 11、完成上级领导交办的其它工作。
    
 
   
 
-*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*
-*If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review* 
-*Accessibility at Citi.*
-*View Citi’s EEO Policy Statement and the Know Your Rights poster.*","Banking, Financial Services, and Investment Banking","https://www.linkedin.com/company/citi","https://media.licdn.com/dms/image/v2/D4E0BAQFgF4xtqyXBcg/company-logo_100_100/company-logo_100_100/0/1719257286385/citi_logo?e=2147483647&v=beta&t=E0LjmXX_MaMB3pwg6W_ragjyCPSpChEG51ham_xSNVc","","","","","","","","","","",""
-"li-4382476454","linkedin","https://www.linkedin.com/jobs/view/4382476454","","Loan IQ, Java, Oracle - Lead Developer - Vice President","Citi","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","The Applications Development Technology Lead Analyst is a senior level position responsible for establishing and implementing new or revised application systems and programs in coordination with the Technology team. The overall objective of this role is to lead applications systems analysis and programming activities.
+ 任职资格：
    
 
   
 
-**Responsibilities:**
-* Partner with multiple management teams to ensure appropriate integration of functions to meet goals as well as identify and define necessary system enhancements to deploy new products and process improvements
-* Resolve variety of high impact problems/projects through in\\-depth evaluation of complex business processes, system processes, and industry standards
-* Provide expertise in area and advanced knowledge of applications programming and ensure application design adheres to the overall architecture blueprint
-* Utilize advanced knowledge of system flow and develop standards for coding, testing, debugging, and implementation
-* Develop comprehensive knowledge of how areas of business, such as architecture and infrastructure, integrate to accomplish business goals
-* Provide in\\-depth analysis with interpretive thinking to define issues and develop innovative solutions
-* Serve as advisor or coach to mid\\-level developers and analysts, allocating work as necessary
-* Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.
-
-
-**Recommended Qualifications:**
-* 10\\+ years of relevant experience in Apps Development or systems analysis role
-* Experience with Loan IQ Platform or Loan IQ SDK development is desirable
-* Experience with REST, JMS, SOAP, Microservices
-* Experience with Spring Boot, Swagger, Tomcat and JSON and XML processing
-* Very hands on role and associate should be able to write code on daily basis
-* Experience with at least one of the Messaging Systems: Kafka, Tibco. IBM MQ, etc.
-* Good knowledge of SQL
-* Familiarity with Windows and Linux operating systems and able to write shell \\& batch programs
-* Experience with Kubernetes and Docker
-* Knowledge of Threading, Collections, Exception Handling, JDBC, Java OOD/OOP Concepts, GoF Design Patterns, File I/O
-* Able to work with Continuous Integration and Continuous Deployment tools
-* Demonstrated Subject Matter Expert (SME) in area(s) of Applications Development
-* Ability to adjust priorities quickly as circumstances dictate
-* Demonstrated problem\\-solving and decision\\-making skills
-* Consistently demonstrates clear and concise written and verbal communication
-* Ability to work under pressure and manage deadlines or unexpected changes in expectations or requirements
-
-
-**Education:**
-* Bachelor’s degree/University degree or equivalent experience
-* Master’s degree preferred
-
-
- This job description provides a high\\-level review of the types of work performed. Other job\\-related duties may be assigned as required.
+ 1、本科以上学历，计算机、电子、自动化等相关专业，3年以上工作经验；
    
 
   
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ 2、熟悉C语言编程；
    
 
   
 
-**Job Family Group:**
- Technology
+ 3、熟悉基本硬件原理；熟悉I2C、UART、CAN、SPI等一些基本通讯协议；
    
 
   
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ 4、熟悉MCU，ARM嵌入式软件编程，掌握至少一种常见MCU芯片开发环境；
    
 
   
 
-**Job Family:**
- Applications Development
+ 5、熟悉使用示波器万用表等设备分析解决问题；
    
 
   
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ 6、能独立完成系统的功能需求分析、软硬件设计需求;
    
 
   
 
-**Time Type:**
- Full time
+ 7、具有良好的学习能力和沟通能力，工作积极主动，能够承受较强的工作压力；
    
 
   
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
+ 8、良好的英语资料阅读能力和沟通能力优先；
    
 
   
 
-**Most Relevant Skills**
- Please see the requirements listed above.
+ 9、能适应出差；
    
 
   
 
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
-   
-
-  
-
-**Other Relevant Skills**
- For complementary skills, please see above and/or contact the recruiter.
-   
-
-  
-
- \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-
-   
-
-  
-
-*Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.*
-*If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review* 
-*Accessibility at Citi.*
-*View Citi’s EEO Policy Statement and the Know Your Rights poster.*","Banking, Financial Services, and Investment Banking","https://www.linkedin.com/company/citi","https://media.licdn.com/dms/image/v2/D4E0BAQFgF4xtqyXBcg/company-logo_100_100/company-logo_100_100/0/1719257286385/citi_logo?e=2147483647&v=beta&t=E0LjmXX_MaMB3pwg6W_ragjyCPSpChEG51ham_xSNVc","","","","","","","","","","",""
+ 10、良好的团队合作精神，工作认真细致，有责任心及自主工作能力。","Textile Manufacturing","https://sg.linkedin.com/company/inl-international-technology-ptd-ltd","https://media.licdn.com/dms/image/v2/C510BAQEWIZjd5QD6Qg/company-logo_100_100/company-logo_100_100/0/1630615721815/inl_international_technology_ptd_ltd_logo?e=2147483647&v=beta&t=lguCOueNjlodimhW4HBSzyl5DxHX3gmL9_EdUUTZtcA","","","","","","","","","","",""
