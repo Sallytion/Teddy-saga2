@@ -1,1 +1,754 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"li-4455206875","linkedin","https://www.linkedin.com/jobs/view/4455206875","","Back-end Engineer","Accenture in India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","We are looking for a Back\\-End Engineer to design, build, and operate the data infrastructure and services that power our AI\\-driven knowledge platform. You will work across the full back\\-end stack — architecting APIs, building data pipelines, managing multi\\-modal database systems, and owning the reliability and performance of the services that application and product teams depend on. You bring strong engineering fundamentals and are equally comfortable designing a relational schema, tuning a graph query, standing up a vector store, or shipping a production\\-grade REST API. Knowledge graph and semantic technology experience is central to this role, but the work extends across the broader data and service layer: ingestion, transformation, storage, retrieval, and delivery at enterprise scale.","IT Services and IT Consulting","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw","","","","","","","","","","",""
+"li-4455237002","linkedin","https://www.linkedin.com/jobs/view/4455237002","","Core Software Engineer (C++) - Remote","ClickHouse","Bengaluru, Karnataka, India","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","paytransparency@clickhouse.com","**About ClickHouse**
+ Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast\\-growing private cloud companies. With more than 4,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real\\-time analytics, data warehousing, observability, and AI workloads.
+   
 
+  
+
+ The company's sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lovable, Decagon, Polymarket, and Airwallex have adopted the platform or expanded existing deployments. These customers join an established base of AI innovators and global brands such as Meta, Cursor, Sony, and Tesla.
+   
+
+  
+
+ We're on a mission to transform how companies use data. Come be a part of our journey!
+   
+
+  
+
+ NOTE: this role can be located anywhere ClickHouse has a hiring presence.
+   
+
+  
+
+ With over 42,000 stars on GitHub, ClickHouse is the fastest and most resource efficient open\\-source database for real\\-time apps and analytics. Our Core Engineering teams own the heart of our ClickHouse Open Source project. We are looking for exceptional C\\+\\+ engineers to join our remote\\-first, global team and continue to scale and grow both our open source and ClickHouse Cloud offerings. More specifically, our Performance Engineering team is seeking engineers who love optimizing the performance of distributed systems.
+   
+
+  
+
+**What will you do?**
+* As part of the ClickHouse Core Performance team, you will analyze and optimize the performance of the core ClickHouse database. The team works on many different topics such as query optimization, distributed query optimization, relational operators (e.g. aggregation and joins), caching, and low\\-level optimizations like SIMD instructions.
+* You will ensure that the database performance does not deteriorate over time by extending existing and adding new performance tests, based on real\\-world or synthetic datasets.
+* You will serve as a resource for the Support Engineering team, helping to debug the most advanced performance issues encountered by our customers.
+* As the core ClickHouse database continues to move at a fast pace, you will closely collaborate with our other core teams to assess the impact of new features on performance and support colleagues with performance tests and advice.
+* You will work with our open\\-source community. This will include resolving issues, reviewing and finishing PRs, answering questions from mail, chats, google groups, external Slack channels, etc.
+
+
+**About you:**
+* You bring along solid professional software development experience in C\\+\\+. This includes experience with Unix Systems.
+* You have strong knowledge in database internals and design.
+* You have experience in performance engineering, ideally in a database but other areas like high\\-frequency trading, simulation, real time data processing etc. are also okay.
+* You communicate well with others and have the ability to work well within and across engineering teams.
+* You are ready to work closely with our open\\-source community. You participate in code reviews with patience and attention to detail fostering a culture of collaboration and mutual respect.
+* You are a strong problem\\-solver and have solid production debugging skills.
+* You are passionate about efficiency, availability, scalability and data governance.
+* You thrive in a fast\\-paced start\\-up environment, seeing yourself as a partner with the business with the shared goal of moving forward and building together.
+* You have a high level of responsibility, ownership, and accountability.
+
+
+**Bonus points for:**
+* Experience with ClickHouse.
+* Experience in security, privacy, and compliance.
+* Experience with TCP/IP and network programming.
+* Experience developing cloud infrastructure services, preferably with Kubernetes.
+* Experience giving public talks at technical conferences and meetups.
+* Previous contributions to open source projects.
+
+
+**Compensation**
+ For roles based in the
+ **United States** 
+ , the typical starting salary range for this position is listed above. In certain locations, such as the San Francisco Bay Area and the New York City Metro Area, a premium market range may apply, as listed.
+   
+
+  
+
+ These salary ranges reflect what we reasonably and in good faith believe to be the minimum and maximum pay for this role at the time of posting. The actual compensation may be higher or lower than the amounts listed, and the ranges may be subject to future adjustments.
+   
+
+  
+
+ An individual's placement within the range will depend on various factors, including (but not limited to) education, qualifications, certifications, experience, skills, location, performance, and the needs of the business or organization.
+   
+
+  
+
+ If you have any questions or comments about compensation as a candidate, please get in touch with us at paytransparency@clickhouse.com.
+   
+
+  
+
+**Perks**
+* Flexible work environment \\- ClickHouse is a globally distributed company and remote\\-friendly. We currently operate in over 20 countries.
+* Healthcare \\- Employer contributions towards your healthcare.
+* Equity in the company \\- Every new team member who joins our company receives stock options.
+* Time off \\- Flexible time off in the US, generous entitlement in other countries.
+* A $500 Home office setup if you're a remote employee.
+* Global Gatherings – We believe in the power of in\\-person connection and offer opportunities to engage with colleagues at company\\-wide offsites.
+
+
+**Culture \\- We All Shape It**
+ As part of a rapidly scaling start up, you will be instrumental in shaping our culture.
+   
+
+  
+
+ Are you interested in finding out more about our culture? Learn more about our values here. Check out our blog posts or follow us on LinkedIn to find out more about what's happening at ClickHouse.
+   
+
+  
+
+**Equal Opportunity \\& Privacy**
+ ClickHouse provides equal employment opportunities to all employees and applicants and prohibits discrimination and harassment of any type based on factors such as race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+   
+
+  
+
+ Please see here for our Privacy Statement.","Software Development","https://www.linkedin.com/company/clickhouseinc","https://media.licdn.com/dms/image/v2/D4E0BAQEr8RfI76yHEQ/company-logo_100_100/company-logo_100_100/0/1688976507947/clickhouseinc_logo?e=2147483647&v=beta&t=bexlrUFDtfv1J4FepyN6NNbGs6lMAqiMAOkuMXBRBOk","","","","","","","","","","",""
+"li-4455233048","linkedin","https://www.linkedin.com/jobs/view/4455233048","","Java Fullstack Developer","ExaTech Inc","Hyderabad, Telangana, India","","fulltime","","","","","",False,"associate","Information Technology","","","**Tech Stack: Java, Spring Boot, Microservices, AWS, Any Frontend tool Angular/React** 
+
+
+
+
+  
+
+
+
+
+
+ • Design, build, and optimize Java, Spring Boot microservices and RESTful APIs.
+ 
+
+
+
+ • Develop, and maintain Java Spring Boot microservices with a focus on scalability, performance, and clean API design. Evaluate existing architectural patterns, identify gaps or inefficiencies, and drive architecture decision\\-making to improve system design and support the evolution of the microservices.
+ 
+
+
+
+ • Track and burn down the backlog; surface risks early and create mitigation plans.
+ 
+
+
+
+  
+
+
+
+
+
+**Must\\-Have** 
+
+
+
+
+ • 8 years in backend engineering with Java, Spring Boot and microservices at scale.
+ 
+
+
+
+ • Strong systems design (domain modeling, API contracts, resiliency, observability).
+ 
+
+
+
+ • Demonstrated experience re\\-designing/changing service designs and taking them to production.
+ 
+
+
+
+ • Solid grasp of CI/CD, containers, and Git\\-based pipelines.
+ 
+
+
+
+ • Excellent communication; Strong expertise in Java, Spring Boot and AWS.
+ 
+
+
+
+ • Proven experience building and maintaining microservices.
+ 
+
+
+
+ • Hands\\-on experience with Jenkins for CI/CD.
+ 
+
+
+
+ • Solid understanding of SQL databases (MySQL, PostgreSQL, or similar).
+ 
+
+
+
+ • Practical experience deploying and operating applications on AWS.
+ 
+
+
+
+ • Strong understanding of distributed systems, RESTful APIs, and cloud native patterns.
+ 
+
+
+
+ • Excellent problem\\-solving skills and ability to work in a collaborative environment.","IT Services and IT Consulting","https://www.linkedin.com/company/exatech-inc","https://media.licdn.com/dms/image/v2/C560BAQEV9hmshZ1qUg/company-logo_100_100/company-logo_100_100/0/1630662909865?e=2147483647&v=beta&t=EHngtCqDHaGOdz4YdBeKd0XQQhXpw06nnQzFuWncYbw","","","","","","","","","","",""
+"li-4455231045","linkedin","https://www.linkedin.com/jobs/view/4455231045","","Cloud Automation Developer, India","AlgoSec","New Delhi, Delhi, India","","fulltime","","","","","",False,"mid-senior level","Quality Assurance","","","At AlgoSec, what you do matters!
+   
+
+  
+
+ AlgoSec helps the world’s leading organizations secure application connectivity across hybrid and multi\\-cloud environments. Trusted by more than 2,300 global organizations, our platform delivers visibility, security policy management, risk reduction, and compliance automation across complex enterprise networks.
+   
+
+  
+
+ As we continue to expand our cloud and enterprise business globally, we are looking for a a QA Automation Developer to join our global team working in an agile environment.
+   
+
+  
+
+ This is an opportunity to join a profitable, growing cybersecurity company with strong market traction, a collaborative culture, and significant growth potential.
+   
+
+  
+
+**Reporting to:** 
+ Automation Team Leader
+   
+
+  
+
+**Location:** 
+ Gurgaon, India
+   
+
+  
+
+ Direct employment
+   
+
+  
+
+**What You’ll Do**
+* Plan, write and execute E2E automatic tests for complex features using java and selenium.
+* Perform testing for AlgoSec new SaaS product, working with multiple cloud vendors as AWS, Azure and GCP
+* Running tests in CI/CD environment.
+
+
+**What We’re Looking For**
+* BSc in Computer Science/Engineering.
+* At least 3 years of experience in object\\-oriented programming: Java.
+* At least 2 years of experience in developing complex automation tests using selenium (Java).
+* Experience in manual QA testing (ability to write your own test before automation)
+* Experience working with at least one cloud provider (AWS/Azure/GCP)
+* Good understanding of Prompt Engineering principals.
+* Proven ability to effectively use AI chatbot tools (e.g., ChatGPT) for tasks such as test scenario creation, troubleshooting, and workflow optimization.
+* Experience working with AI\\-powered coding assistants (e.g., GitHub Copilot, Cursor) within development environments.
+* Proven ability to effectively use/develop AI Agents.
+* Proven ability to effectively use/develop/configure MCPs.
+* Proven ability to effectively use/develop skills.
+* Multitasking and problem\\-solving abilities, context switching and ""out\\-of\\-the\\-box"" thinking abilities.
+* Team player, pleasant and with a high level of integrity.
+* Very organized, thorough, and devoted.
+* Bright, fast learner, independent.
+* Good written and verbal communication skills in English.
+
+
+**Nice To Have**
+* Experience in QA of network security software products
+* Experience with developing MCPs
+* Experience with transforming non\\-agentic system/SDLC into agentic system/ SDLC
+* Experience with RAG pipelines and semantic search (vector databases)
+
+
+ AlgoSec is an Equal Opportunity Employer (EEO), committed to creating a friendly, diverse and inclusive company culture.","Computer and Network Security","https://www.linkedin.com/company/algosec","https://media.licdn.com/dms/image/v2/D4D0BAQH6B5u0Ir062w/company-logo_100_100/B4DZ9l.0t9HEAI-/0/1784122395733/algosec_logo?e=2147483647&v=beta&t=TCeK6YiJsxu-Q6bizqch_hY2hmwsNMWE1I6-G5FJkq4","","","","","","","","","","",""
+"li-4455232055","linkedin","https://www.linkedin.com/jobs/view/4455232055","","Go Software Engineer (Remote)","Hire Feed","","","fulltime","","","","","",True,"associate","Engineering, Information Technology, and Product Management","","","* **Role:** 
+ Go Software Engineer (Remote)
+* **Location:** 
+ Remote (Work from Anywhere)
+* **Job Type:** 
+ Full\\-Time
+* **Payout:** 
+ Competitive, based on experience
+
+
+
+  
+
+
+
+
+
+**Role Overview:** 
+
+
+
+
+ We are hiring for one of our clients to build the next generation of dialog agents with wide\\-ranging applications in education, entertainment, and question\\-answering systems. The role involves close collaboration with cross\\-functional teams to define, design, and deliver new features.
+ 
+
+
+
+  
+
+
+
+
+
+**Key Responsibilities:** 
+
+
+
+
+ • Review AI\\-generated code and solutions to ensure adherence to quality standards and development best practices
+ 
+
+
+
+ • Organize development cycles, set priorities, and define project goals and deadlines
+ 
+
+
+
+ • Resolve complex coding issues using Go expertise during AI validation and system integration
+ 
+
+
+
+ • Verify accuracy, efficiency, and dependability of AI\\-generated code through validation processes
+ 
+
+
+
+ • Analyze code, provide constructive feedback, and foster a collaborative environment that encourages innovation and continuous improvement
+ 
+
+
+
+  
+
+
+
+
+
+**Required Skills \\& Qualifications:** 
+
+
+
+
+ • Bachelor’s or master’s degree in engineering, computer science, or equivalent experience
+ 
+
+
+
+ • At least 3\\+ years of relevant software engineering experience, with a proven ability to lead teams
+ 
+
+
+
+ • In\\-depth knowledge of Go programming language and software development best practices
+ 
+
+
+
+ • Experience with AI systems and code\\-creation technologies, including LLM model training
+ 
+
+
+
+ • Proactive contribution to public GitHub repositories, including feature development and code refactoring for large codebases
+ 
+
+
+
+  
+
+
+
+
+
+**More About the Opportunity:** 
+
+
+
+
+ This role offers a unique opportunity to contribute to cutting\\-edge AI technology that powers open\\-ended, collaborative dialogues. The company is building scalable backend components to support high\\-quality LLM training and deployment across diverse frameworks.
+ 
+
+
+
+  
+
+
+
+
+
+**Equal Opportunity Employer:** 
+
+
+
+
+ We hire based on skills and expertise. All qualified candidates are welcome regardless of background, experience, or prior employment history. Applications are reviewed solely on demonstrated technical ability and qualifications.
+ 
+
+
+
+  
+
+
+
+
+
+**Apply Now!**","Software Development, Technology, Information and Media, and IT Services and IT Consulting","https://www.linkedin.com/company/hirefeedd","https://media.licdn.com/dms/image/v2/D4D0BAQEeII6H9qdObQ/company-logo_100_100/B4DZ3OfC9fHwAQ-/0/1777285738853/hirefeedd_logo?e=2147483647&v=beta&t=_CDlig0wvkmE1MnttgfmRWMcp8aVGKFnattz_0FzVC0","","","","","","","","","","",""
+"li-4455206992","linkedin","https://www.linkedin.com/jobs/view/4455206992","","Software Engineer, Micro Platforms (Remote)","Hire Feed","","","fulltime","","","","","",True,"associate","Information Technology, Engineering, and Product Management","","","* **Role** 
+ : Software Engineer, Micro Platforms (Remote)
+* **Location** 
+ : Remote (Work from Anywhere)
+* **Job** 
+**Type** 
+ : Full\\-Time
+* **Payout** 
+ : $180K \\- $250K/yr
+
+
+
+  
+
+
+
+
+
+**Role Overview:** 
+
+
+
+
+ We are hiring for one of our clients, seeking a Software Engineer, micro Platforms to work on a full\\-time basis. This role involves designing, developing, and maintaining scalable micro platforms that support core business services. You will collaborate with cross\\-functional teams to deliver high\\-performance solutions in a distributed system environment.
+ 
+
+
+
+  
+
+
+
+
+
+**Key Responsibilities:** 
+
+
+
+
+ • Design, build, and maintain micro platforms that are scalable, performant, and reliable
+ 
+
+
+
+ • Implement and optimize backend services using modern development practices
+ 
+
+
+
+ • Collaborate with DevOps to ensure seamless deployment and monitoring of platforms
+ 
+
+
+
+ • Write clean, maintainable, and testable code following engineering best practices
+ 
+
+
+
+ • Troubleshoot and resolve technical issues across distributed systems
+ 
+
+
+
+  
+
+
+
+
+
+**Required Skills \\& Qualifications:** 
+
+
+
+
+ • 5\\+ years of experience in software engineering with a focus on backend development
+ 
+
+
+
+ • Proficiency in programming languages such as Go, Python, Java, or similar
+ 
+
+
+
+ • Strong understanding of microservices architecture and distributed systems
+ 
+
+
+
+ • Experience with cloud platforms (AWS, GCP, Azure) and containerization technologies (Docker, Kubernetes)
+ 
+
+
+
+ • Familiarity with CI/CD pipelines and infrastructure as code (Terraform, Ansible)
+ 
+
+
+
+  
+
+
+
+
+
+**More About the Opportunity:** 
+
+
+
+
+ This role offers a unique opportunity to work with a global leader in the Technology, Information and Internet industry, contributing to the development of next\\-generation platforms. You will have the chance to influence architectural decisions and drive technical innovation in a fast\\-paced environment.
+ 
+
+
+
+  
+
+
+
+
+
+**Equal Opportunity Employer:** 
+
+
+
+
+ We hire based on skills and expertise. All qualified candidates are welcome regardless of background, experience, or prior employment history. Applications are reviewed solely on demonstrated technical ability and qualifications.
+ 
+
+
+
+  
+
+
+
+
+
+**Apply Now!**","Software Development, Technology, Information and Media, and IT Services and IT Consulting","https://www.linkedin.com/company/hirefeedd","https://media.licdn.com/dms/image/v2/D4D0BAQEeII6H9qdObQ/company-logo_100_100/B4DZ3OfC9fHwAQ-/0/1777285738853/hirefeedd_logo?e=2147483647&v=beta&t=_CDlig0wvkmE1MnttgfmRWMcp8aVGKFnattz_0FzVC0","","","","","","","","","","",""
+"li-4424568965","linkedin","https://www.linkedin.com/jobs/view/4424568965","","Forward Deployed Engineer","66degrees","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Overview of 66degrees
+   
+
+  
+
+ 66degrees is an end\\-to\\-end AI transformation partner that guides enterprises from complex business challenges to clear, quantifiable outcomes. Our company is the culmination of several successful firms, each a leader in its own right in cloud, artificial intelligence, and data. This convergence of talent and expertise is how we help businesses reach their own ""inflection point,"" where chaotic data becomes a strategic asset, complexity becomes clarity, and AI becomes an engine for growth. Our ultimate vision is to be the catalyst for a future where every business operates as an intelligent enterprise, with autonomous systems unlocking human potential.
+   
+
+  
+
+ At 66degrees, we believe in thriving through challenges and winning together. These values not only guide us in achieving our goals as a company but also for our people. We are dedicated to creating a significant impact for our employees by fostering a culture that sparks innovation and supports professional and personal growth along the way.
+   
+
+  
+
+ Overview of Role
+   
+
+  
+
+ As a Forward Deployment Engineer, you will serve as a technical bridge between Sales, Engineering, and Service Delivery teams. Your primary objective is to ensure the successful implementation and adoption of complex, end\\-to\\-end frontier model deployments for our clients. You will lead technical discovery, system design, and production rollouts, playing a pivotal role in shaping the client experience through collaborative system architecture and execution.
+   
+
+  
+
+ Success in this role is measured by production adoption, tangible workflow impact, and the delivery of eval\\-driven insights that influence product and model roadmaps. You will operate cross\\-functionally with Research, Partnerships, GRC, Security, and GTM teams to deliver high\\-impact solutions.
+   
+
+  
+
+**Responsibilities**
+* Identify and architect opportunities within client environments to scale agentic solutions, advanced data models, and sophisticated workflows.
+* Oversee the end\\-to\\-end technical delivery of multiple deployments, transitioning projects from initial prototypes to stable, production\\-ready environments.
+* Engineer full\\-stack systems designed to maximize customer value and accelerate organizational learning.
+* Partner closely with customer teams to understand unique requirements and drive the seamless adoption of deployed solutions.
+* Manage project scoping, sequence critical deliveries, and proactively mitigate technical or operational blockers.
+* Balance trade\\-offs between scope, velocity, and quality to ensure consistent delivery excellence.
+* Contribute high\\-quality code to maintain project momentum and technical clarity.
+* Develop tools, playbooks, and modular building blocks to codify best practices for broader organizational use.
+* Provide field\\-based feedback to Research and Product teams to drive iterative improvements in model performance and utility.
+* Maintain organizational alignment through clear communication and consistent follow\\-through on technical commitments.
+* Cultivate strong relationships with key stakeholders to drive customer success and long\\-term satisfaction.
+* Apply a consultative approach to stakeholder engagements, integrating business objectives with full\\-stack technical solutions.
+* Propose fit\\-for\\-purpose agentic solutions tailored to client needs and supported by rigorous research.
+* Develop sophisticated demonstrations and proof\\-of\\-concept environments based on specific client requirements.
+* Support the broader 66degrees team by evaluating and integrating emerging products and technologies.
+
+
+**Qualifications**
+* 3\\+ years of professional experience within Google Cloud Platform (GCP), Azure, or AWS; GCP experience is strongly preferred.
+* GCP Professional\\-level certification is required within the first 90 days of tenure.
+* Proven ability to strategize, architect, and lead the deployment of scalable enterprise solutions on GCP.
+* 5\\+ years of engineering or technical deployment experience, with a significant emphasis on customer\\-facing engagements.
+* Experience delivering complex systems within fast\\-paced or ambiguous environments.
+* Proficiency in developing production\\-grade code across the full stack using Python, JavaScript, or comparable frameworks.
+* Hands\\-on experience deploying LLMs or generative models, with an understanding of how model behavior impacts the end\\-user product experience.
+* Demonstrated ability to distill complex requirements into simple, effective solutions under tight deadlines.
+* Exceptional communication skills and the ability to drive critical decisions with engineering teams and executive stakeholders.
+* Strong aptitude for risk management and real\\-time operational adjustments to protect the customer experience.
+
+
+***Please note, we cannot sponsor or transfer any visas, of any kind, at this time.***
+*66degrees is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to actual or perceived race, color, religion, sex, gender, gender identity, national origin, age, weight, height, marital status, sexual orientation, veteran status, disability status or other legally protected class.*
+**AI Transparency \\& Disclosure**
+ As an AI transformation partner, 66degrees leverages intelligent solutions to enhance our recruitment experience. We utilize AI tools—including LinkedIn Recruiter’s Hiring Assistant and interview transcription technologies—to assist with sourcing, role analysis, and capturing interview highlights.
+   
+
+  
+
+ These tools augment our process, but we ""Commit to Our Craft"" by ensuring all final hiring decisions are made by our human Talent Team. By applying, you acknowledge the use of these technologies to help us ""Win Together"" in finding the best fit for our team.","Business Consulting and Services, IT Services and IT Consulting, and Software Development","https://www.linkedin.com/company/66degrees","https://media.licdn.com/dms/image/v2/D4E0BAQHhaCZUWhjhNw/company-logo_100_100/B4EZ1aHUkIHEAQ-/0/1775333362230/66degrees_logo?e=2147483647&v=beta&t=uE3qYUE0Bh0Oyvq1hjeuNCWfuA4ZRDP_N3IHSZqkF8k","","","","","","","","","","",""
+"li-4455229866","linkedin","https://www.linkedin.com/jobs/view/4455229866","","Software Engineer - ElectronJS, Desktop (Remote)","Quik Hire Staffing","","","fulltime","","","","","",True,"associate","Engineering, Information Technology, and Product Management","","","* **Role** 
+ : Software Engineer \\- ElectronJS, Desktop (Remote)
+* **Location** 
+ : Remote (Work from Anywhere)
+* **Job Type** 
+ : Full\\-Time
+* **Payout** 
+ : $150K \\- $220K/yr
+
+
+
+  
+
+
+
+
+
+**Role Overview:** 
+
+
+
+
+ We are hiring for one of our clients, seeking a Software Engineer (ElectronJS) to work on a full\\-time basis. This role involves developing and maintaining desktop applications using ElectronJS and related technologies. The position requires collaboration with cross\\-functional teams to deliver high\\-quality software solutions.
+ 
+
+
+
+  
+
+
+
+
+
+**Key Responsibilities:** 
+
+
+
+
+ • Develop and maintain desktop applications using ElectronJS and JavaScript/TypeScript.
+ 
+
+
+
+ • Design, implement, and optimize application features while ensuring performance and scalability.
+ 
+
+
+
+ • Collaborate with product teams to translate requirements into technical specifications.
+ 
+
+
+
+ • Write clean, maintainable, and efficient code following best practices and coding standards.
+ 
+
+
+
+ • Debug and resolve issues reported by users or identified through testing.
+ 
+
+
+
+  
+
+
+
+
+
+**Required Skills \\& Qualifications:** 
+
+
+
+
+ • Proficiency in ElectronJS and JavaScript/TypeScript development.
+ 
+
+
+
+ • Experience with Node.js and front\\-end frameworks such as React or Angular.
+ 
+
+
+
+ • Strong understanding of asynchronous programming and event\\-driven architectures.
+ 
+
+
+
+ • Familiarity with version control systems, such as Git.
+ 
+
+
+
+ • Experience with testing frameworks like Jest or Mocha.
+ 
+
+
+
+  
+
+
+
+
+
+**More About the Opportunity:** 
+
+
+
+
+ This role offers a unique opportunity to work with a global leader in the Technology, Information and Internet industry, contributing to the development of cutting\\-edge desktop applications. The position plays a critical role in enhancing user experience and functionality for a widely used platform.
+ 
+
+
+
+  
+
+
+
+
+
+**Equal Opportunity Employer:** 
+
+
+
+
+ We hire based on skills and expertise. All qualified candidates are welcome regardless of background, experience, or prior employment history. Applications are reviewed solely on demonstrated technical ability and qualifications.
+ 
+
+
+
+  
+
+
+
+
+
+**Apply Now!**","Software Development, Technology, Information and Media, and IT Services and IT Consulting","https://in.linkedin.com/company/quik-hire-staffing","https://media.licdn.com/dms/image/v2/D560BAQFYxxMZnepyAw/company-logo_100_100/B56ZsDhgBgI0AQ-/0/1765290672906/quik_hire_staffing_logo?e=2147483647&v=beta&t=O0afXTv2kaV87tafvXFTX8PV2q8r8kzDn7wXAR26ApQ","","","","","","","","","","",""
+"li-4455218879","linkedin","https://www.linkedin.com/jobs/view/4455218879","","Back-end Engineer","Accenture in India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","We are looking for a Back\\-End Engineer to design, build, and operate the data infrastructure and services that power our AI\\-driven knowledge platform. You will work across the full back\\-end stack — architecting APIs, building data pipelines, managing multi\\-modal database systems, and owning the reliability and performance of the services that application and product teams depend on. You bring strong engineering fundamentals and are equally comfortable designing a relational schema, tuning a graph query, standing up a vector store, or shipping a production\\-grade REST API. Knowledge graph and semantic technology experience is central to this role, but the work extends across the broader data and service layer: ingestion, transformation, storage, retrieval, and delivery at enterprise scale.","IT Services and IT Consulting","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw","","","","","","","","","","",""
+"li-4455206874","linkedin","https://www.linkedin.com/jobs/view/4455206874","","Back-end Engineer","Accenture in India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","We are looking for a Back\\-End Engineer to design, build, and operate the data infrastructure and services that power our AI\\-driven knowledge platform. You will work across the full back\\-end stack — architecting APIs, building data pipelines, managing multi\\-modal database systems, and owning the reliability and performance of the services that application and product teams depend on. You bring strong engineering fundamentals and are equally comfortable designing a relational schema, tuning a graph query, standing up a vector store, or shipping a production\\-grade REST API. Knowledge graph and semantic technology experience is central to this role, but the work extends across the broader data and service layer: ingestion, transformation, storage, retrieval, and delivery at enterprise scale.","IT Services and IT Consulting","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw","","","","","","","","","","",""
+"li-4455212937","linkedin","https://www.linkedin.com/jobs/view/4455212937","","Back-end Engineer","Accenture in India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","We are looking for a Back\\-End Engineer to design, build, and operate the data infrastructure and services that power our AI\\-driven knowledge platform. You will work across the full back\\-end stack — architecting APIs, building data pipelines, managing multi\\-modal database systems, and owning the reliability and performance of the services that application and product teams depend on. You bring strong engineering fundamentals and are equally comfortable designing a relational schema, tuning a graph query, standing up a vector store, or shipping a production\\-grade REST API. Knowledge graph and semantic technology experience is central to this role, but the work extends across the broader data and service layer: ingestion, transformation, storage, retrieval, and delivery at enterprise scale.","IT Services and IT Consulting","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw","","","","","","","","","","",""
+"li-4455224897","linkedin","https://www.linkedin.com/jobs/view/4455224897","","Back-end Engineer","Accenture in India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","We are looking for a Back\\-End Engineer to design, build, and operate the data infrastructure and services that power our AI\\-driven knowledge platform. You will work across the full back\\-end stack — architecting APIs, building data pipelines, managing multi\\-modal database systems, and owning the reliability and performance of the services that application and product teams depend on. You bring strong engineering fundamentals and are equally comfortable designing a relational schema, tuning a graph query, standing up a vector store, or shipping a production\\-grade REST API. Knowledge graph and semantic technology experience is central to this role, but the work extends across the broader data and service layer: ingestion, transformation, storage, retrieval, and delivery at enterprise scale.","IT Services and IT Consulting","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw","","","","","","","","","","",""
