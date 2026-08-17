@@ -1,1 +1,5342 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"li-4455352109","linkedin","https://www.linkedin.com/jobs/view/4455352109","","SDE II","SourcingXPress","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Company:** 
+ Governfy
+   
 
+  
+
+**Website:** 
+ Visit Website
+   
+
+  
+
+**Business Type:** 
+ Startup
+   
+
+  
+
+**Company Type:** 
+ Product
+   
+
+  
+
+**Business Model:** 
+ B2B
+   
+
+  
+
+**Funding Stage:** 
+ Pre\\-seed
+   
+
+  
+
+**Industry:** 
+ Fintech
+   
+
+  
+
+**Salary Range:** 
+ ₹ 8\\-12 Lacs PA
+   
+
+  
+
+**Job Description**
+**Backend Engineer II / (SDE II)**
+**Tech Stack:** 
+ Python \\| Microsoft Azure \\| PostgreSQL / SQL
+   
+
+  
+
+**Position Summary**
+ We are looking for a Mid\\-Level Backend Engineer to help build the backend services powering a payments\\-focused Dispute Management Platform. The engineer will work with the Senior Lead Backend Engineer and product team to develop Python APIs, PostgreSQL data models, Azure services, integrations, background jobs, and business logic supporting dispute and chargeback operations. This is a hands\\-on development position for an engineer comfortable building reliable backend applications and interested in working on a payments platform with complex workflows and data relationships.
+   
+
+  
+
+**CORE TECHNOLOGY STACK**
+* Python
+* PostgreSQL / SQL
+* Microsoft Azure
+* REST APIs
+* Git
+
+
+ Docker
+   
+
+  
+
+* CI/CD
+* Background workers and asynchronous processing
+
+
+**Experience with FastAPI, SQLAlchemy, Alembic, and Azure services is preferred.**
+**Key Responsibilities**
+**Python Backend Development**
+* Develop maintainable and well\\-tested Python backend services.
+* Implement REST API endpoints based on product and frontend requirements.
+* Follow established backend architecture, coding standards, API conventions, and security practices.
+* Participate in peer code reviews and technical design discussions.
+* Troubleshoot application issues and contribute to production support.
+
+
+**Dispute Management**
+* Develop APIs and backend business logic for dispute creation, case updates, dispute statuses, merchant/MID association, network reason codes, case assignment, evidence deadlines, analyst flags, search and filtering, comments, timeline events, activity history, and notifications.
+* Implement validation and workflow rules so cases cannot transition into invalid states.
+
+
+**Evidence Services**
+* Build functionality for evidence checklists, evidence states, notes, uploads, attachment metadata, retrieval, reminders, evidence packages, and secure file access.
+* Integrate backend services with Azure\\-based file storage where required.
+
+
+**PostgreSQL Development**
+* Create and maintain PostgreSQL tables, relationships, indexes, views, and migrations.
+* Write performant SQL queries and work with relational entities including disputes, merchants, evidence, users, comments, activities, notifications, alerts, automation rules, compliance events, and reports.
+* Maintain referential integrity, assist with query\\-performance analysis, and support schema changes through controlled database migrations.
+
+
+**API Development**
+* Implement APIs supporting create/read/update operations, queue filtering, sorting, pagination, searching, case assignment, comments, notifications, evidence management, reports, merchant metrics, compliance information, and automation actions.
+* Ensure APIs include appropriate validation, authentication, authorization, error handling, logging, rate\\-limit handling, and documentation.
+
+
+**Payment \\& Prevention Integrations**
+* Assist with integrations between the platform and external payment/dispute systems.
+* Consume third\\-party APIs, process inbound webhooks, map external data into internal schemas, handle credentials securely, implement retries and duplicate prevention, log integration events, handle failures, and support reconciliation.
+
+
+**Prevention Alerts**
+* Develop services for prevention\\-alert ingestion, alert queues, response deadlines, auto\\-refund actions, evidence requests, escalations, resolutions, duplicate detection, and fee\\-avoidance calculations.
+
+
+**Automation Rules**
+* Implement configurable automation rules including triggers, actions, merchant/MID scope, portfolio scope, active/paused states, automatic vs. review modes, guardrails, execution, run history, success/failure tracking, and savings calculations.
+
+
+**Merchant \\& Compliance Data**
+* Develop APIs and SQL queries for merchant health, chargeback ratios, processing volume, win rates, alert counts, historical trends, compliance thresholds, compliance status, portfolio KPIs, fee exposure, and root\\-cause analytics.
+* Assist with background processes used to calculate and refresh these metrics.
+
+
+**Reporting**
+* Implement services for scheduled and on\\-demand reports, CSV/XLSX exports, report histories, scheduling, recipient management, and operational/compliance extracts.
+* Develop asynchronous processes for reports or data jobs that should not execute synchronously through API requests.
+
+
+**Azure Development**
+* Deploy and maintain backend services within the established Azure architecture using Azure\\-hosted Python applications, Azure Database for PostgreSQL, Blob Storage, Key Vault, Service Bus, Functions or container\\-based services, Azure Monitor, and Application Insights as applicable.
+* Participate in deployments through CI/CD pipelines across development, QA/UAT, and production environments.
+
+
+**Security \\& Auditability**
+* Implement backend controls supporting role\\-based permissions, secure authentication, SSO/MFA\\-compatible workflows, session security, data redaction, retention, audit logs, API\\-rate controls, and secure handling of secrets and credentials.
+* Maintain detailed logging for sensitive case and automation actions.
+
+
+**Testing \\& Quality**
+* Write unit tests for backend business logic and integration tests for APIs and database operations.
+* Test external integration failure scenarios, participate in regression testing and defect resolution, maintain technical documentation, and troubleshoot services using Azure observability tools.
+
+
+**Required Qualifications**
+* 3\\-5 years of professional software engineering experience.
+* 2\\+ years of backend development experience using Python.
+* Strong SQL skills.
+* Experience working with PostgreSQL or another enterprise relational database.
+* Experience developing REST APIs and understanding relational database design.
+* Familiarity with Git\\-based development workflows.
+* Experience writing unit and integration tests.
+* Experience with cloud\\-based application development.
+* Familiarity with Docker/containerized applications.
+* Strong debugging and problem\\-solving skills.
+* Ability to work within an established architecture while contributing technical recommendations.
+
+
+**Preferred Qualifications**
+* Microsoft Azure experience.
+* FastAPI experience.
+* SQLAlchemy and Alembic experience.
+* Azure Database for PostgreSQL experience.
+* Azure Service Bus or similar message\\-queue experience.
+* Experience with third\\-party APIs and webhooks.
+* Fintech or payment\\-processing experience.
+* Chargeback/dispute\\-management experience.
+* Experience with event\\-driven systems and background\\-job processing.
+* Familiarity with payment\\-data security practices.
+
+
+**What Success Looks Like**
+ The Backend Engineer II will consistently deliver reliable backend functionality that turns product requirements into production services. The engineer should be able to independently own defined backend features \\- from PostgreSQL schema and Python business logic through APIs, automated tests, and Azure deployment \\- while working within the architecture established by the Senior Lead Backend Engineer.","Technology, Information and Internet","https://in.linkedin.com/company/sourcingxpress","https://media.licdn.com/dms/image/v2/D560BAQH8p15unSQuNg/company-logo_100_100/company-logo_100_100/0/1726488435665/sourcingxpress_logo?e=2147483647&v=beta&t=iFtAwYhOzhMZtNarkze-r6fDB-RFk6LFqh98zidvhgo","","","","","","","","","","",""
+"li-4454419155","linkedin","https://www.linkedin.com/jobs/view/4454419155","","Software Engineer II, Android","Google","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Information Technology and Engineering","","","**Minimum qualifications:**
+* Bachelor’s degree or equivalent practical experience.
+* 1 year of experience with software development in one or more programming languages (e.g., Python, C, C\\+\\+, Java, JavaScript).
+
+
+**Preferred qualifications:**
+* Master's degree or PhD in Computer Science or related technical field.
+* Experience developing accessible technologies.
+
+
+**About The Job**
+ Google's software engineers develop the next\\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast\\-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\\-stack as we continue to push technology forward.
+   
+
+  
+
+ With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.
+   
+
+  
+
+ Application Instructions: In most instances, this position requires in\\-person interviews as part of the hiring process.
+   
+
+  
+
+ Android is Google’s mobile operating system powering more than 3 billion devices worldwide. Android is about bringing computing to everyone in the world. We believe computing is a super power for good, enabling access to information, economic opportunity, productivity, connectivity between friends and family and more. We think everyone in the world should have access to the best computing has to offer. We provide the platform for original equipment manufacturers (OEMs) and developers to build compelling computing devices (smartphones, tablets, TVs, wearables, etc) that run the best apps/services for everyone in the world.
+   
+
+  
+
+**Responsibilities**
+* Write product or system development code.
+* Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+* Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+* Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+
+
+ Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .","Information Services and Technology, Information and Internet","https://www.linkedin.com/company/google","https://media.licdn.com/dms/image/v2/D4E0BAQGv3cqOuUMY7g/company-logo_100_100/B4EZmhegXHGcAU-/0/1759350753990/google_logo?e=2147483647&v=beta&t=zYekdwB_mnXarr4wa4kw8w3Jikm8YaakM5aiDyAyvP0","","","","","","","","","","",""
+"li-4455338771","linkedin","https://www.linkedin.com/jobs/view/4455338771","","Senior Software Engineer (Full Stack) - Consumer Intelligence & Engagement","PUMA Group","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","SPEED \\& SPIRIT is what we look for in our candidates, defined by some simple values that inspire us to BE DRIVEN in our performance, BE VIBRANT in our sporting legacy, BE TOGETHER in our team spirit, and BE YOU to let our individual talent and experience shine. Applying for a job at PUMA is easy and all genders are welcome. Simply click APPLY ONLINE and follow the steps to upload your application.
+   
+
+  
+
+**YOUR MISSION:**
+ You will be part of the Consumer Intelligence \\& Engagement organisation responsible for delivering the intelligence and engagement capabilities that enable more relevant and personalised consumer experiences across digital channels. The organisation plays a key role in how consumers discover products, engage with content, and elevate experiences through membership \\& loyalty. Through capabilities such as personalisation, recommendations, consumer intelligence, experimentation, and AI\\-driven decisioning, the organisation helps deliver more contextual, data\\-driven interactions across the consumer journey.
+   
+
+  
+
+ As a Senior Software Engineer (Full Stack), you will design, build, and maintain production\\-grade backend services and web applications that power personalisation and recommendation capabilities. You will work closely with Tech Leads, AI/ML Engineers, Product Owners, and Data Engineering teams to deliver reliable, scalable, and low\\-latency services.
+   
+
+  
+
+**What you will do:**
+* Develop production\\-grade APIs and service layers that expose personalisation and recommendations to consuming applications and digital experience layers.
+* Build and evolve web\\-based applications and user experiences.
+* Build model\\-serving and inference integration layers that support real\\-time and batch recommendation patterns.
+* Implement reliable, scalable, and low\\-latency services with strong focus on resiliency, observability, and performance.
+* Work with caching, event\\-driven processing and distributed systems patterns to support high\\-volume consumer use cases.
+* Collaborate with Tech Leads, AI/ML Engineers, Data Engineering and Product teams to deliver roadmap commitments.
+* Drive technical design discussions and contribute to architecture decisions within the team.
+* Ensure applications and services are production\\-ready through effective observability, monitoring, performance optimisation, reliability engineering, and operational readiness practices.
+* Mentor junior engineers, perform code reviews and help establish engineering standards and best practices.
+* Utilise AI\\-assisted engineering tools to accelerate development and strengthen code quality.
+
+
+**YOUR TALENT:**
+* 7\\+ years of experience designing and building scalable, resilient, and maintainable microservices and web applications in modern cloud environments.
+* Strong hands\\-on experience with Java and Spring Boot for building production backend services.
+* Frontend development experience with React framework strongly preferred.
+* Strong understanding of system design and distributed architecture.
+* Solid understanding of distributed systems fundamentals including concurrency, asynchronous processing, idempotency, exception handling and circuit breakers.
+* Strong data structures and algorithms foundation with experience applying them to real\\-world use cases.
+* Experience with event\\-driven architecture using Kafka or similar technologies.
+* Experience with SQL/No\\-SQL databases with understanding of database architecture and distributed data management.
+* Experience integrating LLM APIs into production applications will be a strong advantage.
+* Understanding of embedding\\-based similarity search and vector databases is an advantage.
+* Strong ability to mentor engineers, review designs, and drive sound technical decisions.
+* Experience using coding agents, LLMs or AI\\-assisted engineering tools to improve software delivery and developer productivity.
+* Experience in eCommerce, retail, or consumer digital products is preferred.
+
+
+ PUMA provides equal opportunities for all job applicants, regardless of race, color, religion, national origin, sex, gender identity or expression, sexual orientation, age, or disability. Equality for all is one of the core principles at PUMA and we do not tolerate any form of harassment or discrimination.
+   
+
+  
+
+ At PUMA, every application is reviewed by real people who are committed to fairness, transparency, and equal opportunity \\- no matter your background, identity, or experience. To ensure our process stays true to these values, no automated systems or AI tools are used to make hiring decisions. Every decision is made by real people \\-with real judgment and accountability. We may use functions supported by Artificial Intelligence (AI) to carry out isolated organizational steps, such as scheduling interviews. These functions have no influence on decisions in the application process. We believe in creating spaces where everyone is welcome, celebrated, and empowered to contribute authentically. Because at PUMA, whoever wants to play, can play.
+   
+
+  
+
+ PUMA is a global sports brand creating footwear, apparel, and accessories that inspire athletes and everyday movers. The PUMA Group owns PUMA, Cobra Golf, and stichd, operates in 120\\+ countries, and has around 22,000 employees worldwide.","Retail","https://de.linkedin.com/company/puma","https://media.licdn.com/dms/image/v2/D4D0BAQF9L7VyTOemtg/company-logo_100_100/B4DZhBYeC1G8AQ-/0/1753443590714/puma_logo?e=2147483647&v=beta&t=PtEUhLI4opaQbF8O9-XdTFPpF4dcvbxBFo16F6hMiGY","","","","","","","","","","",""
+"li-4455367071","linkedin","https://www.linkedin.com/jobs/view/4455367071","","Java Backend Development","ULTISOURCE","","","fulltime","","","","","",False,"mid-senior level","Other","","","**Client Type:** 
+ Product\\-based Logistics Company
+   
+
+  
+
+**Job Type:** 
+ Full\\-Time With Client
+   
+
+  
+
+**Work Mode:** 
+ Hybrid
+   
+
+  
+
+**Base Location:** 
+ Hyderabad, India
+   
+
+  
+
+**Experience:** 
+ 4\\-9 Years
+   
+
+  
+
+**Skills:** 
+ Java, React, Spring boot, RestAPI
+   
+
+  
+
+ This is a full\\-time opportunity with our client, a leading product\\-based logistics technology company building next\\-generation digital solutions for global supply chain and transportation operations. The organization focuses on delivering scalable, secure, and technology\\-driven platforms that enhance operational efficiency, visibility, and customer experience across the logistics ecosystem.
+   
+
+  
+
+**Job Overview**
+ The primary responsibility is to develop high\\-quality, scalable software solutions as a contributing member of a highly motivated Agile engineering team. This role will leverage modern AI\\-assisted developer tools to improve productivity, code quality, and engineering velocity.
+   
+
+  
+
+**You Will**
+* Develop scalable, maintainable, and reusable software components aligned with functional and non\\-functional requirements.
+* Utilize AI\\-powered development tools such as GitHub Copilot, Cursor, and similar assistants to improve development efficiency, code quality, and test automation.
+* Troubleshoot and resolve application defects, performance issues, and system failures through effective debugging and observability practices.
+* Implement code reviews, automated testing, and quality checks to enhance software reliability, security, and performance.
+* Contribute to engineering best practices, technical documentation, and continuous improvement initiatives across development workflows.
+* Participate in Agile activities including sprint planning, backlog grooming, estimation, and delivery execution.
+* Collaborate with Product, Security, Platform, and cross\\-functional engineering teams while mentoring peers on modern software engineering practices.
+
+
+**You Have**
+* Bachelor’s degree in Computer Science or a related field with 4–6 years of software development experience.
+* Strong hands\\-on experience with Java, JEE, Spring Boot, REST APIs, and React.
+* Good understanding of multithreading, messaging systems, asynchronous processing, and web service frameworks.
+* Experience with application servers such as Tomcat, JBoss, WebSphere, or similar technologies.
+* Hands\\-on exposure to AI\\-powered development tools like GitHub Copilot, Cursor, or similar AI coding assistants.
+* Experience with Agile/Scrum methodologies, CI/CD pipelines, automated testing, and modern engineering practices.
+* Strong communication, collaboration, problem\\-solving, and mentoring skills.
+
+
+**Preferred Qualifications**
+* Experience with secure coding practices, accessible web applications, and multiple SDLC models.
+* Familiarity with development tools such as Jira, Jenkins, Git, and JUnit.
+* Exposure to AI\\-driven DevOps, AIOps, or intelligent monitoring solutions is a plus.
+* Lean / Six Sigma or Continuous Improvement certifications are an added advantage.
+
+
+ We focus on the people side of the enterprise, delivering staffing and HR solutions that support business growth and workforce success.
+   
+
+  
+
+ Americas \\| India
+ **\\|** 
+ UAE
+   
+
+  
+
+ ULTISOURCE Pvt. Ltd. \\| © COPYRIGHT \\| ALL RIGHTS RESERVED
+   
+
+  
+
+ Get hiring insights, talent trends, and updates from ULTISOURCE.","Staffing and Recruiting","https://www.linkedin.com/company/ultisource","https://media.licdn.com/dms/image/v2/C4D0BAQFc_G6iFUmHSQ/company-logo_100_100/company-logo_100_100/0/1630556609317/ultisource_logo?e=2147483647&v=beta&t=MKgfPoN8FH5UoBlljIcvzNHRjVx7HvkcojvTF5Isad0","","","","","","","","","","",""
+"li-4455342808","linkedin","https://www.linkedin.com/jobs/view/4455342808","","Lead Engineer - Consumer Intelligence & Engagement","PUMA Group","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","SPEED \\& SPIRIT is what we look for in our candidates, defined by some simple values that inspire us to BE DRIVEN in our performance, BE VIBRANT in our sporting legacy, BE TOGETHER in our team spirit, and BE YOU to let our individual talent and experience shine. Applying for a job at PUMA is easy and all genders are welcome. Simply click APPLY ONLINE and follow the steps to upload your application.
+   
+
+  
+
+**YOUR MISSION:**
+ You will be part of the Consumer Intelligence \\& Engagement organisation responsible for delivering the intelligence and engagement capabilities that enable more relevant and personalised consumer experiences across digital channels. The organisation plays a key role in how consumers discover products, engage with content, and elevate experiences through membership \\& loyalty. Through capabilities such as personalisation, recommendations, consumer intelligence, experimentation, and AI\\-driven decisioning, the organisation helps deliver more contextual, data\\-driven interactions across the consumer journey.
+   
+
+  
+
+ As a Lead Engineer, you will provide technical leadership for the team building production grade backend services that power personalisation and recommendation capabilities. You will own technical architecture, engineering standards and key technology decisions, ensuring solutions are scalable, reliable, and resilient. Working closely with the Engineering Manager, Product Owners, and Data Engineering teams, you will deliver low latency services that support real\\-time consumer experiences. You will champion engineering best practices, code quality, observability, and continuous improvement across the team.
+   
+
+  
+
+**What you will do:**
+* Lead the design and development of personalisation and recommendation services \\& applications.
+* Own technical architecture, engineering standards, and key technology decisions across model serving, inference, and recommendation platforms.
+* Design and build scalable, low latency APIs, event\\-driven services, and integration layers that support real\\-time and batch recommendation use cases.
+* Partner with AI/ML Engineers and Data Engineers to deploy machine learning models and recommendation algorithms relevant for the business use case.
+* Design and implement model serving, inference, feature access and experimentation capabilities that support personalisation and recommendation.
+* Integrate LLM APIs and AI services to enable intelligent consumer experiences and business capabilities.
+* Ensure solutions are secure, observable, reliable, and resilient through strong engineering practices.
+* Drive engineering excellence through architecture reviews, code reviews, technical mentorship, and continuous improvement.
+* Optimise performance, scalability, reliability, and operational efficiency through automation and proactive improvements.
+* Leverage AI\\-assisted engineering practices and tools to improve engineering productivity, code quality, and delivery effectiveness.
+* Provide technical leadership across teams.
+
+
+**YOUR TALENT:**
+* 10\\+ years of experience designing and building large scale distributed backend systems on cloud\\-native platforms.
+* 3\\+ years of experience leading a technical capability, project or engineering team.
+* Hands\\-on experience building and operating recommendation systems, personalisation capabilities.
+* Strong understanding of production ML integration patterns, including model serving, inference, experimentation, feature access, observability, and operationalisation of ML capabilities.
+* Experience building model serving and inference integration layers for real\\-time and batch prediction workloads.
+* Experience integrating and operationalising LLM APIs and AI services within production applications.
+* Experience working with feature stores, vector databases, embedding based retrieval and modern ML architectures will be a strong advantage.
+* Experience with experimentation platforms, A/B testing, and data\\-driven optimisation of consumer experiences.
+* Expertise in backend engineering, API design, microservices, event\\-driven architectures, and scalable integration patterns using Java, Spring Boot and related frameworks.
+* Experience with Redis or equivalent caching systems.
+* Experience building event\\-driven systems using Kafka or equivalent technologies.
+* Experience with SQL and NoSQL databases, database architecture and distributed data management.
+* Strong understanding of data intensive systems, feature engineering concepts, and high throughput data processing patterns.
+* Experience with observability, reliability engineering and performance optimisation.
+* Proven ability to drive architectural decisions, influence technical direction and mentor engineers.
+* Experience using coding agents, LLMs or AI\\-assisted engineering tools to improve software delivery and developer productivity.
+* Experience in eCommerce, retail, or consumer digital products is strongly preferred.
+
+
+ PUMA provides equal opportunities for all job applicants, regardless of race, color, religion, national origin, sex, gender identity or expression, sexual orientation, age, or disability. Equality for all is one of the core principles at PUMA and we do not tolerate any form of harassment or discrimination.
+   
+
+  
+
+ At PUMA, every application is reviewed by real people who are committed to fairness, transparency, and equal opportunity \\- no matter your background, identity, or experience. To ensure our process stays true to these values, no automated systems or AI tools are used to make hiring decisions. Every decision is made by real people \\-with real judgment and accountability. We may use functions supported by Artificial Intelligence (AI) to carry out isolated organizational steps, such as scheduling interviews. These functions have no influence on decisions in the application process. We believe in creating spaces where everyone is welcome, celebrated, and empowered to contribute authentically. Because at PUMA, whoever wants to play, can play.
+   
+
+  
+
+ PUMA is a global sports brand creating footwear, apparel, and accessories that inspire athletes and everyday movers. The PUMA Group owns PUMA, Cobra Golf, and stichd, operates in 120\\+ countries, and has around 22,000 employees worldwide.","Retail","https://de.linkedin.com/company/puma","https://media.licdn.com/dms/image/v2/D4D0BAQF9L7VyTOemtg/company-logo_100_100/B4DZhBYeC1G8AQ-/0/1753443590714/puma_logo?e=2147483647&v=beta&t=PtEUhLI4opaQbF8O9-XdTFPpF4dcvbxBFo16F6hMiGY","","","","","","","","","","",""
+"li-4455341821","linkedin","https://www.linkedin.com/jobs/view/4455341821","","SDE III","SourcingXPress","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Company:** 
+ Governfy
+   
+
+  
+
+**Website:** 
+ Visit Website
+   
+
+  
+
+**Business Type:** 
+ Startup
+   
+
+  
+
+**Company Type:** 
+ Product
+   
+
+  
+
+**Business Model:** 
+ B2B
+   
+
+  
+
+**Funding Stage:** 
+ Pre\\-seed
+   
+
+  
+
+**Industry:** 
+ Fintech
+   
+
+  
+
+**Salary Range:** 
+ ₹ 15\\-25 Lacs PA
+   
+
+  
+
+**Job Description**
+**Senior Lead Backend Engineer / SDE III**
+**Tech Stack:** 
+ Python \\| Microsoft Azure \\| PostgreSQL / SQL
+   
+
+  
+
+**Position Summary**
+ We are looking for a Senior Lead Backend Engineer to own the backend architecture and development of a payments\\-focused Dispute Management Platform designed to manage disputes, chargebacks, prevention alerts, evidence, merchant risk, analytics, compliance monitoring, automation, and reporting. This is a hands\\-on technical leadership role. The ideal candidate can design the architecture, build production\\-quality Python services, establish the PostgreSQL data model, define API standards, implement Azure infrastructure patterns, and guide other engineers as the product moves from prototype to production. The engineer will work closely with Product, Payments, Risk, Compliance, Operations, Data, AI, and frontend engineering teams.
+   
+
+  
+
+**CORE TECHNOLOGY STACK**
+* Python
+* PostgreSQL / advanced SQL
+* Microsoft Azure
+* REST APIs
+* Event\\-driven and asynchronous processing
+* Docker / containerized services
+* Git and CI/CD
+* API integrations
+* Azure monitoring and observability
+
+
+ Experience with FastAPI, SQLAlchemy, Alembic, Azure Database for PostgreSQL, Azure Service Bus, Azure Functions, Azure Container Apps/App Service/AKS, Azure Blob Storage, Key Vault, Entra ID, Application Insights, and Azure Monitor is highly desirable.
+   
+
+  
+
+**Key Responsibilities**
+**Backend Architecture \\& Technical Leadership**
+* Own the overall backend architecture for the Dispute Management Platform.
+* Translate product requirements and the existing data\\-field dictionary into a scalable production data model.
+* Establish architectural standards for Python services, APIs, database access, asynchronous jobs, integrations, security, logging, testing, and deployment.
+* Make technical decisions around service boundaries, database design, queues, caching, background workers, file storage, and integration patterns.
+* Design the platform to support increasing numbers of merchants, disputes, transactions, alerts, users, and automated workflows.
+* Remain hands\\-on in development and contribute production code alongside the engineering team.
+* Conduct architecture and code reviews and mentor backend engineers.
+
+
+**Dispute \\& Case Management**
+* Design and build backend services for case creation and dispute intake, network reason codes, workflow transitions, assignment and queue management, evidence deadlines, SLA calculations, analyst flags, evidence scoring, predicted win probability, recommended actions, comments, mentions, activity, timeline events, notifications, case history, and auditability.
+* Ensure workflow transitions remain consistent, traceable, and transactionally safe.
+
+
+**Evidence Management**
+* Build services for evidence checklists, evidence status, metadata, secure attachment storage, upload and retrieval, automated attachment, reminders, evidence package generation, file compression, retention, exports, and audit requirements.
+* Design secure Azure\\-based document storage patterns while maintaining appropriate metadata and relationships in PostgreSQL.
+
+
+**PostgreSQL \\& Data Architecture**
+* Design normalized PostgreSQL schemas for disputes, merchants, users, alerts, evidence, comments, activities, rules, reports, notifications, compliance events, and related entities.
+* Define primary keys, foreign keys, constraints, indexes, transaction boundaries, and data\\-retention strategies.
+* Develop complex SQL queries for operational dashboards, reporting, analytics, compliance monitoring, and merchant\\-health calculations.
+* Optimize database performance through indexing, query analysis, partitioning, and appropriate data\\-model decisions.
+* Establish database migration and version\\-control processes and protect data integrity during concurrent case updates and automated workflows.
+* Design approaches for historical metrics and time\\-series data used by dashboards and forecasting.
+
+
+**API Development**
+* Design and implement secure, versioned REST APIs for the platform frontend and external consumers.
+* Establish standards for authentication, authorization, validation, pagination, filtering, sorting, searching, error handling, idempotency, rate limiting, and API versioning.
+* Produce and maintain OpenAPI/API documentation and support global search across cases, merchants, rules, reports, and other platform objects.
+
+
+**External Integrations**
+* Design a reusable integration framework for payment processors, dispute and prevention networks, card\\-network services, merchant processing systems, notification platforms, finance systems, data warehouses, and internal business systems.
+* Develop reliable webhook and API ingestion services with authentication, idempotency, retry handling, dead\\-letter handling, reconciliation, error recovery, monitoring, and audit trails.
+
+
+**Prevention Alerts \\& Automation**
+* Build services for alert ingestion, time\\-sensitive response windows, automatic refunds, declines, evidence requests, resolutions, escalations, duplicate\\-dispute identification, and fee\\-avoidance tracking.
+* Design a configurable rule\\-processing framework for deflection, representment, prevention, routing, merchant\\-specific and portfolio\\-level rules, review modes, guardrails, execution history, success rates, and financial impact.
+* Ensure automation is explainable and auditable.
+
+
+ Merchant Risk, Analytics \\& Compliance
+   
+
+  
+
+* Develop backend calculations and APIs for merchant health scores, chargeback ratios, processing volume, win rates, alert volume, historical trends, root\\-cause analysis, portfolio KPIs, recovery rates, fee exposure, compliance thresholds, network\\-program monitoring, forecasting, and compliance events.
+* Support configurable card\\-network monitoring concepts such as VAMP and ECM without hard\\-coding business rules that may change.
+
+
+**AI \\& Decision Support**
+* Partner with AI/data engineers to support evidence scoring, win\\-probability models, recommended dispute actions, AI\\-generated evidence packages, AI recommendations, confidence thresholds, explainability, human approval workflows, and AI audit history.
+* Ensure AI recommendations remain traceable to the case and underlying source data.
+
+
+**Security \\& Access Control**
+* Design backend controls for role\\-based access, MFA\\-compatible authentication, SSO, session controls, IP restrictions, secret management, data retention, card\\-data redaction, signed audit exports, audit logging, and API rate limiting.
+* Follow secure development practices appropriate for a payment\\-processing environment.
+
+
+**Azure Architecture \\& DevOps**
+* Design secure and scalable Azure deployment architecture and implement containerized or serverless Python workloads as appropriate.
+* Configure application secrets using Azure Key Vault and asynchronous processing using Azure\\-native messaging where appropriate.
+* Implement centralized logging, metrics, traces, and alerts; establish CI/CD pipelines and automated database migrations.
+* Support development, QA/UAT, and production environments with high availability, recovery, scalability, and supportability in mind.
+
+
+**Reporting \\& Background Processing**
+* Build backend services for scheduled and on\\-demand reports, CSV/XLSX/PDF data generation, recipients, schedules, execution history, operational and compliance exports, and large asynchronous data\\-processing jobs.
+
+
+**Required Qualifications**
+* 7\\+ years of professional software engineering experience.
+* 5\\+ years of backend development experience.
+* Strong production experience with Python.
+* Strong experience with PostgreSQL and SQL.
+* Strong Microsoft Azure experience.
+* Experience designing production REST APIs and relational database schemas.
+* Advanced knowledge of SQL optimization and indexing.
+* Experience building asynchronous/background\\-processing systems.
+* Experience building third\\-party API and webhook integrations.
+* Experience with authentication and role\\-based authorization.
+* Experience with Docker, CI/CD, observability, and secure software\\-development practices.
+* Demonstrated experience leading technical architecture and mentoring engineers.
+
+
+**Preferred Qualifications**
+* Experience with payment processing, acquiring, issuing, chargebacks, or disputes.
+* Fintech or financial\\-services experience.
+* Experience with card\\-network or processor integrations.
+* Experience with payment\\-risk or fraud systems.
+* Experience building rules or decision engines.
+* Experience with high\\-volume transactional systems.
+* Experience supporting audit or compliance\\-sensitive platforms.
+* Experience integrating AI/ML services into production applications.
+* Experience with PostgreSQL performance tuning at scale.
+
+
+**What Success Looks Like**
+ The Senior Lead Backend Engineer will transform the platform from a working product concept into a secure, scalable production backend capable of supporting dispute operations, prevention, compliance, analytics, automation, reporting, and future AI capabilities. This person will establish the technical foundation upon which the rest of the backend engineering team builds.","Technology, Information and Internet","https://in.linkedin.com/company/sourcingxpress","https://media.licdn.com/dms/image/v2/D560BAQH8p15unSQuNg/company-logo_100_100/company-logo_100_100/0/1726488435665/sourcingxpress_logo?e=2147483647&v=beta&t=iFtAwYhOzhMZtNarkze-r6fDB-RFk6LFqh98zidvhgo","","","","","","","","","","",""
+"li-4452280803","linkedin","https://www.linkedin.com/jobs/view/4452280803","","GenAI Developer - (NPW)","Milestone Technologies, Inc.","","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","**Company Overview**
+ Milestone Technologies is a global IT managed services firm that partners with organizations to scale their technology, infrastructure and services to drive specific business outcomes such as digital transformation, innovation, and operational agility. Milestone is focused on building an employee\\-first, performance\\-based culture and for over 25 years, we have a demonstrated history of supporting category\\-defining enterprise clients that are growing ahead of the market. The company specializes in providing solutions across Application Services and Consulting, Digital Product Engineering, Digital Workplace Services, Private Cloud Services, AI/Automation, and ServiceNow. Milestone culture is built to provide a collaborative, inclusive environment that supports employees and empowers them to reach their full potential.
+   
+
+  
+
+ Our seasoned professionals deliver services based on Milestone’s best practices and service delivery framework. By leveraging our vast knowledge base to execute initiatives, we deliver both short\\-term and long\\-term value to our clients and apply continuous service improvement to deliver transformational benefits to IT. With Intelligent Automation, Milestone helps businesses further accelerate their IT transformation. The result is a sharper focus on business objectives and a dramatic improvement in employee productivity. Through our key technology partnerships and our people\\-first approach, Milestone continues to deliver industry\\-leading innovation to our clients. With more than 3,000 employees serving over 200 companies worldwide, we are following our mission of revolutionizing the way IT is deployed.
+   
+
+  
+
+**Job Overview**
+**Role Summary**
+ A strong hands\\-on developer who executes the build alongside the senior engineer: implementing assistants, RAG pipelines, and integrations to specification and iterating quickly on feedback. Attends daily stand\\-ups on the US Central pattern and connects with US stakeholders as needed, while the senior engineer fronts the business relationship.
+   
+
+  
+
+**Key Responsibilities**
+* Develop and maintain LLM\\-powered assistants and supporting services on the client's platform components.
+* Implement RAG pipelines: document ingestion, pre\\-processing, embedding, index/vector\\-store creation, retrieval integration and testing.
+* Build integrations between assistants, ML model endpoints, data sources, and enterprise systems via APIs and connectors.
+* Support model\\-integration tasks under the senior engineer's direction, including evaluation harnesses and regression checks on assistant behaviour.
+* Participate in daily stand\\-ups and sprint ceremonies; deliver iteratively against a fast\\-changing, lightly documented backlog.
+
+
+**Must\\-Have Skills**
+* Solid Python engineering; REST API development and consumption; JSON/data wrangling; Git workflows.
+* Hands\\-on LLM app development: prompting, assistant configuration, function/tool calling, basic evaluation.
+* Practical RAG implementation experience with at least one vector database / embedding stack.
+* Working understanding of ML model concepts sufficient to integrate and test predictive models (does not require model\\-research depth).
+* Reliable US Central shift availability for stand\\-ups and intermittent stakeholder connects; collaborative, feedback\\-driven working style.
+
+
+**Good\\-to\\-Have**
+* Exposure to forecasting/analytics use cases; commercial or pharma domain familiarity.
+* Cloud services (AWS preferred), containerisation basics, CI/CD; automation/orchestration platform exposure (e.g., UiPath).
+
+
+**Compensation**
+ Estimated Pay Range:
+   
+
+  
+
+ Exact compensation and offers of employment are dependent on circumstances of each case and will be determined based on job\\-related knowledge, skills, experience, licenses or certifications, and location.
+   
+
+  
+
+****Our Commitment to Diversity \\& Inclusion****
+ At Milestone we strive to create a workplace that reflects the communities we serve and work with, where we all feel empowered to bring our full, authentic selves to work. We know creating a diverse and inclusive culture that champions equity and belonging is not only the right thing to do for our employees but is also critical to our continued success.
+   
+
+  
+
+ Milestone Technologies provides equal employment opportunity for all applicants and employees. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, gender, gender identity, marital status, age, disability, veteran status, sexual orientation, national origin, or any other category protected by applicable federal and state law, or local ordinance. Milestone also makes reasonable accommodations for disabled applicants and employees.
+   
+
+  
+
+ We welcome the unique background, culture, experiences, knowledge, innovation, self\\-expression and perspectives you can bring to our global community. Our recruitment team is looking forward to meeting you.
+   
+
+  
+
+  
+
+**\\*\\*\\*Notice to Job Seekers Regarding Impersonation and Fraudulent Job Offers\\*\\*\\***
+ It has come to our attention that unauthorized individuals and entities are impersonating Milestone Technologies, Inc. on various job boards/portals,
+ **specifically Naukri.com and Linkedin.com**
+**Please be advised of the following official Milestone Technologies recruitment policies:**
+**Official Communication Channels**
+ All legitimate email communications from our recruitment team will originate ONLY from the domains:
+ **@milestone.tech.** 
+ We do not use generic email services (e.g. @gmail.com, @yahoo.com, @outlook.com) or unofficial third party messaging apps to conduct formal business.
+   
+
+  
+
+**No Recruitment Fees**
+ Milestone Technologies never requests any form of payment, ""security deposit"", ""laptop/equipment fee"", or ""processing fee"" at any stage of the recruitment or onboarding process. Any request for money in exchange for an interview or job offer is a scam.","IT Services and IT Consulting","https://www.linkedin.com/company/milestone-technologies","https://media.licdn.com/dms/image/v2/D560BAQGlVSui-u1l_g/company-logo_100_100/company-logo_100_100/0/1702914712738/milestone_technologies_logo?e=2147483647&v=beta&t=DuwwgtUcqlc5DMyl3SaGw1tfPuCCan_kmcoFXMSU40I","","","","","","","","","","",""
+"li-4455340663","linkedin","https://www.linkedin.com/jobs/view/4455340663","","IN_Senior Associate_Microsoft Azure_Digital Integration_Advisory_Kolkata","PwC India","","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Line of Service**
+ Advisory
+   
+
+  
+
+
+**Industry/Sector**
+ Not Applicable
+   
+
+  
+
+
+**Specialism**
+ Microsoft
+   
+
+  
+
+
+**Management Level**
+ Senior Associate
+   
+
+  
+
+
+**Job Description \\& Summary**
+ At PwC, our people in business application consulting specialise in consulting services for a variety of business applications, helping clients optimise operational efficiency. These individuals analyse client needs, implement software solutions, and provide training and support for seamless integration and utilisation of business applications, enabling clients to achieve their strategic objectives.
+   
+
+  
+
+ As a business application consulting generalist at PwC, you will provide consulting services for a wide range of business applications. You will leverage a broad understanding of various software solutions to assist clients in optimising operational efficiency through analysis, implementation, training, and support.
+   
+
+  
+
+  
+
+**Why PWC**
+
+
+ At PwC, you will be part of a vibrant community of solvers that leads with trust and creates distinctive outcomes for our clients and communities. This purpose\\-led and values\\-driven work, powered by technology in an environment that drives innovation, will enable you to make a tangible impact in the real world. We reward your contributions, support your wellbeing, and offer inclusive benefits, flexibility
+ 
+
+ programmes
+ 
+
+ and mentorship that will help you thrive in work and life. Together, we grow, learn, care, collaborate, and create a future of infinite experiences for each other. Learn more
+ 
+
+
+
+ about us
+ 
+
+
+
+ .
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ At PwC, we believe in providing equal employment opportunities, without any discrimination on the grounds of gender, ethnic background, age, disability, marital status, sexual orientation, pregnancy, gender identity or expression, religion or other beliefs, perceived differences and status protected by law. We strive to create an environment where each one of our people can bring their true selves and contribute to their personal growth and the firm’s growth. To enable this, we have zero tolerance for any discrimination and harassment based on the above considerations.
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+**Job Summary\\-**
+
+  
+   
+
+  
+
+
+
+
+ We are looking for experienced
+ 
+
+ GEN AI
+ 
+
+ software developers with:
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*strong analytical and problem\\-solving abilities
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*ability to coordinate with multiple teams and ensure smooth coordination
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*experience with migrating legacy enterprise apps into microservice architecture along with data migration
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*ability to prioritize tasks and manage time effectively to meet deadlines
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*good verbal and written communication skills
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*ability to work collaboratively in a team setting
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+**Responsibilities:**
+
+
+ We are looking for a talented Microsoft full stack engineer development Specialist with a robust technical foundation to join our team. Experience: 3\\-7 years working Azure AI Services/ Azure Cognitive Services with a demonstrated track record of working with Azure App Development
+ 
+
+ leveragring
+ 
+
+ the Azure services and managing deployments using Azure Kubernetes Services(AKS). AI Frameworks/Services: Thorough understanding of
+ 
+
+ frameworks such as Lang\\-Chain, Semantic Kernel, Py\\-Torch, Scikit\\-learn, and cloud services like Azure Cognitive Services, including Azure Machine Learning and Azure Bot Services. Programming: Proficiency in TypeScript and C\\#, with experience in building applications using the Microsoft .NET framework and experience integrating AI solutions with Microsoft Teams and Microsoft Graph API. NLP Expertise: Experience working with Large Language Models (LLMs), Vectorization, Prompt engineering \\& Tuning, along with familiarity with Azure Text Analytics. Data Engineering: Strong understanding of data preprocessing, feature engineering, and proficiency in handling both structured and unstructured data, utilizing Azure Data Factory and Azure SQL Database. Cloud Technologies: Experience with Azure DevOps for CI/CD processes and version control, as well as familiarity with Azure Blob Storage for data storage solutions.
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+
+
+**Mandatory skill sets** 
+ : Microsoft Azure, Microsoft full stack engineer
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+
+
+**Preferred skill sets** 
+ : AI/ML Developer Deployment of AI models in Azure App Services / Azure Kubernetes Service (AKS).
+ 
+
+ /Gen AI 
+ 
+
+
+  
+   
+
+  
+
+
+**Years of experience
+ 
+
+ required
+ 
+
+ :**
+
+  
+   
+
+  
+
+
+ 3\\-6 Years
+   
+
+  
+
+  
+
+**Education qualification:**
+
+  
+   
+
+  
+
+
+ B.E. / B.Tech / MBA. All qualifications should be in regular full\\-time mode with no extension of course duration due to backlogs
+   
+
+  
+
+  
+
+  
+
+
+**Education**
+
+*(if blank, degree and/or field of study not specified)*
+
+ Degrees/Field of Study required: Bachelor of Technology
+   
+
+  
+
+ Degrees/Field of Study preferred:
+   
+
+  
+
+
+**Certifications**
+*(if blank, certifications not specified)*
+
+**Required Skills**
+ Microsoft Azure
+   
+
+  
+
+
+**Optional Skills**
+ Accepting Feedback, Accepting Feedback, Active Listening, Analytical Reasoning, Analytical Thinking, Application Software, Business Data Analytics, Business Management, Business Technology, Business Transformation, Communication, Creativity, Documentation Development, Embracing Change, Emotional Regulation, Empathy, Implementation Research, Implementation Support, Implementing Technology, Inclusion, Intellectual Curiosity, Learning Agility, Optimism, Performance Assessment, Performance Management Software {\\+ 16 more}
+   
+
+  
+
+
+**Desired Languages**
+*(If blank, desired languages not specified)*
+
+**Travel Requirements**
+
+**Available for Work Visa Sponsorship?**
+
+**Government Clearance Required?**
+
+**Job Posting End Date**
+ August 31, 2026","Business Consulting and Services","https://in.linkedin.com/company/pwc-india","https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0","","","","","","","","","","",""
+"li-4445997405","linkedin","https://www.linkedin.com/jobs/view/4445997405","","RPA Engineer , AR Automation","Amazon","Hyderabad, Telangana, India","","fulltime","","","","","",False,"not applicable","Information Technology, Consulting, and Engineering","","","**Description**
+ We are seeking an innovative Automation Engineer to join our Accounts Receivable Automation team at Amazon. In this role, you will leverage modern technologies including AI, Machine Learning, Large Language Models (LLMs), and traditional RPA tools to transform our financial operations.
+   
+
+  
+
+ Join our Finance Operations team to design and implement intelligent automation solutions that operate at Amazons unprecedented scale. You will work with diverse stakeholders to analyze existing processes, architect future\\-state solutions, and deliver high\\-impact automations that drive operational excellence.
+   
+
+  
+
+ Key job responsibilities
+   
+
+  
+
+**Responsibilities**
+* Design and develop automation solutions using AI, ML, LLMs, AWS services, and RPA tools like UiPath
+* Optimize and maintain existing automations, including SQL query optimization and database management
+* Partner with stakeholders to gather requirements, create technical specifications, and ensure solutions meet business objectives
+* Lead multiple concurrent automation projects from inception to deployment while meeting established timelines
+* Implement robust error handling, monitoring, and testing procedures to ensure automation reliability
+* Coordinate with cross\\-functional teams to integrate solutions across various financial systems and processes
+* Provide technical consultation on automation possibilities and maintain solution documentation
+* Stay current with emerging technologies and contribute to the teams automation strategy through knowledge sharing and best practices
+
+
+**Basic Qualifications**
+* UiPath Certified Professional Developer certification
+* \\- UiPath Certified Professional Developer certification
+* \\- Experience programming with at least one software programming language, or experience in developing and deploying LLMs in production on GPUs, or other AI acceleration hardware
+* \\- Hands\\-on experience with UiPath, Automation Anywhere, or Blue Prism.
+* \\- Experience in Python (for AI libraries) and/or C\\#/.NET (for RPA framework customization).
+* \\- Experienced in consuming RESTful APIs, JSON, XML, and SQL querying.
+
+
+**Preferred Qualifications**
+* \\- Experience developing, deploying and managing AI products at scale
+* \\- Experience in creating process improvements with automation and analysis, or experience working with large\\-scale data mining and reporting tools (i.e. SQL, MS Power Query, Python)
+* \\- Experience using data to drive root cause elimination and process improvement
+* \\- Integrate LLMs with private enterprise data sources (PDFs, databases, internal documents) using embeddings and vector search techniques to retrieve contextually relevant information and ground AI outputs in factual data.
+
+
+ Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+   
+
+  
+
+  
+
+**Company** 
+ \\- ADCI HYD 13 SEZ \\- H84
+   
+
+  
+
+ Job ID: A10484539","Software Development","https://www.linkedin.com/company/amazon","https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg","","","","","","","","","","",""
+"li-4452282834","linkedin","https://www.linkedin.com/jobs/view/4452282834","","Product Engineer","ZappHire","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"associate","Engineering and Information Technology","","","We are looking for a Product Engineer at multiple startups based in Bangalore.
+ 
+
+
+
+  
+
+
+
+
+
+**Who we're looking for** 
+
+
+
+* People who can ship AI agents
+* Can define \\& solve a problem on their own, have agency
+* High energy
+* upto 2\\-3 years work ex
+
+
+
+ We care what you have built. Not where you worked.
+ 
+
+
+
+  
+
+
+
+
+
+**Responsibility** 
+
+
+
+* Build
+ ***consumer AI agents***
+ for real\\-estate users
+* Own the agent end to end. Prompt, tools, memory, evals, the WhatsApp surface.
+* Talk to buyers and sellers. Read transcripts. Decide what to build next.
+
+
+
+  
+
+
+
+
+
+**What this job is not** 
+
+
+
+* No backlog, no product manager between you and the problem
+* No practice rounds. Everything ships to users spending a crore of their life savings","Technology, Information and Media, Software Development, and Artificial Intelligence","https://in.linkedin.com/company/zapphire","https://media.licdn.com/dms/image/v2/D560BAQEy6e0iba7nNA/company-logo_100_100/B56ZiL15C0HUAc-/0/1754692817500/zapphire_logo?e=2147483647&v=beta&t=qR-W32ZBP81A4-7Q4kkIq8WRzn3tuTsAiEuNoojffjg","","","","","","","","","","",""
+"li-4455341655","linkedin","https://www.linkedin.com/jobs/view/4455341655","","IN_Associate_Full Stack_Business Transformation_AppTech_Advisory_Delhi","PwC India","New Delhi, Delhi, India","","fulltime","","","","","",False,"associate","Other","","","**Line of Service**
+ Advisory
+   
+
+  
+
+
+**Industry/Sector**
+ Not Applicable
+   
+
+  
+
+
+**Specialism**
+ Operations
+   
+
+  
+
+
+**Management Level**
+ Associate
+   
+
+  
+
+
+**Job Description \\& Summary**
+ At PwC, our people in business application consulting specialise in consulting services for a variety of business applications, helping clients optimise operational efficiency. These individuals analyse client needs, implement software solutions, and provide training and support for seamless integration and utilisation of business applications, enabling clients to achieve their strategic objectives.
+   
+
+  
+
+ As a business application consulting generalist at PwC, you will provide consulting services for a wide range of business applications. You will leverage a broad understanding of various software solutions to assist clients in optimising operational efficiency through analysis, implementation, training, and support.
+   
+
+  
+
+  
+
+
+ \\*Why PWC
+   
+
+  
+
+
+
+ At PwC, you will be part of a vibrant community of solvers that leads with trust and creates distinctive outcomes for our clients and communities. This purpose\\-led and values\\-driven work, powered by technology in an environment that drives innovation, will enable you to make a tangible impact in the real world. We reward your contributions, support your wellbeing, and offer inclusive benefits, flexibility programmes and mentorship that will help you thrive in work and life. Together, we grow, learn, care, collaborate, and create a future of infinite experiences for each other. Learn more
+ 
+  
+ 
+
+
+
+ about us
+ 
+
+
+ .
+   
+
+  
+
+
+ At PwC, we believe in providing equal employment opportunities, without any discrimination on the grounds of gender, ethnic background, age, disability, marital status, sexual orientation, pregnancy, gender identity or expression, religion or other beliefs, perceived differences and status protected by law. We strive to create an environment where each one of our people can bring their true selves and contribute to their personal growth and the firm’s growth. To enable this, we have zero tolerance for any discrimination and harassment based on the above considerations. ""
+   
+
+  
+
+**Job Description \\& Summary:**
+
+  
+   
+
+  
+
+
+
+
+ In this role, you will work closely with software developers, system administrators, and other IT professionals to streamline workflows, enhance operational efficiency, and improve the overall deployment process. Your responsibilities will include managing cloud services, configuring and monitoring infrastructure, and implementing automation tools to support our software development lifecycle.
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+**Responsibilities:**
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+
+
+ Design, develop, and maintain cross\\-platform mobile applications using \\*\\*React Native\\*\\* and \\*\\*Flutter\\*\\*.
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Handle \\*\\*end\\-to\\-end implementation\\*\\* of mobile app projects, from requirement understanding to deployment.
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Ensure \\*\\*app stability, performance, and scalability\\*\\* across iOS and Android platforms.
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Collaborate with cross\\-functional teams (UI/UX, Backend, QA, PM) to deliver seamless user experiences.
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Contribute to \\*\\*ongoing and new mobile initiatives\\*\\*, ensuring timely delivery of milestones.
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Troubleshoot, debug, and optimize existing applications.
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Integrate APIs, third\\-party libraries, and native modules as required.
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Stay updated with the latest mobile development trends and quickly adapt to new technologies.
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+**Mandatory skill sets:**
+
+  
+   
+
+  
+
+
+
+  
+   
+
+
+* Strong proficiency in \\*\\*React Native\\*\\* and \\*\\*Flutter\\*\\*.
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Solid understanding of \\*\\*mobile app architecture, state management, and lifecycle\\*\\*.
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Experience with \\*\\*REST APIs, third\\-party integrations, and native bridging\\*\\*.
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Familiarity with \\*\\*iOS and Android deployment processes\\*\\* (App Store / Play Store).
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Good knowledge of \\*\\*Git, CI/CD pipelines, and Agile methodologies\\*\\*.
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Ability to debug, optimize, and stabilize existing applications.
+
+
+**Preferred skill sets:**
+
+  
+   
+
+  
+
+
+
+
+ \\- \\*\\*Fast learner\\*\\* – ability to upskill on new technologies quickly.
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Strong \\*\\*analytical and problem\\-solving skills\\*\\* with quick understanding of project flow.
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Proven track record of \\*\\*end\\-to\\-end project delivery\\*\\*.
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Self\\-driven, with the ability to work independently and as part of a team.
+ 
+
+
+
+  
+   
+
+
+
+
+
+ \\- Strong communication and collaboration skills.
+ 
+
+
+  
+   
+
+  
+
+
+**Years of experience required:**
+
+  
+   
+
+  
+
+
+
+
+ 2Years\\-3years 
+ 
+
+
+  
+   
+
+  
+
+
+**Education qualification:**
+
+  
+   
+
+
+* BE/B.TECH/MCA or equivalent
+
+
+
+  
+   
+
+  
+
+  
+
+  
+
+
+
+**Education**
+
+*(if blank, degree and/or field of study not specified)*
+
+ Degrees/Field of Study required: Bachelor of Engineering, Master of Engineering
+   
+
+  
+
+ Degrees/Field of Study preferred:
+   
+
+  
+
+
+**Certifications**
+*(if blank, certifications not specified)*
+
+**Required Skills**
+ Business Transformation
+   
+
+  
+
+
+**Optional Skills**
+ Accepting Feedback, Accepting Feedback, Active Listening, Analytical Reasoning, Application Software, Business Data Analytics, Business Management, Business Technology, Business Transformation, Communication, Documentation Development, Emotional Regulation, Empathy, Implementation Research, Implementation Support, Implementing Technology, Inclusion, Intellectual Curiosity, Optimism, Performance Assessment, Performance Management Software, Problem Solving, Product Management, Product Operations, Project Delivery {\\+ 11 more}
+   
+
+  
+
+
+**Desired Languages**
+*(If blank, desired languages not specified)*
+
+**Travel Requirements**
+ Not Specified
+   
+
+  
+
+
+**Available for Work Visa Sponsorship?**
+ No
+   
+
+  
+
+
+**Government Clearance Required?**
+ No
+   
+
+  
+
+
+**Job Posting End Date**
+ December 12, 2025","Business Consulting and Services","https://in.linkedin.com/company/pwc-india","https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0","","","","","","","","","","",""
+"li-4445631161","linkedin","https://www.linkedin.com/jobs/view/4445631161","","Sr Software Development Engineer, Selection Monitoring","Amazon","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Information Technology, Consulting, and Engineering","","","**Description**
+ Amazon’s Selection Monitoring team is responsible for making the biggest catalog on the planet even bigger. Our systems process billions of products from millions of sources to algorithmically find products not already sold on Amazon and programmatically add them to the Amazon catalog. We apply parallel processing, AI/GenAI, machine learning and deep learning algorithms to evaluate products and brands in order to identify and prioritize products and brands to be added to Amazon’s catalog. The datasets produced by our team are used by teams across Amazon to improve: product information, search and discoverability, pricing, and delivery experience. Our work involves building state\\-of\\-the\\-art Information Retrieval (IR) systems to mine the web and automatically create structured entities from un\\-structure/semi\\-structured data. We constantly stretch the boundaries of large scale distributed systems, Elastic Computing, Big Data, Artificial intelligence and SOA technologies to tackle challenges at Amazon’s global scale.
+   
+
+  
+
+ Come join us in our journey to make everything – and yes, we do mean \\*everything\\* – that anyone wants to buy, available on Amazon!
+   
+
+  
+
+ We are looking for SDEs with good technical knowledge, established background in engineering large scale software systems, and passion for solving challenging problems. The role demands a high\\-performing and flexible candidate who can take responsibility for success of the system and drive solutions from design to coding, testing, and deployment, to achieve results in a fast paced environment.
+   
+
+  
+
+ The Sr. SDE on this team will be playing a key role in solving complex problems and building innovative solutions to drive comprehensive selection on Amazon platform. Candidate needs to have a high sense of ownership, ability to develop end to end solutions and improve customer experience. This role would expose you to solving problems of scale in the areas of distributed systems of cloud\\-scale, large scale data processing, Agentic AI.
+   
+
+  
+
+ Key job responsibilities
+   
+
+  
+
+ As a member of the team, in this role, you will:
+   
+
+  
+
+ Work with Org leadership, Principal Engineers to define and drive the technical and architectural vision of Selection Monitoring’s mission\\-critical data acquisition systems.
+   
+
+  
+
+ Lead the design and development of integrations with other internal systems and 3rd Party solutions for web\\-content fetching at scale.
+   
+
+  
+
+ Lead the design and development of solutions for efficient storage and vending of products and related information.
+   
+
+  
+
+ Design and development Agentic AI solutions for automating complex web interactions, issue triaging, and recoveries.
+   
+
+  
+
+ Lead and mentor engineers, and drive best practices using AI driven SDLC around design, coding, testability, and security.
+   
+
+  
+
+**Basic Qualifications**
+* 7\\+ years of non\\-internship professional software development experience
+* 7\\+ years of programming with at least one software programming language experience
+* 5\\+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Experience as a mentor, tech lead or leading an engineering team
+* Bachelor's degree in computer science or equivalent
+
+
+**Preferred Qualifications**
+* 5\\+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+
+
+ Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how\\-we\\-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+   
+
+  
+
+  
+
+**Company** 
+ \\- ADCI \\- Karnataka
+   
+
+  
+
+ Job ID: A10484132","Software Development","https://www.linkedin.com/company/amazon","https://media.licdn.com/dms/image/v2/D560BAQGDLy4STCnHbg/company-logo_100_100/B56ZnZxDipI0AQ-/0/1760295142304/amazon_logo?e=2147483647&v=beta&t=qIUP7OofXIuuuVACb5ToeWH9PHXrPYsS8jsTZ3Q0sUg","","","","","","","","","","",""
+"li-4455364301","linkedin","https://www.linkedin.com/jobs/view/4455364301","","Coldfusion Developer","Pantar Solutions Inc","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**ColdFusion Developer** 
+
+
+
+
+  
+
+
+
+
+
+ 📍
+ **Location:** 
+ Bengaluru, India
+ 
+
+
+
+ 🏢
+ **Work Mode:** 
+ Work From Office (WFO)
+ 
+
+
+
+  
+
+
+
+
+
+ Our client is seeking an experienced
+ **ColdFusion Developer** 
+ to support the development, maintenance, and enhancement of enterprise web applications. This role is ideal for professionals with strong ColdFusion expertise and a passion for building scalable, high\\-quality solutions.
+ 
+
+
+
+  
+
+
+
+
+
+**Key Responsibilities** 
+
+
+
+* Develop and maintain web applications using
+ **Adobe ColdFusion** 
+ ,
+ **SQL Server** 
+ ,
+ **HTML** 
+ ,
+ **JavaScript** 
+ ,
+ **CSS** 
+ , and
+ **AJAX** 
+ . Experience with
+ **XML** 
+ is an advantage.
+* Support, troubleshoot, and optimize applications hosted on a SaaS platform.
+* Analyze and implement application enhancements, updates, and feature requests.
+* Identify opportunities to improve application performance, scalability, and maintainability.
+* Collaborate with project leads to estimate effort, plan development activities, and meet project milestones.
+* Perform software testing, quality assurance, deployment support, and post\\-release monitoring.
+* Evaluate customer and business\\-driven change requests for technical feasibility and implementation effort.
+* Work closely with cross\\-functional teams to ensure timely and successful project delivery.
+
+
+
+  
+
+
+
+
+
+**Required Skills** 
+
+
+
+* Hands\\-on experience with
+ **Adobe ColdFusion** 
+ development.
+* Strong knowledge of
+ **SQL Server** 
+ ,
+ **HTML** 
+ ,
+ **JavaScript** 
+ , and
+ **CSS** 
+ .
+* Experience with
+ **AJAX** 
+ and modern web application development practices.
+* Understanding of
+ **networking concepts** 
+ and server\\-side technologies.
+* Strong troubleshooting, debugging, and problem\\-solving skills.
+* Experience in application testing, deployment, and production support.
+* Excellent communication and teamwork abilities.
+
+
+
+  
+
+
+
+
+
+**Preferred Qualifications** 
+
+
+
+* Experience with
+ **XML** 
+ and related web technologies.
+* Exposure to SaaS\\-based applications and environments.
+* Knowledge of application scalability and performance optimization techniques.","IT Services and IT Consulting","https://www.linkedin.com/company/pantar-solutions-inc","https://media.licdn.com/dms/image/v2/C4E0BAQEyuAAruzul4Q/company-logo_100_100/company-logo_100_100/0/1631344851992?e=2147483647&v=beta&t=q9NV_JTQussdYzCg0t9CduWz0IsQv6QOS-_K8X70Jmc","","","","","","","","","","",""
+"li-4454415024","linkedin","https://www.linkedin.com/jobs/view/4454415024","","RPA Developer (Automation Anywhere)","Neotechie","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**RPA Developer – Automation Anywhere** 
+
+  
+
+
+
+
+
+**Company:** 
+ Neotechie
+ 
+
+
+
+**Industry:** 
+ IT Services and IT Consulting
+ 
+
+
+
+**Employment Type:** 
+ Full\\-Time
+ 
+
+
+
+**Location:** 
+ Noida – Hybrid
+ 
+
+
+
+**Experience:** 
+ 3\\+ Years
+ 
+
+
+
+**Work Model:** 
+ Hybrid with flexible working hours aligned to project/client requirements
+ 
+
+
+
+  
+
+
+
+
+**About the Role** 
+
+ Neotechie is looking for an experienced
+ **RPA Developer** 
+ with strong hands\\-on expertise in
+ **Automation Anywhere 360** 
+ to join our automation team.
+ 
+
+
+
+ The ideal candidate will have experience across
+ **Task Bots, Agentic Process Automation (APA), and Document Automation** 
+ , with a strong preference for candidates who have worked on
+ **Healthcare domain** 
+ processes.
+ 
+
+
+
+ The role involves end\\-to\\-end automation delivery, including requirements analysis, solution design, development, testing, deployment, production support, and continuous improvement. The candidate will work closely with business stakeholders, SMEs, project managers, and other developers to deliver scalable, reliable, and efficient automation solutions.
+ 
+
+
+
+  
+
+
+
+
+**Key Responsibilities** 
+
+ • Analyze business requirements and identify opportunities for RPA and intelligent automation.
+ 
+
+
+
+ • Design, develop, test, debug, deploy, and maintain automation solutions using
+ **Automation Anywhere 360** 
+ .
+ 
+
+
+
+ • Develop and maintain
+ **Task Bots, Document Automation solutions, and Agentic Process Automation workflows** 
+ .
+ 
+
+
+
+ • Manage the complete
+ **bot lifecycle** 
+ , from development through production deployment and support.
+ 
+
+
+
+ • Configure and manage bots through
+ **Automation Anywhere Control Room** 
+ .
+ 
+
+
+
+ • Implement robust exception handling, logging, error recovery, and troubleshooting mechanisms.
+ 
+
+
+
+ • Develop complex and dynamic automation logic to support business requirements.
+ 
+
+
+
+ • Integrate RPA solutions with databases, APIs, web applications, desktop applications, and third\\-party systems.
+ 
+
+
+
+ • Work with applications including
+ **Excel, Web, Desktop, Citrix, and Mainframe** 
+ environments.
+ 
+
+
+
+ • Test and debug bots to ensure functional accuracy, performance, reliability, and quality.
+ 
+
+
+
+ • Troubleshoot and resolve production issues and provide post\\-implementation support.
+ 
+
+
+
+ • Collaborate with developers, SMEs, project managers, and business stakeholders throughout the automation lifecycle.
+ 
+
+
+
+ • Prepare and maintain technical documentation, including
+ **AS\\-IS process documents, TO\\-BE designs, solution/design specifications, test plans, SOPs, and user manuals** 
+ .
+ 
+
+
+
+ • Follow RPA development best practices, design patterns, SDLC standards, and Agile methodologies.
+ 
+
+
+
+ • Continuously explore and adopt new capabilities and features within Automation Anywhere 360\\.
+ 
+
+
+
+  
+
+
+
+
+**Required Qualifications** 
+
+ • Bachelor’s degree in
+ **Computer Science, Information Technology, Engineering, or a related field** 
+ .
+ 
+
+
+
+ •
+ **3\\+ years of hands\\-on experience in RPA development** 
+ , preferably with Automation Anywhere.
+ 
+
+
+
+ • Strong experience with
+ **Automation Anywhere 360** 
+ and production bot development.
+ 
+
+
+
+ • Hands\\-on experience with
+ **RPA, Agentic Process Automation (APA), and Document Automation** 
+ .
+ 
+
+
+
+ • Experience in developing, deploying, maintaining, and supporting bots in production environments.
+ 
+
+
+
+ • Strong understanding of
+ **RPA concepts, workflows, exception handling, and bot lifecycle management** 
+ .
+ 
+
+
+
+ • Good understanding of
+ **SDLC, Agile methodologies, and version control systems such as Git** 
+ .
+ 
+
+
+
+ • Strong analytical, debugging, troubleshooting, and problem\\-solving skills.
+ 
+
+
+
+ • Ability to work independently as well as collaboratively in a team environment.
+ 
+
+
+
+  
+
+
+
+
+**Technical Skills** 
+
+ •
+ **Automation Anywhere 360** 
+
+
+
+
+ • Task Bots
+ 
+
+
+
+ • Control Room
+ 
+
+
+
+ • Document Automation
+ 
+
+
+
+ • Agentic Process Automation (APA)
+ 
+
+
+
+ • Bot lifecycle management
+ 
+
+
+
+ • Exception handling and logging
+ 
+
+
+
+ •
+ **Programming \\& Scripting** 
+
+
+
+
+ • Python
+ 
+
+
+
+ • VBScript
+ 
+
+
+
+ • Dynamic programming and logic
+ 
+
+
+
+ •
+ **Database \\& Integration** 
+
+
+
+
+ • SQL / Database concepts
+ 
+
+
+
+ • REST APIs and system integrations
+ 
+
+
+
+ • Third\\-party application integration
+ 
+
+
+
+ •
+ **Application Automation** 
+
+
+
+
+ • Microsoft Excel
+ 
+
+
+
+ • Web applications
+ 
+
+
+
+ • Desktop applications
+ 
+
+
+
+ • Citrix
+ 
+
+
+
+ • Mainframe applications
+ 
+
+
+
+ •
+ **Web Automation** 
+
+
+
+
+ • XPath
+ 
+
+
+
+ • Web element identification and data extraction
+ 
+
+
+
+ •
+ **Development Practices** 
+
+
+
+
+ • SDLC
+ 
+
+
+
+ • Agile methodology
+ 
+
+
+
+ • Git / version control
+ 
+
+
+
+ • RPA best practices and design patterns
+ 
+
+
+
+ • Technical documentation and SOP development
+ 
+
+
+
+  
+
+
+
+
+**Preferred Skills** 
+
+ • Experience working on
+ **Healthcare domain** 
+ processes.
+ 
+
+
+
+ • Hands\\-on experience with
+ **Automation Anywhere Document Automation** 
+ .
+ 
+
+
+
+ • Practical exposure to
+ **Agentic Process Automation / AI Skills** 
+
+
+
+
+ • Experience integrating RPA solutions with enterprise applications and external systems.
+ 
+
+
+
+ • Experience supporting large\\-scale production automation environments.
+ 
+
+
+
+  
+
+
+
+
+**What We’re Looking For** 
+
+ We are looking for someone who can take ownership of automation projects end\\-to\\-end, translate business requirements into scalable technical solutions, and proactively troubleshoot and improve existing automations.
+ 
+
+
+
+ Strong communication skills, attention to detail, a continuous\\-learning mindset, and the ability to collaborate effectively with both technical and business stakeholders are essential for this role.
+ 
+
+
+
+  
+
+
+
+
+**Working Model** 
+
+ •
+ **Location:** 
+ Noida
+ 
+
+
+
+ •
+ **Work Model:** 
+ Hybrid
+ 
+
+
+
+ •
+ **Employment:** 
+ Full\\-Time
+ 
+
+
+
+ •
+ **Working Hours:** 
+ Flexible, based on project and client requirements
+ 
+
+
+
+ •
+ **Compensation:** 
+ Competitive, based on skills and experience
+ 
+
+
+
+  
+
+
+
+
+**Join Neotechie** 
+
+ If you are passionate about
+ **RPA, intelligent automation, and emerging AI\\-driven automation technologies** 
+ , and want to work on enterprise\\-scale automation initiatives, we would love to hear from you.","IT Services and IT Consulting","https://www.linkedin.com/company/neotechie","https://media.licdn.com/dms/image/v2/D4E0BAQEfgqJ8T2wx_g/company-logo_100_100/company-logo_100_100/0/1683181751845?e=2147483647&v=beta&t=Y21FnlGN4oJfffM4dB-RRHBqn1WUM43_LibMfHMdfOE","","","","","","","","","","",""
+"li-4455361358","linkedin","https://www.linkedin.com/jobs/view/4455361358","","Sr. Lead Software Engineer","Capital One","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","RecruitingAccommodation@capitalone.com, Careers@capitalone.com","Voyager (94001\\), India, Bangalore, Karnātaka
+   
+
+  
+
+ Sr. Lead Software Engineer
+   
+
+  
+
+ Do you love building and pioneering in the technology space? Do you enjoy solving complex business problems in a fast\\-paced, collaborative, inclusive, and iterative delivery environment?
+   
+
+  
+
+ At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors, who solve real problems and meet real customer needs. We are seeking Sr Lead Software Engineer who are passionate about marrying data with emerging technologies. As a Capital One Software Engineering Manager, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
+   
+
+  
+
+**About The Team:**
+ The
+ **Card Tech\\+** 
+ organization at Capital One is the massive, diverse, and globally distributed technology engine that powers spending for customers across Upmarket, Mainstreet, Business, International, and Partnerships segments. With associates spread out globally, we build world\\-class technology focused on removing friction, unleashing speed, and driving efficiency to create outstanding customer experiences.
+   
+
+  
+
+ Our work is structured around five critical towers:
+   
+
+  
+
+* Digital Commerce \\& Innovation Tech modernizes customer spending on devices and online, focusing on payment innovation, fraud reduction, and platforms like Loyalty and Capital One Travel Tech.
+* Card Intelligent Decisions and Experiences (CIDX) creates real\\-time, intelligent customer experiences through platforms for Authorizations, Decisioning, and Machine Learning.
+* Core, Payments \\& Partnerships Tech transforms our foundational Core lending, Inbound Payments, and Partnerships platforms, including the Discover Integration Planning.
+* Servicing, Business, and International paves the way for business growth and global expansion while providing world\\-class customer servicing, fraud protection, and leveraging data and ML.
+* Encore drives modernization efforts for enhanced customer experiences through cutting edge tools and platforms.
+
+
+ We foster a culture designed to maximize Associate Potential, Growth \\& Impact, offering extensive development opportunities. If you are ready to shape the future of financial services at scale, Card Tech\\+ is where you belong
+   
+
+  
+
+**What You’ll Do:**
+* Collaborate with and across Agile teams to design, develop, test, implement, and support technical solutions in full\\-stack development tools and technologies.
+* Lead a portfolio of diverse technology projects and a team of developers with deep experience in distributed microservices, and full stack systems.
+* Share your passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal \\& external technology communities, mentoring other members of the engineering community.
+* Utilize various programming languages, Open Source technologies, Relational/NoSQL databases, Containers and a variety of AWS tools and services with a special focus on Serverless initiatives.
+* Implement software in unambiguous and uncomplicated domains with little to no support, while effectively combining standards and practices to implement more complex software.
+* Implement a new, fully featured local build and deployment pipeline, while identifying improvements and making enhancements to established deployment pipelines.
+* Troubleshooting the most complicated issues with local builds and deployment pipelines.
+* Familiarity with many modern application architecture and design patterns, with the ability to leverage them in moderately complex domains.
+* Teach others architecture and design patterns and how and when to apply them.
+* Debug moderately complex issues across backend, frontend, middleware, infrastructure, databases and pipelines across all environments from local to production and across distributed systems.
+* Quickly identify root cause, implement fix, and correct any affected data.
+* Develop features to enhance the overall user experience with little to no direction, knowing what non functionals to address and how.
+* Lead a team of engineers through development of features by providing technical direction or detailed instruction.
+
+
+**Basic Qualifications:**
+* Bachelor’s degree in Engineering or Computer Science.
+* At least 12 years of experience building back\\-end services (Including but not limited to: Java, Python, Go, Node, Scala, TypeScript, Spring Boot) (Internship experience does not apply).
+* At least 2 years of experience with a front\\-end language (Including but not limited to: JavaScript, TypeScript) (Internship experience does not apply).
+* At least 3 years of experience with a database technology (Including but not limited to: MySQL, PostgreSQL, MongoDB, Redis, Cassandra, DynamoDB) (Internship experience does not apply).
+* At least 2 years of experience with a UI framework (Including but not limited to: Angular, Vue, React) (Internship experience does not apply).
+* At least 4 years of experience designing, building, and testing distributed systems (Internship experience does not apply).
+* At least 3 years of experience in a technical leadership role overseeing strategic projects.
+
+
+**Preferred Qualifications:**
+* 4\\+ years experience in Agile or Kanban software development methodologies.
+* 4\\+ years of experience with a cloud computing provider (AWS, Microsoft Azure, Google Cloud).
+* 6\\+ years of experience implementing functional tests, unit tests, integrated tests or automated tests to support Continuous Integration Continuous Deployment.
+* 4\\+ years of experience with a server side application framework (Django, Express, Spring).
+* 6\\+ years of experience designing (HLD/LLD), building and delivering large scale systems.
+
+
+***At this time, Capital One will not sponsor a new applicant for employment authorization for this position.***
+ No agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non\\-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug\\-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23\\-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901\\-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+   
+
+  
+
+ If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1\\-800\\-304\\-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+   
+
+  
+
+ For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+   
+
+  
+
+ Capital One does not provide, endorse nor guarantee and is not liable for third\\-party products, services, educational tools or other information available through this site.
+   
+
+  
+
+ Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).","Financial Services","https://www.linkedin.com/company/capital-one","https://media.licdn.com/dms/image/v2/C560BAQF0OgQyRZ9yAA/company-logo_100_100/company-logo_100_100/0/1635782718446/capital_one_logo?e=2147483647&v=beta&t=3vOvEagCN6Oz8iNwzA1s1AyoVUy5mbl-0M0gQjeiKvs","","","","","","","","","","",""
+"li-4444888589","linkedin","https://www.linkedin.com/jobs/view/4444888589","","AWS Devops","Cognizant","Chennai, Tamil Nadu, India","","fulltime","","","","","",True,"mid-senior level","Management and Manufacturing","","","**Skill:** 
+ AWS Devops
+   
+
+  
+
+**Experience:** 
+ 6 to 9 years
+   
+
+  
+
+**Location: AIA Chennai**
+**Job Summary**
+ This hybrid role seeks an Architect with nine to thirteen years of experience specializing in AWS and Python to design scalable data platforms for a multinational organization. The Architect will define solution blueprints ensure performance and security of cloud data workloads and collaborate with cross functional teams to deliver resilient analytics capabilities that support critical business decisions and societal impact through responsible data use.
+   
+
+  
+
+**Responsibilities**
+* Design robust cloud data architectures using AWS EMR and Python that enable scalable processing of large data volumes and support high value analytics workloads for business stakeholders
+* Develop end to end data processing pipelines in AWS EMR using Python that transform raw data into trusted datasets and improve decision making for internal and external partners
+* Optimize cluster configuration resource allocation and job orchestration on AWS EMR to enhance performance reliability and cost efficiency for data intensive applications
+* Implement secure data access patterns encryption strategies and identity controls across AWS services so that company and customer data remains protected and compliant with internal policies
+* Collaborate closely with data engineers data scientists and product teams to translate analytical requirements into practical cloud solutions that are maintainable and future ready
+* Create detailed technical designs migration plans and integration patterns that guide teams in modernizing legacy data platforms into cloud native solutions on AWS
+* Establish coding standards reusable frameworks and automation practices for Python based data processing that reduce defects improve reusability and accelerate delivery cycles
+* Review solution implementations for alignment with architectural blueprints and provide clear technical guidance so that teams can correct deviations early and avoid rework
+* Introduce observability practices such as logging metrics and alerting across AWS EMR and related services to ensure rapid detection of incidents and proactive capacity planning
+* Partner with security and compliance colleagues to assess risks design mitigating controls and document architectures that support audits and regulatory commitments
+* Guide optimization of data storage models partitioning strategies and compression choices so that platforms deliver strong query performance and reduced cloud spend
+* Document architecture decisions data flow diagrams and operational runbooks that make solutions understandable maintainable and easier to onboard for new team members
+* Contribute to innovation initiatives by evaluating emerging AWS capabilities and Python libraries and proposing improvements that enhance sustainability efficiency and social impact of data solutions
+
+
+**Qualifications**
+* Possess nine to thirteen years of experience working in architecture or senior engineering roles with a strong focus on designing data platforms and distributed processing solutions
+* Demonstrate expert level proficiency in AWS EMR including setup tuning job scheduling and integration with services such as S3 Glue and data catalog solutions
+* Show strong experience in Python for data engineering including development of modular pipelines error handling testing patterns and use of common data processing libraries
+* Exhibit practical knowledge of cloud networking security concepts and identity controls on AWS to design architectures that protect sensitive data and enforce least privilege access
+* Bring experience in designing or supporting hybrid work environments and collaborating across time zones using remote friendly practices to keep teams aligned and productive
+* Display familiarity with modern data architectures such as data lakes and curated data layers with a focus on building reusable assets that can be shared across business domains
+* Apply sound understanding of software engineering fundamentals version control and continuous integration practices to ensure that data solutions remain robust and traceable
+* Communicate complex technical concepts clearly to non technical partners and document solutions in a structured manner that supports training and long term maintainability
+* Value inclusive collaboration continuous learning and ethical data use so that the solutions created advance both business goals and positive outcomes for society","IT Services and IT Consulting and Business Consulting and Services","https://www.linkedin.com/company/cognizant","https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_100_100/B4EZk_EfNgHgAU-/0/1757699778309/cognizant_logo?e=2147483647&v=beta&t=pEIgD9-D_EFoL3rsreK0H2EZEcsXWdZSN64-dV7VrSU","","","","","","","","","","",""
+"li-4455369006","linkedin","https://www.linkedin.com/jobs/view/4455369006","","IN_Senior Associate_Microsoft Azure_Digital Integration_Advisory_Kolkata","PwC India","","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Line of Service**
+ Advisory
+   
+
+  
+
+
+**Industry/Sector**
+ Not Applicable
+   
+
+  
+
+
+**Specialism**
+ Microsoft
+   
+
+  
+
+
+**Management Level**
+ Senior Associate
+   
+
+  
+
+
+**Job Description \\& Summary**
+ At PwC, our people in business application consulting specialise in consulting services for a variety of business applications, helping clients optimise operational efficiency. These individuals analyse client needs, implement software solutions, and provide training and support for seamless integration and utilisation of business applications, enabling clients to achieve their strategic objectives.
+   
+
+  
+
+ As a business application consulting generalist at PwC, you will provide consulting services for a wide range of business applications. You will leverage a broad understanding of various software solutions to assist clients in optimising operational efficiency through analysis, implementation, training, and support.
+   
+
+  
+
+  
+
+**Why PWC**
+
+
+ At PwC, you will be part of a vibrant community of solvers that leads with trust and creates distinctive outcomes for our clients and communities. This purpose\\-led and values\\-driven work, powered by technology in an environment that drives innovation, will enable you to make a tangible impact in the real world. We reward your contributions, support your wellbeing, and offer inclusive benefits, flexibility
+ 
+
+ programmes
+ 
+
+ and mentorship that will help you thrive in work and life. Together, we grow, learn, care, collaborate, and create a future of infinite experiences for each other. Learn more
+ 
+
+
+
+ about us
+ 
+
+
+
+ .
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ At PwC, we believe in providing equal employment opportunities, without any discrimination on the grounds of gender, ethnic background, age, disability, marital status, sexual orientation, pregnancy, gender identity or expression, religion or other beliefs, perceived differences and status protected by law. We strive to create an environment where each one of our people can bring their true selves and contribute to their personal growth and the firm’s growth. To enable this, we have zero tolerance for any discrimination and harassment based on the above considerations.
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+**Job Summary\\-**
+
+  
+   
+
+  
+
+
+
+
+ We are looking for experienced
+ 
+
+ GEN AI
+ 
+
+ software developers with:
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*strong analytical and problem\\-solving abilities
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*ability to coordinate with multiple teams and ensure smooth coordination
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*experience with migrating legacy enterprise apps into microservice architecture along with data migration
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*ability to prioritize tasks and manage time effectively to meet deadlines
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*good verbal and written communication skills
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*ability to work collaboratively in a team setting
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+**Responsibilities:**
+
+
+ We are looking for a talented Microsoft full stack engineer development Specialist with a robust technical foundation to join our team. Experience: 3\\-7 years working Azure AI Services/ Azure Cognitive Services with a demonstrated track record of working with Azure App Development
+ 
+
+ leveragring
+ 
+
+ the Azure services and managing deployments using Azure Kubernetes Services(AKS). AI Frameworks/Services: Thorough understanding of
+ 
+
+ frameworks such as Lang\\-Chain, Semantic Kernel, Py\\-Torch, Scikit\\-learn, and cloud services like Azure Cognitive Services, including Azure Machine Learning and Azure Bot Services. Programming: Proficiency in TypeScript and C\\#, with experience in building applications using the Microsoft .NET framework and experience integrating AI solutions with Microsoft Teams and Microsoft Graph API. NLP Expertise: Experience working with Large Language Models (LLMs), Vectorization, Prompt engineering \\& Tuning, along with familiarity with Azure Text Analytics. Data Engineering: Strong understanding of data preprocessing, feature engineering, and proficiency in handling both structured and unstructured data, utilizing Azure Data Factory and Azure SQL Database. Cloud Technologies: Experience with Azure DevOps for CI/CD processes and version control, as well as familiarity with Azure Blob Storage for data storage solutions.
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+
+
+**Mandatory skill sets** 
+ : Microsoft Azure, Microsoft full stack engineer
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+
+
+**Preferred skill sets** 
+ : AI/ML Developer Deployment of AI models in Azure App Services / Azure Kubernetes Service (AKS).
+ 
+
+ /Gen AI 
+ 
+
+
+  
+   
+
+  
+
+
+**Years of experience
+ 
+
+ required
+ 
+
+ :**
+
+  
+   
+
+  
+
+
+ 3\\-6 Years
+   
+
+  
+
+  
+
+**Education qualification:**
+
+  
+   
+
+  
+
+
+ B.E. / B.Tech / MBA. All qualifications should be in regular full\\-time mode with no extension of course duration due to backlogs
+   
+
+  
+
+  
+
+  
+
+
+**Education**
+
+*(if blank, degree and/or field of study not specified)*
+
+ Degrees/Field of Study required: Bachelor of Technology
+   
+
+  
+
+ Degrees/Field of Study preferred:
+   
+
+  
+
+
+**Certifications**
+*(if blank, certifications not specified)*
+
+**Required Skills**
+ Microsoft Azure
+   
+
+  
+
+
+**Optional Skills**
+ Accepting Feedback, Accepting Feedback, Active Listening, Analytical Reasoning, Analytical Thinking, Application Software, Business Data Analytics, Business Management, Business Technology, Business Transformation, Communication, Creativity, Documentation Development, Embracing Change, Emotional Regulation, Empathy, Implementation Research, Implementation Support, Implementing Technology, Inclusion, Intellectual Curiosity, Learning Agility, Optimism, Performance Assessment, Performance Management Software {\\+ 16 more}
+   
+
+  
+
+
+**Desired Languages**
+*(If blank, desired languages not specified)*
+
+**Travel Requirements**
+
+**Available for Work Visa Sponsorship?**
+
+**Government Clearance Required?**
+
+**Job Posting End Date**
+ August 31, 2026","Business Consulting and Services","https://in.linkedin.com/company/pwc-india","https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0","","","","","","","","","","",""
+"li-4455345590","linkedin","https://www.linkedin.com/jobs/view/4455345590","","IN_Senior Associate_Microsoft Azure_Digital Integration_Advisory_Kolkata","PwC India","","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Line of Service**
+ Advisory
+   
+
+  
+
+
+**Industry/Sector**
+ Not Applicable
+   
+
+  
+
+
+**Specialism**
+ Microsoft
+   
+
+  
+
+
+**Management Level**
+ Senior Associate
+   
+
+  
+
+
+**Job Description \\& Summary**
+ At PwC, our people in business application consulting specialise in consulting services for a variety of business applications, helping clients optimise operational efficiency. These individuals analyse client needs, implement software solutions, and provide training and support for seamless integration and utilisation of business applications, enabling clients to achieve their strategic objectives.
+   
+
+  
+
+ As a business application consulting generalist at PwC, you will provide consulting services for a wide range of business applications. You will leverage a broad understanding of various software solutions to assist clients in optimising operational efficiency through analysis, implementation, training, and support.
+   
+
+  
+
+  
+
+**Why PWC**
+
+
+ At PwC, you will be part of a vibrant community of solvers that leads with trust and creates distinctive outcomes for our clients and communities. This purpose\\-led and values\\-driven work, powered by technology in an environment that drives innovation, will enable you to make a tangible impact in the real world. We reward your contributions, support your wellbeing, and offer inclusive benefits, flexibility
+ 
+
+ programmes
+ 
+
+ and mentorship that will help you thrive in work and life. Together, we grow, learn, care, collaborate, and create a future of infinite experiences for each other. Learn more
+ 
+
+
+
+ about us
+ 
+
+
+
+ .
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ At PwC, we believe in providing equal employment opportunities, without any discrimination on the grounds of gender, ethnic background, age, disability, marital status, sexual orientation, pregnancy, gender identity or expression, religion or other beliefs, perceived differences and status protected by law. We strive to create an environment where each one of our people can bring their true selves and contribute to their personal growth and the firm’s growth. To enable this, we have zero tolerance for any discrimination and harassment based on the above considerations.
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+**Job Summary\\-**
+
+  
+   
+
+  
+
+
+
+
+ We are looking for experienced
+ 
+
+ GEN AI
+ 
+
+ software developers with:
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*strong analytical and problem\\-solving abilities
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*ability to coordinate with multiple teams and ensure smooth coordination
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*experience with migrating legacy enterprise apps into microservice architecture along with data migration
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*ability to prioritize tasks and manage time effectively to meet deadlines
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*good verbal and written communication skills
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*ability to work collaboratively in a team setting
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+**Responsibilities:**
+
+
+ We are looking for a talented Microsoft full stack engineer development Specialist with a robust technical foundation to join our team. Experience: 3\\-7 years working Azure AI Services/ Azure Cognitive Services with a demonstrated track record of working with Azure App Development
+ 
+
+ leveragring
+ 
+
+ the Azure services and managing deployments using Azure Kubernetes Services(AKS). AI Frameworks/Services: Thorough understanding of
+ 
+
+ frameworks such as Lang\\-Chain, Semantic Kernel, Py\\-Torch, Scikit\\-learn, and cloud services like Azure Cognitive Services, including Azure Machine Learning and Azure Bot Services. Programming: Proficiency in TypeScript and C\\#, with experience in building applications using the Microsoft .NET framework and experience integrating AI solutions with Microsoft Teams and Microsoft Graph API. NLP Expertise: Experience working with Large Language Models (LLMs), Vectorization, Prompt engineering \\& Tuning, along with familiarity with Azure Text Analytics. Data Engineering: Strong understanding of data preprocessing, feature engineering, and proficiency in handling both structured and unstructured data, utilizing Azure Data Factory and Azure SQL Database. Cloud Technologies: Experience with Azure DevOps for CI/CD processes and version control, as well as familiarity with Azure Blob Storage for data storage solutions.
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+
+
+**Mandatory skill sets** 
+ : Microsoft Azure, Microsoft full stack engineer
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+
+
+**Preferred skill sets** 
+ : AI/ML Developer Deployment of AI models in Azure App Services / Azure Kubernetes Service (AKS).
+ 
+
+ /Gen AI 
+ 
+
+
+  
+   
+
+  
+
+
+**Years of experience
+ 
+
+ required
+ 
+
+ :**
+
+  
+   
+
+  
+
+
+ 3\\-6 Years
+   
+
+  
+
+  
+
+**Education qualification:**
+
+  
+   
+
+  
+
+
+ B.E. / B.Tech / MBA. All qualifications should be in regular full\\-time mode with no extension of course duration due to backlogs
+   
+
+  
+
+  
+
+  
+
+
+**Education**
+
+*(if blank, degree and/or field of study not specified)*
+
+ Degrees/Field of Study required: Bachelor of Technology
+   
+
+  
+
+ Degrees/Field of Study preferred:
+   
+
+  
+
+
+**Certifications**
+*(if blank, certifications not specified)*
+
+**Required Skills**
+ Microsoft Azure
+   
+
+  
+
+
+**Optional Skills**
+ Accepting Feedback, Accepting Feedback, Active Listening, Analytical Reasoning, Analytical Thinking, Application Software, Business Data Analytics, Business Management, Business Technology, Business Transformation, Communication, Creativity, Documentation Development, Embracing Change, Emotional Regulation, Empathy, Implementation Research, Implementation Support, Implementing Technology, Inclusion, Intellectual Curiosity, Learning Agility, Optimism, Performance Assessment, Performance Management Software {\\+ 16 more}
+   
+
+  
+
+
+**Desired Languages**
+*(If blank, desired languages not specified)*
+
+**Travel Requirements**
+
+**Available for Work Visa Sponsorship?**
+
+**Government Clearance Required?**
+
+**Job Posting End Date**
+ August 31, 2026","Business Consulting and Services","https://in.linkedin.com/company/pwc-india","https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0","","","","","","","","","","",""
+"li-4455348977","linkedin","https://www.linkedin.com/jobs/view/4455348977","","IN_Senior Associate_Microsoft Azure_Digital Integration_Advisory_Kolkata","PwC India","","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Line of Service**
+ Advisory
+   
+
+  
+
+
+**Industry/Sector**
+ Not Applicable
+   
+
+  
+
+
+**Specialism**
+ Microsoft
+   
+
+  
+
+
+**Management Level**
+ Senior Associate
+   
+
+  
+
+
+**Job Description \\& Summary**
+ At PwC, our people in business application consulting specialise in consulting services for a variety of business applications, helping clients optimise operational efficiency. These individuals analyse client needs, implement software solutions, and provide training and support for seamless integration and utilisation of business applications, enabling clients to achieve their strategic objectives.
+   
+
+  
+
+ As a business application consulting generalist at PwC, you will provide consulting services for a wide range of business applications. You will leverage a broad understanding of various software solutions to assist clients in optimising operational efficiency through analysis, implementation, training, and support.
+   
+
+  
+
+  
+
+**Why PWC**
+
+
+ At PwC, you will be part of a vibrant community of solvers that leads with trust and creates distinctive outcomes for our clients and communities. This purpose\\-led and values\\-driven work, powered by technology in an environment that drives innovation, will enable you to make a tangible impact in the real world. We reward your contributions, support your wellbeing, and offer inclusive benefits, flexibility
+ 
+
+ programmes
+ 
+
+ and mentorship that will help you thrive in work and life. Together, we grow, learn, care, collaborate, and create a future of infinite experiences for each other. Learn more
+ 
+
+
+
+ about us
+ 
+
+
+
+ .
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ At PwC, we believe in providing equal employment opportunities, without any discrimination on the grounds of gender, ethnic background, age, disability, marital status, sexual orientation, pregnancy, gender identity or expression, religion or other beliefs, perceived differences and status protected by law. We strive to create an environment where each one of our people can bring their true selves and contribute to their personal growth and the firm’s growth. To enable this, we have zero tolerance for any discrimination and harassment based on the above considerations.
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+**Job Summary\\-**
+
+  
+   
+
+  
+
+
+
+
+ We are looking for experienced
+ 
+
+ GEN AI
+ 
+
+ software developers with:
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*strong analytical and problem\\-solving abilities
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*ability to coordinate with multiple teams and ensure smooth coordination
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*experience with migrating legacy enterprise apps into microservice architecture along with data migration
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*ability to prioritize tasks and manage time effectively to meet deadlines
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*good verbal and written communication skills
+ 
+
+
+  
+   
+
+  
+
+
+
+
+ \\*ability to work collaboratively in a team setting
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+**Responsibilities:**
+
+
+ We are looking for a talented Microsoft full stack engineer development Specialist with a robust technical foundation to join our team. Experience: 3\\-7 years working Azure AI Services/ Azure Cognitive Services with a demonstrated track record of working with Azure App Development
+ 
+
+ leveragring
+ 
+
+ the Azure services and managing deployments using Azure Kubernetes Services(AKS). AI Frameworks/Services: Thorough understanding of
+ 
+
+ frameworks such as Lang\\-Chain, Semantic Kernel, Py\\-Torch, Scikit\\-learn, and cloud services like Azure Cognitive Services, including Azure Machine Learning and Azure Bot Services. Programming: Proficiency in TypeScript and C\\#, with experience in building applications using the Microsoft .NET framework and experience integrating AI solutions with Microsoft Teams and Microsoft Graph API. NLP Expertise: Experience working with Large Language Models (LLMs), Vectorization, Prompt engineering \\& Tuning, along with familiarity with Azure Text Analytics. Data Engineering: Strong understanding of data preprocessing, feature engineering, and proficiency in handling both structured and unstructured data, utilizing Azure Data Factory and Azure SQL Database. Cloud Technologies: Experience with Azure DevOps for CI/CD processes and version control, as well as familiarity with Azure Blob Storage for data storage solutions.
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+
+
+**Mandatory skill sets** 
+ : Microsoft Azure, Microsoft full stack engineer
+ 
+
+
+  
+   
+
+  
+
+
+
+  
+   
+
+  
+
+
+
+
+**Preferred skill sets** 
+ : AI/ML Developer Deployment of AI models in Azure App Services / Azure Kubernetes Service (AKS).
+ 
+
+ /Gen AI 
+ 
+
+
+  
+   
+
+  
+
+
+**Years of experience
+ 
+
+ required
+ 
+
+ :**
+
+  
+   
+
+  
+
+
+ 3\\-6 Years
+   
+
+  
+
+  
+
+**Education qualification:**
+
+  
+   
+
+  
+
+
+ B.E. / B.Tech / MBA. All qualifications should be in regular full\\-time mode with no extension of course duration due to backlogs
+   
+
+  
+
+
+  
+   
+
+  
+
+  
+
+  
+
+
+
+**Education**
+
+*(if blank, degree and/or field of study not specified)*
+
+ Degrees/Field of Study required: Bachelor of Technology
+   
+
+  
+
+ Degrees/Field of Study preferred:
+   
+
+  
+
+
+**Certifications**
+*(if blank, certifications not specified)*
+
+**Required Skills**
+ Microsoft Azure
+   
+
+  
+
+
+**Optional Skills**
+ Accepting Feedback, Accepting Feedback, Active Listening, Analytical Reasoning, Analytical Thinking, Application Software, Business Data Analytics, Business Management, Business Technology, Business Transformation, Communication, Creativity, Documentation Development, Embracing Change, Emotional Regulation, Empathy, Implementation Research, Implementation Support, Implementing Technology, Inclusion, Intellectual Curiosity, Learning Agility, Optimism, Performance Assessment, Performance Management Software {\\+ 16 more}
+   
+
+  
+
+
+**Desired Languages**
+*(If blank, desired languages not specified)*
+
+**Travel Requirements**
+
+**Available for Work Visa Sponsorship?**
+
+**Government Clearance Required?**
+
+**Job Posting End Date**
+ August 31, 2026","Business Consulting and Services","https://in.linkedin.com/company/pwc-india","https://media.licdn.com/dms/image/v2/D4D0BAQHftNJPUMdOaw/company-logo_100_100/B4DZaB7vDpG8AQ-/0/1745936642766/pwc_india_logo?e=2147483647&v=beta&t=SojgDwrcTHoGClirqRNx4PWnrYfq0t7otcUpSeKV8z0","","","","","","","","","","",""
+"li-4454401957","linkedin","https://www.linkedin.com/jobs/view/4454401957","","Trading Technology & Quant Development Intern","Agora Circle","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"internship","Research, Analyst, and Information Technology","","","**About Agora Circle** 
+
+
+
+
+ Agora Circle is a modern learning and collaboration channel built with a mission to spark awareness and revolution within the retail trading community. Our goal is to become the ultimate one\\-stop destination for financial knowledge, empowering traders, investors, and enthusiasts with the insights, tools, and understanding they need to thrive in today’s markets.
+ 
+
+
+
+ We bring together educators, creators, and thought leaders to share ideas, insights, and inspiration through engaging conversations and creative storytelling. From market strategy deep\\-dives to thought\\-provoking discussions on finance, innovation, and personal growth, our content is designed to inform, inspire, and ignite curiosity.
+ 
+
+
+
+ We are looking for a Production Co\\-ordinator who can take charge of our end\\-to\\-end production process from engineering, conceptualization to final delivery and help shape Agora Circle’s visual and narrative identity across all platforms as we build this movement.
+ 
+
+
+
+  
+
+
+
+
+
+**About the Internship** 
+
+
+
+
+ We are looking for a
+ **Trading Technology \\& Quant Development Intern** 
+ to work closely with our technology and product teams.
+ 
+
+
+
+ This is a hands\\-on engineering role.
+ 
+
+
+
+ You will work on real components of Trading, particularly around:
+ 
+
+
+
+**Backtesting • Trading Dashboards • Market Data • Strategy Analytics • Trading Workflows • Data Processing** 
+
+
+
+
+ You will not simply be assigned isolated coding exercises.
+ 
+
+
+
+ You will get exposure to the actual engineering problems involved in building a modern trading technology platform.
+ 
+
+
+
+ This role is particularly suited for students or recent graduates who are interested in:
+ 
+
+
+* Software Engineering
+* Quantitative Finance
+* Algorithmic Trading
+* Financial Markets
+* Data Engineering
+* FinTech
+* Backtesting Systems
+* Trading Infrastructure
+
+
+
+  
+
+
+
+
+
+**What you'll Work on :** 
+
+
+
+
+**Backtesting Systems** 
+
+
+
+
+ Work with the team to build and improve components of the Hanulytics backtesting environment.
+ 
+
+
+
+ You may work on:
+ 
+
+
+* Historical market\\-data processing
+* Strategy execution logic
+* Backtest workflows
+* Performance calculations
+* Trade\\-level analysis
+* P\\&L calculations
+* Drawdowns and risk metrics
+* Strategy comparison
+* Parameter testing
+* Historical replay
+* Data validation and preprocessing
+
+
+
+ You will gain exposure to how trading strategies are tested against historical market data before being considered for live or forward testing.
+ 
+
+
+
+  
+
+
+
+
+
+**Trading Dashboard** 
+
+
+
+
+ Help build interactive dashboards that allow users to understand their strategies and portfolios.
+ 
+
+
+
+ This can include:
+ 
+
+
+* Strategy performance dashboards
+* P\\&L visualization
+* Trade analytics
+* Portfolio analytics
+* Risk metrics
+* Drawdown analysis
+* Equity curves
+* Market\\-data visualizations
+* Trading activity
+* Performance comparisons
+
+
+
+ You will work closely with frontend engineers and product teams to convert quantitative outputs into intuitive user experiences.
+ 
+
+
+
+  
+
+
+
+
+
+**Market Data** 
+
+
+
+
+ Work with financial\\-market datasets and learn how trading platforms handle structured and time\\-series data.
+ 
+
+
+
+ You may work with:
+ 
+
+
+* OHLCV data
+* Tick data
+* Options data
+* Instrument metadata
+* Historical market data
+* Real\\-time data feeds
+* Data normalization
+* Data validation
+* Time\\-series processing
+
+
+
+ Understanding how market data moves through a trading system will be an important part of the internship.
+ 
+
+
+
+  
+
+
+
+
+
+**Trading and Strategy Infrastructure** 
+
+
+
+
+ Get exposure to the technology behind algorithmic trading systems.
+ 
+
+
+
+ Depending on your skill level, you may contribute to:
+ 
+
+
+* Strategy execution workflows
+* Signal processing
+* Order and trade representations
+* Trading simulations
+* Risk\\-management logic
+* Broker/API integrations
+* Real\\-time data flows
+* WebSocket\\-based systems
+* Strategy configuration and management
+
+
+
+  
+
+
+
+
+
+**What You'll Do \\-** 
+
+
+
+* Develop and maintain trading and software components for Agora Circle Trading Desk.
+* Assist in developing backtesting and strategy\\-analysis functionality.
+* Build data\\-processing workflows for historical and real\\-time market data.
+* Support development of trading and portfolio dashboards.
+* Write scripts and utilities for financial\\-data analysis.
+* Test and validate trading calculations and system outputs.
+* Debug issues across data, backend and frontend systems.
+* Work with engineers to improve system performance and reliability.
+* Document technical workflows and processes.
+* Participate in product and engineering discussions.
+* Research new technologies and approaches relevant to trading systems.
+
+
+
+  
+
+
+
+
+
+**Who We're Looking for** 
+
+
+
+
+ We are particularly interested in Traders who are:
+ 
+
+
+* B.Tech / B.E. students
+* M.Tech students
+* Computer Science / IT students
+* Mathematics / Statistics students with strong programming skills
+* Engineering graduates
+* Students interested in quantitative finance and algorithmic trading
+
+
+
+  
+
+
+
+
+
+**0–2 years of experience** 
+ is acceptable.
+ 
+
+
+
+ What matters more than your resume is whether you can think logically, code well, learn quickly, and solve problems. You will be a good fit if you have built something outside your coursework.
+ 
+
+
+
+ Maybe you've:
+ 
+
+
+* Built a trading strategy.
+* Created a backtesting script.
+* Worked with stock\\-market APIs.
+* Built a trading dashboard.
+* Experimented with Python and financial data.
+* Created an algo\\-trading project.
+* Worked on a data\\-analysis project.
+* Built a small web application.
+* Participated in a hackathon.
+* Contributed to an open\\-source project.
+
+
+
+ Even if the project isn't production\\-grade, we want to see how you think.","Financial Services","https://in.linkedin.com/company/agoracircle","https://media.licdn.com/dms/image/v2/D560BAQF7EiWAmU9kmQ/company-logo_100_100/B56ZyLZIIfKsAU-/0/1771865146884/agoracircle_logo?e=2147483647&v=beta&t=B-KLgV4bKofpcN-TFDLE3UyoSNjhoClHEGauNuWaYDM","","","","","","","","","","",""
+"li-4454404897","linkedin","https://www.linkedin.com/jobs/view/4454404897","","Sr. Devops Engineer","Relanto","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Role: DevOps Engineer**
+**Top 3 Responsibilities**
+* Build out the Continuous Integration \\& Deployment (CI/CD) pipe for AI ML \\& Gen AI initiatives into cloud ecosystems.
+* Setup automation to monitor, troubleshoot and maintain the cloud infrastructures.
+* Closely collaborate with Architects to design \\& implementations deployment modules that balance infrastructure throughput and cost.
+
+
+**Top Mandatory Skills**
+* Strong Linux/Ubuntu and Scripting (Both Python and Bash scripting are mandatory)
+* Strong in \\- Docker Build, Compose and Docker Deployments.
+* Experienced with either GitLab CI/CD or Jenkins CI/CD
+* At least one Cloud Experience – AWS or Azure or Google
+* At least basic deployment experience using Kubernetes.","Technology, Information and Media","https://www.linkedin.com/company/relanto-inc","https://media.licdn.com/dms/image/v2/D560BAQFAtoNyGobn9w/company-logo_100_100/company-logo_100_100/0/1700706408043/relanto_inc_logo?e=2147483647&v=beta&t=c2eCnhUlcb2oPfI7bImSEAfw_iSTZALkc9rvlR9dalo","","","","","","","","","","",""
+"li-4454410172","linkedin","https://www.linkedin.com/jobs/view/4454410172","","Module Lead - SSIS Job","YASH Technologies","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","YASH Technologies is a leading technology integrator specializing in helping clients reimagine operating models, enhance competitiveness, optimize costs, foster exceptional stakeholder experiences, and drive business transformation.
+   
+
+  
+
+ At YASH, we’re a cluster of the brightest stars working with cutting\\-edge technologies. Our purpose is anchored in a single truth – bringing real positive changes in an increasingly virtual world and it drives us beyond generational gaps and disruptions of the future.
+   
+
+  
+
+**We are looking forward to hire SSIS Professionals in the following areas :**
+**Job Description**
+**Experience required:** 
+ 8\\+ years
+   
+
+  
+
+**Job Summary**
+**Required skills:**
+* 8\\+ years of hands\\-on SSIS experience, with at least 3 years in end\\-to\\-end solution design using SSIS.
+* Must have experience managing work through developers and provide technical expertise, while being hands\\-on in developing SSIS packages.
+* Must have experience in Business Intelligence development/Integration or with SQL server development.
+* Should have experience working with PL/SQL procedures and commands.
+* Should have strong experience in SQL Server.
+* Should have an excellent understanding of MS SQL Server \\& Data Warehousing architecture.
+* Should have a good understanding of business processes and functional programming.
+* Capable and willing to work single\\-handedly on implementing SSIS solutions.
+* Must have good oral and written communication skills to effectively interact with Application teams.
+
+
+**Good To Have Skills**
+* Development experience in Dot Net is a big plus.
+* Experience with APIs is a plus.
+* Experience in BI is a plus.
+* Know\\-how of working in an agile environment is a plus.
+
+
+ At YASH, you are empowered to create a career that will take you to where you want to go while working in an inclusive team environment. We leverage career\\-oriented skilling models and optimize our collective intelligence aided with technology for continuous learning, unlearning, and relearning at a rapid pace and scale.
+   
+
+  
+
+**Our Hyperlearning workplace is grounded upon four principles**
+* Flexible work arrangements, Free spirit, and emotional positivity
+* Agile self\\-determination, trust, transparency, and open collaboration
+* All Support needed for the realization of business goals,
+* Stable employment with a great atmosphere and ethical corporate culture","IT Services and IT Consulting","https://www.linkedin.com/company/yash-technologies","https://media.licdn.com/dms/image/v2/C560BAQHObN-z-Sg4XA/company-logo_100_100/company-logo_100_100/0/1630619164646/yash_technologies_logo?e=2147483647&v=beta&t=zlFI3yANcqA0BS5g5fT4Awbcj80u6Fdpp5XN341nhCQ","","","","","","","","","","",""
+"li-4442838162","linkedin","https://www.linkedin.com/jobs/view/4442838162","","AI Architect","Oracle","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Design, Art/Creative, and Information Technology","","_mb@oracle.com","**Job Description**
+**Qualifications \\& Experience**
+* 12–15 years of total experience, with 5\\+ years in Data Science or AI/ML Engineering roles.
+* Demonstrated experience leading end\\-to\\-end AI/ML solution design and production deployment.
+* Proven track record in Generative AI, LLMs, NLP, and AI agent development.
+* Expert in Python and familiar with modern ML/NLP frameworks: HuggingFace, LangChain, PyTorch, TensorFlow, etc.
+* Experience fine\\-tuning LLMs for domain\\-specific applications (e.g., Q\\&A systems, auto\\-documentation, predictive insights).
+* Hands\\-on experience building, scaling, and optimizing AI systems on OCI, with knowledge of hybrid/multi\\-cloud architectures.
+* Strong knowledge of machine learning algorithms, prompt engineering, vector databases, and RAG pipelines.
+* Familiar with MLOps, model governance, and CI/CD for ML workflows.
+* Strong communication and stakeholder management skills—able to bridge the gap between technical and executive teams.
+
+
+**Responsibilities**
+**Key Responsibilities**
+* Architect, build, and deploy production\\-grade AI/ML models with a strong focus on GenAI, LLMs, and intelligent agents.
+* Serve as a lead architect across multiple cross\\-functional teams delivering AI\\-enabled applications.
+* Design scalable, cloud\\-native AI solutions using Oracle Cloud Infrastructure (OCI) and other multi\\-cloud platforms.
+* Mentor teams on solution design, best practices, and delivery excellence for AI projects.
+* Guide enterprise\\-wide AI architecture strategy, ensuring alignment with data strategy, DevOps, and security best practices.
+* Engage with C\\-suite stakeholders to define AI priorities, value propositions, and roadmaps.
+* Lead solution estimation, technical governance, and program oversight.
+* Contribute to GTM initiatives, including customer\\-facing demos and proposal development.
+* Stay current with the latest advancements in GenAI, LLM optimization, AI agent architectures, and model integration strategies.
+* Publish internal whitepapers, present at leadership forums, and help grow the AI practice through coaching and community engagement.
+
+
+**Qualifications**
+ Career Level \\- N/A
+   
+
+  
+
+**About Us**
+ Only Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life\\-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.
+   
+
+  
+
+ True innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
+   
+
+  
+
+ We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation\\-request\\_mb@oracle.com or by calling 1\\-888\\-404\\-2494 in the United States.
+   
+
+  
+
+ Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.","IT Services and IT Consulting","https://www.linkedin.com/company/oracle","https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c","","","","","","","","","","",""
+"li-4454412429","linkedin","https://www.linkedin.com/jobs/view/4454412429","","Artificial Intelligence Intern","RytLoop","","","internship","","","","","",True,"internship","Information Technology, Other, and Engineering","","","Artificial Intelligence Intern
+ 
+
+
+
+**Company:** 
+ RytLoop
+ 
+
+
+
+**Location:** 
+ Remote
+ 
+
+
+
+**Duration:** 
+ Up to 6 months
+ 
+
+
+
+**Batch Start Date:** 
+ 20 August
+ 
+
+
+
+ About the Program
+ 
+
+
+
+ At RytLoop, we're doing things differently. This isn't a traditional job or a standard internship—it’s an open collaboration program designed for aspiring AI engineers and practitioners to gain hands\\-on, real\\-world experience. If you are self\\-taught, a student, or transitioning careers, this is a space for you to work on actual artificial intelligence challenges, build your portfolio, and learn by doing alongside our team.
+ 
+
+
+
+ What You’ll Do
+ 
+
+
+* **Develop \\& Integrate AI:** 
+ Help build and integrate smart solutions using state\\-of\\-the\\-art APIs (like OpenAI, Gemini, or Anthropic) or open\\-source models into real applications.
+* **Train \\& Fine\\-Tune Models:** 
+ Assist in processing datasets and fine\\-tuning machine learning, natural language processing (NLP), or computer vision models.
+* **Prompt Engineering:** 
+ Design, test, and systematically refine prompts to optimize the output, context retention, and reliability of Large Language Models (LLMs) for specific business tasks.
+* **Evaluate \\& Optimize:** 
+ Test AI model performance, troubleshoot edge cases, and analyze outputs to ensure accuracy, speed, and safety.
+
+
+
+ Who You Are
+ 
+
+
+* Passionate about artificial intelligence and eager to learn (no specific computer science degree required).
+* Solid grasp of Python and standard data manipulation libraries (such as Pandas or NumPy).
+* Familiar with foundational AI concepts, including machine learning algorithms, deep learning basics, or NLP.
+* **Bonus points:** 
+ If you have hands\\-on experience with frameworks like PyTorch or TensorFlow, tools like LangChain or Hugging Face, or have built an AI\\-powered project or chatbot before.
+* Curious, driven, and comfortable asking questions.
+
+
+
+ What You Get
+ 
+
+
+* **Remote \\& Flexible:** 
+ Contribute from anywhere, on a schedule that works for you.
+* **Real Portfolio Projects:** 
+ Leave with functional AI applications, custom\\-tuned models, or intelligent agents to show future employers, stepping beyond textbook theory.
+* **Direct Mentorship:** 
+ Get honest code reviews, architectural feedback, and guidance from our core engineering team.
+* **Proof of Impact:** 
+ A certificate of completion and a strong letter of recommendation for active contributors.
+
+
+
+**Application Deadline: 19th August.** 
+ Fill the form and join our WhatsApp community for the joining process.","E-Learning Providers, IT Services and IT Consulting, and IT System Training and Support","https://in.linkedin.com/company/rytloop","https://media.licdn.com/dms/image/v2/D560BAQGQosotq1Tjog/company-logo_100_100/B56Z9RaEj_IQAI-/0/1783777217206?e=2147483647&v=beta&t=piEsAWyP0mE2k9oq8limpb4khRHJfZVa_hsTGuCDp-4","","","","","","","","","","",""
+"li-4454420050","linkedin","https://www.linkedin.com/jobs/view/4454420050","","Python Developer Intern","Vortenza Systems","","","internship","","","","","",False,"internship","","","","About the Company
+ 
+
+
+
+ Vortenza Systems is dedicated to providing innovative IT solutions that empower businesses to thrive in the digital age. Our mission is to deliver high\\-quality technology solutions while fostering a culture of collaboration, creativity, and continuous improvement.
+ 
+
+
+
+  
+
+
+
+
+
+ About the Role
+ 
+
+
+
+ We are looking for a motivated
+ **Python Developer Intern** 
+ to join our development team. In this role, you will work on backend development, automation, and data\\-driven applications using Python. This internship offers hands\\-on experience in building real\\-world projects while working alongside experienced developers.
+ 
+
+
+
+  
+
+
+
+
+
+ Key Responsibilities
+ 
+
+
+* Write clean, efficient, and optimized Python code.
+* Develop backend services and automation scripts.
+* Work with Python frameworks such as Django or Flask.
+* Integrate third\\-party APIs and support system development.
+* Debug, test, and maintain existing applications.
+* Collaborate with the development team to build scalable solutions.
+
+
+
+ Qualifications
+ 
+
+
+* Currently pursuing or recently completed a degree in Computer Science, Information Technology, or a related field.
+* Strong understanding of Python fundamentals and Object\\-Oriented Programming (OOP).
+* Passion for software development and problem\\-solving.
+
+
+
+ Required Skills
+ 
+
+
+* Python
+* Object\\-Oriented Programming (OOP)
+* SQL (Basic)
+* REST APIs
+* Git/GitHub
+
+
+
+ Preferred Skills
+ 
+
+
+* Experience with Django or Flask.
+* Knowledge of database management.
+* Familiarity with backend architecture and deployment concepts.
+
+
+
+  
+
+
+
+
+
+ Stipend
+ 
+
+
+
+**Performance\\-based stipend of up to ₹7,500 per month.** 
+
+
+
+
+ Why Join Us?
+ 
+
+
+* Work on real\\-world development projects.
+* Receive mentorship from experienced developers.
+* Gain practical industry experience.
+* Build a strong portfolio to enhance your career opportunities.
+* Opportunity for a full\\-time role based on performance.
+
+
+
+  
+
+
+
+
+
+ Equal Opportunity Employer
+ 
+
+
+
+ Vortenza Systems is committed to creating a diverse and inclusive workplace. We are proud to be an equal opportunity employer and consider all qualified applicants without regard to protected characteristic.
+ 
+
+
+
+  
+
+
+
+
+
+ Apply Now
+ 
+
+
+
+ Kickstart your software development career with hands\\-on Python experience. Join Vortenza Systems and build solutions that make an impact while strengthening your technical skills and professional portfolio.","IT Services and IT Consulting, IT System Training and Support, and E-Learning Providers","https://www.linkedin.com/company/vortenza-systems","https://media.licdn.com/dms/image/v2/D560BAQHGpD9dxFNWXg/company-logo_100_100/B56aAG757yHoAI-/0/1786822762493?e=2147483647&v=beta&t=GBLUkNWw5oMbOj7jnzU5zzr2TWPRjgLHIkvOUEq-lbA","","","","","","","","","","",""
+"li-4454415068","linkedin","https://www.linkedin.com/jobs/view/4454415068","","DevOps Engineer","Provenir","Bengaluru, Karnataka, India","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","**Who We Are**
+ Provenir is the unified Decision Intelligence Platform that gives enterprises full control over end\\- to\\-end customer decisioning — to manage risk, drive growth, and transform business outcomes. By consolidating data, AI models, intelligence, agents and governance into a single decisioning environment, Provenir empowers business teams to configure and evolve strategy directly, while maintaining enterprise\\-grade reliability and regulatory compliance. Trusted by 120\\+ institutions in 60\\+ countries, Provenir processes over 4 billion decisions annually — turning architectural coherence into sustained risk performance and measurable value. Ready to solve meaningful challenges, work with enterprise customers, and help shape the future of AI\\-powered decisioning? Join us.
+   
+
+  
+
+ We're seeking a Senior DevOps Engineer to architect and evolve our next\\-generation cloud platform. In this role, you will move beyond standard automation to lead the technical vision for our infrastructure, driving developer velocity and system resilience through an AI\\-first operational mindset. You will act as a hands\\-on technical authority, bridging the gap between complex product requirements and robust GitOps\\-driven, AIOps\\-enabled operational design.
+   
+
+  
+
+**What You Will Do**
+* Architect \\& Innovate: Own the technical roadmap for our AWS ecosystem, transitioning from standard automation to a self\\-service, AIOps\\-driven platform model that empowers our engineering and QA teams using modern GitOps workflows.
+* Scale Kubernetes Operations: Direct the evolution of our EKS and K8s environments, focusing on advanced orchestration (ArgoCD), mTLS security, and intelligent scaling using tools like Cast.ai.
+* Modernize CI/CD: Manage and optimize a world\\-class delivery pipeline—transitioning from Jenkins toward cloud\\-native solutions like AWS CodeBuild and Step Functions—to ensure seamless, secure deployments across our entire data and software lifecycle.
+* Integrate AIOps \\& Agentic Tooling: Leverage AI\\-assisted development tools like Cursor and AIOps strategies to implement self\\-healing infrastructure, proactive anomaly detection, and autonomous pipeline optimizations.
+* Drive Data Infrastructure: Support large\\-scale data environments involving Kafka, Druid, and Athena, ensuring high availability and performance for complex data pipelines.
+* Strategic Collaboration: Partner with Solution Architecture, Product Management, and Engineering leadership to align infrastructure capabilities with business growth and product innovation.
+* Performance Engineering: Implement sophisticated observability and cost\\-optimization strategies using Grafana and CastAI to maintain a lean, high\\-performing cloud footprint.
+
+
+**Your Technical Arsenal**
+* Cloud \\& Orchestration: Expert\\-level AWS (VPC, Networking, ECR) and deep production experience with Kubernetes (EKS, K8s Ingress, mTLS) and ArgoCD.
+* Infrastructure as Code: Advanced proficiency in terraform and Ansible for maintaining immutable infrastructure.
+* Automation \\& CI/CD: Strong command of Python and Bash; experience with GitHub Actions, Jenkins, and AWS serverless automation (Lambda, Step Functions).
+* AI \\& Observability: Building proactive AIOps frameworks via Grafana and utilizing AI coding tools like Cursor to accelerate delivery.
+* Data \\& Middleware: Hands\\-on experience with RDS (Postgres), Kafka, and big data tools like Druid or Athena.
+* Security \\& Quality: Integration of SonarQube and CodeArtifact into the SDLC, with a focus on network security and identity management.
+
+
+**Qualifications**
+* Experience: 8–10\\+ years in DevOps/SRE roles, with a proven track record of managing highly agile, large\\-scale environments.
+* Modern Mindset: Familiarity with GitOps principles and a passion for applying AI/ML to operations to reduce noise and MTTR.
+* Education: Bachelor’s Degree in Computer Science, Engineering, or equivalent practical experience.
+* Technical Mentorship: Demonstrated ability to remove technical roadblocks, provide architectural guidance to peers, and foster a culture of innovation.
+* Communication: Ability to articulate complex technical concepts to both technical and non\\-technical stakeholders.
+
+
+ Our employees are our top priority; we offer comprehensive health and wellness plans. You will enjoy paid time off and company holidays, flexible and remote\\-friendly opportunities, and maternity/paternity leave.
+   
+
+  
+
+*At Provenir, we recognize that diversity and inclusion make our teams stronger. We are committed to equal employment opportunity and welcome everyone regardless of race, colour, ancestry, religion, national origin, age, sex, gender identity, sexual orientation, disability, marital status, domestic partner status, citizenship, or veteran status or medical condition. We encourage people from all backgrounds to apply.*","Software Development","https://www.linkedin.com/company/provenir-global","https://media.licdn.com/dms/image/v2/D4E0BAQHHPUZAfKnRtg/company-logo_100_100/company-logo_100_100/0/1708112570873/provenir_global_logo?e=2147483647&v=beta&t=2cn2d-5LA_icrwgfx0AHH04geeP6nANjv0IJ5smfm-s","","","","","","","","","","",""
+"li-4452296062","linkedin","https://www.linkedin.com/jobs/view/4452296062","","DevOps / MLOps Engineer | AI & Cloud Infrastructure","Soil Ecoculture","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"entry level","Management and Manufacturing","","","🚀 We’re hiring: DevOps / MLOps Engineer \\| Bangalore
+   
+
+  
+
+ At Soil Ecoculture, we’re building technology for environmental assets and intelligence.
+   
+
+  
+
+ As we scale our AI and technology stack, we’re looking for someone who can sit at the intersection of DevOps, MLOps and software engineering.
+   
+
+  
+
+ This is not a pure software development role.
+   
+
+  
+
+ We’re looking for someone who can take ownership of:
+   
+
+  
+
+ • Cloud infrastructure
+   
+
+ • CI/CD and deployment pipelines
+   
+
+ • Docker, Linux and production servers
+   
+
+ • Monitoring, backups and reliability
+   
+
+ • Security, secrets and access management
+   
+
+ • AI/ML workload deployment and integration
+   
+
+ • APIs, automation and production workflows
+   
+
+  
+
+ Good to have:
+   
+
+  
+
+ AWS / GCP / Azure / Cloudflare
+   
+
+ Docker \\+ GitHub Actions / GitLab CI
+   
+
+ Python / Bash
+   
+
+ LLM applications, RAG and vector databases
+   
+
+ Model inference APIs
+   
+
+ Kubernetes / Terraform / Ansible
+   
+
+  
+
+ The right person should be comfortable moving between code, cloud infrastructure and AI systems and figuring out how to make things actually work in production.
+   
+
+  
+
+ If you enjoy building systems, automating things, solving infrastructure problems and working close to AI, we’d love to hear from you.
+   
+
+  
+
+ 📍 Location: Bangalore
+   
+
+ 🌱 Soil Ecoculture: ""soilecoculture.com"" (https://reference\\-url\\-citation.invalid/0\\)
+   
+
+  
+
+ Know someone who would be a great fit? Tag them or share this post.
+   
+
+  
+
+ \\#Hiring \\#DevOps \\#MLOps \\#AI \\#MachineLearning \\#CloudComputing \\#SoftwareEngineering \\#Bangalore \\#ClimateTech \\#EnvironmentalTech \\#SoilEcoculture","Environmental Services","https://in.linkedin.com/company/soileco","https://media.licdn.com/dms/image/v2/D560BAQGsE6xKcdZVMw/company-logo_100_100/company-logo_100_100/0/1739124186683/soileco_logo?e=2147483647&v=beta&t=Yj4jzsFTSHBNEyxWruz2vx0sFkxoJ46u295uqXAhCG8","","","","","","","","","","",""
+"li-4454291960","linkedin","https://www.linkedin.com/jobs/view/4454291960","","Lead Solution Architect","Kenvue","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Kenvue Is Currently Recruiting For a**
+ Lead Solution Architect
+   
+
+  
+
+**What We Do**
+ At Kenvue, we realize the extraordinary power of everyday care. Built on over a century of heritage and rooted in science, we’re the house of iconic brands \\- including NEUTROGENA®, AVEENO®, TYLENOL®, LISTERINE®, JOHNSON’S® and BAND\\-AID® that you already know and love. Science is our passion; care is our talent.
+   
+
+  
+
+**Who We Are**
+ Our global team is \\~ 22,000 brilliant people with a workplace culture where every voice matters, and every contribution is appreciated. We are passionate about insights, innovation and committed to delivering the best products to our customers. With expertise and empathy, being a Kenvuer means having the power to impact millions of people every day. We put people first, care fiercely, earn trust with science and solve with courage – and have brilliant opportunities waiting for you! Join us in shaping our future–and yours. For more information, click here.
+   
+
+  
+
+**Role Reports To**
+ Senior Manager – Solution Architect
+   
+
+  
+
+**Location:**
+ Asia Pacific, India, Karnataka, Bangalore
+   
+
+  
+
+**Work Location:**
+ Hybrid
+   
+
+  
+
+**What You Will Do**
+ We are looking for a Solution Architect to bridge the gap between advanced Data Science and production\\-grade applications. You will be responsible for designing the end\\-to\\-end architecture for Agentic AI systems, Chatbots, and Voice\\-enabled solutions, ensuring they are seamlessly integrated into our application ecosystem. The ideal candidate understands that an AI solution is only as good as its integration, security, and scalability. You will define the infrastructure prerequisites, oversee API\\-driven microservices, and lead the alignment between Data Engineering and Application development teams.
+   
+
+  
+
+ Key Responsibilities
+   
+
+  
+
+* AI Integration Architecture: Design and implement architectures for integrating LLMs (Large Language Models), Agentic AI workflows, and specialized Data Science models into web and mobile applications.
+* Voice \\& NLP Solutions: Architect solutions involving Speech\\-to\\-Text (STT), Text\\-to\\-Speech (TTS), and Natural Language Understanding (NLU) for interactive user experiences.
+* Infrastructure Design: Define the infrastructure prerequisites (GPU/CPU requirements, Vector Databases like Pinecone/Weaviate, and Scalable Storage) needed to support AI workloads.
+* Microservices \\& APIs: Build and oversee API\\-first architectures to ensure modularity and high availability using REST, GraphQL.
+* AI/ML Integration: Hands\\-on experience with LangChain, AutoGPT, or CrewAI for building autonomous agents.
+* Data Security \\& Privacy: Implement robust security frameworks for AI, including PII masking, data encryption at rest/transit, and ensuring compliance with global data residency laws.
+* Cross\\-Functional Alignment: Act as the ""glue"" between Data Engineering (data pipelines/feature stores) and Application teams (frontend/backend) to ensure a cohesive end\\-to\\-end flow.
+* Technical Pre\\-requisites: Conduct feasibility studies and define technical requirements (latency thresholds, throughput, and token management) before project kickoff.
+
+
+**Technical Stack**
+* Expertise in one of the programming languages like .Net or python with React and Node JS, JavaScript
+* Hands\\-on experience with LangChain, AutoGPT, or CrewAI for building autonomous agents.
+* Cloud Platforms: Deep knowledge of Azure AI Services (OpenAI, Speech Service)
+* Hands\\-on experience in Azure for application/model deployment like azure app service, or AKS.
+* Strong understanding of CICD using Github action.
+
+
+**Preferred Qualifications**
+* Bachelor’s or Master’s degree in Computer Science, Data Science, or a related field.
+* 6\\+ years in a technical leadership or architectural role, with at least 2 years focused on AI/Data Science integration.
+* Azure Certification: AZ\\-305 (Solutions Architect Expert) or Microsoft Certified: Azure AI Engineer Associate or Microsoft Certified: Agentic AI Business Solutions Architect.
+* Soft Skills: Exceptional ability to translate complex technical jargon into business value for non\\-technical stakeholders.
+
+
+ If you are an individual with a disability, please check our Disability Assistance page for information on how to request an accommodation.","Personal Care Product Manufacturing","https://www.linkedin.com/company/kenvue","https://media.licdn.com/dms/image/v2/D4E0BAQHW9O0BorSSng/company-logo_100_100/company-logo_100_100/0/1693333629828/kenvue_logo?e=2147483647&v=beta&t=0TH4Jf_7WKCLq2IOI6-uT0nmhzGdyL6-J3ZjiQxd1fU","","","","","","","","","","",""
+"li-4453674365","linkedin","https://www.linkedin.com/jobs/view/4453674365","","Data Integration, ETL - Analyst","MUFG","","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Do you want your voice heard and your actions to count?**
+ Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long\\-term relationships, serving society, and fostering shared and sustainable growth for a better world.
+   
+
+  
+
+ With a vision to be the world’s most trusted financial group, it’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career.
+   
+
+  
+
+ Join MUFG, where being inspired is expected and making a meaningful impact is rewarded.
+   
+
+  
+
+**Job Title: ETL\\- Data Integration, Analyst**
+**Corporate Title: Analyst**
+**Experience:2\\-5 years**
+**Location\\- Bengaluru**
+**Key Responsibilities**
+* Demonstrate a strong interest in enterprise business data and processes—preferably across HR, Corporate Communications, Legal, Project Portfolio Management, and Compliance—by asking thoughtful questions to understand business needs and translating them into clear data and technology requirements.
+* Design, develop, and support ETL and data integration solutions in a production environment, including batch scheduling, monitoring, and incident response.
+* Perform data validation and reconciliation using SQL; analyze data quality issues and partner with upstream and downstream teams to resolve source‑to‑target discrepancies.
+* Create and maintain knowledge articles, operating standards, runbooks, and technical documentation to support ongoing operations, audits, and compliance reviews.
+* Translate technical and architectural concepts into clear, concise updates and materials for internal business and technology stakeholders.
+* Troubleshoot application, integration, and data issues; perform root‑cause analysis; and coordinate resolution with internal teams and external vendors.
+* Coordinate work across U.S.‑ and India‑based partners (such as service desk, engineering, and vendor support teams), tracking progress, risks, dependencies, and delivery milestones.
+* Support SaaS vendor evaluations and demonstrations by gathering requirements, documenting findings, and assisting with fit‑gap analysis across business needs, technology capabilities, security posture, and compliance requirements.
+* Assist with build‑versus‑buy analysis by documenting requirements and supporting proof‑of‑concept efforts to replace select vendor‑hosted (SaaS) capabilities with in‑house solutions, under guidance from senior engineers.
+* Contribute to internal data and workflow tools by writing and maintaining code, unit tests, and documentation using GitHub and GitHub Copilot, following established development patterns, peer‑review processes, and secure coding standards.
+* Support the responsible adoption of AI‑enabled solutions by documenting use cases, assisting with governance requirements, and helping evaluate opportunities to improve business and technology processes.
+* Assist in assessing AI capabilities within existing applications compared to enterprise‑provided Microsoft Copilot capabilities; document vendor security controls and guardrails, and escalate potential risks for appropriate review.
+
+
+**Required Skills \\& Experience**
+* Bachelor’s degree in Information Systems, Computer Science, or a related field, or equivalent professional experience.
+* 1–2 years of experience in the financial services industry (preferred).
+* Experience as an ETL Analyst with hands‑on exposure to ETL development, Python scripting, and relational databases.
+* Solid understanding of data warehousing and ETL concepts, including fact and dimension tables, star and snowflake schemas, full versus incremental loads, and Slowly Changing Dimensions (SCDs).
+* 1–2 years of hands‑on experience using SQL and relational databases for ETL development, data analysis, validation, and troubleshooting.
+* Proven exposure to data security principles, technology controls, and regulatory or compliance imperatives within a production environment.
+* Familiarity with Microsoft Copilot and prompt‑based AI capabilities; hands‑on experience is preferred.
+* Ability to create and interpret system interface specifications, data mappings, and end‑to‑end process designs.
+* Basic understanding of software architecture concepts, including APIs and services, data stores, authentication and authorization mechanisms, and logging and monitoring, and how these components interact within a production system.
+* Exposure to common application patterns such as RESTful APIs, authentication fundamentals, and SQL query patterns used by Java‑ and Python‑based services.
+* Familiarity with a modern product stack, including Java and/or Python for back‑end services and APIs, React for front‑end user interfaces, and SQL for data access; understanding the typical artifacts required to build and deploy internal products (source code, configuration, CI/CD pipelines, and automated tests).
+* Working knowledge of Git‑based version control systems (GitHub) and comfort using developer tools such as IDEs and command‑line interfaces; ability to use GitHub Copilot to assist with Java, Python, React, and SQL development while validating outputs through testing, peer review, and secure coding and compliance standards.
+* Strong analytical, problem‑solving, and decision‑making skills, with close attention to detail.
+* Strong verbal, written, and presentation skills, with the ability to communicate effectively with both technical and non‑technical audiences.
+
+
+ Mitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view our employees as our key assets as they are fundamental to our long\\-term growth and success. MUFG is committed to hiring based on merit and organsational fit, regardless of race, religion or gender.","Financial Services","https://jp.linkedin.com/company/mufg","https://media.licdn.com/dms/image/v2/D560BAQEyC1DyrmO5yA/company-logo_100_100/company-logo_100_100/0/1688117556427/mufg_logo?e=2147483647&v=beta&t=C-a3FJjn0IAnxtcloT1BTAV__Je45pcbBUDGhD9vi3I","","","","","","","","","","",""
+"li-4455375385","linkedin","https://www.linkedin.com/jobs/view/4455375385","","Silicon Firmware & Embedded Engineer","Accenture in India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Project Role :** 
+ Silicon Firmware \\& Embedded Engineer
+   
+
+  
+
+**Project Role Description :** 
+ Write the software that powers and operates a silicon chip. Develop pre\\-silicon firmware and software with a direct interface to hardware. Integrate and develop C tests/APIs and software build flow. Perform design and code reviews. Test and validate product implementations.
+   
+
+  
+
+**Must have skills :** 
+ Embedded C
+   
+
+  
+
+**Good to have skills :** 
+ Embedded C\\+\\+, Python (Programming Language)
+   
+
+  
+
+**Minimum 3 Year(s) Of Experience Is Required**
+**Educational Qualification :** 
+ 15 years full time education
+   
+
+  
+
+ Summary:
+   
+
+  
+
+ Proficient in Embedded C, C\\+\\+. Good to have Python / Scripting Knowledge Good Knowledge in Custom Hardware Bring\\-up controllers – ARM, Power PC , X86 BIOS/UEFI FW and Driver development Working knowledge of communication protocols \\- I2C, RS232, SPI, UART Oscilloscope, Logic Analyzer, Trace32, Hardware Debugger, FPGA Fundamentals Basic knowledge of Algorithms, Data Structures, System Architecture Has Working knowledge on any RTOS and Concepts like IPC, Scheduling Good Understanding of Build Systems. Working Knowledge of Cmake, Makefiles.
+   
+
+  
+
+ As a Silicon Firmware and Embedded Engineer, you will engage in the intricate process of writing software that powers and operates silicon chips. Your typical day will involve developing pre\\-silicon firmware and software that interfaces directly with hardware components. You will also be responsible for integrating and developing C tests and APIs, managing the software build flow, and conducting design and code reviews. Additionally, you will test and validate product implementations, ensuring that the software meets the required specifications and performance standards. This role requires a blend of creativity and technical expertise to deliver high\\-quality solutions in a dynamic environment.
+   
+
+  
+
+ Roles \\& Responsibilities:
+   
+
+  
+
+* Expected to perform independently and become an SME.
+* Required active participation/contribution in team discussions.
+* Contribute in providing solutions to work related problems.
+* Collaborate with cross\\-functional teams to ensure seamless integration of software and hardware components.
+* Document design specifications and maintain comprehensive records of development processes.
+
+
+ Professional \\& Technical Skills:
+   
+
+  
+
+* Must To Have Skills: Proficiency in Embedded C.
+* Good To Have Skills: Experience with Embedded C\\+\\+, Python (Programming Language).
+* Strong understanding of embedded systems and real\\-time operating systems.
+* Experience with debugging tools and techniques for embedded software.
+* Familiarity with hardware description languages and digital design concepts.
+* Proficiency in Embedded Firmware. Strong understanding of embedded systems and microcontroller architectures.
+* Strong understanding of software development life cycle methodologie
+* Experience with debugging tools and techniques for embedded systems and Software
+* Familiarity with version control systems such as Git
+* Knowledge of real\\-time operating systems and their application in embedded firmware development
+
+
+ Additional Information:
+   
+
+  
+
+* The candidate should have minimum 3 years of experience in Embedded C.
+* This position is based at our Bengaluru office.
+* A 15 years full time education is required.","IT Services and IT Consulting","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw","","","","","","","","","","",""
+"li-4454419551","linkedin","https://www.linkedin.com/jobs/view/4454419551","","Ralph Lauren Senior Digital Technology Developer, Commerce Platform","BoF Careers","Bangalore Urban, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Company Description**
+ Ralph Lauren Corporation (NYSE:RL) is a global leader in the design, marketing and distribution of premium lifestyle products in five categories: apparel, accessories, home, fragrances, and hospitality. For more than 50 years, Ralph Lauren's reputation and distinctive image have been consistently developed across an expanding number of products, brands and international markets. The Company's brand names, which include Ralph Lauren, Ralph Lauren Collection, Ralph Lauren Purple Label, Polo Ralph Lauren, Double RL, Lauren Ralph Lauren, Polo Ralph Lauren Children, Chaps, among others, constitute one of the world's most widely recognized families of consumer brands. At Ralph Lauren, we unite and inspire the communities within our company as well as those in which we serve by amplifying voices and perspectives to create a culture of belonging, ensuring inclusion, and fairness for all. We foster a culture of inclusion through: Talent, Education \\& Communication, Employee Groups and Celebration.
+   
+
+  
+
+**Position Overview**
+ We are seeking a self\\-motivated Front End Developer with strong expertise in React Native and modern JavaScript development to build and enhance high\\-quality mobile applications within the Ralph Lauren Consumer Technology division. This role is primarily focused on frontend development, with opportunities to contribute to backend services using Node.js, work with GraphQL APIs, and support AI\\-powered experiences through Azure AI integrations. You will help deliver intuitive, performant, and scalable digital experiences that support our consumer\\-facing technology initiatives. This position requires close collaboration with Product, Design, Engineering, DevOps, and QA teams within an Agile environment to develop engaging mobile features, integrate REST and GraphQL APIs, and support reliable application delivery. The ideal candidate will bring strong frontend engineering skills, a user\\-focused mindset, and the ability to contribute to backend development tasks in Node.js while helping integrate Azure AI services to enable intelligent, personalized application features. This is an exciting opportunity to contribute to the development of customer\\-focused mobile solutions and help strengthen Ralph Lauren's digital experience through modern frontend engineering and practical full\\-stack collaboration
+   
+
+  
+
+**Essential Duties \\& Responsibilities**
+ Develop and implement new user\\-facing features using front end development technologies like React.js, Node.Js
+   
+
+  
+
+* Build reusable components and front\\-end libraries for scalable development.
+* Translate UI/UX designs and wireframes into high\\-quality, responsive code.
+* Optimize components for maximum performance across various devices and browsers.
+* Collaborate closely with product managers, designers, and backend developers to ensure smooth delivery.
+* Write clean, maintainable, and testable code following best practices.
+* Participate in code reviews, debugging, and issue resolution.
+* Stay current with the latest front\\-end technologies and industry trends
+
+
+**Technical Skills**
+**Experience, Skills \\& Knowledge**
+* 6 to 8 years of hands\\-on experience as a React.js and SFCC Front End Developer
+* Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.
+* Deep understanding of React.js and its core principles.
+* Hands\\-on experience with React.js workflows (Redux, Flux, or Context API).
+* Familiarity with ECMAScript (ES6\\+) features.
+* Experience working with RESTful APIs and asynchronous data handling.
+* Solid knowledge of HTML5, CSS3, and responsive design principles.
+* Familiarity with version control systems such as Git or Bitbucket.
+* Working knowledge of build tools like Webpack, Babel, and NPM.
+* Strong problem\\-solving skills and meticulous attention to detail. Preferred Qualifications (Nice to Have)
+* Experience with TypeScript.
+* Knowledge of Next.js or React Native.
+* Understanding of GraphQL and Apollo Client. Soft Skills
+* Excellent communication and teamwork abilities.
+* Comfortable working in an agile, fast\\-paced environment.
+* Strong analytical and debugging mindset. Proactive, eager to learn and adapt to emerging technologies.","Advertising Services","https://www.linkedin.com/company/bof-careers","https://media.licdn.com/dms/image/v2/D4D0BAQEwE9aqX78QqA/company-logo_100_100/B4DZcXLyCvGkAQ-/0/1748440654383/bof_careers_logo?e=2147483647&v=beta&t=_Yzb-zW4NlNggepfv0oGTxxZ33n8iQucHDIWgYKqV9I","","","","","","","","","","",""
+"li-4455373532","linkedin","https://www.linkedin.com/jobs/view/4455373532","","Custom Software Engineer","Accenture in India","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Project Role :** 
+ Custom Software Engineer
+   
+
+  
+
+**Project Role Description :** 
+ Design, build and configure applications to meet business process and application requirements.
+   
+
+  
+
+**Must have skills :** 
+ Microsoft Robotic Process Automation
+   
+
+  
+
+**Good to have skills :** 
+ NA
+   
+
+  
+
+**Minimum 5 Year(s) Of Experience Is Required**
+**Educational Qualification :** 
+ 15 years full time education
+   
+
+  
+
+ Summary:
+   
+
+  
+
+ As a Custom Software Engineer, a typical day involves designing, building, and configuring applications tailored to meet specific business process and application requirements. This role requires a thoughtful approach to understanding organizational needs and translating them into effective software solutions. The workday often includes collaborating with various stakeholders to ensure that the applications developed align with operational goals and deliver seamless user experiences. Continuous refinement and adaptation of applications to evolving business demands are integral parts of the daily routine, fostering innovation and efficiency within the organization.
+   
+
+  
+
+ Roles \\& Responsibilities:
+   
+
+  
+
+* Expected to be an SME, collaborate and manage the team to perform.
+* Responsible for team decisions.
+* Engage with multiple teams and contribute on key decisions.
+* Provide solutions to problems for their immediate team and across multiple teams.
+* Lead efforts to identify and implement process improvements within the team.
+* Mentor junior team members to support their professional growth and development.
+* Coordinate cross\\-functional communication to ensure alignment on project goals and deliverables.
+
+
+ Professional \\& Technical Skills:
+   
+
+  
+
+* Must To Have Skills: Proficiency in Microsoft Robotic Process Automation.
+* Strong knowledge of automation workflows and process optimization techniques.
+* Experience in designing scalable and maintainable software solutions.
+* Ability to troubleshoot and resolve complex technical issues related to automation.
+* Familiarity with integration of robotic process automation tools with other enterprise systems.
+* Skilled in analyzing business processes to identify automation opportunities.
+
+
+ Additional Information:
+   
+
+  
+
+* The candidate should have minimum 5 years of experience in Microsoft Robotic Process Automation.
+* This position is based at our Pune office.
+* A 15 years full time education is required.","IT Services and IT Consulting","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw","","","","","","","","","","",""
+"li-4455369643","linkedin","https://www.linkedin.com/jobs/view/4455369643","","Software Product & Platform Engineer Lead","Accenture in India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Job Title \\- Software Prod \\& Plat Engineer Associate Manager
+   
+
+  
+
+ Management Level: 08 \\- Associate Manager
+   
+
+  
+
+ Location: Bengaluru / Gurugram
+   
+
+  
+
+ Must have skills: Backend Development (Java / Golang / Node.js / C\\#), Docker, Kubernetes, AWS, Relational Databases (PostgreSQL / MySQL), Unit \\& Integration Testing, hands\\-on experience with AI coding tools (Cursor / Claude), strong Computer Science fundamentals
+   
+
+  
+
+ Good to have skills: Frontend Development (React / Angular / HTML), building custom AI skills / tools / agents
+   
+
+  
+
+ Experience: Minimum 9 year(s) of experience is required
+   
+
+  
+
+ Educational Qualification: B.Tech / BE from a Tier\\-1 institute (IIT / NIT / BITS / IIIT or equivalent top\\-tier college)
+   
+
+  
+
+ Job Summary:
+   
+
+  
+
+ We don't want you typing \\- we want you thinking; let AI be your typist. As a Software Prod \\& Plat Engineer at Accenture LearnVantage (ALV), you'll be a deeply hands\\-on, AI\\-native engineer who owns modules end\\-to\\-end, deploys AI agents to move fast, and applies rigorous and responsible engineering judgment to everything that ships. You steer AI in the right direction \\- and because your CS fundamentals are strong, you're never fazed by a language or stack you haven't used before.
+   
+
+  
+
+ Roles \\& Responsibilities:
+   
+
+  
+
+ Design, build, and own backend services and features end\\-to\\-end, hands\\-on in code.
+   
+
+  
+
+ Use AI development tools (Cursor / Claude) day in, day out \\- and build custom skills/tools/agents that boost your team's productivity so they focus on business problems.
+   
+
+  
+
+ Uphold a high bar: review, verify, and own every line \\- using AI rigorously and responsibly.
+   
+
+  
+
+ Drive quality through unit and integration testing, code reviews, and solid engineering hygiene (Git, CI/CD, deployments).
+   
+
+  
+
+ Mentor junior engineers and raise the technical bar on the team.
+   
+
+  
+
+ Turn ambiguous requirements into clear, actionable, well\\-engineered solutions.
+   
+
+  
+
+ Professional \\& Technical Skills:
+   
+
+  
+
+ Must To Have Skills: Strong hands\\-on backend development in a widely used language (Java / Golang / Node.js / C\\#), backed by solid CS fundamentals.
+   
+
+  
+
+ Strong hands\\-on experience with Docker, Kubernetes, AWS, and relational databases (PostgreSQL / MySQL).
+   
+
+  
+
+ First\\-hand experience writing unit and integration tests.
+   
+
+  
+
+ Demonstrable, current use of AI coding tools (Cursor / Claude), ideally extended with custom skills/tools.
+   
+
+  
+
+ Experience building systems that scale \\- high throughput, real complexity.
+   
+
+  
+
+ Good to have: working knowledge of frontend development (React / Angular / HTML).
+   
+
+  
+
+ Additional Information:
+   
+
+  
+
+ The ideal candidate is a hands\\-on, AI\\-native go\\-getter who brings solutions and interesting questions \\- not someone waiting to be told what to do.
+   
+
+  
+
+ This position is based at our Bengaluru / Gurugram office.","IT Services and IT Consulting","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw","","","","","","","","","","",""
+"li-4455368601","linkedin","https://www.linkedin.com/jobs/view/4455368601","","Software Product & Platform Engineer Lead","Accenture in India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Job Title \\- Software Prod \\& Plat Engineer Associate Manager
+   
+
+  
+
+ Management Level: 08 \\- Associate Manager
+   
+
+  
+
+ Location: Bengaluru / Gurugram
+   
+
+  
+
+ Must have skills: Backend Development (Java / Golang / Node.js / C\\#), Docker, Kubernetes, AWS, Relational Databases (PostgreSQL / MySQL), Unit \\& Integration Testing, hands\\-on experience with AI coding tools (Cursor / Claude), strong Computer Science fundamentals
+   
+
+  
+
+ Good to have skills: Frontend Development (React / Angular / HTML), building custom AI skills / tools / agents
+   
+
+  
+
+ Experience: Minimum 9 year(s) of experience is required
+   
+
+  
+
+ Educational Qualification: B.Tech / BE from a Tier\\-1 institute (IIT / NIT / BITS / IIIT or equivalent top\\-tier college)
+   
+
+  
+
+ Job Summary:
+   
+
+  
+
+ We don't want you typing \\- we want you thinking; let AI be your typist. As a Software Prod \\& Plat Engineer at Accenture LearnVantage (ALV), you'll be a deeply hands\\-on, AI\\-native engineer who owns modules end\\-to\\-end, deploys AI agents to move fast, and applies rigorous and responsible engineering judgment to everything that ships. You steer AI in the right direction \\- and because your CS fundamentals are strong, you're never fazed by a language or stack you haven't used before.
+   
+
+  
+
+ Roles \\& Responsibilities:
+   
+
+  
+
+ Design, build, and own backend services and features end\\-to\\-end, hands\\-on in code.
+   
+
+  
+
+ Use AI development tools (Cursor / Claude) day in, day out \\- and build custom skills/tools/agents that boost your team's productivity so they focus on business problems.
+   
+
+  
+
+ Uphold a high bar: review, verify, and own every line \\- using AI rigorously and responsibly.
+   
+
+  
+
+ Drive quality through unit and integration testing, code reviews, and solid engineering hygiene (Git, CI/CD, deployments).
+   
+
+  
+
+ Mentor junior engineers and raise the technical bar on the team.
+   
+
+  
+
+ Turn ambiguous requirements into clear, actionable, well\\-engineered solutions.
+   
+
+  
+
+ Professional \\& Technical Skills:
+   
+
+  
+
+ Must To Have Skills: Strong hands\\-on backend development in a widely used language (Java / Golang / Node.js / C\\#), backed by solid CS fundamentals.
+   
+
+  
+
+ Strong hands\\-on experience with Docker, Kubernetes, AWS, and relational databases (PostgreSQL / MySQL).
+   
+
+  
+
+ First\\-hand experience writing unit and integration tests.
+   
+
+  
+
+ Demonstrable, current use of AI coding tools (Cursor / Claude), ideally extended with custom skills/tools.
+   
+
+  
+
+ Experience building systems that scale \\- high throughput, real complexity.
+   
+
+  
+
+ Good to have: working knowledge of frontend development (React / Angular / HTML).
+   
+
+  
+
+ Additional Information:
+   
+
+  
+
+ The ideal candidate is a hands\\-on, AI\\-native go\\-getter who brings solutions and interesting questions \\- not someone waiting to be told what to do.
+   
+
+  
+
+ This position is based at our Bengaluru / Gurugram office.","IT Services and IT Consulting","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw","","","","","","","","","","",""
+"li-4455357722","linkedin","https://www.linkedin.com/jobs/view/4455357722","","Software Product & Platform Engineer Lead","Accenture in India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","Job Title \\- Software Prod \\& Plat Engineer Associate Manager
+   
+
+  
+
+ Management Level: 08 \\- Associate Manager
+   
+
+  
+
+ Location: Bengaluru / Gurugram
+   
+
+  
+
+ Must have skills: Backend Development (Java / Golang / Node.js / C\\#), Docker, Kubernetes, AWS, Relational Databases (PostgreSQL / MySQL), Unit \\& Integration Testing, hands\\-on experience with AI coding tools (Cursor / Claude), strong Computer Science fundamentals
+   
+
+  
+
+ Good to have skills: Frontend Development (React / Angular / HTML), building custom AI skills / tools / agents
+   
+
+  
+
+ Experience: Minimum 9 year(s) of experience is required
+   
+
+  
+
+ Educational Qualification: B.Tech / BE from a Tier\\-1 institute (IIT / NIT / BITS / IIIT or equivalent top\\-tier college)
+   
+
+  
+
+ Job Summary:
+   
+
+  
+
+ We don't want you typing \\- we want you thinking; let AI be your typist. As a Software Prod \\& Plat Engineer at Accenture LearnVantage (ALV), you'll be a deeply hands\\-on, AI\\-native engineer who owns modules end\\-to\\-end, deploys AI agents to move fast, and applies rigorous and responsible engineering judgment to everything that ships. You steer AI in the right direction \\- and because your CS fundamentals are strong, you're never fazed by a language or stack you haven't used before.
+   
+
+  
+
+ Roles \\& Responsibilities:
+   
+
+  
+
+ Design, build, and own backend services and features end\\-to\\-end, hands\\-on in code.
+   
+
+  
+
+ Use AI development tools (Cursor / Claude) day in, day out \\- and build custom skills/tools/agents that boost your team's productivity so they focus on business problems.
+   
+
+  
+
+ Uphold a high bar: review, verify, and own every line \\- using AI rigorously and responsibly.
+   
+
+  
+
+ Drive quality through unit and integration testing, code reviews, and solid engineering hygiene (Git, CI/CD, deployments).
+   
+
+  
+
+ Mentor junior engineers and raise the technical bar on the team.
+   
+
+  
+
+ Turn ambiguous requirements into clear, actionable, well\\-engineered solutions.
+   
+
+  
+
+ Professional \\& Technical Skills:
+   
+
+  
+
+ Must To Have Skills: Strong hands\\-on backend development in a widely used language (Java / Golang / Node.js / C\\#), backed by solid CS fundamentals.
+   
+
+  
+
+ Strong hands\\-on experience with Docker, Kubernetes, AWS, and relational databases (PostgreSQL / MySQL).
+   
+
+  
+
+ First\\-hand experience writing unit and integration tests.
+   
+
+  
+
+ Demonstrable, current use of AI coding tools (Cursor / Claude), ideally extended with custom skills/tools.
+   
+
+  
+
+ Experience building systems that scale \\- high throughput, real complexity.
+   
+
+  
+
+ Good to have: working knowledge of frontend development (React / Angular / HTML).
+   
+
+  
+
+ Additional Information:
+   
+
+  
+
+ The ideal candidate is a hands\\-on, AI\\-native go\\-getter who brings solutions and interesting questions \\- not someone waiting to be told what to do.
+   
+
+  
+
+ This position is based at our Bengaluru / Gurugram office.","IT Services and IT Consulting","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw","","","","","","","","","","",""
+"li-4455368642","linkedin","https://www.linkedin.com/jobs/view/4455368642","","Custom Software Engineer","Accenture in India","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Project Role :** 
+ Custom Software Engineer
+   
+
+  
+
+**Project Role Description :** 
+ Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high\\-performing solutions tailored to specific business needs.
+   
+
+  
+
+**Must have skills :** 
+ AWS Architecture
+   
+
+  
+
+**Good to have skills :** 
+ Infrastructure As Code (IaC), Angular, DevOps Architecture
+   
+
+  
+
+**Minimum 7\\.5 Year(s) Of Experience Is Required**
+**Educational Qualification :** 
+ 15 years full time education
+   
+
+  
+
+ Summary:
+   
+
+  
+
+ You start on the green field within the newly founded data\\-driven and cloud\\-based incubator project KN New IT Ecosystem\\-KNITE. From Porto, you can shape a completely new integration platform where scalability, security and longevity are not, yet another nonfunctional requirement but cornerstones of the solution. Sounds like a perfect next step in your career.
+   
+
+  
+
+ Roles \\& Responsibilities:
+   
+
+  
+
+* You architect and build up the API pillar of the KNITE program in the cloud
+
+
+ – you are joining us in an early project state and therefore have a lot of opportunity to influence, shape, and design.
+   
+
+  
+
+* You ensure that cloud\\-based infrastructure and services are utilized as efficiently as possible across the KNITE program without creating silos or knowledge islands.
+* You champion practices like Infrastructure\\-as\\-Code and GitOps within the API\\- Management platform and integrate it seamlessly with surrounding infrastructure and processes
+* You take on the role of a technical leader in your area\\- for example, as a speaker on conferences or summits
+* Design, build and run the API Management Platform and its underlying infrastructure with a mindset of true end\\-to\\-end responsibility
+* Translate non\\-functional requirements of connected applications and developers using the platform into core requirements for the platform itself
+* Support use cases of API developers, consumers and governance stakeholders with rigorous automation and self\\-service capabilities on the platform
+* Alignment and maintenance of shared infrastructure and templates with the other KNITE products teams.
+
+
+ Professional \\& Technical Skills:
+   
+
+  
+
+ You have ample experience with at least one major cloud provider– optimally AWS
+   
+
+  
+
+* You have an attitude to design solutions which favour reuse over reinvention but are able to come up with your own ideas to tackle entirely new challenges
+* You have been working on an enterprise\\-level for multiple years and are not easily overwhelmed by large IT landscapes
+* You have experience with hybrid infrastructures, i.e. connecting the cloud and the on premise world in a secure and reliable way
+* Collaborative work in international teams inspires you
+
+
+ Additional Information:\\-
+   
+
+  
+
+* The candidate should have minimum 7\\.5 years of experience in AWS Architecture.
+* This position is based at our Chennai office.
+* A 15 years full time education is required.","IT Services and IT Consulting","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw","","","","","","","","","","",""
+"li-4455363657","linkedin","https://www.linkedin.com/jobs/view/4455363657","","Silicon Firmware & Embedded Engineer","Accenture in India","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Project Role :** 
+ Silicon Firmware \\& Embedded Engineer
+   
+
+  
+
+**Project Role Description :** 
+ Write the software that powers and operates a silicon chip. Develop pre\\-silicon firmware and software with a direct interface to hardware. Integrate and develop C tests/APIs and software build flow. Perform design and code reviews. Test and validate product implementations.
+   
+
+  
+
+**Must have skills :** 
+ Embedded C
+   
+
+  
+
+**Good to have skills :** 
+ Embedded C\\+\\+, Python (Programming Language)
+   
+
+  
+
+**Minimum 2 Year(s) Of Experience Is Required**
+**Educational Qualification :** 
+ 15 years full time education
+   
+
+  
+
+ Summary:
+   
+
+  
+
+ As a Silicon Firmware and Embedded Engineer, a typical day involves writing and developing software that controls and operates silicon chips. The role includes creating firmware before silicon fabrication, closely interfacing software with hardware components, and integrating various tests and application programming interfaces. The engineer actively participates in design and code reviews to ensure quality and reliability. Additionally, the role requires thorough testing and validation of product implementations to meet performance and functionality standards, contributing to the overall success of silicon\\-based projects.
+   
+
+  
+
+ Roles \\& Responsibilities:
+   
+
+  
+
+* Expected to perform independently and become an SME.
+* Required active participation/contribution in team discussions.
+* Contribute in providing solutions to work related problems.
+* Collaborate with cross\\-functional teams to ensure seamless integration of firmware with hardware components.
+* Document design decisions and test results to support knowledge sharing and future development.
+* Assist junior team members by providing guidance and support in understanding project requirements and technical challenges.
+
+
+ Professional \\& Technical Skills:
+   
+
+  
+
+* Must To Have Skills: Proficiency in Embedded C.
+* Good To Have Skills: Python (Programming Language), Embedded C\\+\\+.
+* Strong understanding of embedded systems architecture and real\\-time operating systems.
+* Experience in developing and debugging firmware for silicon chips.
+* Familiarity with software build systems and version control tools.
+* Ability to analyze and optimize code for performance and memory usage.
+
+
+ Additional Information:
+   
+
+  
+
+* The candidate should have minimum 2 years of experience in Embedded C.
+* This position is based at our Bengaluru office.
+* A 15 years full time education is required.","IT Services and IT Consulting","https://in.linkedin.com/company/accentureindia","https://media.licdn.com/dms/image/v2/D4E0BAQHYzTce8ZeOzw/company-logo_100_100/B4EZ6lVj6oIoAI-/0/1780890353567/accentureindia_logo?e=2147483647&v=beta&t=T2r8DkPeHi6tI93SETxNPqWS7hi49loVGQoddn575rw","","","","","","","","","","",""
+"li-4454411641","linkedin","https://www.linkedin.com/jobs/view/4454411641","","Ralph Lauren Senior Digital Technology Front End Developer, Commerce Platform","BoF Careers","Bangalore Urban, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Company Description**
+ Ralph Lauren Corporation (NYSE:RL) is a global leader in the design, marketing and distribution of premium lifestyle products in five categories: apparel, accessories, home, fragrances, and hospitality. For more than 50 years, Ralph Lauren's reputation and distinctive image have been consistently developed across an expanding number of products, brands and international markets. The Company's brand names, which include Ralph Lauren, Ralph Lauren Collection, Ralph Lauren Purple Label, Polo Ralph Lauren, Double RL, Lauren Ralph Lauren, Polo Ralph Lauren Children, Chaps, among others, constitute one of the world's most widely recognized families of consumer brands. At Ralph Lauren, we unite and inspire the communities within our company as well as those in which we serve by amplifying voices and perspectives to create a culture of belonging, ensuring inclusion, and fairness for all. We foster a culture of inclusion through: Talent, Education \\& Communication, Employee Groups and Celebration.
+   
+
+  
+
+**Position Overview**
+ This role will be based in Bangalore, India. Ralph Lauren is looking for experience for supporting the implementation of Composable Commerce solutions across multiple regions. The position is expected to work along with the global team to develop E\\-commerce composable platform. The position involves developing new user\\-facing features by using React.js. and Node.js. The understanding of Salesforce Commerce Platform (SFCC) is an added advantage.
+   
+
+  
+
+**Essential Duties \\& Responsibilities**
+* Develop and implement new user\\-facing features using front end development technologies like React.js, Node.Js
+* Build reusable components and front\\-end libraries for scalable development.
+* Translate UI/UX designs and wireframes into high\\-quality, responsive code.
+* Optimize components for maximum performance across various devices and browsers.
+* Collaborate closely with product managers, designers, and backend developers to ensure smooth delivery.
+* Write clean, maintainable, and testable code following best practices.
+* Participate in code reviews, debugging, and issue resolution.
+* Stay current with the latest front\\-end technologies and industry trends.
+
+
+**Experience, Skills \\& Knowledge**
+* 6 to 8 years of hands\\-on experience as a React.js and SFCC Front End Developer
+* Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.
+* Deep understanding of React.js and its core principles.
+* Hands\\-on experience with React.js workflows (Redux, Flux, or Context API).
+* Familiarity with ECMAScript (ES6\\+) features.
+* Experience working with RESTful APIs and asynchronous data handling.
+* Solid knowledge of HTML5, CSS3, and responsive design principles.
+* Familiarity with version control systems such as Git or Bitbucket.
+* Working knowledge of build tools like Webpack, Babel, and NPM.
+* Strong problem\\-solving skills and meticulous attention to detail. Preferred Qualifications (Nice to Have)
+* Experience with TypeScript.
+* Knowledge of Next.js or React Native.
+* Understanding of GraphQL and Apollo Client. Soft Skills
+* Excellent communication and teamwork abilities.
+* Comfortable working in an agile, fast\\-paced environment.
+* Strong analytical and debugging mindset.
+* Proactive, eager to learn and adapt to emerging technologies.","Advertising Services","https://www.linkedin.com/company/bof-careers","https://media.licdn.com/dms/image/v2/D4D0BAQEwE9aqX78QqA/company-logo_100_100/B4DZcXLyCvGkAQ-/0/1748440654383/bof_careers_logo?e=2147483647&v=beta&t=_Yzb-zW4NlNggepfv0oGTxxZ33n8iQucHDIWgYKqV9I","","","","","","","","","","",""
+"li-4455373568","linkedin","https://www.linkedin.com/jobs/view/4455373568","","Software Engineer - AWS Cloud Engineer","CGI","Hyderabad, Telangana, India","","fulltime","","","","","",False,"entry level","Engineering and Information Technology","","","Position Description
+   
+
+  
+
+ Company Profile:
+   
+
+  
+
+ We’re Hiring at CGI for our GCC \\- Right Here in Hyderabad!
+   
+
+  
+
+ Join us at the intersection of technology, finance, and innovation. You will be working to support one of the top\\-tier financial institutions in the U.S. You’ll help shape digital solutions for a global enterprise—from the ground up.
+   
+
+  
+
+ This is more than a job. It’s your opportunity to:
+   
+
+  
+
+* Work on cutting\\-edge technologies
+* Collaborate with global teams
+* Build a career with purpose and impact
+
+
+ Ready to build the future of banking? Let’s talk.
+   
+
+  
+
+ Position Description:
+   
+
+  
+
+ Job Title: Software Engineer \\- AWS Cloud Engineer
+   
+
+  
+
+ Position: AWS Cloud Engineer
+   
+
+  
+
+ Experience: 3\\-6 years
+   
+
+  
+
+ Category: Software Engineer
+   
+
+  
+
+ Shift: General
+   
+
+  
+
+ Main location: India, Telangana, Hyderabad
+   
+
+  
+
+ Position ID: J0925\\-1701
+   
+
+  
+
+ Employment Type: Full Time
+   
+
+  
+
+ Job Overview:
+   
+
+  
+
+ CGI is looking for a skilled Software Engineer \\- AWS Cloud Engineer to support the design, automation, deployment, and maintenance of secure cloud infrastructure. The ideal candidate will have a strong understanding of core AWS services, Infrastructure as Code concepts, Python, CI/CD practices, and container technologies.
+   
+
+  
+
+ Key Responsibilities
+   
+
+  
+
+* Design, deploy, and support AWS cloud infrastructure using services such as EC2, VPC, and IAM.
+* Implement and maintain Infrastructure as Code solutions using tools such as AWS CloudFormation, AWS Cloud Development Kit (CDK), or terraform.
+* Develop automation scripts and utilities using Python to improve cloud operations and deployment workflows.
+* Support CI/CD processes for application and infrastructure deployments.
+* Work with container technologies to support modern application deployment patterns.
+* Collaborate with engineering teams to ensure cloud solutions are secure, scalable, reliable, and maintainable.
+
+
+**Required Qualifications**
+* Good understanding of AWS services, including EC2, VPC, and IAM.
+* Experience with Infrastructure as Code concepts and familiarity with CloudFormation, AWS CDK, or Terraform.
+* Hands\\-on experience with Python.
+* Working knowledge of CI/CD concepts and deployment automation.
+* Experience with container technologies.
+
+
+**Preferred Qualifications**
+* AWS Certified Cloud Practitioner or other relevant AWS certification.
+* Exposure to MLOps / AIOps within AWS Cloud
+* Exposure to big data technologies such as Hadoop or Hive and EMR within AWS Cloud.
+
+
+ About CGI :
+   
+
+  
+
+ CGI is an equal opportunity employer. In addition, CGI is committed to providing accommodation for people with disabilities in accordance with provincial legislation. Please let us know if you require reasonable accommodation due to a disability during any aspect of the recruitment process and we will work with you to address your needs.
+   
+
+  
+
+ Your future duties and responsibilities
+   
+
+  
+
+**Required Qualifications To Be Successful In This Role**
+**Together, as owners, let’s turn meaningful insights into action.**
+ Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
+   
+
+  
+
+ You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
+   
+
+  
+
+ Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
+   
+
+  
+
+ You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well\\-being and provide you with opportunities to deepen your skills and broaden your horizons.
+   
+
+  
+
+ That same commitment to fairness extends to how we use technology. To support our recruitment team, AI tools may be used to help assess applications though they never replace human judgement. All hiring decisions remain entirely in the hands of our recruitment professionals.
+   
+
+  
+
+ Come join our team—one of the largest IT and business consulting services firms in the world.","IT Services and IT Consulting","https://ca.linkedin.com/company/cgi","https://media.licdn.com/dms/image/v2/D4D0BAQFlEEdVdlT8jw/company-logo_100_100/B4DZu7jLR3GkAU-/0/1768378119780/cgi_logo?e=2147483647&v=beta&t=HYQq760PNDiwamgO6B2gjCasn_PE6odKwp9BsNv5yuI","","","","","","","","","","",""
