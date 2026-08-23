@@ -1,1009 +1,468 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4456822594","linkedin","https://www.linkedin.com/jobs/view/4456822594","","Founding Engineer (Full-Stack)","Harness","","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**About Harness** 
-
-
-
-
-  
-
-
-
-
-
- Harness is building the AI\\-native commercial insurance brokerage.
- 
-
-
-
-  
-
-
-
-
-
- Commercial insurance is a $1T\\+ market, but the brokerage layer still runs on manual judgment, fragmented workflows, repetitive coordination, and tribal knowledge. A great broker does much more than sell insurance. They understand a business, identify its risks, determine which insurance companies are likely to write it, prepare the right submission, compare quotes, guide the customer, and get the policy bound.
- 
-
-
-
-  
-
-
-
-
-
- Today, nearly every step of that process requires humans to move information between systems, coordinate across different parties, and decide what happens next.
- 
-
-
-
-  
-
-
-
-
-
- Harness is building software to automate that entire funnel.
- 
-
-
-
-  
-
-
-
-
-
- We break the brokerage workflow into its underlying decisions and tasks, identify the bottlenecks, and build systems that make each step faster, smarter, and increasingly autonomous. The goal is not to build a better CRM for insurance brokers. The goal is to build an autonomous brokerage.
- 
-
-
-
-  
-
-
-
-
-
- Harness started in January 2026\\. In our first 8 months, we grew to $1M ARR and are targeting $3M ARR by the end of 2026\\.
- 
-
-
-
-  
-
-
-
-
-
- We are well\\-funded, growing quickly, and still early enough that the systems you build will define how the company operates.
- 
-
-
-
-  
-
-
-
-
-
-**What We Are Building** 
-
-
-
-
-  
-
-
-
-
-
- Think about the lifecycle of a commercial insurance account:
- 
-
-
-
-  
-
-
-
-
-
- Lead → Qualification → Intake → Risk Understanding → Coverage Requirements → Market Selection → Submission → Carrier Follow\\-Up → Quotes → Comparison → Negotiation → Binding → Servicing
- 
-
-
-
-  
-
-
-
-
-
- At every stage there are decisions, dependencies, and operational bottlenecks. Our job is to understand those workflows deeply and progressively automate them.
- 
-
-
-
-  
-
-
-
-
-
- Our engineering process is straightforward:
- 
-
-
-
-  
-
-
-
-
-* Understand how the workflow works today
-* Identify the biggest bottleneck or source of manual work
-* Determine what judgment, context, or data is required to complete it
-* Build software or AI systems that can perform that work reliably
-* Measure the impact
-* Move to the next bottleneck
-
-
-
-  
-
-
-
-
-
- Over time, individual automations become connected systems, and connected systems become an increasingly autonomous brokerage.
- 
-
-
-
-  
-
-
-
-
-
- That means we work on problems like:
- 
-
-
-
-  
-
-
-
-
-* Turning conversations, documents, and external data into structured risk information
-* Determining what information is missing from an account
-* Selecting the right insurance markets based on appetite and underwriting criteria
-* Generating and improving carrier submissions
-* Automating communication and follow\\-ups with customers and underwriters
-* Tracking asynchronous workflows that may run for days or weeks
-* Building agents that know when to act, when to wait, and when to escalate
-* Extracting knowledge from successful and unsuccessful placements
-* Designing reliable human\\-in\\-the\\-loop systems for high\\-stakes decisions
-* Building the infrastructure that allows hundreds or thousands of accounts to move through the brokerage simultaneously
-
-
-
-  
-
-
-
-
-
-**The Role** 
-
-
-
-
-  
-
-
-
-
-
- We are hiring engineers to build the core systems behind Harness. This is primarily a backend and systems engineering role, but we do not have a hard boundary between backend and frontend.
- 
-
-
-
-  
-
-
-
-
-
- You will build the infrastructure, data models, APIs, workflow engines, agent systems, integrations, and product surfaces that power the brokerage. If you build a system, you should also be comfortable taking it all the way to the user when necessary, including building the interface that makes it usable.
- 
-
-
-
-  
-
-
-
-
-
- You will work directly with the founders. You will not receive polished specifications describing exactly what to implement.
- 
-
-
-
-  
-
-
-
-
-
- Instead, you might hear:
- 
-
-
-
-  
-
-
-
-
-
- “We lose too much time waiting for this information.”
- 
-
-
-
-  
-
-
-
-
-
- or
- 
-
-
-
-  
-
-
-
-
-
- “Our brokers have to manually decide where to send every account.”
- 
-
-
-
-  
-
-
-
-
-
- Your job is to understand why, study the workflow, determine what can be automated, design the system, ship it, and measure whether it actually improved the business.
- 
-
-
-
-  
-
-
-
-
-
- The best engineers here will spend as much time understanding the problem as writing the code.
- 
-
-
-
-  
-
-
-
-
-
-**What You Might Build** 
-
-
-
-
-  
-
-
-
-
-
- Depending on the week, you might:
- 
-
-
-
-  
-
-
-
-
-* Design a workflow engine coordinating long\\-running insurance processes
-* Build an AI agent that determines the next action required on an account
-* Create systems for extracting structured insurance data from documents and conversations
-* Model complex commercial insurance accounts and their relationships
-* Build carrier appetite and market\\-selection infrastructure
-* Integrate with carrier portals, email, telephony, document systems, and third\\-party data providers
-* Build evaluation and observability infrastructure for production AI agents
-* Create systems that automatically detect stalled accounts and unblock them
-* Design APIs and event\\-driven systems connecting different parts of the brokerage
-* Build interfaces for brokers to supervise and correct AI actions
-* Take a workflow that currently takes a broker 30 minutes and reduce it to 30 seconds, or eliminate it entirely
-
-
-
-  
-
-
-
-
-
-**What We’re Looking For** 
-
-
-
-
-  
-
-
-
-
-* 2\\+ years of strong backend engineering experience
-* Experience designing APIs, services, data models, and distributed systems
-* Strong proficiency with relational databases and data modeling
-* Strong Python, TypeScript, Go, Java, or equivalent backend experience
-* Experience building production AI agents, LLM\\-powered systems, or workflow automation
-* Understanding of the reliability challenges involved in putting LLMs into real production workflows
-* Ability to decide when to use an LLM, when to use deterministic software, and how to combine the two cleanly
-* Strong debugging and systems thinking
-* Ability to simplify complicated business processes into clean abstractions
-* Heavy use of modern AI development tools such as Claude Code, Cursor, ChatGPT, Codex, or similar
-* High ownership and agency
-
-
-
-  
-
-
-
-
-
-**How We Think About Engineering** 
-
-
-
-
-  
-
-
-
-
-
- We care much more about business leverage than lines of code.
- 
-
-
-
-  
-
-
-
-
-
- A great engineering project might involve building an entirely new system. It might also involve discovering that a workflow requiring five people and twelve steps can be redesigned into two steps and automated with 500 lines of code.
- 
-
-
-
-  
-
-
-
-
-
- We expect engineers to ask:
- 
-
-
-
-  
-
-
-
-
-* Why does this process exist?
-* What decision is actually being made?
-* What information is required to make it?
-* Can software make that decision?
-* Can AI make it reliably?
-* What happens when it is wrong?
-* How do we measure whether this made the brokerage better?
-
-
-
-  
-
-
-
-
-
- We use AI heavily in engineering ourselves. Tools like Claude Code, Cursor, ChatGPT, and Codex substantially increase how much a small engineering team can ship.
- 
-
-
-
-  
-
-
-
-
-
- We therefore optimize for engineers who can own large problems rather than narrowly scoped tickets.
- 
-
-
-
-  
-
-
-
-
-
-**Why Join Now** 
-
-
-
-
-  
-
-
-
-
-
- Harness has already proven that the business works. Now the challenge is fundamentally different.
- 
-
-
-
-  
-
-
-
-
-
- We need to turn what our team does manually today into software and AI systems that can operate the brokerage at dramatically greater scale. That means systematically finding bottlenecks across the entire insurance funnel, understanding the judgment and coordination behind each one, and automating them one by one.
- 
-
-
-
-  
-
-
-
-
-
- The goal is for the same team to eventually handle 10x the volume.
- 
-
-
-
-  
-
-
-
-
-
- This is where engineering becomes one of the primary constraints on growth. The systems you build will directly determine:
- 
-
-
-
-  
-
-
-
-
-* How many customers a broker can manage
-* How quickly an account moves from intake to binding
-* How intelligently we select and approach insurance markets
-* How much customer and carrier communication can happen automatically
-* How much human coordination can be eliminated
-* How quickly Harness can grow without adding people at the same rate
-
-
-
-  
-
-
-
-
-
- We already have the customers, real workflows, operating data, and a brokerage team showing us exactly where the bottlenecks are. The next phase is about encoding that knowledge into software and building systems that let the business scale without scaling human effort at the same rate.","Insurance Agencies and Brokerages","https://www.linkedin.com/company/harness-insure","https://media.licdn.com/dms/image/v2/D560BAQFaEXssaX7hOQ/company-logo_100_100/B56Zosr8I7G4AQ-/0/1761686307780/harness_insure_logo?e=2147483647&v=beta&t=z7KC8gUCI513ts8FmJq08l1GC6ZW1nrRyYprp41d8w0","","","","","","","","","","",""
-"li-4422093180","linkedin","https://www.linkedin.com/jobs/view/4422093180","","Lead Software Engineer","Cadence","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.**
-**Position:** 
- Lead Software Engineer
+"li-4456816680","linkedin","https://www.linkedin.com/jobs/view/4456816680","","Senior System Engineer","Infosys","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","* Strong experience in Java (Spring Boot) development.
+* Hands\\-on experience with Angular.
+* Good knowledge of Python for integration and connector development.
+* Understanding of Microservices Architecture and RESTful services.
+* Experience working with Elasticsearch / ELK Stack.
+* Strong problem\\-solving and analytical skills.
+* Passion for learning new technologies and adapting to evolving business needs
+* Design, develop, and maintain scalable applications using Java (Spring Boot) and Angular.
+* Develop and enhance Python\\-based connectors and integrations for enterprise search solutions.
+* Build and support microservices\\-based architectures for high\\-performance enterprise platforms.
+* Work with Elasticsearch and ELK Stack for search, analytics, monitoring, and observability.
+* Collaborate with cross\\-functional teams to deliver innovative AI and search capabilities.
+* Continuously learn and adopt emerging technologies in AI, search, and enterprise platforms
+* Enthusiasm for upskilling and reskilling in emerging technologies.
+* Interest in AI integrations, Enterprise Search, Generative AI, and Digital Workplace Platforms.
+* Ability to work in a fast\\-paced, collaborative environment.","IT Services and IT Consulting","https://in.linkedin.com/company/infosys","https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I","","","","","","","","","","",""
+"li-4450099707","linkedin","https://www.linkedin.com/jobs/view/4450099707","","Senior Software Engineer","Capgemini","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Description**
+ Job Description \\- Grade Specific
    
 
   
 
-**Grade:** 
- T3
+ Is fully competent in its own area and has a deep understanding of related programming concepts software design and software development principles. Works autonomously with minimal supervision. Able to act as a key contributor in a complex environment, lead the activities of a team for software design and software development. Acts proactively to understand internalorexternal client needs and offers advice even when not asked. Able to assess and adapt to project issues, formulate innovative solutions, work under pressure and drive team to succeed against its technical and commercial goals. Aware of profitability needs and may manage costs for specific projectorwork area. Explains difficult concepts to a variety of audiences to ensure meaning is understood. Motivates other team members and creates informal networks with key contacts outside own area.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
+"li-4456814708","linkedin","https://www.linkedin.com/jobs/view/4456814708","","Senior Back End Engineer - AI Labs","IDFC FIRST Bank","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Job Requirements**
+ About the Role
    
 
   
+
+ As a
+ **Senior Back End Engineer** 
+ in the
+ **Data \\& Analytics** 
+ team, you will be responsible for developing and maintaining scalable, high\\-performance back\\-end applications using asynchronous programming languages such as Python, Node.js, and Golang. You will lead architectural decisions, drive code quality through reviews, and establish best practices for asynchronous programming. This role also involves strategic planning of technology stacks and development tools, while collaborating closely with cross\\-functional teams to support model development and productization.
+   
+
+  
+
+ Key Responsibilities
+   
+
+  
+
+**Primary Responsibilities**
+* Lead end\\-to\\-end implementation of backend and frontend systems.
+* Collaborate with Front End Developers, Data Scientists, Data Engineers, ML Engineers, and Software Development Engineers to support model development and deployment.
+* Design, build, and maintain efficient, reusable, and reliable backend code using appropriate design patterns.
+* Optimize application performance, quality, and responsiveness.
+* Identify and resolve bottlenecks, bugs, and other technical issues.
+* Stay current with full stack technologies, especially React and Python.
+
+
+ Secondary Responsibilities
+   
+
+  
+
+* Ensure code consistency and quality by adhering to best practices in Python, Node.js, and Golang.
+* Conduct thorough code reviews and collaborate with team members to elevate coding standards.
+* Advocate for and implement backend development best practices.
+
+
+ What We Are Looking For
+   
+
+  
+
+ Education
+   
+
+  
+
+* Graduation: B.Sc (Bachelor of Science) or B.Tech (Bachelor of Technology) or BCA (Bachelor of Computer Applications)
+* Post\\-Graduation: M.Sc (Master of Science) or M.Tech (Master of Technology) or MCA (Master of Computer Applications)
+
+
+**Experience**
+* 4\\+ years of relevant experience in backend software development
+
+
+ Skills and Attributes
+   
+
+  
+
+* Strong proficiency in asynchronous programming using Python, Node.js, Golang, or similar technologies.
+* Solid understanding of backend architecture and design patterns.
+* Experience with full stack development, particularly React and Python.
+* Ability to mentor junior developers and lead by example.
+* Excellent problem\\-solving skills and attention to detail.
+* Passion for innovation and continuous improvement in backend development practices.","Banking","https://in.linkedin.com/company/idfcfirstbank","https://media.licdn.com/dms/image/v2/C510BAQFTSvld42aE8g/company-logo_100_100/company-logo_100_100/0/1630572386170/idfcfirstbank_logo?e=2147483647&v=beta&t=tllGTcoEeBN_kgvgcMsq34XQpSUhrHjOMP8tcn6-Bfw","","","","","","","","","","",""
+"li-4457899800","linkedin","https://www.linkedin.com/jobs/view/4457899800","","Android Developer","Flexiple","","","fulltime","","","","","",True,"associate","Engineering, Information Technology, and Product Management","","","**Android Developer** 
+
+
+
+
+**A high\\-growth, VC\\-backed SaaS company hiring its founding India team, building the Android client for a product used by teams in over 40 countries** 
+
+
+
 
 **Location:** 
- Bangalore
+ Bengaluru, Mumbai, Delhi NCR, Hyderabad, Pune, Chennai, Kolkata, Ahmedabad — or Remote (India)
+ 
+
+
+
+**About the Company** 
+
+
+
+
+ The company has partnered with Flexiple to bring an Android Developer onto its founding India engineering team, with real ownership over the app's roadmap from day one. Flexiple is a managed marketplace that helps global companies build high\\-performing teams and GCCs in India.
+ 
+
+
+
+**Role Overview** 
+
+
+
+
+ As Android Developer, you will build core app features end to end and help set the architecture patterns the mobile codebase will run on for years.
+ 
+
+
+
+**Key Responsibilities** 
+
+
+
+
+**App Development** 
+
+
+
+* Build and ship features in Kotlin/Java across the app's core modules
+* Own performance — app startup time, memory footprint, and crash\\-free sessions
+* Write unit and UI tests and keep the CI pipeline green
+
+
+
+**Collaboration \\& Quality** 
+
+
+
+* Work with design and product to turn specs into polished, accessible screens
+* Participate in code review and raise the bar on architecture and code quality
+* Debug and resolve issues surfaced by crash reporting and app store reviews
+
+
+
+**Ideal Candidate Profile** 
+
+
+
+* 2 to 6 years building production Android apps in Kotlin or Java
+* Solid grasp of Android architecture components, coroutines, and modern UI toolkits (Jetpack Compose or XML\\-based views)
+* Experience shipping to the Play Store and reading crash/ANR reports to root\\-cause issues
+* Clear written and spoken English and a reliable remote\\-work setup
+
+
+
+**Preferred Qualifications** 
+
+
+
+* Exposure to CI/CD pipelines for mobile release management
+* Familiarity with a state\\-management or DI framework used at scale (Hilt, Dagger, or similar)
+
+
+
+**What We Offer** 
+
+
+
+* Ground\\-floor ownership of the Android codebase, not a single feature slice
+* Remote\\-friendly, pan\\-India hiring with long\\-term placement
+* Direct collaboration with the founding product and design team
+
+
+
+**Hiring Process** 
+
+
+
+
+ HR Screening → Assignment → Technical Round → Manager Round → Culture Fit
+ 
+
+
+
+ This posting is for one opening now, with your profile held for the mobile hires that follow.","Software Development, Technology, Information and Internet, and IT Services and IT Consulting","https://www.linkedin.com/company/flexipletech","https://media.licdn.com/dms/image/v2/D560BAQGgWu7mPc9m1Q/company-logo_100_100/company-logo_100_100/0/1724216885400/flexiple_logo?e=2147483647&v=beta&t=zfUBYQ07CTdm0T4IG-m6Uv6S9XTB313H4QUPEwEJpvs","","","","","","","","","","",""
+"li-4457021651","linkedin","https://www.linkedin.com/jobs/view/4457021651","","Mendix Lead","Capgemini","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Other","","","At Capgemini Engineering, the world leader in engineering services, we bring together a global team of engineers, scientists, and architects to help the world’s most innovative companies unleash their potential. From autonomous cars to life\\-saving robots, our digital and software technology experts think outside the box as they provide unique R\\&D and engineering services across all industries. Join us for a career full of opportunities. Where you can make a difference. Where no two days are the same.
    
 
   
 
 **Job Description**
-* Responsible for the development of Pegasus, our next\\-generation massively parallel physical verification product.
-* Performs as individual contributor on case analysis, problem solving, bug fixes, new feature development, and validation under the mentorship from senior developers.
-
-
-**Requirements**
-* BE/BTech/ME/MTech/MS in CS or equivalent with at least 3 years software development experience.
-* Excellent programming skill in C\\+\\+ is required. Knowledge and experience with Python is a plus.
-* Solid background in computational geometry and graph algorithm is preferred.
-* Good English reading and writing skills.
-* Good communication skills.
-
-
-**We’re doing work that matters. Help us solve what others can’t.**","Software Development","https://www.linkedin.com/company/cadence","https://media.licdn.com/dms/image/v2/C560BAQFORFBYBIoPHQ/company-logo_100_100/company-logo_100_100/0/1630668285973?e=2147483647&v=beta&t=2J-kabPjQZhiv-NQmJBV5GTY1H_oVFa73HtuaA2-b0M","","","","","","","","","","",""
-"li-4456822622","linkedin","https://www.linkedin.com/jobs/view/4456822622","","Agentic AI Engineer","BayOne Solutions","","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**About the Role** 
-
-
-
-
- We are hiring an Agentic AI Engineer to build and ship production AI systems as part of BayOne's AI Strategy and Innovation Office. The role sits within a collaborative, distributed engineering team and contributes to both internal projects and solutions developed for the practice's client portfolio. Our portfolio extends across many industries and business areas, and the work shifts across technical areas from one engagement to the next. The role requires adaptability, breadth of thinking, and the discipline to bring rigorous engineering to every deliverable. The Agentic AI Engineer is personally accountable for the quality and reliability of every deliverable produced, on both internal and client engagements. The work spans agent\\-based systems, web applications, data engineering, and infrastructure, with agentic pair programming as the primary working mode. Engineering discipline, sound technical judgment, and adherence to the team's quality standards are expected on every piece of work. The ideal candidate is currently working with agentic AI systems in a hands\\-on capacity and has a track record of shipping production systems. Professional experience extends beyond generative AI alone, with a broader engineering foundation that demonstrates range across problem types. The role calls for an engineer who delivers consistently, owns what they ship, and brings the same rigor to unfamiliar problems as to familiar ones
- **.** 
-
-
-
-
-  
-
-
-
-
-
-**REQUIRED QUALIFICATIONS:** 
-
-
-
-
-**Engineering Experience:** 
-
-
-
-* Professional engineering experience that extends beyond generative AI, demonstrating a broader technical foundation.
-* Currently or recently working with agentic AI systems in a hands\\-on capacity.
-* Experience building POCs, demos, or production systems using agentic methods.
-
-
-
-  
-
-
-
-
-
-**Technical Requirements:** 
-
-
-
-* Python as primary language.
-* Microsoft Azure required as the primary cloud platform.
-* Hands\\-on experience building with Azure AI Foundry.
-* Claude Code experience and expertise required, including hands\\-on development of skills and plugins on the platform. This is non\\-negotiable for the role.
-* LangGraph experience required. Demonstrated ability to design state graphs, conditional edges, and multi\\-agent compositions.
-* Model Context Protocol experience required. Comfortable designing tool calls and building protocol wrappers.
-* Agentic pair programming with generative AI as the primary working mode. Prior experience is required.
-* Pydantic for data validation and structured outputs across agent systems and APIs.
-* SQL proficiency and PostgreSQL experience.
-* Vector database experience (pgvector, Azure AI Search, or similar).
-* Familiarity with modern data platforms such as Snowflake and Databricks.
-* Multi\\-step agent systems with proper evaluation and validation.
-* Strong fluency across modern frontier language models such as the GPT, Claude, and Gemini model families. Model selection is driven by the requirements of each task and the practical considerations of cost.
-* The discipline to choose mature, proven frameworks for AI engineering work. Technical decisions are grounded in clear engineering justification and supported by data.
-* Docker and containerization for development and deployment workflows.
-* FastAPI or equivalent web frameworks for building APIs and backend services.
-* Working knowledge of GitHub workflows, code review discipline, and infrastructure\\-as\\-code patterns.
-
-
-
-  
-
-
-
-
-
-**Preferred Qualifications:** 
-
-
-
-* Although Microsoft Azure is the primary platform, Google Cloud Platform experience is also valuable and applicable to the practice's work.
-* Familiarity with Azure Container Apps, Azure Kubernetes Services, or similar container orchestration platforms.
-* Familiarity with Apache Software Foundation tools such as Apache Airflow, Apache Kafka, and Apache Flink.
-* Experience with LangChain, PyTorch, or other AI and machine learning frameworks.
-* CrewAI or other multi\\-agent frameworks.
-* LlamaIndex for RAG and data ingestion workflows.
-* Celery and Redis for background task processing and caching.
-* Familiarity with A2A (Agent\\-to\\-Agent) protocol for inter\\-agent communication.
-* Experience with modern natural language processing tools, including embedding models and entity recognition.
-* Familiarity with vision\\-language model integration for multi\\-modal AI use cases.
-* Experience working in regulated markets, including the compliance and risk\\-management disciplines such environments require.
-* Playwright for end\\-to\\-end testing automation.
-* Familiarity with hybrid architectures that integrate deterministic and generative AI techniques.","IT Services and IT Consulting","https://www.linkedin.com/company/bayone-solutions","https://media.licdn.com/dms/image/v2/D560BAQFB2EacVt_3mw/company-logo_100_100/company-logo_100_100/0/1720628480768/bayone_solutions_logo?e=2147483647&v=beta&t=c_zZs1NIDcyTHiQf78pNZyUmZqegMbJouSiCDXH7AIs","","","","","","","","","","",""
-"li-4447615184","linkedin","https://www.linkedin.com/jobs/view/4447615184","","Modern C++ Software Development (C++17) for Linux-Based Embedded Systems","Cognizant","Bangalore Urban, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","****Skill\\-****
- Modern C\\+\\+ Software Development (C\\+\\+17\\) for Linux\\-Based Embedded Systems
+ Mendix Lead
    
 
   
 
-****Experience\\-****
- 5\\+ years
+ Location: Pan India
    
 
   
 
-****Location\\-****
- Pune, Bangalore (Hybrid)
+ Experience: 8–14 years
    
 
   
 
-****Level\\-****
- SA or M
+**Company Overview**
+ We are a global technology and consulting organization focused on delivering high\\-quality digital transformation solutions. Our teams work across industries to help clients innovate, optimize business processes, and build scalable technology platforms. With a strong focus on low\\-code application development, cloud modernization, and enterprise solutions, we empower organizations to accelerate growth and enhance customer experience.
    
 
   
 
-****Job Requirements\\-****
- Mandatory Skills: Strong Modern C\\+\\+ (C\\+\\+17 or Higher), STL (Standard Template Library), Linux, Git/GitHub, Agile/Scrum, Software Design \\& Debugging
+ Role Overview
    
 
   
 
- Good to Have Skills: Adaptive AUTOSAR, Functional Safety, Robotics/Localization/Maps, GitHub Copilot, JIRA, Confluence, CI/CD Automation","IT Services and IT Consulting and Business Consulting and Services","https://www.linkedin.com/company/cognizant","https://media.licdn.com/dms/image/v2/D4E0BAQFZH4svu5BTZA/company-logo_100_100/B4EZk_EfNgHgAU-/0/1757699778309/cognizant_logo?e=2147483647&v=beta&t=pEIgD9-D_EFoL3rsreK0H2EZEcsXWdZSN64-dV7VrSU","","","","","","","","","","",""
-"li-4455815369","linkedin","https://www.linkedin.com/jobs/view/4455815369","","Tech Associate_ Hybrid_Noida","Edge Corporation","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"entry level","Information Technology","","bharti@edgecorporation.net","**Job Title:** 
-
- Senior Backend Engineer (6\\-8 Years Experience)
- 
-
-
-
-
-  
-
-
-
-
-
-**We are seeking a detail\\-oriented and highly skilled Senior Backend Engineer with 6–8 years of experience to design, develop, and deliver high\\-quality micro services. The ideal candidate will have strong expertise in NodeJS Development (Typescript), SQL (relational) and NoSQL (non\\-relational) databases and solid architectural principles.** 
-
-
-
-
-
-
-
-
-**Key Responsibilities:** 
-
-
-
-* Design, develop, and maintain nodejs micro services.
-* Implement modular, scalable architectures following industry standards for micro service development.
-* Manage cross dependencies across multiple service domains.
-* Write unit and integration tests using jest.
-* Collaborate with QA, product, design and frontend teams in an Agile environment.
-* Participate in code reviews and mentor junior engineers.
-* Continuously improve development practices and tools.
-
-
-
-  
-
-
-
-
-
-**Required Skills \\& Qualifications:** 
-
-
-
-* 6–8 years of experience in nodejs development.
-* Strong proficiency in Typescript.
-* Experience with Express, sequelize and joi.
-* Strong experience in Sql and NoSql.
-* Experience with jest testing framework.
-* Experience in Agile/Scrum environments.
-* Strong problem\\-solving and communication skills.
-
-
-
-  
-
-
-
-
-
-**Preferred Qualifications:** 
-
-
-
-* Experience with CI/CD pipelines (e.g., Jenkins, GitHub Actions).
-* Experience with use of containerization tools like Docker.
-* Familiarity with cloud platforms (AWS, Azure, or GCP).
-* Experience with event driven architecture.
-
-
-
-
-
-
-
-**Key Competencies:** 
-
-
-
-* Attention to detail
-* Ownership and accountability
-* Critical thinking
-* Team collaboration
-* Continuous learning mindset
-
-
-
-
-
-
-
-
-**Logistics \\& Behavioral Fit** 
-
-
-
-* Comfort and flexibility with a
- **rotational shift** 
- schedule to support global operations.
-* **Immediate availability** 
- to transition into the role smoothly.
-* Ownership of a
- **valid Passport** 
- for potential global alignment or documentation requirements.
-* Okay with Noida Location
-
-
-
-  
-
-
-
-
-
- Share resume with bharti@edgecorporation.net","Information Technology & Services","https://in.linkedin.com/company/edgecorporation","https://media.licdn.com/dms/image/v2/C4D0BAQESjBI4npYsYw/company-logo_100_100/company-logo_100_100/0/1630514127671?e=2147483647&v=beta&t=my0GiGpF49_mHa3aJLRvp8zyexab_pTKmVKgYK5c0mo","","","","","","","","","","",""
-"li-4428228053","linkedin","https://www.linkedin.com/jobs/view/4428228053","","Senior Platform Software Engineer, Oracle Health","Oracle","Ahmedabad, Gujarat, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","_mb@oracle.com","**Job Description**
- Owns moderately complex components within platform services or SDKs; leads team\\-level improvements to integration frameworks and developer tooling. Performs deep debugging across a bounded set of distributed services, driving fixes that protect downstream consumers and upgrade paths. Analyzes usage, performance, and error budgets for specific platform surfaces; implements targeted resilience and capacity optimizations. Authors and curates team\\-scoped documentation, samples, and adoption guidance.
+ This role requires strong Mendix development expertise with the ability to design, develop, and deliver Mendix\\-based web and mobile applications.
    
 
   
 
-**Responsibilities**
-**Key Responsibilities**
-**Platform Software Development:**
-* Own a bounded platform component (service module, SDK area) and evolve its contracts for multi\\-tenant use.
-* Perform deep debugging across a limited\\-service graph; drive compatibility\\-safe remediation plans.
-* Implement targeted resilience/capacity patterns and document adoption guidance for team consumers.
+ Key Responsibilities
+   
+
+  
+
+* Develop and maintain Mendix web and mobile applications.
+* Collaborate with cross\\-functional teams to gather requirements and develop technical solutions.
+* Ensure application performance, quality, and responsiveness.
+* Support deployments, resolve technical issues, and optimize existing applications.
 
 
-**Software Development and Coding \\- Design, Testing, and Optimization:**
-* Designs software solutions and analyzes and helps identify requirements to achieve business and operational goals, independently.
-* Adheres to and suggests improvements to all phases of the software development lifecycle.
-* Utilizes working knowledge to develop new software features and enhancements following design specifications and develops documents to clarify software design and code.
-* Leads code reviews in designated areas to help drive improvements.
-* Conducts debugging and troubleshooting to identify and fix moderately complex software issues. Develops fixes for identified issues.
-* Implements software testing (e.g., functional and non\\-functional testing), quality assurance processes, software error logging, monitoring, and observability for effective debugging, ensuring review by manager and/or lead throughout the process.
-* Exercises judgment and discretion to conduct performance profiling and optimization of coding.
-* Troubleshoots and resolves moderately complex issues related to application programming interface (API) functionality and integration.
-* Implements moderately complex API versioning, lifecycle, and interoperability strategies.
+ Ideal Candidate Profile
+   
+
+  
+
+* Experience of 8 to 14 years overall with a minimum of 5\\+ years of relevant experience on Mendix.
+* Mendix Advanced Developer Certification (Required).
+* Mendix Expert Certification (Preferred).
+* Expertise in Mendix web and mobile app development.
 
 
-**Software Architecture \\- Software System Structural Design:**
-* Designs and develops software, systems, and services aligned to pre\\-defined system architecture.
-* Develops working knowledge of software architecture decisions and best practices.
-* Collaborates with team leads to review work to ensure alignment with software architecture.
-* Implements moderately complex performance optimization and scalability strategies in software design.
+ Works in the area of Software Engineering, which encompasses the development, maintenance and optimization of software solutions/applications.1\\. Applies scientific methods to analyse and solve software engineering problems.2\\. He/she is responsible for the development and application of software engineering practice and knowledge, in research, design, development and maintenance.3\\. His/her work requires the exercise of original thought and judgement and the ability to supervise the technical and administrative work of other software engineers.4\\. The software engineer builds skills and expertise of his/her software engineering discipline to reach standard software engineer skills expectations for the applicable role, as defined in Professional Communities.5\\. The software engineer collaborates and acts as team player with other software engineers and stakeholders.
+   
+
+  
+
+ Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55\\-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end\\-to\\-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.","IT Services and IT Consulting","https://fr.linkedin.com/company/capgemini","https://media.licdn.com/dms/image/v2/D4E0BAQHIL3HctxNfvg/company-logo_100_100/B4EZokv7VQIUAQ-/0/1761553135376/capgemini_logo?e=2147483647&v=beta&t=zG4Rnn4ZR9lwfNpFaLXXm6DKX3XwtS0cYTIC2dDtWfg","","","","","","","","","","",""
+"li-4456821725","linkedin","https://www.linkedin.com/jobs/view/4456821725","","Consulting","Infosys","Bengaluru East, Karnataka, India","","fulltime","","","","","",False,"entry level","Consulting, Information Technology, and Sales","","","* Strong programming experience in Python and SQL
+* Experience with AI/ML frameworks (TensorFlow, PyTorch, Scikit\\-learn)
+* Hands\\-on experience with Generative AI and Large Language Models (LLMs)
+* Familiarity with LLM frameworks such as LangChain or LlamaIndex
+* Understanding of RAG architectures, vector databases, embeddings, and prompt engineering
+* Experience building AI\\-powered solutions such as chatbots, knowledge assistants, ticket analytics, and summarization tools
+* Understanding of ITSM platforms (ServiceNow, BMC Remedy, etc.)
+* Experience integrating AI solutions with automation platforms and APIs
+* Understanding of data preprocessing, feature engineering, and model evaluation
+* Familiarity with MLOps concepts and model deployment
+* Solution Development Design and develop AI/GenAI\\-based solutions for AMS use cases such as ticket analytics, incident summarization, root cause insights, and knowledge automation.
+* PoC \\& MVP Development Build Proof of Concepts (PoCs) and Minimum Viable Products (MVPs) to validate AI\\-driven transformation opportunities.
+* GenAI Implementation Develop applications using LLMs, RAG architectures, vector databases, and prompt engineering techniques.
+* Integration Integrate AI solutions with ITSM platforms, enterprise applications, and automation tools.
+* Optimization Improve model performance using prompt tuning, evaluation frameworks, and feedback loops.
+* Documentation Maintain technical documentation, solution architecture, and implementation guidelines.
+* Collaboration Work closely with lead consultants, architects, and development teams to deliver scalable AI solutions.","IT Services and IT Consulting","https://in.linkedin.com/company/infosys","https://media.licdn.com/dms/image/v2/D560BAQEv67uGFge5Sw/company-logo_100_100/B56ZfEsEVpHoAU-/0/1751351576332/infosys_logo?e=2147483647&v=beta&t=cZJHsfAqzeMJNdxHldoUAVht2bRr9_VtbB2VlJJn19I","","","","","","","","","","",""
+"li-4457896893","linkedin","https://www.linkedin.com/jobs/view/4457896893","","Engineer-Firmware Design","Evolute Group","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"executive","Engineering and Information Technology","","","**Role Purpose \\[Why this role exists/** 
+**Business Problems This Role Will Solve** 
+**] (2–4 lines defining business purpose):**
+* The Embedded Firmware Engineer is responsible for developing, testing, and maintaining firmware for embedded products.
+* This role supports the development of reliable, high\\-quality embedded solutions by implementing firmware features, fixing defects, and collaborating with hardware and software teams.
+* The role helps accelerate product development while ensuring firmware stability and quality.
 
 
-**Issue/Defect Collaboration \\- Software Products Support:**
-* Collaborates within and beyond immediate team to understand customer issues and align solutions.
-* May provide technical guidance and support to customers regarding customer\\-reported issues, independently.
-* Coaches, mentors, and guides others to advocate for customers' interests and suggests product enhancements based on feedback.
-* Influences team to ensure customer satisfaction through timely resolution of issues and effective communication.
-* Implements customer issue and/or defect handling and training processes, independently.
-* Investigates and troubleshoots complex product maintenance issues to ensure customer agreement on short\\- and long\\-term solutions (e.g., future enhancements).
+**Critical Skills Required**
+* Must\\-Have Functional Skills
 
 
-**Practices and Standards Compliance \\- Security and Compliance:**
-* Collaborates with the team to establish and follow development practices and coding standards.
-* Exercises judgment and discretion to ensure code quality and adherence to broad acceptance criteria during development.
-* Keeps up to date with industry best practices and applies them to software development processes.
-* Implements secure coding practices to prevent security vulnerabilities.
+**Skill**
+**Required Level \\[Basic/Intermediate/ Advance]**
+**Embedded C**
+**Intermediate**
+**Knowledge on Controllers**
+**Intermediate**
+**Communication Protocols (UART, SPI, I2C)**
+**Basic**
+**Reading Datasheets and Technical Manuals**
+**Basic**
+* Transferable/ Trainable Skills
+* Basic knowledge of Embedded C programming.
+* Understanding of microcontrollers and embedded systems.
+* Familiarity with digital communication protocols such as UART, SPI, I2C, USB, or CAN.
+* Understanding of electronics fundamentals and circuit diagrams.
+* Problem\\-solving and analytical thinking.
+* Willingness to learn new technologies and products.
+* Good communication and teamwork skills.
 
 
-**Development Operations \\- System Maintenance:**
-* Performs periodic maintenance and testing operations for systems that require upgrading or patching (e.g., for critical vulnerabilities).
-* Exercises judgment and discretion to drive improvements, ensure automation, testing, and debugging of systems to ensure service/product availability, health, support, and reliability.
+**Major Areas Of Contribution**
+* Strategic Contribution:
+* Contribute to timely delivery of firmware releases.
+* Follow engineering best practices and coding standards.
+* Continuously improve firmware quality through testing and code optimization.
+* Learn new technologies to support future product development.
+* Functional Contribution:
+* Develop firmware modules using Embedded C.
+* Interface firmware with peripherals such as UART, SPI, I2C, USB, ADC, GPIO, Timers, and PWM.
+* Debug firmware using hardware debugging tools.
+* Read and understand microcontroller datasheets and reference manuals.
+* Integrate firmware with hardware and application software.
+* Perform root cause analysis for firmware issues.
+* Document firmware design, test results, and known issues.
+* Support manufacturing and field issue investigations when required.
 
 
-**Core Responsibilities**
-**Planning \\& Execution:**
-* Independently manages work, monitoring timelines and deliverables to ensure projects or initiatives stay on track and meet requirements. Proactively prioritizes work and adapts to resource or timeline shifts, suggesting adjustments to maintain project efficiency.
+**Success Indicators in First 6 Months**
+* Successfully complete onboarding and understand the organization's development process.
+* Independently develop and test small firmware features.
+* Resolve assigned firmware defects within expected timelines.
+* Demonstrate proficiency with development tools and debugging techniques.
+* Actively participate in code reviews and technical discussions.
+* Deliver assigned tasks with minimal supervision.
+* Follow coding standards and documentation practices consistently.
 
 
-**Collaboration \\& Partnership:**
-* Collaborates across teams to align on expectations and achieve shared objectives. Builds and maintains a comprehensive understanding of business, stakeholder, and/or customer needs to build and support effective partnerships. Actively listens to diverse perspectives and asks questions to ensure understanding of others.
-
-
-**Problem Solving:**
-* Independently identifies and addresses standard and non\\-standard issues in accordance with standard practices, escalating more complex issues as appropriate. Analyzes data and/or information from multiple sources to troubleshoot standard and non\\-standard errors. Contributes to knowledge sharing and best practices.
-
-
-**Continuous Learning:**
-* Embraces continuous learning by actively seeking to build knowledge and new skills and/or tools and staying current with industry trends and best practices. Seeks out and leverages feedback and training to improve skills. Contributes to a culture of continuous learning and knowledge sharing with team members.
-
-
-**Continuous Improvement:**
-* Develops ideas and recommends updates to increase the efficiency and effectiveness of processes, protocols, and workflows within a team. Seeks input from team members on alternative approaches and methods for improving work.
+**Growth opportunity for this role**
+* Embedded Firmware Engineer → Senior Embedded Firmware Engineer.
+* Opportunity to work on complete product development from concept to production.
+* Exposure system architecture, and cross\\-functional engineering.
+* Opportunity to mentor junior engineers as experience grows.
+* Career progression toward Technical Lead, Firmware Architect, or Engineering Manager based on performance and technical expertise.
 
 
 **Qualifications**
- Career Level \\- IC3
+* Bachelor's degree in Electronics Communication Engineering, Electrical Engineering, Computer Science, Instrumentation, or related field.
+* 0–1 year of experience (Freshers eligible).
+* Academic projects involving embedded systems or microcontrollers.
+* Knowledge of Embedded C programming.
+* Familiarity with ARM Cortex\\-M, STM32, Renesas, NXP, TI, Microchip, or similar microcontrollers is an advantage.
+* Basic understanding of communication protocols (UART, SPI, I2C, USB, CAN).
+* Exposure to RTOS is an added advantage.
+* Strong analytical, troubleshooting, and problem\\-solving skills.
+* Good communication and willingness to learn.","Electrical Equipment Manufacturing","https://in.linkedin.com/company/evolute-group-of-companies","https://media.licdn.com/dms/image/v2/D560BAQF2ihs7CEOykA/company-logo_100_100/company-logo_100_100/0/1735802011602/evolute_group_of_companies_logo?e=2147483647&v=beta&t=Iumx9K7yGrJzATvADXd94kda22IWoa1w5mFQg7lj8M0","","","","","","","","","","",""
+"li-4456803790","linkedin","https://www.linkedin.com/jobs/view/4456803790","","Principal Engineer Global Supply Chain Technology","Dr. Martens plc","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Management and Manufacturing","","","So, What's the Story?
    
 
   
 
-**About Us**
- Only Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life\\-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.
+ Global Supply Chain Technology at Dr. Martens is in the middle of some of our most consequential delivery work: Program LACE, which is driving real business adoption of demand planning, a new assortment planning capability, allocation and replenishment model spanning both our DTC and wholesale businesses. These are not single\\-tool projects. Each one touches planning, product, sourcing, logistics, and finance data, and each one succeeds or fails on whether the underlying technology choices genuinely solve the business problem in front of them.
    
 
   
 
- True innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
+ We are looking for a Principal Engineer who thinks like a builder of business outcomes first and a technologist second, someone who has spent the first decade of their career deep in hands\\-on engineering and has since grown into the kind of person who can walk into any part of the supply chain, understand the problem the business is actually trying to solve, and know whether the right answer is a configuration change, a custom build, an integration, or increasingly, an agentic or AI\\-driven solution. Equally, this person respects what already works: not every problem needs a new platform, and part of the craft is knowing when the traditional, proven solution already in the enterprise is the right call.
    
 
   
 
- We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation\\-request\\_mb@oracle.com or by calling 1\\-888\\-404\\-2494 in the United States.
+ This is deliberately not a role for someone who has spent a career mastering a single tool. We already have deep specialists in Blue Yonder, FlexPLM, and D365, and this role is not a replacement for that depth. What we need instead is someone with the range to pick up any SaaS platform or custom application quickly, because their real expertise is in retail and supply chain domain problems, and the technology is the means, not the end.
    
 
   
 
- Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.","IT Services and IT Consulting","https://www.linkedin.com/company/oracle","https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c","","","","","","","","","","",""
-"li-4436647816","linkedin","https://www.linkedin.com/jobs/view/4436647816","","Software Developer 4","Oracle","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","_mb@oracle.com","**Job Description**
-**About the Company/Team**
- Oracle Health Infrastructure and Platform Services builds and operates the cloud foundations, shared platforms, and engineering capabilities that support Oracle Health products and services.
+ Above all, we hire for how people work together. Care, respect, and genuine collaboration sit at the centre of everything this team does, and we expect this Principal Engineer to bring that same spirit to every partnership, especially the close working relationship with our Technical Architect, translating architectural direction into solutions that actually land across the supply chain estate.
    
 
   
 
- The Oracle Cloud Infrastructure (OCI) team provides the opportunity to build and operate massive\\-scale, integrated cloud services in a broadly distributed, multi\\-tenant environment. OCI is committed to delivering secure, reliable cloud products for customers addressing some of the world’s most important challenges.
+ The Gig
    
 
   
 
- Within Oracle Health, this team is building an AI\\-native engineering platform: a set of intelligent agents and reusable cloud capabilities that help engineering teams understand complex systems, reason through problems, and safely execute work across the software lifecycle.
+ Role Purpose
    
 
   
 
-**Job Summary**
- Oracle Health Infrastructure and Platform Services is looking for engineers with experience building cloud\\-native, AI\\-assisted platforms and systems.
+ As Principal Engineer, you will be the senior hands\\-on technologist bridging business problems in Global Supply Chain to the right technology solution, whatever platform that solution lives on. You will work in close partnership with our Technical Architect to turn architectural direction into working, adopted solutions, and you will bring the judgement to know when a modern data or agentic approach beats a traditional one, and when it does not.
    
 
   
 
- The role combines hands\\-on software engineering, cloud platform development, and operational ownership. You will help turn complex or manual engineering work into safe, repeatable platform capabilities and runbooks that improve developer productivity, reliability, and customer outcomes.
+ Key Responsibilities
    
 
   
 
- The ideal candidate brings strong engineering fundamentals, sound judgment in mission\\-critical or regulated environments, and curiosity about applying emerging AI technologies responsibly in production systems.
+* Partner directly with business stakeholders across planning, product, sourcing, logistics, and finance to understand the real problem behind a request, not just the ask as first framed, and translate it into a scoped, deliverable technology solution.
+* Work hand\\-in\\-hand with the Technical Architect to convert architectural direction and design principles into concrete, implemented solutions across the supply chain technology estate.
+* Lead hands\\-on delivery on our current priority initiatives, including Program LACE (driving business adoption of demand planning on Blue Yonder), the new assortment planning capability, and the allocation and replenishment build for DTC and wholesale.
+* Evaluate solution options on their merits: assess when a SaaS configuration, custom build, integration, data pipeline, or an agentic/AI\\-driven approach is the right answer, and when an existing, proven capability in the enterprise should simply be extended rather than replaced.
+* Bring a working understanding of data engineering and integration patterns across the supply chain landscape, so that whatever platform you are building on, the data flows into and out of it cleanly and reliably.
+* Rapidly build fluency in new SaaS or custom applications as our platform footprint evolves, using deep retail and supply chain domain knowledge as the anchor rather than relying on prior tool\\-specific experience alone.
+* Act as a technical mentor and trusted second opinion for engineers and consultants working across individual platforms such as Blue Yonder, FlexPLM, and D365, helping connect their platform\\-specific work to the broader solution architecture.
+* Champion a high\\-care, highly collaborative way of working: show up for the team, communicate honestly about risk and progress, and treat every partner, whether business, architecture, or vendor, with genuine respect.
+
+
+**How You'll Think About Technology**
+ You should be comfortable holding two ideas at once: that data, AI, and agentic solutions are changing what is possible in supply chain technology, and that the traditional systems and integrations already running in the enterprise often remain the right, most cost\\-effective answer. The value you bring is not enthusiasm for the newest approach for its own sake, but the judgement to pick the right tool, new or old, for the business problem in front of you.
    
 
   
 
-**Key Responsibilities**
-* Discover high\\-value engineering opportunities and translate them into intelligent, production\\-ready platform capabilities.
-* Design, build, and operate AI\\-native platform services and intelligent agents that amplify engineering teams across the software lifecycle.
-* Own ambiguous engineering problems end\\-to\\-end, working backwards from customer and engineering needs to define outcomes, architecture, delivery plans, and operational measures.
-* Partner across engineering, product, and domain teams to understand complex challenges, challenge conventional approaches, and deliver solutions with measurable impact.
-* Architect and implement cloud\\-native distributed systems with a focus on scalability, reliability, security, maintainability, observability, and developer experience.
-* Experiment rapidly with emerging AI technologies, validate ideas through prototypes, and evolve successful approaches into safe, production\\-ready platform capabilities.
-* Build reusable, platform\\-first capabilities that enable multiple engineering teams and reduce duplicated point solutions.
-* Influence technical direction through architecture, design reviews, engineering standards, technical decision\\-making, mentoring, and hands\\-on leadership.
-
-
-**Responsibilities**
-**Qualifications \\& Skills**
-**Experience**
-**Mandatory Qualifications**
-* At least 8 years of software engineering experience building scalable applications, backend services, developer platforms, or distributed systems.
-* Bachelor’s degree in Computer Science or a related technical discipline, or equivalent practical experience.
-* Demonstrated ability to independently own complex engineering problems from discovery through production and measurable adoption.
-* Strong programming skills in Java, Python, or another object\\-oriented programming language.
-* Deep understanding of distributed systems, cloud\\-native architectures, API design, software engineering best practices, and production operations.
-* Experience designing reusable platform capabilities, developer tools, or engineering solutions adopted by multiple teams.
-* Demonstrated ability to make sound architectural trade\\-offs across scalability, reliability, security, cost, maintainability, and developer experience.
-* Experience leading technical design, resolving ambiguity, and driving complex initiatives across organizational boundaries.
-* Ability to use operational data, customer feedback, and engineering metrics to prioritize work and demonstrate impact.
-* Strong communication, technical leadership, mentoring, and problem\\-solving skills.
-* Platform\\-first mindset with a focus on leverage, reuse, and durable engineering outcomes.
-* Strong product and customer judgment when identifying high\\-value engineering problems.
-* Ability to lead through influence and collaborate effectively with globally distributed engineering, product, operations, security, and domain teams.
-* Sound judgment when introducing new technology into mission\\-critical or regulated environments.
-* Ability to raise engineering standards through clear architecture, documentation, mentoring, and operational accountability.
-* Experience building AI\\-native applications, intelligent agents, or agentic systems using large language models.
-* Experience with AI engineering concepts such as retrieval\\-augmented generation (RAG), tool calling, Model Context Protocol (MCP), vector databases, evaluation frameworks, guardrails, or model orchestration.
-* Experience applying AI to software engineering, developer productivity, incident response, diagnostics, or platform operations.
-* Experience building cloud\\-native platforms on OCI, AWS, Azure, Google Cloud Platform, or a comparable cloud environment.
-* Experience with Kubernetes, Docker, Terraform, Infrastructure as Code, and modern platform engineering practices.
-* Experience designing reusable platform capabilities adopted across multiple engineering organizations.
-* Experience with observability platforms, telemetry pipelines, diagnostics, production engineering, healthcare, security, compliance, or another highly regulated environment.
-
-
-**Technical Skills**
-**Core Competencies**
-**Good\\-to\\-Have Qualifications**
-**Self\\-Assessment Questions**
- Before applying, consider the following questions to assess your fit for the role:
+ The Stuff That Sets You Apart
    
 
   
 
-* Have I independently discovered and owned an ambiguous, high\\-impact engineering problem from initial framing through production adoption?
-* Have I designed reusable platform capabilities or developer tools that were adopted across multiple engineering teams?
-* Can I demonstrate architectural leadership and sound trade\\-off decisions for scalable, reliable, secure distributed systems?
-* Have I influenced technical direction, mentored engineers, and delivered measurable outcomes through cross\\-team collaboration?
+**Experience \\& Skills**
+**Must\\-Haves:**
+* 12–16 years of overall technology experience, including roughly the first decade spent in hands\\-on, on\\-the\\-ground engineering or technical development before progressing into a broader, more senior solutioning role.
+* Deep, demonstrated experience in retail or supply chain technology, with real understanding of the business processes behind planning, product, sourcing, logistics, or fulfilment, not just the systems that support them.
+* A track record of learning and applying new SaaS or custom platforms quickly, using domain expertise to bridge the gap rather than requiring long tool\\-specific ramp\\-up time.
+* Strong working knowledge of data engineering fundamentals: how data pipelines, integrations, and master data flow across an enterprise supply chain landscape.
+* A practical understanding of where data, AI, and agentic solutions add genuine business value, balanced with the judgement to recognise when a traditional, already\\-proven enterprise solution is the better choice.
+* Comfort operating across both structured, transactional systems (ERP, planning, PLM) and newer data\\- and AI\\-driven approaches, without over\\-indexing on either.
+* Experience partnering closely with technical architects or solution architects to move from design intent to working, adopted solutions.
+* Exceptional collaboration and communication skills, able to work across business, technical, and vendor teams with equal ease.
+* Deep Expertise in:
+* REST APIs, event driven integrations, microservices patterns
+* Cloud platforms (Azure preferred)
+* Data processing, transformation, and workflow orchestration
+* Secure and scalable integration practices
 
 
-**Qualifications**
- Career Level \\- IC4
+**Nice\\-to\\-Have:**
+* Direct exposure to Blue Yonder, FlexPLM, D365 Supply Chain Management, or similar retail/supply chain platforms.
+* Experience with demand planning, assortment planning, or allocation and replenishment processes for DTC and wholesale businesses.
+* Familiarity with agentic frameworks, AI\\-assisted workflows, or applied machine learning in a supply chain or retail context.
+
+
+ Soft Skills \\& Culture
    
 
   
 
-**About Us**
- Only Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life\\-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.
+* Leads with genuine care for people, for the business problem, and for getting the outcome right, not just for the elegance of the technology.
+* A natural collaborator, especially with the Technical Architect and platform\\-specific engineers and consultants, building shared ownership rather than working in isolation.
+* Curious and pragmatic: excited by what agentic and AI\\-driven solutions can unlock, but never dismissive of the traditional technology already doing the job well.
+* Comfortable operating with a broad remit across many platforms rather than owning one tool deeply, and confident enough to say when a proven existing solution beats a new one.
+* Strong communicator, able to translate technical trade\\-offs into terms business stakeholders can act on.
+* Resilient and adaptable in a fast\\-moving, multi\\-initiative environment, holding Program LACE, assortment planning, and allocation and replenishment work in view at once.
+
+
+ At DM, your technical ability will go hand in hand with our leadership characteristics:
    
 
   
 
- True innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
-   
-
-  
-
- We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation\\-request\\_mb@oracle.com or by calling 1\\-888\\-404\\-2494 in the United States.
-   
-
-  
-
- Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.","IT Services and IT Consulting","https://www.linkedin.com/company/oracle","https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c","","","","","","","","","","",""
-"li-4456826565","linkedin","https://www.linkedin.com/jobs/view/4456826565","","[upto 36LPA] Lead Software Engineer – Distributed Systems & Payments","Jive Jar","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Information Technology","","","**Lead Software Engineer – Distributed Systems \\& Payments** 
+* Inspire people: share a vision and plan linked to our strategy; make people feel they are part of something bigger; grow your people's confidence and capacity through coaching and development.
+* Think like a custodian: think and act strategically about the long\\-term health of DM; make courageous decisions to grow and protect the brand; leave DMs in a better place for consumers and the next generation of leaders.
+* Build connections: form authentic collaborative relationships; build self, talent, diverse \\& inclusive teams and partnerships; create space to have open and honest discussions with your team and peers.
+* Deliver results: empower and hold yourself and your people accountable; create a safe environment to drive performance and progress, not perfection; be agile, find solutions and deliver with integrity.","Retail","https://uk.linkedin.com/company/dr-martens-plc","https://media.licdn.com/dms/image/v2/D4E0BAQGfdnNUfnCflw/company-logo_100_100/company-logo_100_100/0/1698413320050/dr_martens_plc_logo?e=2147483647&v=beta&t=JmyL0xa6dGXMSR1M2tFmOZZrOsbbxrInwJ7ZFwXAkTs","","","","","","","","","","",""
+"li-4455806582","linkedin","https://www.linkedin.com/jobs/view/4455806582","","Senior Salesforce Developer | Marketing Cloud","EduBloom Talent Solutions","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering","","","**Salesforce Marketing Cloud Developer**
 
 
 
@@ -1011,88 +470,47 @@
   
 
 
-
-
-
-**Company:** 
- Jive Jar LLC — Product Division
- 
 
 
 
 **Location:** 
- Hyderabad, Telangana
+ Chennai
  
 
 
 
-**Workplace:** 
- On\\-site
- 
-
-
-
-**Employment type:** 
- Full\\-time
+**Work Mode:** 
+ Work From Office
  
 
 
 
 **Experience:** 
- 8\\+ years
+ 6–10 Years
  
 
 
 
-**Experience:** 
- upto 36LPA INR
+**Employment Type:** 
+ 3\\-Year Project\\-Based Opportunity
  
 
 
 
-  
-
-
-
-
-
-**About Jive Jar** 
-
-
-
-
-  
-
-
-
-
-
- Jive Jar LLC is a U.S.\\-based company building technology products for the U.S. market.
+**CTC:** 
+ ₹20–23 LPA
  
 
 
 
- Our Product Division is developing an AI\\-first, offline\\-capable restaurant point\\-of\\-sale and operations platform for independent restaurants and small multi\\-location groups.
+**Notice Period:** 
+ Immediate to 30 Days Preferred
  
 
 
 
- The platform will support:
- 
-
-
-* Point\\-of\\-sale terminals
-* Kitchen and customer\\-facing displays
-* Payments, tips, refunds, and reconciliation
-* QR and online ordering
-* Merchant back\\-office operations
-* Device and store management
-* Offline transaction processing
-* AI\\-assisted restaurant operations
-
-
-
- Because restaurants cannot stop operating when the internet goes down, the platform must continue processing essential workflows offline and synchronize safely when connectivity returns.
+**Interview Process:** 
+ Telephonic \\+ Face\\-to\\-Face
  
 
 
@@ -1103,33 +521,14 @@
 
 
 
-**About the role** 
-
-
-
-
-  
-
-
-
-
-
- We are hiring a hands\\-on Lead Software Engineer to lead the engineering team and build the technical foundation of the platform.
+ Role Overview
  
 
 
 
- This is an engineering leadership role with substantial coding responsibility. You will guide technical execution, mentor engineers, make architecture decisions, review critical implementations, investigate production failures, and write and run production\\-grade code.
- 
-
-
-
- You will own delivery—not only architecture or planning—and help take the product from early\\-stage development through production readiness and a live customer pilot.
- 
-
-
-
- You should be comfortable working in a fast\\-moving environment where requirements evolve, priorities must be balanced, and technical decisions directly affect product delivery.
+ We are looking for an experienced
+ **Salesforce Marketing Cloud Developer** 
+ with strong hands\\-on expertise in Marketing Cloud development, marketing automation, integrations, and data management.
  
 
 
@@ -1140,36 +539,25 @@
 
 
 
- What you will lead and build
- 
+**Key Skills**
 
 
 
-  
+* Salesforce Marketing Cloud – Email Studio, Journey Builder, Automation Studio, Mobile Studio \\& Data Extensions
+* AMPscript, SQL, HTML/CSS \\& JavaScript/SSJS
+* REST \\& SOAP API Integrations
+* Data Management, Segmentation \\& Audience Management
+* Strong understanding of Marketing Automation
 
 
 
+**Good to Have**
 
-* Lead the engineering team’s day\\-to\\-day technical execution and delivery.
-* Translate product requirements into architecture, implementation plans, production code, and reliable releases.
-* Build TypeScript and Node.js backend services, REST APIs, and event\\-driven workflows.
-* Design distributed, offline\\-first transaction and synchronization systems.
-* Design a secure, scalable, multi\\-tenant PostgreSQL architecture.
-* Implement append\\-only event and transaction\\-processing models.
-* Build idempotency, retry, deduplication, replay, recovery, and reconciliation controls.
-* Handle concurrency, duplicate requests, delayed messages, partial failures, and out\\-of\\-order webhooks.
-* Integrate payment creation, merchant onboarding, tips, refunds, webhook processing, and financial reconciliation.
-* Ensure retries, device reconnects, and repeated requests cannot create duplicate financial transactions.
-* Build and guide the development of merchant back\\-office and QR\\-ordering applications.
-* Define transaction, tax, pricing, discount, tip, and refund business rules.
-* Establish engineering standards for code quality, security, observability, CI/CD, deployment, monitoring, and disaster recovery.
-* Implement monitoring and diagnostics using services such as Sentry and Amazon CloudWatch.
-* Build property\\-based, simulation, and failure\\-injection tests for transactional workflows.
-* Define integration contracts for Android POS applications, payment terminals, printers, and other restaurant hardware.
-* Review AI\\-assisted code and verify its correctness, security, maintainability, and production readiness.
-* Mentor engineers, improve development practices, and help team members grow technically.
-* Work closely with the Product Owner and Principal Engineer to prioritize and deliver product milestones.
-* Take ownership of production readiness and support the product through its first live customer pilot.
+
+
+* Sales Cloud / Service Cloud experience
+* Python or Apex knowledge
+* Salesforce Marketing Cloud Certifications
 
 
 
@@ -1179,342 +567,13 @@
 
 
 
-**Required qualifications** 
+**Preference**
 
 
 
 
-  
-
-
-
-
-* 8\\+ years of professional software engineering experience.
-* Previous experience leading or managing an engineering team.
-* Demonstrated ability to mentor, teach, and improve other engineers.
-* 3\\+ years of production experience with TypeScript, Node.js, or a comparable backend ecosystem.
-* Strong PostgreSQL, SQL, and relational data\\-modeling experience.
-* Production experience with distributed, event\\-driven, offline\\-first, transactional, or highly available systems.
-* Strong understanding of idempotency, retries, deduplication, concurrency, ordering, and data consistency.
-* Experience designing and operating production REST APIs and webhook integrations.
-* End\\-to\\-end payment\\-provider integration experience, including payment creation, refunds, webhook processing, and reconciliation.
-* Experience designing secure multi\\-tenant SaaS applications.
-* Experience testing complex transactional or financial business logic.
-* Experience taking ambiguous product requirements through design, implementation, testing, release, and production support.
-* Experience taking an early\\-stage product to a live pilot or production launch.
-* Practical experience using AI\\-assisted or agentic coding tools such as Codex, Cursor, Claude Code, GitHub Copilot, or equivalent tools.
-* Ability to review AI\\-generated code critically rather than accepting generated output without verification.
-* Strong written and verbal communication skills.
-* Willingness to work full\\-time from our Hyderabad office.
-
-
-
-  
-
-
-
-
-
-**Preferred qualifications** 
-
-
-
-
-  
-
-
-
-
-* Experience in restaurant POS, retail, commerce, fintech, logistics, or ERP systems.
-* Production experience with AWS.
-* Experience with event sourcing or append\\-only event logs.
-* Experience with property\\-based, simulation, chaos, or failure\\-injection testing.
-* Experience with Next.js, Fastify, tRPC, or similar TypeScript frameworks.
-* Working familiarity with Kotlin and Android integration boundaries.
-* Experience integrating POS hardware, printers, customer\\-facing displays, or payment terminals.
-* Experience with semi\\-integrated payment architectures.
-* Experience working in an early\\-stage product company or startup environment.
-
-
-
-  
-
-
-
-
-
-**What success looks like** 
-
-
-
-
-  
-
-
-
-
-
-**During your first year, you will have:** 
-
-
-
-* Established the platform’s core architecture and engineering standards.
-* Built a dependable engineering delivery process.
-* Developed a team capable of producing secure, production\\-quality software.
-* Delivered reliable offline and payment transaction workflows.
-* Prepared the platform for production operations and incident recovery.
-* Helped launch and support the product with its first live restaurant customers.","Business Consulting and Services","https://www.linkedin.com/company/jivejar","https://media.licdn.com/dms/image/v2/D560BAQGik8HsY_vWDA/company-logo_100_100/B56ZsM_fPJG4AY-/0/1765449528785/jivejar_logo?e=2147483647&v=beta&t=5l4oPDz6SUsWz2aQCJ00jbnlkOVhyiwgUeCcy-7_Fh4","","","","","","","","","","",""
-"li-4439581660","linkedin","https://www.linkedin.com/jobs/view/4439581660","","Software Engineer - BIOS Developer 8 to 10 years","Cisco","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**What You'll Do**
- Here is an excellent opportunity to join Cisco's Distributed Software Engineering \\[DSE] business unit , where you will be working on next generation data center products that enable large scale, low\\-latency, high speed networks. You will also be working on switching solutions, better equipping customers to handle growing workloads.
-   
-
-  
-
- You have a unique opportunity to be part of the product development from ground up (Platforms and Software). You would be part of a dynamic testing team which works hand\\-in\\-hand with development team as a cohesive unit to deliver world class quality products. You will have ownership of multiple components and play an important role in understanding new feature requirements, developing test design based on functional specifications, automating them and engaging with customers. You will be interacting with peer engineers / technical leaders within the BU on design/functional and architectural aspects of features and components across Cisco products. As a software QA engineer in this group, you will be responsible for testing, automating \\& enabling platform/software solutions for customers. You will also have an exciting time working on the Storage Area Network along with Ethernet for Cisco's product line.
-   
-
-  
-
-**Who You’ll Work With**
- Data Center Networking Group develops the Nexus 9000 line of data center and cloud switches that feature application awareness to make the network infrastructure flexible and agile for dynamic response to application needs and virtual machine workload mobility. Data Center also developed a 400G, 800G Ethernet transceiver crafted to drastically lower the optics price to out compete the competitor offerings.
-   
-
-  
-
- As we realize our modernization strategies and move into new markets, our diverse, inclusive culture also creates a competitive advantage for Cisco. It ensures we have the fresh ideas and execution capabilities and the local knowledge to best serve our customers and build Cisco brand recognition around the globe. By gaining a better understanding of the world and the differences in its people we can change the way it works, lives, plays, and learns.
-   
-
-  
-
- You will have the opportunity to work closely with Customers, Product Marketing, Hardware and Software groups and delivering the products.
-   
-
-  
-
-**Experience/Who You Are**
-* B.E/B.Tech/ME/Mtech/MS from reputed university and at least 8\\-12 years of software development experience in embedded systems or system software space
-* Hands on Engineer/leader who can work along with senior folks contributing to Architecture, design and development of platform development cycle
-* In depth understanding of hardware boards, layout
-* In depth understanding of BIOS
-* Development experience in one or more areas of BIOS/GRUB/uboot, linux device drivers/ Linux KLM, networking stack, memory model
-* Development experience on PCH and peripherals PCI, I2C, SPI, Higig\\+ bus, FPGA and CPLD handling, handling os special devices and peripherals – I2C\\-GPIO expanders.
-* Exposure to standards – XAUI, SGMI, Serdes, SGMII, MSA
-* Development experience in Chassis management
-* Knowledge of asic forwarding, Linux drivers and 3rdparty ASICs/network processors highly desired.
-* Excellent debugging skills and rich experience using various hardware, memory debugging tools
-* Develop innovative solutions to revolutionize for the next generation data center.
-* Ability to self\\-motivate with a strong desire to learn, and ability to be flexible
-* Flexibility in a fast paced, ever\\-changing, deadline\\-driven environment
-* Develop SDK for next generation feature rich network ASIC
-
-
-**Desired**
-* Working experience in merchant silicon
-* Knowledge of asic forwarding, Linux drivers and 3rdparty ASICs/network processors highly desired.
-* Experience working on Scalable, Distributed Architectures a plus
-* Experience with Network Switches desirable
-* Strong written \\& verbal communication skills,
-* Ability to multi\\-task and solve complex problems
-* Ability to drive a team towards results
-* Consistent track record of learning new technologies and features on own initiative
-* A demonstrable passion for technology and software development
-
-
-**Why Cisco**
- We connect everything: people, processes, data, and things. We innovate everywhere, taking bold risks to shape the technologies that give us smart cities, connected cars, and handheld hospitals. And we do it in style with unique personalities who aren’t afraid to change the way the world works, lives, plays and learns.
-   
-
-  
-
- We are thought leaders, tech geeks, pop culture aficionados, and we even have a few purple haired rock stars. We celebrate the creativity and diversity that fuels our innovation. We are dreamers and we are doers.
-   
-
-  
-
- We Are Cisco.
-   
-
-  
-
- Why Cisco?
-   
-
-  
-
- At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.
-   
-
-  
-
- Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.
-   
-
-  
-
- We are Cisco, and our power starts with you.","Software Development","https://www.linkedin.com/company/cisco","https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_100_100/B56ZnMyVr4HUAQ-/0/1760077372453/cisco_logo?e=2147483647&v=beta&t=-FnJBwOSzJBs2mZI3Vt8hsrLNZhBuwEXpMas5hClACE","","","","","","","","","","",""
-"li-3942694452","linkedin","https://www.linkedin.com/jobs/view/3942694452","","Senior Member Technical","Broadridge India","Hyderabad, Telangana, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","At Broadridge, we've built a culture where the highest goal is to empower others to accomplish more. If you’re passionate about developing your career, while helping others along the way, come join the Broadridge team.
-   
-
-  
-
- Looking to fill in a position for Cloud Solution Group in HYD having extensive experience in development exp with AWS /Terraform /Jenkins and other devops tool sets.","Financial Services and IT Services and IT Consulting","https://in.linkedin.com/company/broadridge-financial-solutions-india-private-ltd","https://media.licdn.com/dms/image/v2/D560BAQEcWDQPQ2IuKg/company-logo_100_100/company-logo_100_100/0/1688159554079/broadridge_financial_solutions_india_private_ltd_logo?e=2147483647&v=beta&t=C5bpMZCSP9lX5GBNrWEYA26U7C395u-ZKZZtWjlwOeI","","","","","","","","","","",""
-"li-4422928401","linkedin","https://www.linkedin.com/jobs/view/4422928401","","Senior Application Developer","Med-Metrix","Chennai, Tamil Nadu, India","","fulltime","","","","","",True,"mid-senior level","Engineering and Information Technology","","","**Job Purpose**
- The
- **Senior Application Developer** 
- will collaborate with our internal teams to design, develop, and maintain high\\-quality software solutions and .NET framework. The Senior Application Developer will be responsible for creating applications from the ground up, configuring existing systems, and providing user support.
-   
-
-  
-
-**Duties \\& Responsibilities**
-* Participate in requirements analysis
-* Collaborate with internal teams to produce software design and architecture
-* Write clean, scalable code using .NET programming languages
-* Test and deploy applications and systems
-* Revise, update, refactor and debug code
-* Improve existing software
-* Develop documentation throughout the software development life cycle (SDLC)
-* Serve as an expert on applications and provide technical support
-* Use, protect and disclose patients’ protected health information (PHI) only in accordance with Health Insurance Portability and Accountability Act (HIPAA) standards
-* Understand and comply with Information Security and HIPAA policies and procedures at all times
-* Limit viewing of PHI to the absolute minimum as necessary to perform assigned duties
-
-
-**Qualifications**
-* BS/BA in Computer Science, Engineering or a related field
-* 10\\-15 years’ experience as a .NET Developer or Application Developer
-* Familiarity with the ASP.NET framework, SQL Server and design/architectural patterns (e.g. Model\\-View\\-Controller (MVC))
-* Knowledge of at least one of the .NET languages (e.g. C\\#, Visual Basic .NET)
-* Solid experience with front\\-end technologies, particularly Angular (v19\\+) and TypeScript, along with HTML5 and CSS3\\.
-* Experience working with Infrastructure Support Systems (ISS), including building, integrating, or maintaining systems related to monitoring, deployment, system reliability, security, or enterprise infrastructure services.
-* Familiarity with architecture styles/APIs (REST, RPC)
-* Understanding of Agile methodologies
-* Strong interpersonal skills, ability to communicate well at all levels of the organization
-* Strong problem solving and creative skills and the ability to exercise sound judgment and make decisions based on accurate and timely analyses
-* High level of integrity and dependability with a strong sense of urgency and results oriented
-* Excellent written and verbal communication skills required
-
-
-**Working Conditions**
-* Work Setup: Remote
-* Work Schedule: Mondays – Fridays 9AM – 5PM EST (Night Shift)
-* Must possess a smart\\-phone or electronic device capable of downloading applications, for multifactor authentication and security purposes
-* Physical Demands: While performing the duties of this job, the employee is occasionally required to move around the work area; Sit; perform manual tasks; operate tools and other office equipment such as computer, computer peripherals and telephones; extend arms; kneel; talk and hear
-* Mental Demands: The employee must be able to follow directions, collaborate with others, and handle stress
-* Work Environment: The noise level in the work environment is usually minimal
-
-
-*Med\\-Metrix will not discriminate against any employee or applicant for employment because of race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), parental status, national origin, age, disability, genetic information (including family medical history), political affiliation, military service, veteran status, other non\\-merit based factors, or any other characteristic protected by federal, state or local law.*","Hospitals and Health Care","https://www.linkedin.com/company/med-metrix","https://media.licdn.com/dms/image/v2/D4E0BAQEmfI07mkwrtw/company-logo_100_100/company-logo_100_100/0/1719845311138/med_metrix_logo?e=2147483647&v=beta&t=MMZvoxmjjoWDdkdxhUn3b2XVPqiL7Db26s1mKCj28EA","","","","","","","","","","",""
-"li-4390388199","linkedin","https://www.linkedin.com/jobs/view/4390388199","","Sr. Software Engineer","6sense","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","jobs@6sense.com, jobs@6sense.com","**Our Mission:**
- 6sense's mission is to multiply what matters: growth, retention, and efficiency. We envision a future where companies, teams and people reach their full potential.
-   
-
-  
-
-**Our People:**
- People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. Every 6sensor plays a part in deﬁning the future of our industry\\-leading technology. 6sense is a place where difference\\-makers roll up their sleeves, take risks, act with integrity, and measure success by the value we create for our customers. We want 6sense to be the best chapter of your career.
-   
-
-  
-
-**Role Overview**
- We are looking for a
- **Senior Software Engineer** 
- (IC4\\) to take ownership of the high\\-scale backend services powering our advertising ecosystem. You will be responsible for building and optimizing the systems that handle millions of events every day and interface with our third parties. This role requires a deep specialist in
- **Python/Django** 
- who is equally comfortable diving into
- **Big Data** 
- pipelines and ensuring our designs are performant, consistent, and scalable.
-   
-
-  
-
-**Core Responsibilities**
-* Technical Ownership: Lead the development and maintenance of mission\\-critical backend services, ensuring high throughput and low\\-latency of APIs.
-* Backend Optimization: Write clean, efficient, and highly performant code in Python and Django. You will be the go\\-to person for solving complex concurrency issues and optimizing service performance.
-* Big Data Execution: Design and optimize data workflows. You will write and tune complex queries in Hive, Flink, or Trino to ensure our data processing is both fast and cost\\-effective.
-* Cross\\-Stack Collaboration: Collaborate with Front\\-End engineers to ensure client\\-facing features are designed for maximum data fidelity and backend compatibility.
-* AI Implementation: Work closely with leadership to implement AI/ML\\-driven features, such as automated anomaly detection or predictive data cleaning, within our production pipelines.
-* Mentorship: Provide thoughtful code reviews and technical guidance to mid\\-level engineers, fostering a culture of technical excellence.
-
-
-**Technical Requirements**
-* Experience: 6–9 years of professional backend experience, with a significant portion spent in high\\-scale environments (Ad\\-Tech, Data\\-heavy SaaS, or FinTech).
-* Python/Django Specialist: Mastery of Python and the Django ecosystem, including experience with asynchronous task processing (Celery/Redis) and database optimization.
-* Big Data Proficiency: Hands\\-on experience with distributed data processing frameworks like Flink, Spark, or Hive. You know how to handle ""data drift"" and optimize large\\-scale joins.
-* SQL \\& Query Performance: Advanced SQL skills. You should be able to optimize complex analytical queries and understand database internals (indexing, partitioning).
-* FE Awareness (Good to Have): Familiarity with Front\\-End system design (e.g., React, JS event\\-loops) and how client\\-side tracking impacts backend data integrity.
-* AI/ML Exposure: Practical experience or strong interest in deploying AI models into production environments to solve operational challenges.
-
-
-**Our Benefits:**
- Full\\-time employees can take advantage of health coverage, paid parental leave, generous paid time\\-off and holidays, quarterly self\\-care days off, and stock options. We’ll make sure you have the equipment and support you need to work and connect with your teams, at home or in one of our oﬃces.
-   
-
-  
-
- We have a growth mindset culture that is represented in all that we do, from onboarding through to numerous learning and development initiatives including access to our LinkedIn Learning platform. Employee well\\-being is also top of mind for us. We host quarterly wellness education sessions to encourage self care and personal growth. From wellness days to ERG\\-hosted events, we celebrate and energize all 6sense employees and their backgrounds.
-   
-
-  
-
-**Equal Opportunity Employer:**
- 6sense is an Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. If you require reasonable accommodation in completing this application, interviewing, completing any pre\\-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to jobs@6sense.com.
-   
-
-  
-
-*We are aware of recruiting impersonation attempts that are not affiliated with 6sense in any way. All email communications from 6sense will originate from the @6sense.com domain. We will not initially contact you via text message and will never request payments. If you are uncertain whether you have been contacted by an official 6sense employee, reach out to jobs@6sense.com*","Software Development","https://www.linkedin.com/company/6sense","https://media.licdn.com/dms/image/v2/D560BAQHglJDVKqCfbw/company-logo_100_100/B56ZXN2cF_HQAQ-/0/1742915355480/6sense_logo?e=2147483647&v=beta&t=-ADJoPEyMDejcJOihKcN7hgHOmZkHQbtA4_UgdP5Gi8","","","","","","","","","","",""
-"li-4389914088","linkedin","https://www.linkedin.com/jobs/view/4389914088","","App Dev & Support Engineer I","Conduent","Noida, Uttar Pradesh, India","","fulltime","","","","","",False,"entry level","Information Technology","","FTADAAA@conduent.com","Through our dedicated associates, Conduent delivers mission\\-critical services and solutions on behalf of Fortune 100 companies and over 500 governments \\- creating exceptional outcomes for our clients and the millions of people who count on them. You have an opportunity to personally thrive, make a difference and be part of a culture where individuality is noticed and valued every day.
-   
-
-  
-
-**Job Track Description:**
-* Role Overview
-* As a software Developer, you’ll be part of our core product\\-engineering team, designing and developing high\\-performance APIs and platform services that power modern digital applications.
-* What You’ll Do
-* Design, develop, and maintain backend services and APIs using .NET Core (.NET 8/9 and C\\#).
-* Develop and maintain REST APIs and gRPC services used by applications.
-* Work with SQL Server for relational data storage and use Dapper \\& Entity Framework for data access.
-* Write automated unit and integration tests for end\\-to\\-end testing using Playwright.
-* Work with Azure DevOps for source control, CI/CD pipelines, and deployments.
-* Collaborate closely with product and frontend teams to ship high\\-quality features.
-* Required Skills
-* Experience with .NET Core / .NET 8/9 and C\\#
-* Experience developing REST APIs and Web APIs
-* Experience working with gRPC services
-* Experience with automated testing tools (like Playwright)
-* Experience with SQL Server skills.
-* Experience with Dapper and Entity Framework.
-* Experience with Azure DevOps and Git\\-based workflows
-* Understanding of API based architecture and security (JWT, OAuth2\\)
-* Nice to Have
-* Experience building cloud\\-native applications (Azure preferred).
-* Integration experience with Keycloak, Azure Communication services (ACS)
-* Familiarity with containerization (Docker / Kubernetes).
-* Experience in product\\-driven or SaaS environments
-* Experience with Domain\\-Driven Design (DDD) principles
-
-
- Conduent is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, creed, religion, ancestry, national origin, age, gender identity, gender expression, sex/gender, marital status, sexual orientation, physical or mental disability, medical condition, use of a guide dog or service animal, military/veteran status, citizenship status, basis of genetic information, or any other group protected by law.
-   
-
-  
-
- For US applicants: People with disabilities who need a reasonable accommodation to apply for or compete for employment with Conduent may request such accommodation(s) by submitting their request through this form that must be downloaded: click here to access or download the form. Complete the form and then email it as an attachment to FTADAAA@conduent.com. You may also click here to access Conduent's ADAAA Accommodation Policy.","Business Consulting and Services","https://www.linkedin.com/company/conduent","https://media.licdn.com/dms/image/v2/C4E0BAQHJKwSZO_5jQw/company-logo_100_100/company-logo_100_100/0/1630567280380/conduent_logo?e=2147483647&v=beta&t=TAyL0puQcr2KuIdnDlQ174xnE5zPkh-Swvnw0OovYCI","","","","","","","","","","",""
-"li-4458110713","linkedin","https://www.linkedin.com/jobs/view/4458110713","","Firmware Engineer-Lead","Mulya Technologies","Pune City, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering, Research, and Design","","_bhaskar@yahoo.com","**We are actively seeking a Firmware Engineer Lead, based in Pune.** 
-
-
-
-
-  
-
-
-
-
-
- we are redefining the economics of AI infrastructure. Our mission is to democratise AI by significantly reducing the Total Cost of Ownership (TCO) of hardware systems — a critical barrier to scalable adoption.
+**Candidates currently residing in Tamil Nadu will be preferred.**","Engineering Services","https://www.linkedin.com/company/edubloom-recruitment-and-training","https://media.licdn.com/dms/image/v2/D560BAQECRv856QnGmg/company-logo_100_100/B56Z5bW.cFGoAM-/0/1779649210364/edubloom_recruitment_and_training_logo?e=2147483647&v=beta&t=lPz6xkCKs9WqYM8I7n5oCrA_W0Lb4alA7Ad8VJLACfE","","","","","","","","","","",""
+"li-4456821730","linkedin","https://www.linkedin.com/jobs/view/4456821730","","Software Developer Intern | Programming | APIs | Databases | Debugging | Git","MediNex Workforce","","","fulltime","","","","","",True,"internship","Information Technology","","","Software Developer Intern \\| Programming \\| APIs \\| Databases \\| Debugging \\| Git
  
 
 
@@ -1525,7 +584,7 @@
 
 
 
- Our proprietary MIMO\\-over\\-copper technology powers a high\\-performance, chiplet\\-based AI memory fabric that is both scalable and energy\\-efficient. Unlike traditional interconnects, our solution reduces power consumption significantly while preserving high bandwidth and ultra\\-low latency — unlocking unprecedented efficiency for AI training and inference at scale.
+ Medinex Workforce is hiring Software Developer Interns for a full\\-time remote internship opportunity. This role is suitable for candidates who want practical exposure to software development, coding, debugging, application features, databases, APIs, testing, and version\\-control workflows.
  
 
 
@@ -1536,7 +595,7 @@
 
 
 
- our architecture is not just an incremental improvement — it’s a foundational shift in how AI hardware is built for the future.
+ Position: Software Developer Intern
  
 
 
@@ -1547,84 +606,52 @@
 
 
 
-  
+ Key Skills / Learning Areas:
+ 
 
 
 
-
-
-**We are actively seeking a Firmware Engineer Lead, based in Pune.** 
-
-
-
-
-  
+ Programming Fundamentals
+ 
 
 
 
-
-
-**Required Experience:** 
-
-
-
-* Experience developing embedded firmware for PCIe products.
-* High level of proficiency in C (preferred) or C\\+\\+, including development of C\\-based SDKs.
-* High level of proficiency in Python for automating pre\\-processors/post\\-processors.
-* Working knowledge of software/firmware build environments, gcc/Make, Doxygen, and GitHub.
-* Hands\\-on experience with Server, Storage, and/or Networking equipment (e.g. Network Switches).
-* Familiarity with SoC interfaces to common IP blocks such as PCIe Controllers, NVME Controllers, AMBA/AHB interfaces, on\\-chip memory interfaces, and other similar interfaces
-* Direct experience working on products with high\\-speed interfaces common in Data Center equipment: PCI\\- Express (Gen\\-3 and above), 100/400G Ethernet, Infiniband, NVMe, etc
+ Java / Python / JavaScript
+ 
 
 
 
-  
+ Software Development
+ 
 
 
 
-
-
-**Preferred Experience:** 
-
-
-
-* Experience developing firmware to execute in on\\-chip microcontrollers as well as C\\-language SDKs to execute on system management controllers (e.g. BMC)
-* Experience with industry forums and collaboration workgroups such as OCP and OpenBMC
-* Experience with storage or SSD firmware, including NVMe, PCIe, CXL or flash management concepts.
-* Hands\\-on experience with simulation or virtual platform–based development (e.g., VDK, QEMU, or similar)
+ REST APIs
+ 
 
 
 
-  
+ Database Basics
+ 
 
 
 
-
-
-**Qualifications:** 
-
-
-
-* Strong academic and technical background in electrical engineering. At a minimum, a Bachelor’s in EE or Computer Science is required, and a Master’s is preferred.
-* Minimum 12\\-20 years’ (Lead/Architect) experience supporting or developing complex SoC/silicon products for Server, Storage, and/or Networking applications
-* Experience developing firmware to execute in on\\-chip microcontrollers as well as C\\-language software development kits (SDKs) to execute on system management controllers (e.g. BMC).
-* Experience working with logic designers to architect and verify HW\\-SW interfaces on complex SoCs.
+ Debugging
+ 
 
 
 
-  
+ Application Development
+ 
 
 
 
-
-
-  
-
-
+ Testing Basics
+ 
 
 
 
- If this is the role you have been looking for and you want to be part of a growing Company, with an exciting future then we would really love to hear from you
+ Git \\& GitHub
  
 
 
@@ -1635,122 +662,67 @@
 
 
 
- Skills
+ Responsibilities:
  
 
 
 
- SoC
+ Assist in developing, testing, and maintaining software application components.
  
 
 
 
- Server
+ Write clean and structured code for assigned development tasks.
  
 
 
 
- Storage
+ Support the implementation of small features, bug fixes, and application updates.
  
 
 
 
- Nettworking
+ Work with APIs, databases, and data handling tasks when required.
  
 
 
 
- MCU
+ Help identify, troubleshoot, and resolve basic software issues.
  
 
 
 
- C
+ Participate in code reviews and apply feedback to improve code quality.
  
 
 
 
- SDK
+ Test assigned features to ensure functionality and expected behavior.
  
 
 
 
- BMC
+ Coordinate with developers to understand requirements and technical specifications.
  
 
 
 
- OCP
+ Follow coding standards, documentation practices, and project guidelines.
  
 
 
 
- Openbmc
+ Use Git or similar version\\-control tools for development work.
  
 
 
 
- SSD
+ Maintain simple documentation for code changes, tasks, and updates.
  
 
 
 
- Firmware
- 
-
-
-
- NVMe
- 
-
-
-
- PCIe
- 
-
-
-
- CXL
- 
-
-
-
- VDK
- 
-
-
-
- QEMU
- 
-
-
-
- C\\+\\+
- 
-
-
-
- Data center
- 
-
-
-
- 100G
- 
-
-
-
- 400G
- 
-
-
-
- 800G
- 
-
-
-
- 1600G
+ Complete assigned software development tasks within agreed timelines.
  
 
 
@@ -1761,486 +733,262 @@
 
 
 
+ Who Can Apply:
+ 
+
+
+
+ Candidates with basic knowledge of at least one programming language such as Java, Python, or JavaScript.
+ 
+
+
+
+ Students, fresh graduates, or entry\\-level candidates interested in software development.
+ 
+
+
+
+ Candidates familiar with programming logic, data structures, and problem solving.
+ 
+
+
+
+ Candidates willing to learn APIs, databases, testing, and development tools.
+ 
+
+
+
+ Candidates with good analytical thinking and attention to detail.
+ 
+
+
+
+ Candidates who have academic, personal, or project\\-based coding experience.
+ 
+
+
+
+ Candidates who can work independently in a remote environment and communicate clearly.
+ 
+
+
+
   
 
 
 
 
 
+ Preferred Qualifications:
+ 
+
+
+
+ Pursuing or recently completed a degree or diploma in Computer Science, Information Technology, Software Engineering, Computer Applications, Engineering, or a related field.
+ 
+
+
+
+ Basic knowledge of object\\-oriented programming is preferred.
+ 
+
+
+
+ Familiarity with REST APIs, JSON, or databases is an advantage.
+ 
+
+
+
+ Knowledge of Git and GitHub is helpful.
+ 
+
+
+
+ Understanding of SDLC or basic software testing concepts is an added advantage.
+ 
+
+
+
+ Academic, personal, or internship\\-level software development projects are welcome.
+ 
+
+
+
   
 
 
 
 
 
-***Contact***
-
-
-
-
- Uday
+ Internship Details:
  
 
 
 
- muday\\_bhaskar@yahoo.com
+ Employment Type: Full\\-time Internship
  
 
 
 
-***Mulya Technologies***
+ Workplace: Remote
+ 
+
+
+
+ Location: India
+ 
+
+
+
+ Duration: 1 to 3 Months
+ 
+
+
+
+ Stipend: ₹15,300 per month
+ 
+
+
+
+ Application Deadline: 31 August 2026
+ 
+
+
+
+  
 
 
 
 
-***""Mining the Knowledge Community""***","Semiconductor Manufacturing, Software Development, and Computer and Network Security","https://in.linkedin.com/company/mulya-technologies","https://media.licdn.com/dms/image/v2/C510BAQEZIONblRZJWA/company-logo_100_100/company-logo_100_100/0/1631392513660?e=2147483647&v=beta&t=8mWHOWlzKAVMN032tCDV4YwTnCWr-w77ab1tl6I4QPw","","","","","","","","","","",""
-"li-4381944372","linkedin","https://www.linkedin.com/jobs/view/4381944372","","Principal Programmer / Analyst 2","Skyworks Solutions, Inc.","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"not applicable","Engineering and Information Technology","","","If you are looking for a challenging and exciting career in the world of technology, then look no further. Skyworks is an innovator of high performance analog semiconductors whose solutions are powering the wireless networking revolution. At Skyworks, you will find a fast\\-paced environment with a strong focus on global collaboration, minimal layers of management and the freedom to make meaningful contributions in a setting that encourages creativity and out\\-of\\-the\\-box thinking. Our work culture values diversity, social responsibility, open communication, mutual trust and respect. We are excited about the opportunity to work with you and glad you want to be part of a team of talented individuals who together can change the way the world communicates.
+
+ About Medinex Workforce:
+ 
+
+
+
+ Medinex Workforce is a staffing and recruitment support company helping organizations connect with skilled and reliable talent across India. The company supports hiring across IT, healthcare, analytics, customer support, finance, operations, and administrative roles.
+ 
+
+
+
+  
+
+
+
+
+
+ \\#Hiring \\#SoftwareDeveloper \\#SoftwareDeveloperIntern \\#SoftwareDevelopment \\#Programming \\#Java \\#Python \\#JavaScript \\#APIs \\#Git \\#Internship \\#Freshers \\#RemoteInternship","IT Services and IT Consulting","https://in.linkedin.com/company/medinex-workforce","https://media.licdn.com/dms/image/v2/D4D0BAQHyaONm9iChcQ/company-logo_100_100/B4DZ7U5dP_I0AI-/0/1781688292722?e=2147483647&v=beta&t=XL-M9RX8JBGgDqZIcGJlHyHFU3_1PTsAar9KOw6YJE0","","","","","","","","","","",""
+"li-4455812589","linkedin","https://www.linkedin.com/jobs/view/4455812589","","Applied AI Specialist-Cloud FullStack","IBM","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Introduction**
+ A career in IBM Consulting is built on long\\-term client relationships and close collaboration worldwide. You’ll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you’ll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You’ll be encouraged to challenge the norm, explore new ideas, and create innovative solutions that deliver real results. Our culture of growth and empathy focuses on your long\\-term career development while valuing your unique skills and experiences.
    
 
   
 
- Requisition ID: 75161
+**Your Role And Responsibilities**
+ As an Applied AI Specialist: Cloud FullStack, you will design, build, and evolve cloud\\-native and hybrid applications that translate client requirements into scalable, secure, and production\\-ready solutions. This role involves collaborating with digital workers and intelligent agents to deliver solutions, applying an AI\\-First mindset and following established methodologies.
    
 
   
 
-**Description**
-**Responsibilities**
-* Analyze technical and business requirements, translating them into both basic and detailed technical designs.
-* Conduct feasibility studies, research, development, prototyping, and proof of concept (PoC) for implementing new or existing systems, solutions and processes.
-* Participate in creating technical and project documentation, including but not limited to functional, system, and technical design, requirements, and specifications.
-* Develop, customize, enhance, fix, and maintain code, applications and systems.
+**Your Primary Responsibilities Will Include**
+* Solution Design: Designing and building cloud\\-native and hybrid applications that meet client requirements and are scalable, secure, and production\\-ready.
+* Application Development: Applying an AI\\-First mindset to automate scaffolding, dependency management, API definition, and validation, as well as database design and validation.
+* Pipeline Operation: Designing and operating CI/CD and GitOps pipelines with IaC and DevSecOps controls to ensure production readiness and cutover quality.
+* Quality Engineering: Performing unit, module, and functional testing using testing agents and synthetic data to ensure quality and reliability.
+* Incident Resolution: Analyzing logs and stack traces using AI agents to triage and resolve incidents and defects across different phases.
 
 
-**Required Experience And Skills**
-* Strong analytical programming skills and hands\\-on experience with ABAP on HANA, including an understanding of HANA architecture, deployment options, and in\\-memory concepts.
-* Proficient in SAP ABAP Reports, Interface, Conversion, Enhancements, Forms, Workflow, Web Dynpro, CDS, AMDP, and ABAP Development Tools (ADT).
-* Extensive experience in code optimization, performance tuning, and runtime analysis.
-* Experience with Fiori development, including OData and UI5 development, customizing standard SAP Fiori tiles, and enhancing functionality to meet requirements.
-* Proficient in developing applications using the SAP Cloud Application Programming Model (CAP) within the SAP Business Technology Platform (BTP).
-* Expertise in side\\-by\\-side extensibility with BTP.
-* Hands\\-on experience building interfaces to non\\-SAP applications using RFCs, BAPIs, ALE/IDOC, OData, and web services.
-* Skilled in integrating SAP BTP applications with various SAP and non\\-SAP systems using integration technologies such as OData, REST, and SOAP.
-* Experience developing and maintaining SAP BTP extensions and add\\-ons for existing SAP solutions like S/4HANA and SuccessFactors.
-* Detailed knowledge of CI/CPI and all available services.
-* Extensive experience working on BTP SCI for Application\\-to\\-Application and Business\\-to\\-Business scenarios.
-* Experience with SAP and non\\-SAP integration using BTP Integration Suite.
-* Proficient in API management and its implications.
-* Experience with SCI monitoring, debugging, and handling complex Iflows.
-* Deep understanding of SAP Cloud Foundry features and capabilities.
-* Experience with integration technical design concerning BTP landscape.
-* Knowledge of ABAP Object\\-Oriented Programming and implementing OSS notes.
-* Hands\\-on experience with SAP enhancement techniques like EXITS, BADIs, and new enhancement framework techniques.
-* Ability to articulate and clearly communicate complex problems and solutions in a simple, logical, and impactful manner.
-* Skilled in transforming business function requirements into technical program specifications for coding, testing, and debugging.
-* Experience building data models in SAP Datasphere.
-* Excellent written and verbal communication skills.
-* Experience in the semiconductor industry is a plus.
-
-
-**Desired Experience And Skills**
- Skyworks is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other characteristic protected by law.","Semiconductor Manufacturing, Telecommunications, and Wireless Services","https://www.linkedin.com/company/skyworks-solutions-inc","https://media.licdn.com/dms/image/v2/C560BAQExuWSH_ZbWVA/company-logo_100_100/company-logo_100_100/0/1636053999055/skyworks_solutions_inc_logo?e=2147483647&v=beta&t=9GyGci44JhcyAJR7hxwotyhhb7fl2PfgxPHLJw7wRKA","","","","","","","","","","",""
-"li-4428226083","linkedin","https://www.linkedin.com/jobs/view/4428226083","","Senior Platform Software Engineer, Oracle Health","Oracle","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","_mb@oracle.com","**Job Description**
- Owns moderately complex components within platform services or SDKs; leads team\\-level improvements to integration frameworks and developer tooling. Performs deep debugging across a bounded set of distributed services, driving fixes that protect downstream consumers and upgrade paths. Analyzes usage, performance, and error budgets for specific platform surfaces; implements targeted resilience and capacity optimizations. Authors and curates team\\-scoped documentation, samples, and adoption guidance.
+**Preferred Education**
+ Master's Degree
    
 
   
 
-**Responsibilities**
-**Key Responsibilities**
-**Platform Software Development:**
-* Own a bounded platform component (service module, SDK area) and evolve its contracts for multi\\-tenant use.
-* Perform deep debugging across a limited\\-service graph; drive compatibility\\-safe remediation plans.
-* Implement targeted resilience/capacity patterns and document adoption guidance for team consumers.
+**Required Technical And Professional Expertise**
+* Cloud Application Development: Exposure to designing and building cloud\\-native and hybrid applications that meet client requirements and are scalable, secure, and production\\-ready.
+* AI\\-First Mindset: Experience applying AI\\-First mindset to automate scaffolding, dependency management, API definition, and validation, as well as database design and validation.
+* CI/CD Pipeline Operation: Exposure to designing and operating CI/CD and GitOps pipelines with IaC and DevSecOps controls to ensure production readiness and cutover quality.
+* Quality Assurance: Experience performing unit, module, and functional testing using testing agents and synthetic data to ensure quality and reliability.
+* Hyperscaler Platforms: Exposure to hyperscalers such as AWS, Azure, and Red Hat OpenShift, and deployment models to architect resilient and cost\\-optimized full\\-stack and integration patterns.
 
 
-**Software Development and Coding \\- Design, Testing, and Optimization:**
-* Designs software solutions and analyzes and helps identify requirements to achieve business and operational goals, independently.
-* Adheres to and suggests improvements to all phases of the software development lifecycle.
-* Utilizes working knowledge to develop new software features and enhancements following design specifications and develops documents to clarify software design and code.
-* Leads code reviews in designated areas to help drive improvements.
-* Conducts debugging and troubleshooting to identify and fix moderately complex software issues. Develops fixes for identified issues.
-* Implements software testing (e.g., functional and non\\-functional testing), quality assurance processes, software error logging, monitoring, and observability for effective debugging, ensuring review by manager and/or lead throughout the process.
-* Exercises judgment and discretion to conduct performance profiling and optimization of coding.
-* Troubleshoots and resolves moderately complex issues related to application programming interface (API) functionality and integration.
-* Implements moderately complex API versioning, lifecycle, and interoperability strategies.
-
-
-**Software Architecture \\- Software System Structural Design:**
-* Designs and develops software, systems, and services aligned to pre\\-defined system architecture.
-* Develops working knowledge of software architecture decisions and best practices.
-* Collaborates with team leads to review work to ensure alignment with software architecture.
-* Implements moderately complex performance optimization and scalability strategies in software design.
-
-
-**Issue/Defect Collaboration \\- Software Products Support:**
-* Collaborates within and beyond immediate team to understand customer issues and align solutions.
-* May provide technical guidance and support to customers regarding customer\\-reported issues, independently.
-* Coaches, mentors, and guides others to advocate for customers' interests and suggests product enhancements based on feedback.
-* Influences team to ensure customer satisfaction through timely resolution of issues and effective communication.
-* Implements customer issue and/or defect handling and training processes, independently.
-* Investigates and troubleshoots complex product maintenance issues to ensure customer agreement on short\\- and long\\-term solutions (e.g., future enhancements).
-
-
-**Practices and Standards Compliance \\- Security and Compliance:**
-* Collaborates with the team to establish and follow development practices and coding standards.
-* Exercises judgment and discretion to ensure code quality and adherence to broad acceptance criteria during development.
-* Keeps up to date with industry best practices and applies them to software development processes.
-* Implements secure coding practices to prevent security vulnerabilities.
-
-
-**Development Operations \\- System Maintenance:**
-* Performs periodic maintenance and testing operations for systems that require upgrading or patching (e.g., for critical vulnerabilities).
-* Exercises judgment and discretion to drive improvements, ensure automation, testing, and debugging of systems to ensure service/product availability, health, support, and reliability.
-
-
-**Core Responsibilities**
-**Planning \\& Execution:**
-* Independently manages work, monitoring timelines and deliverables to ensure projects or initiatives stay on track and meet requirements. Proactively prioritizes work and adapts to resource or timeline shifts, suggesting adjustments to maintain project efficiency.
-
-
-**Collaboration \\& Partnership:**
-* Collaborates across teams to align on expectations and achieve shared objectives. Builds and maintains a comprehensive understanding of business, stakeholder, and/or customer needs to build and support effective partnerships. Actively listens to diverse perspectives and asks questions to ensure understanding of others.
-
-
-**Problem Solving:**
-* Independently identifies and addresses standard and non\\-standard issues in accordance with standard practices, escalating more complex issues as appropriate. Analyzes data and/or information from multiple sources to troubleshoot standard and non\\-standard errors. Contributes to knowledge sharing and best practices.
-
-
-**Continuous Learning:**
-* Embraces continuous learning by actively seeking to build knowledge and new skills and/or tools and staying current with industry trends and best practices. Seeks out and leverages feedback and training to improve skills. Contributes to a culture of continuous learning and knowledge sharing with team members.
-
-
-**Continuous Improvement:**
-* Develops ideas and recommends updates to increase the efficiency and effectiveness of processes, protocols, and workflows within a team. Seeks input from team members on alternative approaches and methods for improving work.
-
-
-**Qualifications**
- Career Level \\- IC3
+**Preferred Technical And Professional Experience**
+* Additional AI Tools: Exposure to other AI tools and technologies can be beneficial.
+* Advanced Testing Methods: Familiarity with advanced testing methods and techniques is desirable.
+* Emerging Technologies: Knowledge of emerging technologies and trends in cloud and AI can be advantageous.","IT Services and IT Consulting","https://www.linkedin.com/company/ibm","https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&v=beta&t=HPSmWLOCvdPkWO1nRWwjjmCNpaCqww20rSJ4E54QtxQ","","","","","","","","","","",""
+"li-4455808601","linkedin","https://www.linkedin.com/jobs/view/4455808601","","Applied AI Specialist-Cloud FullStack","IBM","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Introduction**
+ A career in IBM Consulting is built on long\\-term client relationships and close collaboration worldwide. You’ll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you’ll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You’ll be encouraged to challenge the norm, explore new ideas, and create innovative solutions that deliver real results. Our culture of growth and empathy focuses on your long\\-term career development while valuing your unique skills and experiences.
    
 
   
 
-**About Us**
- Only Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life\\-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.
+**Your Role And Responsibilities**
+ As an Applied AI Specialist: Cloud FullStack, you will design, build, and evolve cloud\\-native and hybrid applications that translate client requirements into scalable, secure, and production\\-ready solutions. This role involves collaborating with digital workers and intelligent agents to deliver solutions, applying an AI\\-First mindset and following established methodologies.
    
 
   
 
- True innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
+**Your Primary Responsibilities Will Include**
+* Solution Design: Designing and building cloud\\-native and hybrid applications that meet client requirements and are scalable, secure, and production\\-ready.
+* Application Development: Applying an AI\\-First mindset to automate scaffolding, dependency management, API definition, and validation, as well as database design and validation.
+* Pipeline Operation: Designing and operating CI/CD and GitOps pipelines with IaC and DevSecOps controls to ensure production readiness and cutover quality.
+* Quality Engineering: Performing unit, module, and functional testing using testing agents and synthetic data to ensure quality and reliability.
+* Incident Resolution: Analyzing logs and stack traces using AI agents to triage and resolve incidents and defects across different phases.
+
+
+**Preferred Education**
+ Master's Degree
    
 
   
 
- We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation\\-request\\_mb@oracle.com or by calling 1\\-888\\-404\\-2494 in the United States.
+**Required Technical And Professional Expertise**
+* Cloud Application Development: Exposure to designing and building cloud\\-native and hybrid applications that meet client requirements and are scalable, secure, and production\\-ready.
+* AI\\-First Mindset: Experience applying AI\\-First mindset to automate scaffolding, dependency management, API definition, and validation, as well as database design and validation.
+* CI/CD Pipeline Operation: Exposure to designing and operating CI/CD and GitOps pipelines with IaC and DevSecOps controls to ensure production readiness and cutover quality.
+* Quality Assurance: Experience performing unit, module, and functional testing using testing agents and synthetic data to ensure quality and reliability.
+* Hyperscaler Platforms: Exposure to hyperscalers such as AWS, Azure, and Red Hat OpenShift, and deployment models to architect resilient and cost\\-optimized full\\-stack and integration patterns.
+
+
+**Preferred Technical And Professional Experience**
+* Additional AI Tools: Exposure to other AI tools and technologies can be beneficial.
+* Advanced Testing Methods: Familiarity with advanced testing methods and techniques is desirable.
+* Emerging Technologies: Knowledge of emerging technologies and trends in cloud and AI can be advantageous.","IT Services and IT Consulting","https://www.linkedin.com/company/ibm","https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&v=beta&t=HPSmWLOCvdPkWO1nRWwjjmCNpaCqww20rSJ4E54QtxQ","","","","","","","","","","",""
+"li-4455803668","linkedin","https://www.linkedin.com/jobs/view/4455803668","","Applied AI Specialist-Cloud FullStack","IBM","Pune Division, Maharashtra, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","","**Introduction**
+ A career in IBM Consulting is built on long\\-term client relationships and close collaboration worldwide. You’ll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you’ll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You’ll be encouraged to challenge the norm, explore new ideas, and create innovative solutions that deliver real results. Our culture of growth and empathy focuses on your long\\-term career development while valuing your unique skills and experiences.
    
 
   
 
- Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.","IT Services and IT Consulting","https://www.linkedin.com/company/oracle","https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c","","","","","","","","","","",""
-"li-4428210998","linkedin","https://www.linkedin.com/jobs/view/4428210998","","Senior Platform Software Engineer, Oracle Health","Oracle","Chennai, Tamil Nadu, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","_mb@oracle.com","**Job Description**
- Owns moderately complex components within platform services or SDKs; leads team\\-level improvements to integration frameworks and developer tooling. Performs deep debugging across a bounded set of distributed services, driving fixes that protect downstream consumers and upgrade paths. Analyzes usage, performance, and error budgets for specific platform surfaces; implements targeted resilience and capacity optimizations. Authors and curates team\\-scoped documentation, samples, and adoption guidance.
+**Your Role And Responsibilities**
+ As an Applied AI Specialist: Cloud FullStack, you will design, build, and evolve cloud\\-native and hybrid applications that translate client requirements into scalable, secure, and production\\-ready solutions. This role involves collaborating with digital workers and intelligent agents to deliver solutions, applying an AI\\-First mindset and following established methodologies.
    
 
   
 
-**Responsibilities**
-**Key Responsibilities**
-**Platform Software Development:**
-* Own a bounded platform component (service module, SDK area) and evolve its contracts for multi\\-tenant use.
-* Perform deep debugging across a limited\\-service graph; drive compatibility\\-safe remediation plans.
-* Implement targeted resilience/capacity patterns and document adoption guidance for team consumers.
+**Your Primary Responsibilities Will Include**
+* Solution Design: Designing and building cloud\\-native and hybrid applications that meet client requirements and are scalable, secure, and production\\-ready.
+* Application Development: Applying an AI\\-First mindset to automate scaffolding, dependency management, API definition, and validation, as well as database design and validation.
+* Pipeline Operation: Designing and operating CI/CD and GitOps pipelines with IaC and DevSecOps controls to ensure production readiness and cutover quality.
+* Quality Engineering: Performing unit, module, and functional testing using testing agents and synthetic data to ensure quality and reliability.
+* Incident Resolution: Analyzing logs and stack traces using AI agents to triage and resolve incidents and defects across different phases.
 
 
-**Software Development and Coding \\- Design, Testing, and Optimization:**
-* Designs software solutions and analyzes and helps identify requirements to achieve business and operational goals, independently.
-* Adheres to and suggests improvements to all phases of the software development lifecycle.
-* Utilizes working knowledge to develop new software features and enhancements following design specifications and develops documents to clarify software design and code.
-* Leads code reviews in designated areas to help drive improvements.
-* Conducts debugging and troubleshooting to identify and fix moderately complex software issues. Develops fixes for identified issues.
-* Implements software testing (e.g., functional and non\\-functional testing), quality assurance processes, software error logging, monitoring, and observability for effective debugging, ensuring review by manager and/or lead throughout the process.
-* Exercises judgment and discretion to conduct performance profiling and optimization of coding.
-* Troubleshoots and resolves moderately complex issues related to application programming interface (API) functionality and integration.
-* Implements moderately complex API versioning, lifecycle, and interoperability strategies.
-
-
-**Software Architecture \\- Software System Structural Design:**
-* Designs and develops software, systems, and services aligned to pre\\-defined system architecture.
-* Develops working knowledge of software architecture decisions and best practices.
-* Collaborates with team leads to review work to ensure alignment with software architecture.
-* Implements moderately complex performance optimization and scalability strategies in software design.
-
-
-**Issue/Defect Collaboration \\- Software Products Support:**
-* Collaborates within and beyond immediate team to understand customer issues and align solutions.
-* May provide technical guidance and support to customers regarding customer\\-reported issues, independently.
-* Coaches, mentors, and guides others to advocate for customers' interests and suggests product enhancements based on feedback.
-* Influences team to ensure customer satisfaction through timely resolution of issues and effective communication.
-* Implements customer issue and/or defect handling and training processes, independently.
-* Investigates and troubleshoots complex product maintenance issues to ensure customer agreement on short\\- and long\\-term solutions (e.g., future enhancements).
-
-
-**Practices and Standards Compliance \\- Security and Compliance:**
-* Collaborates with the team to establish and follow development practices and coding standards.
-* Exercises judgment and discretion to ensure code quality and adherence to broad acceptance criteria during development.
-* Keeps up to date with industry best practices and applies them to software development processes.
-* Implements secure coding practices to prevent security vulnerabilities.
-
-
-**Development Operations \\- System Maintenance:**
-* Performs periodic maintenance and testing operations for systems that require upgrading or patching (e.g., for critical vulnerabilities).
-* Exercises judgment and discretion to drive improvements, ensure automation, testing, and debugging of systems to ensure service/product availability, health, support, and reliability.
-
-
-**Core Responsibilities**
-**Planning \\& Execution:**
-* Independently manages work, monitoring timelines and deliverables to ensure projects or initiatives stay on track and meet requirements. Proactively prioritizes work and adapts to resource or timeline shifts, suggesting adjustments to maintain project efficiency.
-
-
-**Collaboration \\& Partnership:**
-* Collaborates across teams to align on expectations and achieve shared objectives. Builds and maintains a comprehensive understanding of business, stakeholder, and/or customer needs to build and support effective partnerships. Actively listens to diverse perspectives and asks questions to ensure understanding of others.
-
-
-**Problem Solving:**
-* Independently identifies and addresses standard and non\\-standard issues in accordance with standard practices, escalating more complex issues as appropriate. Analyzes data and/or information from multiple sources to troubleshoot standard and non\\-standard errors. Contributes to knowledge sharing and best practices.
-
-
-**Continuous Learning:**
-* Embraces continuous learning by actively seeking to build knowledge and new skills and/or tools and staying current with industry trends and best practices. Seeks out and leverages feedback and training to improve skills. Contributes to a culture of continuous learning and knowledge sharing with team members.
-
-
-**Continuous Improvement:**
-* Develops ideas and recommends updates to increase the efficiency and effectiveness of processes, protocols, and workflows within a team. Seeks input from team members on alternative approaches and methods for improving work.
-
-
-**Qualifications**
- Career Level \\- IC3
+**Preferred Education**
+ Master's Degree
    
 
   
 
-**About Us**
- Only Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life\\-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.
-   
-
-  
-
- True innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
-   
-
-  
-
- We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation\\-request\\_mb@oracle.com or by calling 1\\-888\\-404\\-2494 in the United States.
-   
-
-  
-
- Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.","IT Services and IT Consulting","https://www.linkedin.com/company/oracle","https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c","","","","","","","","","","",""
-"li-4428216227","linkedin","https://www.linkedin.com/jobs/view/4428216227","","Senior Platform Software Engineer, Oracle Health","Oracle","Hyderabad, Telangana, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","_mb@oracle.com","**Job Description**
- Owns moderately complex components within platform services or SDKs; leads team\\-level improvements to integration frameworks and developer tooling. Performs deep debugging across a bounded set of distributed services, driving fixes that protect downstream consumers and upgrade paths. Analyzes usage, performance, and error budgets for specific platform surfaces; implements targeted resilience and capacity optimizations. Authors and curates team\\-scoped documentation, samples, and adoption guidance.
-   
-
-  
-
-**Responsibilities**
-**Key Responsibilities**
-**Platform Software Development:**
-* Own a bounded platform component (service module, SDK area) and evolve its contracts for multi\\-tenant use.
-* Perform deep debugging across a limited\\-service graph; drive compatibility\\-safe remediation plans.
-* Implement targeted resilience/capacity patterns and document adoption guidance for team consumers.
-
-
-**Software Development and Coding \\- Design, Testing, and Optimization:**
-* Designs software solutions and analyzes and helps identify requirements to achieve business and operational goals, independently.
-* Adheres to and suggests improvements to all phases of the software development lifecycle.
-* Utilizes working knowledge to develop new software features and enhancements following design specifications and develops documents to clarify software design and code.
-* Leads code reviews in designated areas to help drive improvements.
-* Conducts debugging and troubleshooting to identify and fix moderately complex software issues. Develops fixes for identified issues.
-* Implements software testing (e.g., functional and non\\-functional testing), quality assurance processes, software error logging, monitoring, and observability for effective debugging, ensuring review by manager and/or lead throughout the process.
-* Exercises judgment and discretion to conduct performance profiling and optimization of coding.
-* Troubleshoots and resolves moderately complex issues related to application programming interface (API) functionality and integration.
-* Implements moderately complex API versioning, lifecycle, and interoperability strategies.
-
-
-**Software Architecture \\- Software System Structural Design:**
-* Designs and develops software, systems, and services aligned to pre\\-defined system architecture.
-* Develops working knowledge of software architecture decisions and best practices.
-* Collaborates with team leads to review work to ensure alignment with software architecture.
-* Implements moderately complex performance optimization and scalability strategies in software design.
-
-
-**Issue/Defect Collaboration \\- Software Products Support:**
-* Collaborates within and beyond immediate team to understand customer issues and align solutions.
-* May provide technical guidance and support to customers regarding customer\\-reported issues, independently.
-* Coaches, mentors, and guides others to advocate for customers' interests and suggests product enhancements based on feedback.
-* Influences team to ensure customer satisfaction through timely resolution of issues and effective communication.
-* Implements customer issue and/or defect handling and training processes, independently.
-* Investigates and troubleshoots complex product maintenance issues to ensure customer agreement on short\\- and long\\-term solutions (e.g., future enhancements).
-
-
-**Practices and Standards Compliance \\- Security and Compliance:**
-* Collaborates with the team to establish and follow development practices and coding standards.
-* Exercises judgment and discretion to ensure code quality and adherence to broad acceptance criteria during development.
-* Keeps up to date with industry best practices and applies them to software development processes.
-* Implements secure coding practices to prevent security vulnerabilities.
-
-
-**Development Operations \\- System Maintenance:**
-* Performs periodic maintenance and testing operations for systems that require upgrading or patching (e.g., for critical vulnerabilities).
-* Exercises judgment and discretion to drive improvements, ensure automation, testing, and debugging of systems to ensure service/product availability, health, support, and reliability.
-
-
-**Core Responsibilities**
-**Planning \\& Execution:**
-* Independently manages work, monitoring timelines and deliverables to ensure projects or initiatives stay on track and meet requirements. Proactively prioritizes work and adapts to resource or timeline shifts, suggesting adjustments to maintain project efficiency.
-
-
-**Collaboration \\& Partnership:**
-* Collaborates across teams to align on expectations and achieve shared objectives. Builds and maintains a comprehensive understanding of business, stakeholder, and/or customer needs to build and support effective partnerships. Actively listens to diverse perspectives and asks questions to ensure understanding of others.
-
-
-**Problem Solving:**
-* Independently identifies and addresses standard and non\\-standard issues in accordance with standard practices, escalating more complex issues as appropriate. Analyzes data and/or information from multiple sources to troubleshoot standard and non\\-standard errors. Contributes to knowledge sharing and best practices.
-
-
-**Continuous Learning:**
-* Embraces continuous learning by actively seeking to build knowledge and new skills and/or tools and staying current with industry trends and best practices. Seeks out and leverages feedback and training to improve skills. Contributes to a culture of continuous learning and knowledge sharing with team members.
-
-
-**Continuous Improvement:**
-* Develops ideas and recommends updates to increase the efficiency and effectiveness of processes, protocols, and workflows within a team. Seeks input from team members on alternative approaches and methods for improving work.
-
-
-**Qualifications**
- Career Level \\- IC3
-   
-
-  
-
-**About Us**
- Only Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life\\-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.
-   
-
-  
-
- True innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
-   
-
-  
-
- We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation\\-request\\_mb@oracle.com or by calling 1\\-888\\-404\\-2494 in the United States.
-   
-
-  
-
- Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.","IT Services and IT Consulting","https://www.linkedin.com/company/oracle","https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c","","","","","","","","","","",""
-"li-4436656594","linkedin","https://www.linkedin.com/jobs/view/4436656594","","Software Developer 4","Oracle","Bengaluru, Karnataka, India","","fulltime","","","","","",False,"mid-senior level","Engineering and Information Technology","","_mb@oracle.com","**Job Description**
-**About the Company/Team**
- Oracle Health Infrastructure and Platform Services builds and operates the cloud foundations, shared platforms, and engineering capabilities that support Oracle Health products and services.
-   
-
-  
-
- The Oracle Cloud Infrastructure (OCI) team provides the opportunity to build and operate massive\\-scale, integrated cloud services in a broadly distributed, multi\\-tenant environment. OCI is committed to delivering secure, reliable cloud products for customers addressing some of the world’s most important challenges.
-   
-
-  
-
- Within Oracle Health, this team is building an AI\\-native engineering platform: a set of intelligent agents and reusable cloud capabilities that help engineering teams understand complex systems, reason through problems, and safely execute work across the software lifecycle.
-   
-
-  
-
-**Job Summary**
- Oracle Health Infrastructure and Platform Services is looking for engineers with experience building cloud\\-native, AI\\-assisted platforms and systems.
-   
-
-  
-
- The role combines hands\\-on software engineering, cloud platform development, and operational ownership. You will help turn complex or manual engineering work into safe, repeatable platform capabilities and runbooks that improve developer productivity, reliability, and customer outcomes.
-   
-
-  
-
- The ideal candidate brings strong engineering fundamentals, sound judgment in mission\\-critical or regulated environments, and curiosity about applying emerging AI technologies responsibly in production systems.
-   
-
-  
-
-**Key Responsibilities**
-* Discover high\\-value engineering opportunities and translate them into intelligent, production\\-ready platform capabilities.
-* Design, build, and operate AI\\-native platform services and intelligent agents that amplify engineering teams across the software lifecycle.
-* Own ambiguous engineering problems end\\-to\\-end, working backwards from customer and engineering needs to define outcomes, architecture, delivery plans, and operational measures.
-* Partner across engineering, product, and domain teams to understand complex challenges, challenge conventional approaches, and deliver solutions with measurable impact.
-* Architect and implement cloud\\-native distributed systems with a focus on scalability, reliability, security, maintainability, observability, and developer experience.
-* Experiment rapidly with emerging AI technologies, validate ideas through prototypes, and evolve successful approaches into safe, production\\-ready platform capabilities.
-* Build reusable, platform\\-first capabilities that enable multiple engineering teams and reduce duplicated point solutions.
-* Influence technical direction through architecture, design reviews, engineering standards, technical decision\\-making, mentoring, and hands\\-on leadership.
-
-
-**Responsibilities**
-**Qualifications \\& Skills**
-**Experience**
-**Mandatory Qualifications**
-* At least 8 years of software engineering experience building scalable applications, backend services, developer platforms, or distributed systems.
-* Bachelor’s degree in Computer Science or a related technical discipline, or equivalent practical experience.
-* Demonstrated ability to independently own complex engineering problems from discovery through production and measurable adoption.
-* Strong programming skills in Java, Python, or another object\\-oriented programming language.
-* Deep understanding of distributed systems, cloud\\-native architectures, API design, software engineering best practices, and production operations.
-* Experience designing reusable platform capabilities, developer tools, or engineering solutions adopted by multiple teams.
-* Demonstrated ability to make sound architectural trade\\-offs across scalability, reliability, security, cost, maintainability, and developer experience.
-* Experience leading technical design, resolving ambiguity, and driving complex initiatives across organizational boundaries.
-* Ability to use operational data, customer feedback, and engineering metrics to prioritize work and demonstrate impact.
-* Strong communication, technical leadership, mentoring, and problem\\-solving skills.
-* Platform\\-first mindset with a focus on leverage, reuse, and durable engineering outcomes.
-* Strong product and customer judgment when identifying high\\-value engineering problems.
-* Ability to lead through influence and collaborate effectively with globally distributed engineering, product, operations, security, and domain teams.
-* Sound judgment when introducing new technology into mission\\-critical or regulated environments.
-* Ability to raise engineering standards through clear architecture, documentation, mentoring, and operational accountability.
-* Experience building AI\\-native applications, intelligent agents, or agentic systems using large language models.
-* Experience with AI engineering concepts such as retrieval\\-augmented generation (RAG), tool calling, Model Context Protocol (MCP), vector databases, evaluation frameworks, guardrails, or model orchestration.
-* Experience applying AI to software engineering, developer productivity, incident response, diagnostics, or platform operations.
-* Experience building cloud\\-native platforms on OCI, AWS, Azure, Google Cloud Platform, or a comparable cloud environment.
-* Experience with Kubernetes, Docker, Terraform, Infrastructure as Code, and modern platform engineering practices.
-* Experience designing reusable platform capabilities adopted across multiple engineering organizations.
-* Experience with observability platforms, telemetry pipelines, diagnostics, production engineering, healthcare, security, compliance, or another highly regulated environment.
-
-
-**Technical Skills**
-**Core Competencies**
-**Good\\-to\\-Have Qualifications**
-**Self\\-Assessment Questions**
- Before applying, consider the following questions to assess your fit for the role:
-   
-
-  
-
-* Have I independently discovered and owned an ambiguous, high\\-impact engineering problem from initial framing through production adoption?
-* Have I designed reusable platform capabilities or developer tools that were adopted across multiple engineering teams?
-* Can I demonstrate architectural leadership and sound trade\\-off decisions for scalable, reliable, secure distributed systems?
-* Have I influenced technical direction, mentored engineers, and delivered measurable outcomes through cross\\-team collaboration?
-
-
-**Qualifications**
- Career Level \\- IC4
-   
-
-  
-
-**About Us**
- Only Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life\\-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.
-   
-
-  
-
- True innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
-   
-
-  
-
- We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation\\-request\\_mb@oracle.com or by calling 1\\-888\\-404\\-2494 in the United States.
-   
-
-  
-
- Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.","IT Services and IT Consulting","https://www.linkedin.com/company/oracle","https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/company-logo_100_100/0/1665755678957/oracle_logo?e=2147483647&v=beta&t=55lZDJhHdt3oPj2_gdPpymKz6Wv_9atXeO-CBFzAm6c","","","","","","","","","","",""
+**Required Technical And Professional Expertise**
+* Cloud Application Development: Exposure to designing and building cloud\\-native and hybrid applications that meet client requirements and are scalable, secure, and production\\-ready.
+* AI\\-First Mindset: Experience applying AI\\-First mindset to automate scaffolding, dependency management, API definition, and validation, as well as database design and validation.
+* CI/CD Pipeline Operation: Exposure to designing and operating CI/CD and GitOps pipelines with IaC and DevSecOps controls to ensure production readiness and cutover quality.
+* Quality Assurance: Experience performing unit, module, and functional testing using testing agents and synthetic data to ensure quality and reliability.
+* Hyperscaler Platforms: Exposure to hyperscalers such as AWS, Azure, and Red Hat OpenShift, and deployment models to architect resilient and cost\\-optimized full\\-stack and integration patterns.
+
+
+**Preferred Technical And Professional Experience**
+* Additional AI Tools: Exposure to other AI tools and technologies can be beneficial.
+* Advanced Testing Methods: Familiarity with advanced testing methods and techniques is desirable.
+* Emerging Technologies: Knowledge of emerging technologies and trends in cloud and AI can be advantageous.","IT Services and IT Consulting","https://www.linkedin.com/company/ibm","https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_100_100/company-logo_100_100/0/1688684715866/ibm_logo?e=2147483647&v=beta&t=HPSmWLOCvdPkWO1nRWwjjmCNpaCqww20rSJ4E54QtxQ","","","","","","","","","","",""
