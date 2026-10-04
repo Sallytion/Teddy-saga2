@@ -1,506 +1,589 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4475512226","linkedin","https://www.linkedin.com/jobs/view/4475512226","","Software Development Engineer, AWS DynamoDB","Amazon Web Services (AWS)","Bengaluru, Karnataka, India","2026-10-04","fulltime","","","","","",False,"mid-senior level","","","","**Description**
-AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.
+"li-4474210915","linkedin","https://www.linkedin.com/jobs/view/4474210915","","Sr Developer","TransUnion","Bengaluru, Karnataka, India","2026-10-04","fulltime","","","","","",False,"not applicable","","","","TransUnion's Job Applicant Privacy Notice
   
   
-Do you want to work on a product that can do the following?:
+****Team Overview****
+TransUnion is seeking a motivated Developer, AI Platform & Innovation to participate in the development and scaling of AI-powered capabilities across the enterprise. This role will serve as a technical contributor responsible for implementing AI-enabled applications, developer tooling, platform services, and engineering frameworks that accelerate organizational adoption of artificial intelligence.
   
   
-Access petabytes of data in single-digit milliseconds
+The successful candidate will work within platform and application layers, collaborating with engineering, product, and data science teams to deliver scalable, secure, and compliant AI solutions. This individual will build working knowledge of TransUnion’s products, data assets, services, and technology ecosystem while applying modern cloud-native architectures and AI-assisted development practices to support engineering effectiveness and delivery speed.
   
   
-Replicate tables across continents
+As a developer, this role will follow established engineering standards, contribute to AI feature development, and help integrate AI capabilities into TransUnion’s technology landscape under the guidance of senior engineers and technical leads.
   
   
-Stream terabytes of data updates per hour continuously
+This is a hybrid position and involves regular performance of job responsibilities virtually as well as in-person at an assigned TU office location for a minimum of two days a week. This is a hybrid position and involves regular performance of job responsibilities virtually as well as in-person at an assigned TU office location for a minimum of two days a week.
   
   
-Back up hundreds of terabytes of data in seconds
-  
-  
-Encrypt petabytes of data with no performance degradation
-  
-  
-Amazon DynamoDB is a NoSQL database service that does all this and more. DynamoDB is a key-value and document database that delivers single-digit-millisecond performance at any scale. DynamoDB can store petabytes of customer data and handle peaks of more than 20 million requests per second.
-  
-  
-As a fast growing service at the core of the AWS Cloud, our business and engineering decisions have widespread impact across AWS, Amazon, and beyond. Many of the world's fastest growing businesses, such as Lyft, Airbnb, and Redfin, as well as enterprises, such as Samsung, Toyota, and Capital One, depend on the scale and performance of DynamoDB to support their mission-critical workloads.
-  
-  
-DynamoDB is one of the largest distributed database systems in the world, and we continue to believe it is Day 1 for the DynamoDB business. We are constantly improving and adding new capabilities to DynamoDB, and we are looking for a deeply technical, team-first software development engineer to push DynamoDB even further.
-  
-  
-DynamoDB engineers are constantly challenged to think of unique and innovative solutions. The quality bar is high. As an engineer here, you will work on the hardest engineering problems in distributed systems at a massive scale and on multiple dimensions. You will exercise your intellectual curiosity, work with motivated teams of sharp individuals, and get insightful guidance from senior and principal engineers.
-  
-  
-This is a hands-on position in which you will own everything from end to end: requirements gathering, designs, design reviews, implementations, code reviews, incremental feature launches, operations, mentoring, and the driving of continuous improvement.
-  
-  
-**About The Team**
-Diverse Experiences
-  
-  
-AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
-  
-  
-Why AWS?
-  
-  
-Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
-  
-  
-Inclusive Team Culture
-  
-  
-Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.
-  
-  
-Mentorship & Career Growth
-  
-  
-We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
-  
-  
-Work/Life Balance
-  
-  
-We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
-  
-  
-**Basic Qualifications**
+****Required Qualifications****
+**Role Overview And Core Responsibilities**
 
-* Experience programming with at least one software programming language
-* 3+ years of building complex software systems experience
-* 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+* Bachelor’s degree in Computer Science, Software Engineering, Information Systems, or related technical field.
+* 5+ years of software engineering experience, including developing enterprise-scale applications or platforms.
+* Exposure to AI/ML or Generative AI concepts, with willingness to build and deploy AI-powered solutions in production environments.
+* Familiarity with cloud platforms such as AWS, Azure, or Google Cloud Platform.
+* Understanding of distributed systems, microservices architectures, APIs, and event-driven platforms.
+* Software development proficiency in one or more modern programming languages such as Java, Python, C#, Go, or TypeScript.
+* Familiarity with CI/CD pipelines, Infrastructure as Code, and modern DevOps practices.
+* Good communication and teamwork skills with the ability to collaborate effectively within technical teams.
+* Willingness to learn and work in regulated, security-conscious, and data-intensive environments.
 
-**Preferred Qualifications**
+****Preferred Qualifications****
+**Required Knowledge And Experiences**
 
-* 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
-* Bachelor's degree in computer science or equivalent
+* Bachelor's degree in Computer Science, Artificial Intelligence, Data Science, or related field.
+* Experience working within credit reporting, financial services, fintech, identity, fraud, risk, or data analytics industries.
+* Exposure to Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), agentic AI architectures, vector databases, or orchestration frameworks.
+* Experience contributing to AI platforms, developer tools, internal AI assistants, or AI governance solutions.
+* Awareness of MLOps platforms and model lifecycle management concepts.
+* Exposure to Kubernetes, container orchestration, and platform engineering frameworks.
+* Awareness of responsible AI, AI governance, and regulatory compliance concepts.
+* Experience using AI-assisted development tools such as GitHub Copilot, Claude Code, Codex, Cursor, Amazon Q, or equivalent platforms.
+* Cloud certifications from AWS, Azure, or Google Cloud Platform.
 
-Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+****TransUnion Overview****
+At TransUnion, we encourage and are committed to creating a real, positive impact and shared sense of purpose within our
+**Workforce for Good**
+, which empowers our people to grow, innovate and contribute to a better future for our communities and customers. We strive to build an environment where our associates are in the driver’s seat of their professional development— while having access to help along the way. We recognize that success comes when our associates thrive both professionally and personally; that’s why we prioritize work/life flexibility and offer resources for our teams across the globe to collaborate and drive excellence.
   
   
-  
-**Company**
-- ADCI - Karnataka
-  
-  
-Job ID: A10568477","IT Services and IT Consulting","https://www.linkedin.com/company/amazon-web-services","https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_100_100/B4EZgOay6gHEAY-/0/1752588562343/amazon_web_services_logo?e=2147483647&v=beta&t=813v--p_AS7bme1J7PlAyB2BEU4-c9ba9AUzyuGb5Wg","","","","","","","","","","",""
-"li-4473493501","linkedin","https://www.linkedin.com/jobs/view/4473493501","","Back End Developer - Bengaluru (Whitefield)","Talent Corner HR Services Pvt Ltd","Bengaluru, Karnataka, India","2026-10-04","fulltime","","","","","",False,"associate","","","farheen.akhtar@talentcorner.in","If interested, share your CV at
-**farheen.akhtar@talentcorner.in**
-or
-**9036659658**
-
-**Job Title - Senior Back-End Developer**
-
-**Location - Bangalore (Whitefield)**
-
-**Experience - 3 to 5 years**
-
-**Allocated Budget: 10 – 12 LPA (Non Negotiable)**
-
-**For This is a senior back-end role — we expect depth in Python and in relational databases, and the ability to run what you build.**
-
-**About the Role:**
-
-We are looking for a hands-on Senior Back-End Developer
-**who writes production-grade server-side code. You will design and build the services and data layer behind our applications using Python, with relational databases underneath — all deployed and operated on AWS**
-. This is a builder's role, not a coordinator's.
-**You should be comfortable writing complex SQL by hand, designing REST APIs that other teams depend on, reasoning about performance and failure, and owning your code through testing, deployment and production support**
-.
-
-**What You'll Do:**
-
-• Design, build, and maintain Python (Flask/FastAPI) services and REST APIs consumed by our front ends and partners.
-
-• Write and optimise advanced SQL — multi-table joins, subqueries, CTEs, and window functions — without leaning on an ORM to do the thinking for you.
-
-• Model and evolve relational schemas, design indexes, and tune slow queries using EXPLAIN / EXPLAIN ANALYZE.
-
-• Plan and run schema migrations safely against live data.
-
-• Handle authentication, authorisation, and the security of the endpoints you expose.
-
-• Build background jobs, queues, and scheduled work, and make them safe to retry.
-
-• Write meaningful unit and integration tests for the code and modules you ship.
-
-• Deploy, monitor, and troubleshoot services on AWS, and improve build and release pipelines.
-
-• Review peers' code, uphold quality standards, and mentor less experienced developers. What
-
-**We're Looking:**
-
-• 5+ years of relevant, hands-on back-end development experience.
-
-• Python — solid backend experience building REST APIs (Flask or FastAPI), not just scripting.
-
-• SQL — ability to write advanced queries from scratch and reason about how they execute; PostgreSQL and/or MySQL in production.
-
-• Schema design, indexing, and query optimisation on real data volumes.
-
-• AWS — practical experience deploying and running workloads (e.g. ECS/Fargate, Lambda, RDS).
-
-• API security — authentication and authorisation (JWT, OAuth2) and common OWASP risks.
-
-• Testing — able to write proper unit and integration tests with pytest.
-
-• Comfort with Git workflows, Docker, and CI/CD pipelines.
-
-**This Role Is Not a Fit If…**
-
-• You work only in Java and have no Python experience or familiarity.
-
-• You rely entirely on ORMs and cannot write raw SQL queries yourself.
-
-• Your Python is scripting and automation only — you have never built and run a production service. • You have never worked with AWS. (Experience on GCP or Azure is a plus, but AWS experience is required.)
-
-• You have never written tests for your own code.
-
-• You are looking for a role that is mostly front-end work.
-
-**Nice to Have**
-
-• Async Python (asyncio) and an understanding of concurrency trade-offs.
-
-• Queues and background processing — Celery, SQS, or Kafka.
-
-• Caching strategies with Redis, and knowing when not to cache.
-
-• Infrastructure as code (Terraform or AWS CDK).
-
-• Observability — structured logging, metrics, tracing, and useful alerts.
-
-• NoSQL stores (MongoDB, DynamoDB) alongside relational databases.
-
-• Enough front-end familiarity (Angular or React) to debug an integration end to end.","Business Consulting and Services and Real Estate","https://in.linkedin.com/company/talent-corner-hr-services-pvt-ltd","https://media.licdn.com/dms/image/v2/C4D0BAQGMMu3jONWkfA/company-logo_100_100/company-logo_100_100/0/1631310508235?e=2147483647&v=beta&t=BFGWfyvyLs0aAixmTz-Pg7uatx-SMxTmN5AYMPUQK4s","","","","","","","","","","",""
-"li-4447278697","linkedin","https://www.linkedin.com/jobs/view/4447278697","","Full Stack Engineer","RIB Software","Pune/Pimpri-Chinchwad Area","2026-10-04","fulltime","","","","","",False,"mid-senior level","","","","Driven by transformative digital technologies and trends, we are RIB and we’ve made it our purpose to propel the industry forward and make engineering and construction more efficient and sustainable. Built on deep industry expertise and best practice, and with our people at the heart of everything we do, we deliver the world's leading end-to-end lifecycle solutions that empower our industry to build better.
+Be a part of our
+**Workforce for Good**
+– you’ll work with great people, pioneering products and cutting-edge technology.
   
   
-With a steadfast commitment to innovation and a keen eye on the future, RIB comprises over 2,500 talented individuals who extend our software’s reach to over 100 countries worldwide. We are experienced experts and professionals from different cultures and backgrounds and we collaborate closely to provide transformative software products, innovative thinking and professional services to our global market. Our strong teams across the globe enable sustainable product investment and enhancements, to keep our clients at the cutting-edge of engineering, infrastructure and construction technology.
+Be a part of our
+**Workforce for Good**
+– you’ll work with great people, pioneering products and cutting-edge technology.
   
   
-We know our people are our success – join us to be part of a global force that uses innovation to enhance the way the world builds.
+****TransUnion Overview:****
+At TransUnion, we encourage and are committed to creating a real, positive impact and shared sense of purpose within our
+**Workforce for Good**
+, which empowers our people to grow, innovate and contribute to a better future for our communities and customers. We strive to build an environment where our associates are in the driver’s seat of their professional development— while having access to help along the way. We recognize that success comes when our associates thrive both professionally and personally; that’s why we prioritize work/life flexibility and offer resources for our teams across the globe to collaborate and drive excellence.
   
   
-Find out more at RIB Careers.
+Be a part of our
+**Workforce for Good**
+– you’ll work with great people, pioneering products and cutting-edge technology.
   
   
-**Position:**
-Full Stack Engineer
+TransUnion Job Title
   
   
-**Experience:**
-5–9 years
+Sr Developer, Applications Development","Financial Services, Information Services, and IT Services and IT Consulting","https://www.linkedin.com/company/transunion","https://media.licdn.com/dms/image/v2/D4D0BAQEk0GcygRhErQ/company-logo_100_100/company-logo_100_100/0/1688367018553/transunion_logo?e=2147483647&v=beta&t=aZY91qceD0nOGJLqzOWLP_brRpLa01LUNeeXbXnuP-w","","","","","","","","","","",""
+"li-4473497531","linkedin","https://www.linkedin.com/jobs/view/4473497531","","Lead engineer (.Net,React,AWS)","Siemens Healthineers","Bengaluru, Karnataka, India","2026-10-04","fulltime","","","","","",False,"mid-senior level","","","","**Job Requirements**
+Key Responsibilities
   
   
-**Location:**
-Nashik/Pune India
+Technical lead responsibility to support and mentor the development team.
   
   
-**About The Role**
-We are looking for a Full Stack Engineer who can build, deploy, and maintain production-ready applications on Azure. The role requires strong full-stack development experience and hands-on use of AI tools in daily software development.
+Contribute towards the Architecture, Design and technical debt of the product.
   
   
-**Key Responsibilities**
+Analyze Requirements & Design Solutions: Interpret business and customer requirements, participate in technical discussions, and design scalable, secure, and maintainable software solutions.
+  
+  
+Backend Development: Develop RESTful Web APIs and backend services using C# and .NET technologies.
+  
+  
+Frontend Development: Build responsive and user-friendly interfaces using React, JavaScript, and HTML5.
+  
+  
+Database & Integration: Design and implement data models, integrate with databases and third-party services, and ensure optimal performance.
+  
+  
+Unit Testing & Quality Assurance: Develop and execute unit tests using xUnit/MS Test and follow TDD/BDD practices where applicable.
+  
+  
+Code Review & Best Practices: Review code within the Software Development Lifecycle (SDLC), ensuring compliance with coding standards, performance guidelines, and business constraints.
+  
+  
+Cloud Contribution: Leverage AWS cloud services by evaluating and selecting the most suitable components for scalable and cost-efficient solutions.
+  
+  
+Qualification: Bachelor's or Master's in Computer Science & Engineering, or equivalent.
+  
+  
+**Desired Knowledge & Experience**
 
-* Build scalable backend, frontend, database, and API features.
-* Develop clean, maintainable, production-ready code.
-* Prepare applications for Azure deployment using Docker and cloud-ready practices.
-* Work with Azure services such as App Service, Functions, Storage, Key Vault, Monitor, and Application Insights.
-* Debug issues, perform root-cause analysis, and improve application reliability.
-* Use AI tools to support coding, debugging, testing, refactoring, and documentation.
-* Collaborate with cloud engineers, QA, and product teams.
+* 8+ years of experience in full stack design and development.
+* Experience working in multi-site or global teams.
+* Strong proficiency in: C# / .NET technologies, Web API development, React, JavaScript, HTML5
+* Experience with AWS cloud services (EC2, Lambda, S3, etc.).
+* Hands-on experience in API automation using C#.
+* Knowledge of BDD, TDD, MS Test, xUnit.
+* Understanding of Agile/Scrum methodologies and participation in sprint ceremonies.
+* Familiarity with version control systems (e.g., Git).
+* Experience with Healthcare will be an added advantage
 
-**Requirements**
+**Required Soft-skills & Other Capabilities**
 
-* 5-9 years of software development experience.
-* Strong backend experience in \\*\\*Python, C#, or Node.js\\*\\*.
-* Strong frontend experience in \\*\\*React, Angular, or Vue\\*\\*.
-* Hands-on experience building and deploying applications on \\*\\*Azure\\*\\*.
-* Experience with \\*\\*Docker\\*\\* and CI/CD concepts.
-* Good understanding of APIs, databases, authentication, and application architecture.
-* Strong debugging and troubleshooting skills.
-* Hands-on experience using AI tools such as \\*\\*GitHub Copilot, ChatGPT, Cursor, Claude, or similar tools\\*\\* in daily development.
-* Ability to review and validate AI-generated code responsibly.
+* Great attention to detail and good analytical abilities.
+* Good planning and organizational skills
+* Collaborative approach to sharing ideas and finding solutions
+* Ability to work independently and also in a global team environment.
+
+**Work Experience**
+8+ years of experience in full stack design and development.
+  
+  
+
+* Experience working in multi-site or global teams.
+* Strong proficiency in: C# / .NET technologies, Web API development, React, JavaScript, HTML5
+* Experience with AWS cloud services (EC2, Lambda, S3, etc.).
+* Hands-on experience in API automation using C#.
+* Knowledge of BDD, TDD, MS Test, xUnit.
+* Understanding of Agile/Scrum methodologies and participation in sprint ceremonies.
+* Familiarity with version control systems (e.g., Git).
+* Experience with Healthcare will be an added advantage","Hospitals and Health Care","https://de.linkedin.com/company/siemens-healthineers","https://media.licdn.com/dms/image/v2/C4D0BAQE5hmEcQGYmLg/company-logo_100_100/company-logo_100_100/0/1635709402063/siemens_healthineers_logo?e=2147483647&v=beta&t=WzBCELa5qwxaNwIBJmDQ_TZZwSooZJPiv_BSin1QzGA","","","","","","","","","","",""
+"li-4474221405","linkedin","https://www.linkedin.com/jobs/view/4474221405","","Software Engineer","Droisys","India","2026-10-04","fulltime","","","","","",False,"associate","","","","About Droisys
+
+Droisys is a dynamic, fast-growing technology company dedicated to delivering cutting-edge solutions to clients worldwide. We pride ourselves on innovation, collaboration, and exceptional client service.
+
+We are seeking a highly organized, outgoing, and proactive Assistant Coordinator to support our management team and ensure seamless communication with clients. This role is ideal for someone who thrives in a fast-paced environment, enjoys engaging with people, and can balance multiple priorities with professionalism.
+
+**Software Engineer**
+
+**Remote , India**
+
+**Interview Process- 2 45 minute interviews technical, coding, system design final interview with hiring manage**
+r.
+
+* The client is focusing on these key words: Kubernetes Operation, Cloud infra, AWS EKS, ML platform, monitoring.
+* Strong understanding of distributed systems and cloud computing principles. Demonstrated experience with machine learning or data processing frameworks, such as Spark, Nvidia Triton Server etc.
+* Hands-on experience and strong understanding of Kubernetes environments, including scheduler Apache YuniKorn or Kueue, orchestration tooling Helm, app deployment, RBAC, ingress, etc.
+* Extensive experience with major cloud providers, especially with AWS services related to computing (EKS, EC2), storage (S3), and networking (VPC,NLB, Ingress) .
+* Proficiency in at least two programming languages (Java, Go, Python) (Go Preferred)
+* Experience with monitoring technologies such as Splunk, Grafana, Prometheus, etc.
+* Identify opportunities for automation, optimization, and cost-saving measures within the cloud infrastructure
+* Experience with ML model training and inference tech stacks will be a plus.
+
+At Droisys, we believe in creating an inclusive and collaborative workplace where every team member has the opportunity to grow.
+
+We are an equal opportunity employer that values diversity, inclusion, and belonging. We welcome candidates of all backgrounds
+
+and do not discriminate on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age,
+
+marital status, veteran status, disability, or any other characteristic protected by law.
+
+Droisys is an equal opportunity employer. We do not discriminate based on race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law. Droisys believes in diversity, inclusion, and belonging, and we are committed to fostering a diverse work environment.","Engineering Services, IT Services and IT Consulting, and Staffing and Recruiting","https://www.linkedin.com/company/droisys","https://media.licdn.com/dms/image/v2/C4E0BAQEBpP0KVrYjgg/company-logo_100_100/company-logo_100_100/0/1647370288757/droisys_logo?e=2147483647&v=beta&t=Bh1vYPPzGvgCzrTKkLQO0_zO6T2vTcrdedeFGZu9uSk","","","","","","","","","","",""
+"li-4474216636","linkedin","https://www.linkedin.com/jobs/view/4474216636","","Frontend Developer — Intern / Fresher","Zudu AI","Chennai, Tamil Nadu, India","2026-10-04","fulltime","","","","","",False,"internship","","","","We’re looking for a developer with strong fundamentals and hands-on project experience to help build and improve Zudu AI’s web applications.
+**Freshers are welcome—show us what you’ve built.**
+
+**What you’ll do**
+
+* Build features using
+  **React.js, Next.js and TypeScript**
+  .
+* Understand an existing codebase, debug issues and integrate REST APIs.
+* Create responsive, reusable components with
+  **Tailwind CSS and shadcn/ui**
+  .
+* Improve performance, usability and reliability.
+* Collaborate through GitHub pull requests, testing and deployment workflows.
+
+**What we’re looking for**
+
+* Strong
+  **JavaScript, React.js, TypeScript and Next.js**
+  fundamentals—all four are required.
+* Good understanding of HTML, CSS, responsive design and API integration.
+* Familiarity with Git/GitHub and basic awareness of CI/CD and GitHub Actions.
+* Personal projects, freelance work or internships demonstrating your own contribution.
+* Curiosity, debugging ability and the initiative to learn and take ownership.
+
+**AI-assisted development**
+
+**Experience with Claude Code, Cursor, Codex, GitHub Copilot or similar tools**
+is a strong advantage. Use AI to understand code, build features, debug and write tests—and be able to explain and verify the output.
+
+**Bonus:**
+Monorepos, pnpm, npm packages, Vite, React Flow, LiveKit/WebRTC, Tauri/Electron, Docker or Kubernetes.","Software Development","https://in.linkedin.com/company/zudu-ai","https://media.licdn.com/dms/image/v2/D560BAQGezouOuqf-Ew/company-logo_100_100/B56ZWEzuFNHsAQ-/0/1741689905922/zudu_ai_logo?e=2147483647&v=beta&t=5etUjdQD8N4wO_6aU6C-X8rQP8x1KbngrnpiuEtfdwg","","","","","","","","","","",""
+"li-4473607061","linkedin","https://www.linkedin.com/jobs/view/4473607061","","Sr Configuration Engineer","Siemens Healthineers","Bengaluru, Karnataka, India","2026-10-04","fulltime","","","","","",False,"mid-senior level","","","","**Job Requirements**
+Siemens Healthineers is a global leader in medical technology, working to improve patient care and healthcare outcomes. XP (X-ray Products) is one of the key Diagnostic Imaging modalities, with a product portfolio spanning Radiography, Fluoroscopy, Uroscopy, and Women’s Health. We, XP DevOps team is looking for an experienced Sr. Configuration Engineer to strengthen software configuration management, build engineering, release readiness, and DevOps automation across complex medical software solutions. In this role, you will provide and continuously improve the development, build, test, and deployment infrastructure used by development teams. You will work with IBM Rational ClearCase, Azure DevOps Server/Services, TFVC/Git, CI/CD pipelines, build tools, and automation scripts to enable reliable, traceable, and efficient software delivery.
+  
+  
+**Your Role And Responsibilities**
+Operate, administer, and improve software configuration management environments based on IBM Rational ClearCase, including usage guidance, branching strategies, traceability, and process compliance.
+  
+  
+
+* Create, execute, monitor, and maintain software builds for ClearCase-based projects using medmake, omake, MSBuild, and related tools.
+* Design, maintain, and improve Azure DevOps Server CI/CD pipelines that support automated build, deployment, validation, and release workflows.
+* Support development and maintenance of software projects that contribute to finished medical devices by enabling integration of components, modules, and technology stacks into deliverable product software.
+* Build and maintain automation using Perl as a mandatory scripting language, together with PowerShell and other supporting technologies where needed.
+* Automate setup and deployment activities across test, pre-production, and production-like environments within CI/CD pipelines.
+* Develop tools and scripts that improve build reliability, packaging, reporting, validation, and feedback cycles for development teams.
+* Investigate and resolve issues related to software builds, product packaging, installation, deployment environments, and infrastructure dependencies.
+* Drive continuous improvement by identifying new tools, technologies, workflows, and automation opportunities that reduce manual effort and improve quality.
+* Collaborate closely with development, testing, infrastructure, architects, project managers, product owners, and global stakeholders.
+* Create, maintain, and improve process descriptions, technical documentation, release artifacts, and configuration management procedures.
+* Act as a DevOps and configuration management enabler for development teams, supporting adherence to established practices while improving delivery speed and reliability.
+
+**Your Qualifications And Experience**
+
+* Graduate or postgraduate degree in Computer Science, Information Technology, Medical or Life Sciences, or a related discipline.
+* 7 to 13 years of experience in software development, software configuration management, build engineering, DevOps, or large multinational software development projects.
+* Minimum 5 years of hands-on experience with IBM Rational ClearCase and builds using medmake and omake.
+* Hands-on experience with Azure DevOps Server (formerly TFS) and CI/CD pipelines.
+* Experience with source control systems including IBM Rational ClearCase, TFVC, and Git.
+* Development experience in C# and .NET technologies, with strong scripting experience in Perl and working knowledge of PowerShell.
+* Good understanding of software build systems, C# compilers, MSBuild, product packaging, and package management concepts such as Artifactory, Azure Artifacts, NuGet, npm, Maven, Python packages, and feeds.
+* Strong understanding of Windows operating systems, server environments, virtualization, networking fundamentals, and infrastructure concepts relevant to build and deployment environments.
+* Experience working in Scrum teams within Agile or SAFe-based software development organizations, with a solid understanding of Scrum ceremonies, sprint execution, SDLC, release management, configuration management principles, team collaboration, backlog-driven development, and continuous improvement practices.
+* Strong analytical, debugging, tracing, root cause analysis, and problem-solving skills. What Will Make You Successful
+* You are proactive, self-driven, and able to work independently while keeping commitments and priorities transparent.
+* You communicate clearly in English with international teams and can explain complex technical topics to both technical and non-technical stakeholders.
+* You enjoy collaborating across functions and locations, sharing best practices, and enabling teams to use DevOps systems effectively.
+* You value process-oriented work, traceability, quality gates, and continuous improvement in regulated software development environments.
+* You are comfortable reviewing scripts, build changes, automation solutions, and process updates to ensure quality, maintainability, and compliance. Nice to Have
+* Experience with WiX Toolset and COIN packaging tools.
+* Experience with migration from IBM Rational ClearCase to Git.
+* Experience with DevOps platforms and tools such as Azure DevOps Services, GitLab, GitHub, Jenkins, Ansible, Docker, Kubernetes, Terraform, or other Infrastructure-as-Code technologies.
+* Experience defining KPIs for monitoring environments and operated software to provide proactive feedback to development and operations teams.
+* Knowledge of additional programming or scripting languages such as Python, JavaScript, Node.js, React, C, C++, Go, or PHP.
+* Experience guiding international development teams on DevOps principles, CI/CD quality expectations, and build/release practices.
+* Openness to take on Scrum Master responsibilities when required, by facilitating Agile ceremonies, supporting sprint planning and retrospectives, improving team transparency, and helping remove impediments in close collaboration with product owners and development team
+
+Why Join Us At Siemens Healthineers, you will contribute to healthcare technology that directly supports patient care and advances medical outcomes. You will be part of a global engineering environment where software configuration management, DevOps automation, and reliable development infrastructure are key enablers for high-quality product delivery. This role offers the opportunity to solve complex technical challenges, improve engineering productivity, and shape modern delivery practices for AWS Systems within the XP product portfolio. External Job Description We are actively seeking an exceptional and driven Sr. Configuration Engineer to join our AWS Systems team in Bengaluru. As a Sr. Configuration Engineer, you will play a pivotal role in providing development, build, test, and deployment infrastructure for platform and integrated software solutions. You will operate and improve configuration management systems, maintain automated build capabilities, and participate actively in continuous integration and continuous deployment processes. The ideal candidate combines practical ClearCase and Azure DevOps Server experience with strong scripting, troubleshooting, infrastructure understanding, and the ability to collaborate in an international Agile environment.
+  
+  
+**Work Experience**
+7 to 13 years of experience in software development, software configuration management, build engineering, DevOps, or large multinational software development projects.
+  
+  
+
+* Minimum 5 years of hands-on experience with IBM Rational ClearCase and builds using medmake and omake.
+* Hands-on experience with Azure DevOps Server (formerly TFS) and CI/CD pipelines.
+* Experience with source control systems including IBM Rational ClearCase, TFVC, and Git.
+* Development experience in C# and .NET technologies, with strong scripting experience in Perl and working knowledge of PowerShell.
+* Good understanding of software build systems, C# compilers, MSBuild, product packaging, and package management concepts such as Artifactory, Azure Artifacts, NuGet, npm, Maven, Python packages, and feeds.","Hospitals and Health Care","https://de.linkedin.com/company/siemens-healthineers","https://media.licdn.com/dms/image/v2/C4D0BAQE5hmEcQGYmLg/company-logo_100_100/company-logo_100_100/0/1635709402063/siemens_healthineers_logo?e=2147483647&v=beta&t=WzBCELa5qwxaNwIBJmDQ_TZZwSooZJPiv_BSin1QzGA","","","","","","","","","","",""
+"li-4474217540","linkedin","https://www.linkedin.com/jobs/view/4474217540","","Business Development Coordinator","Taxcart","India","2026-10-04","fulltime","","","","","",False,"entry level","","","","**Company Description**
+Taxcart is a global tax engine that automates sales tax, VAT, and GST calculations across checkouts, invoices, and ERP systems. With a single integration, Taxcart helps businesses apply the correct taxes to every transaction, simplifying compliance for companies selling worldwide. The platform offers transparent flat-rate pricing, making it straightforward for organizations to forecast and manage costs. Taxcart focuses on reliability, accuracy, and ease of use so customers can scale internationally without complex tax management overhead.
+  
+**Role Description**
+This is a full-time remote role for an Information Technology Consultant at Taxcart. The consultant will support clients in integrating Taxcart’s solutions into their e-commerce platforms, invoicing systems, and ERPs, ensuring secure and efficient deployments. Daily responsibilities include assessing client technical environments, advising on best practices, configuring and testing integrations, and troubleshooting implementation or performance issues. The role involves collaborating with product and engineering teams to escalate complex problems, provide feedback on recurring client needs, and contribute to documentation and knowledge base resources. The consultant will also participate in client training sessions, help optimize system usage, and support continuous improvement of Taxcart’s technical services.
+  
+**Qualifications**
+
+* Strong foundation in Information Technology and experience in IT Consulting.
+* Consulting skills with the ability to gather requirements, propose solutions, and manage client expectations.
+* Technical Support experience, including diagnosing issues, resolving incidents, and documenting solutions.
+* Well-developed Analytical Skills for troubleshooting complex technical and integration challenges.
+* Experience with APIs, web services, and integrating SaaS solutions into e-commerce or ERP systems.
+* Familiarity with tax, finance, or compliance systems is an advantage.
+* Clear written and verbal communication skills and ability to work effectively with distributed teams.
+* Bachelor’s degree in Computer Science, Information Systems, or a related field, or equivalent practical experience.
+* Ability to work independently in a remote environment and manage multiple client engagements simultaneously.","Technology, Information and Internet","https://au.linkedin.com/company/taxcart","https://media.licdn.com/dms/image/v2/D560BAQFxPe14nCx_hg/company-logo_100_100/B56aEGJDx3HIAI-/0/1791104400740/taxcart_logo?e=2147483647&v=beta&t=iqbh_1Y_oBJcBdA9HNKmfPoDzMwyp907r1tiVzUoL6E","","","","","","","","","","",""
+"li-4474227303","linkedin","https://www.linkedin.com/jobs/view/4474227303","","QA & Testing Intern — AI-Assisted Testing","Zudu AI","Chennai, Tamil Nadu, India","2026-10-04","fulltime","","","","","",False,"internship","","","","Zudu AI builds enterprise AI voice agents that handle real customer calls across India and APAC. Testing directly affects call quality, customer experience and successful task completion.
+
+We’re looking for someone with strong manual testing fundamentals who uses AI extensively to test applications and can independently verify the results.
+
+**What You Will Do**
+
+* Perform functional, exploratory, regression and end-to-end testing across voice agents, chat widgets, dashboards and APIs.
+* Use AI tools to generate test scenarios, identify edge cases, build test scripts, analyze transcripts and logs, and investigate defects.
+* Execute AI-generated tests, correct inaccurate assumptions and verify actual application behaviour.
+* Test multilingual conversations, interruptions, silence, fallbacks, call transfers and task completion.
+* Test APIs for authentication, input validation, response accuracy and changes to application data.
+* Run load tests under agreed conditions to assess concurrent calls, latency and failures.
+* Investigate issues through logs, Grafana dashboards and Prometheus metrics.
+* Write clear bug reports with reproducible steps, expected and actual results, severity and evidence.
+
+**Must Have**
+
+* Hands-on testing experience on at least one deployed application used by real users, through an internship, freelance work or a live project.
+* Practical experience using AI tools for testing, with an example of work you executed and a verified outcome.
+* Understanding of LLMs, prompts, context and tokens, hallucinations, variable outputs, retrieval-based grounding, and the speech-to-text → LLM → text-to-speech flow.
+* Strong manual QA fundamentals: positive and negative scenarios, boundary testing, expected results, regression and exploratory testing.
+* API testing basics using Postman or similar, including HTTP, REST and status codes.
+* Working knowledge of JMeter, k6, Locust or similar, and basic ability to interpret logs and Grafana/Prometheus metrics.
+* Curiosity, debugging discipline and the ability to explain your reasoning.
+* Availability to work full-time from our Chennai office for six months.
 
 **Good to Have**
 
-* Experience building AI-powered application features.
-* Exposure to \\*\\*Azure OpenAI\\*\\*, LLM APIs, prompt engineering, embeddings, vector databases, RAG, or agents.
-* Understanding of AI output evaluation, hallucination handling, and guardrails.
-* Experience with Azure security, monitoring, scalability, and performance optimization.
+* Python or JavaScript scripting.
+* Playwright, Selenium, pytest or CI pipeline experience.
+* Exposure to SIP, WebRTC, streaming or real-time voice systems.
+* Confidence evaluating Tamil, English or Hindi conversations.
 
-**Why Join Us**
-Real Impact: Your code will run in production serving real users
-  
-  
-Growth Opportunity: Learn emerging AI technologies while strengthening core development skills
-  
-  
-Supportive Team: Work with experienced cloud engineers who handle infrastructure
-  
-  
-Learn and grow in Azure and AI technologies.
-  
-  
-Collaborate in a supportive, engineering-first environment.
-  
-  
-RIB may require all successful applicants to undergo and pass a comprehensive background check before they start employment. Background checks will be conducted in accordance with local laws and may, subject to those laws, include proof of educational attainment, employment history verification, proof of work authorization, criminal records, identity verification, credit check. Certain positions dealing with sensitive and/or third party personal data may involve additional background check criteria.
-  
-  
-RIB is an Equal Opportunity Employer. We are committed to being an exemplary employer with an inclusive culture, developing a workplace environment where all our employees are treated with dignity and respect. We value diversity and the expertise that people from different backgrounds bring to our business.
-  
-  
-Come and join RIB to create the transformative technology that enables our customers to build a better world.","Software Development","https://de.linkedin.com/company/rib-software","https://media.licdn.com/dms/image/v2/C4D0BAQEAcLCsjCUx5w/company-logo_100_100/company-logo_100_100/0/1675178824933/rib_software_logo?e=2147483647&v=beta&t=U7flQpmOsV4NX5V8JRtYw7gYRdARUbubfGYeJxOBu_s","","","","","","","","","","",""
-"li-4401140246","linkedin","https://www.linkedin.com/jobs/view/4401140246","","Senior Software Engineer, DriveAV - Autonomous Vehicles","NVIDIA","Bengaluru, Karnataka, India","2026-10-04","fulltime","","","","","",False,"mid-senior level","","","","The automotive industry is at disruption & NVIDIA is at the forefront of the autonomous vehicle revolution, powering many key solutions for major car manufacturers. We are engaged in the key areas of automotive business where visual computing & AI matters: AI Cockpit and Autonomous Vehicles (AV). Autonomous vehicles need a supercomputer on wheels; it's an AI & SW heavy computational challenge. There is not an off-the-shelf platform which stands up to this challenge, so we are building our own. You have technically mastered your field, gathered several years of senior experience in cracking complex problems and now seeking a next challenge? Join our automotive teams and apply now! We are now looking for a Senior Software Engineer, based in Bangalore, India to join our Autonomous Driving Software team.
-  
-  
-**What You’ll Be Doing**
+**When Applying, Please Include**
 
-* Support bring-up, integration, and issue resolution for longitudinal/lateral assist, parking, and active safety features.
-* Map customer requirements (use cases, ODD, variants, markets) to existing AV capabilities and drive alignment.
-* Support vehicle integration: sensor and actuator interfaces, Vehicle IO / signal alignment, calibration, diagnostics and data logging / replay for debug
-* Dive deep into analysis, diagnosing root causes, and refining the product experience.
+* Your latest resume.
+* One live application you personally tested and your contribution.
+* AI tools you have actually used for testing, with one successful example.
+* Current and expected monthly take-home salary/stipend in INR. Enter ₹0 for current take-home if you are not currently earning.
+* Notice period, earliest joining date and whether you can join within seven days of an offer.
 
-**What We Need To See**
+Shortlisted candidates will complete a practical exercise. AI use is encouraged; you must be able to explain and verify your work.
 
-* BS or MS degree from a leading university, or equivalent experience, in an engineering or computer science related discipline with 5+ years of relevant working experience
-* Experience with ADAS or autonomous driving software stack
-* Experience integrating (not only testing) AV vehicle functions like ACC, AEB, or APA on a series production or late-prototype platform
-* Experience with how faults map to feature-level degradations (ADAS / L2+ / parking / active safety), diagnostic routines (factory vs. service calibration, diagnostic message flows), and static vs. online calibration—with the ability to support the customer on live projects.
-* Experience with log/replay workflows and KPI validation for ADAS features
-* Good written and verbal interpersonal skills - concisely articulate knowledge and ideas
-
-**Ways To Stand Out From The Crowd**
-
-* Experience in functional development, adaptation and testing of automotive software based on various sensors (e.g. camera, radar, lidar, GPS, ultrasound etc.)
-* Understand how perception, planning, and control fit together in a production-style autonomous driving stack
-* Experience in Automotive AV application and middleware development
-* Self-motivated and work effectively across different international functional organizations
-* Awareness of Automotive Vehicle certification & standards
-
-, , JR2016077","Computer Hardware Manufacturing","https://www.linkedin.com/company/nvidia","https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_100_100/company-logo_100_100/0/1724881581208/nvidia_logo?e=2147483647&v=beta&t=oCxt8kGhi0AfLuVDY7D_jzkUIEe-fAV5Q5eLaRxXzOE","","","","","","","","","","",""
-"li-4474206995","linkedin","https://www.linkedin.com/jobs/view/4474206995","","Software Engineer, Senior (Java + React)","Strategy","Chennai, Tamil Nadu, India","2026-10-04","fulltime","","","","","",False,"mid-senior level","","","","**Company Description**
-**Strategy (Nasdaq: MSTR)**
-is at the forefront of transforming organizations into intelligent enterprises through data-driven innovation. We don't just follow trends—we set them and drive change. As a market leader in enterprise analytics and AI software, we've pioneered the BI and analytics space, empowering people to make better decisions and revolutionizing how businesses operate. We are now also at the forefront of AI disruption, providing data via our enterprise semantic layer to AI agents, tools, and platforms.
+#Hiring #QATesting #Internship #Chennai #ZuduAI","Software Development","https://in.linkedin.com/company/zudu-ai","https://media.licdn.com/dms/image/v2/D560BAQGezouOuqf-Ew/company-logo_100_100/B56ZWEzuFNHsAQ-/0/1741689905922/zudu_ai_logo?e=2147483647&v=beta&t=5etUjdQD8N4wO_6aU6C-X8rQP8x1KbngrnpiuEtfdwg","","","","","","","","","","",""
+"li-4473489759","linkedin","https://www.linkedin.com/jobs/view/4473489759","","Software Architect (C#, .Net, Angular,Enterprise Architect)","Siemens Healthineers","Bengaluru, Karnataka, India","2026-10-04","fulltime","","","","","",False,"mid-senior level","","","","**Job Requirements**
+As a Software Architect for a team developing state of art software, you will be required to:
   
   
-But that's not all. Strategy is also leading a groundbreaking shift in digital assets, adopting bitcoin as our primary treasury reserve asset in 2020. Since then, we have issued innovative bitcoin-backed securities and have been the leader in bitcoin treasury companies. This visionary move has helped us build a fortress balance sheet, and is solidifying our position as a forward-thinking, innovative force in the market.
+Drive and guide the specification and implementation of a Software (SW) architecture for a whole product or a subsystem over all its domain and technical aspects and ensure the sustainability of architecture vision.
   
   
-Our people are the core of our success. At Strategy, you'll join a team of smart, creative minds working on dynamic projects with cutting-edge technologies. We thrive on curiosity, innovation, and a relentless pursuit of excellence.
+Technically conceptualize, design and develop whole product or a sub-system.
   
   
-Our corporate values—bold, agile, engaged, impactful, and united—are the foundation of our culture. As we lead the charge into the new era of AI and financial innovation, we foster an environment where every employee's contributions are recognized and valued.
+Collaborate with different stake holders to elaborate functional and non- functional requirements of the product and take decisions that are driven by a clear focus on the intended business and its associated requirements.
   
   
-Join us and be part of an organization that lives and breathes innovation every day. At Strategy, you're not just another employee, you're a crucial part of a mission to push the boundaries of analytics and redefine financial investment.
+Bring in maturity, vision, depth of domain, technical experience and the ability to identify, analyze, and decide on relevant issues in time and with courage, even in the absence of complete information.
   
   
-**Job Description**
-**Job Description**
-**Location:**
-Chennai (WFO – Monday to Friday)
+Coach and motivate developers in your team over the entire lifetime of a project to enable, support, and enforce an appropriate implementation, maintenance, quality assurance, test, and evolution of the SW architecture, even in the face of challenging, changing, and evolving business cases, requirements and realization technologies.
   
   
-**Experience:**
-min 6 + years
+Involve relevant stake holders (Project manager, Product manager, Test manager etc.) in decision making process.
   
   
-**Job Type:**
-Full-time | Immediate joiners preferred
+From Business perspective, completely responsible for validating technology roadmaps, doing technology evaluation and if needed, driving make or buy decisions. If needed, shall provide support to evaluate suppliers and identifying potential invention disclosures.
   
   
-**Role Summary**
-We are seeking a Senior Software Engineer to lead web application development projects. The ideal candidate should have expertise in
-**Java/ Python and React,**
-HTML, CSS, TypeScript, and cloud platforms like AWS, Azure, or GCP.
+From requirements engineering perspective, completely responsible for deriving software requirements, defining external software interfaces, validating software requirements and giving feasibility statement.
   
   
-**Key Responsibilities**
-
-* Lead the design and development of scalable web applications.
-* Architect backend solutions using Java and Python.
-* Drive frontend development using React, HTML, CSS, and TypeScript.
-* Integrate cloud-based services and optimize deployment pipelines using AWS, Azure, or GCP.
-* Mentor junior developers and conduct code reviews.
-* Ensure performance, security, and scalability of applications.
-
-**Skills Required**
-
-* Proven experience in Java, Python, and JavaScript development.
-* Strong expertise in frontend technologies such as React, HTML, CSS, and TypeScript.
-* Working knowledge of cloud platforms – AWS, Azure, or GCP.
-* Excellent problem-solving and communication skills.
-
-**Preferred Skills**
-
-* Experience in microservices architecture and container orchestration.
-* Proficiency with CI/CD tools like Jenkins, GitHub Actions, or CircleCI.
-* Exposure to observability tools like Prometheus, Grafana, or ELK stack.
-* Experience with OAuth2 or other modern authentication methods.
-* Understanding of scalability and fault-tolerance patterns in cloud environments.
-
-**Additional Information**
-The recruitment process includes online assessment as a first step - we send it via e-mail once you apply, please check also your SPAM folder.","Software Development and IT Services and IT Consulting","https://www.linkedin.com/company/strategy","https://media.licdn.com/dms/image/v2/D4D0BAQGtZT0i7ad5ow/company-logo_100_100/company-logo_100_100/0/1738781334110/microstrategy_logo?e=2147483647&v=beta&t=gRjlSs3b8gFpKAxYX5Rygu8hs8Ok_ERE40iBjUdrRhQ","","","","","","","","","","",""
-"li-4474229066","linkedin","https://www.linkedin.com/jobs/view/4474229066","","Engineer III, Software","Levi Strauss & Co.","Bengaluru, Karnataka, India","2026-10-04","fulltime","","","","","",False,"not applicable","","","","Calling all originals: At Levi Strauss & Co., you can be yourself — and be part of something bigger. We're a company of people who like to forge our own path and leave the world better than we found it. Who believe that what makes us different makes us stronger. So add your voice. Make an impact. Find your fit — and your future.
+From Architecting and design perspective, completely responsible for elaborating software architecture and design, design prototyping, documenting architecture and design rationale, establishing architecture traceability, identification and specification of interfaces. Shall provide support for Architecture management, monitoring of internal software quality and structural changes.
   
   
-**Introduction**
-As a Software Engineer III, you will build and help operate the systems that power our consumer digital experiences using Order Management platform. You will work within a ""you build it, you run it"" engineering culture, partnering closely with product managers, designers, and senior engineers while gaining hands-on ownership of solutions in production. This role reports into the Digital & Commerce Platforms engineering organization and offers significant opportunity for growth through mentorship, AI-enabled development practices, and increasing technical ownership.
+From implementation perspective, completely responsible for reviewing detailed software design, coaching for software development and deployment. Shall provide support for implementation of any critical component.
   
   
-**About The Job**
-
-* Design, develop, and deploy scalable features and services supporting digital commerce platforms, APIs, and event-driven architectures that serve high-volume consumer experiences.
-* Build features across the order lifecycle: order capture, sourcing and allocation, fulfillment (ship-from-store, BOPIS, drop-ship), invoicing and returns.
-* Develop and support integrations with e-commerce, ERP, WMS, POS, payment, tax and carrier systems.
-* Participate in production support and on-call rotations, helping investigate incidents, maintain runbooks, and contribute to post-incident reviews that improve system resilience.
-* Leverage AI-powered engineering tools to accelerate coding, testing, debugging, and documentation while validating all outputs for quality, security, and reliability.
-* Build and maintain automated testing solutions and contribute to code reviews, CI/CD pipelines, feature flag strategies, and safe deployment practices.
-* Instrument applications with monitoring, logging, and alerting capabilities while collaborating across global teams to continuously improve platform performance and customer experience.
-
-**About You**
-
-* 5+ years of professional software engineering experience delivering and supporting production applications.
-* Proficiency in at least one modern programming language such as Java, Python, TypeScript/Node.js, Go, Kotlin, or Swift, with experience developing APIs and cloud-based solutions.
-* Hands-on experience using AI development tools such as GitHub Copilot, Cursor, Claude Code, or similar technologies within the software development lifecycle.
-* Working experience with Google Cloud or another major cloud (AWS/Azure), and willingness to go deeper on GCP.
-* Strong foundation in software engineering fundamentals including testing, debugging, data structures, source control, and CI/CD practices.
-* Experience working within Agile delivery frameworks and a willingness to support production systems through operational ownership and continuous improvement activities.
-* Hands-on experience with best-in-class Order Management platforms (home-grown or off-the-shelf such as Manhattan Active Omni or IBM Sterling Commerce).
-
-**Preferred Qualifications**
-
-* Experience with event-driven architectures and messaging technologies.
-* Exposure to infrastructure as code, containerization, and cloud-native platforms.
-* Familiarity with observability, site reliability engineering, or incident response practices.
-* Bachelor's degree in Computer Science or related field, or equivalent practical experience.
-
-**LOCATION**
-Bengaluru, India
+From testing and Quality perspective, completely responsible for driving architecture quality. Shall provide support for software integration, sequence and concept, performing tests and resolving of defects.
   
   
-**FULL TIME/PART TIME**
-Full time
+Qualification
   
   
-**Current LS&Co Employees, apply via your Workday account.**","Retail Apparel and Fashion, Design Services, and Retail","https://www.linkedin.com/company/levi-strauss-&-co-","https://media.licdn.com/dms/image/v2/C560BAQHhKsgcS5WuWg/company-logo_100_100/company-logo_100_100/0/1630640167746/levi_strauss__co__logo?e=2147483647&v=beta&t=cdyR1yvgVKl3sM3GXpVjl0NtdGFZvIuBqi0TXTzViKM","","","","","","","","","","",""
-"li-4465426348","linkedin","https://www.linkedin.com/jobs/view/4465426348","","Senior System Software Engineer, Software Defined Networking","NVIDIA","Bengaluru, Karnataka, India","2026-10-04","fulltime","","","","","",False,"mid-senior level","","","","We are looking for a Senior System Software Engineer, Software Defined Networking to design, build, and operate highly performant and scalable SDN solutions for NVIDIA's AI Clouds hosting GPU-accelerated workloads — including hyperscale multi-node training, inference, cloud gaming, and cloud functions. This role spans the full lifecycle of our SDN stack — from designing and developing new control and data plane software to ensuring operational excellence in production through reliability engineering, CI/CD, observability, and incident response.
+B.E. / B. Tech / MCA/ M. Tech
   
   
-**What You'll Be Doing**
-
-* Design and develop next-generation multi-tenant cloud SDN control and data plane software (OVS, OVN, OpenFlow)
-* Build Infrastructure-as-a-Service virtual network orchestration and services using gRPC and REST to support tenant workload security and performance SLAs for BMaaS, VMaaS, and Kubernetes
-* Drive upstream contributions to OVN-Kubernetes and related open-source projects; Develop software for network observability — monitoring, telemetry, intelligent metering, and performance analysis
-* Operate and support OVS-OVN based SDN solutions in large-scale NVIDIA AI Cloud environments
-* Own end-to-end observability for the SDN stack — build and maintain monitoring, alerting, distributed tracing, and dashboarding to ensure real-time insight into network health, performance, and tenant SLAs
-* Design, enhance, and maintain CI/CD pipelines (GitLab) across Linux host networking, OVS, OVN, and Kubernetes CNIs
-* Implement GitOps approaches or related experience for secure, seamless integration with cloud infrastructure; Drive reliability through incident management, resource monitoring, and performance tuning
-* Collaborate with SRE, DevOps, and network engineering teams on production readiness and operational tooling
-
-**What We Need To See**
-
-* BS/MS in Computer Science or related technical field, or a comparable blend of education and relevant experience
-* 5+ years of proven experience in software development for large-scale distributed environments
-* Expert-level knowledge of OVN, OVS, OpenFlow, and modern network protocols
-* Strong programming skills in C and Go; advanced scripting in Bash and Python
-* Deep knowledge of Kubernetes, practical experience deploying and supporting CNIs (OVN-Kubernetes)
-* Hands-on experience with Infrastructure-as-Code and deployment tools (Ansible, Terraform, ArgoCD, Flux)
-* Experience designing and operating complex, multi-stage CI/CD pipelines
-* Hands-on experience developing secure, high-performance services using gRPC and REST with TLS and strong authentication
-* Strong knowledge of datacenter routing, switching, and Linux host/VM networking
-
-**Ways To Stand Out From The Crowd**
-
-* Contributions to open-source projects (especially OVS, OVN, OVN-Kubernetes, or other Kubernetes networking projects)
-* Experience with hardware acceleration (GPU, DPU or equivalent experience) for networking
-* Practical experience with major cloud providers (AWS, Azure, GCP) and hybrid/multi-cloud deployments
-* SRE/DevOps top-level expertise — on-call, incident management, operations focused on service reliability targets, production ownership
-* Experience with observability platforms and tools (Prometheus, Grafana, Jaeger, OpenTelemetry, ELK)
-
-, , JR2025441","Computer Hardware Manufacturing","https://www.linkedin.com/company/nvidia","https://media.licdn.com/dms/image/v2/D560BAQGV36q2EowSyw/company-logo_100_100/company-logo_100_100/0/1724881581208/nvidia_logo?e=2147483647&v=beta&t=oCxt8kGhi0AfLuVDY7D_jzkUIEe-fAV5Q5eLaRxXzOE","","","","","","","","","","",""
-"li-4474225304","linkedin","https://www.linkedin.com/jobs/view/4474225304","","Lead Engineer, Software","Levi Strauss & Co.","Bengaluru, Karnataka, India","2026-10-04","fulltime","","","","","",False,"not applicable","","","","Calling all originals: At Levi Strauss & Co., you can be yourself — and be part of something bigger. We're a company of people who like to forge our own path and leave the world better than we found it. Who believe that what makes us different makes us stronger. So add your voice. Make an impact. Find your fit — and your future.
+Desired Experience
   
   
-**Introduction**
-As a Lead Software Engineer, you will design, build, and operate the technology that powers Levi Strauss & Co. consumer digital experiences, including Order Management platforms. You will work within a “you build it, you run it” environment, owning solutions from design through production support while leveraging AI-enabled engineering practices to accelerate delivery. You will partner closely with cross-functional teams and help shape scalable, resilient platforms that serve consumers globally.
+10+ years of hands-on experience in design and development using multiple technologies, test frameworks and programming languages, out of which at least 2+ years of experience working as a software architect.
   
   
-**About The Job**
-
-* Design, develop, and operate scalable domain services, APIs, and event-driven solutions that support high-volume digital commerce experiences.
-* Own systems end-to-end, including deployment, observability, production support, on-call responsibilities, incident response, and continuous reliability improvements.
-* Leverage AI-powered development tools to accelerate solution design, implementation, testing, documentation, and engineering productivity while ensuring accuracy, security, and quality.
-* Build secure, resilient, and maintainable software by applying modern engineering practices including automated testing, CI/CD, infrastructure automation, and progressive delivery techniques.
-* Collaborate across product, engineering, and business teams while mentoring engineers and driving best practices that improve platform performance and customer experience.
-
-**About You**
-
-* 7+ years of professional software engineering experience building and supporting production systems in cloud-based or high-traffic digital environments, with at least 3 years on Order Management Systems (OMS).
-* Demonstrated experience owning applications through the full software lifecycle, including production support, incident management, and operational excellence.
-* Strong proficiency in at least one modern programming language and experience developing APIs, distributed systems, and event-driven architectures.
-* Hands-on experience with cloud platforms, CI/CD pipelines, automated testing, infrastructure as code, containerization technologies, and observability practices.
-* Practical experience using AI development tools such as GitHub Copilot, Cursor, Claude Code, or similar technologies to improve software engineering outcomes.
-* Experience with event-driven and message-based integration (Pub/Sub, Kafka).
-* Hands-on experience with best-in-class Order Management platforms (home-grown or off-the-shelf such as Manhattan Active Omni or IBM Sterling Commerce) including extensions, configuration and integrations.
-* Deep understanding of omnichannel retail flows: order capture, promising, allocation, fulfillment, invoicing, returns and customer service.
-
-**LOCATION**
-Bengaluru, India
+Proficient in Angular, Java Script, HTML5, Web API, C#, WPF, WCF, .Net Technologies.
   
   
-**FULL TIME/PART TIME**
-Full time
+Proficient in UML and UML modeling tools, experience with Enterprise Architect is a plus.
   
   
-**Current LS&Co Employees, apply via your Workday account.**","Retail Apparel and Fashion, Design Services, and Retail","https://www.linkedin.com/company/levi-strauss-&-co-","https://media.licdn.com/dms/image/v2/C560BAQHhKsgcS5WuWg/company-logo_100_100/company-logo_100_100/0/1630640167746/levi_strauss__co__logo?e=2147483647&v=beta&t=cdyR1yvgVKl3sM3GXpVjl0NtdGFZvIuBqi0TXTzViKM","","","","","","","","","","",""
-"li-4452282272","linkedin","https://www.linkedin.com/jobs/view/4452282272","","Lead Software Engineer","Mastercard","Pune Division, Maharashtra, India","2026-10-04","","","","","","",False,"","","","","","","https://www.linkedin.com/company/mastercard","","","","","","","","","","","",""
-"li-4379178229","linkedin","https://www.linkedin.com/jobs/view/4379178229","","Sr Principal Software Engineer","Cadence","Bengaluru, Karnataka, India","2026-10-04","fulltime","","","","","",False,"mid-senior level","","","","**At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.**
-**Position:**
-Sr. Principal Software Engineer
+Exposure to one or more source control tools, exposure to TFS is a plus.
   
   
-**Grade:**
-T5
+Strong fundamentals of Object-Oriented Analysis & Design (OOA/OOD).
   
   
-**Experience:**
-12- 16 Years
+Strong understanding and hands on experience in handling NFRs.
   
   
-**Location:**
-Bangalore/Noida
+Sound knowledge of software engineering process.
   
   
-**Job Responsibilities**
-R&D support of application and product engineers for customer problems and requests. This consists of problem analysis, debugging and fixing, or the development of new features and enhancements to improve synthesis results with respect to timing, area and power.
+Sound knowledge of Requirements engineering.
   
   
-This job will suit applicants looking to continue their software engineering career in an intellectually stimulating and challenging problem domain. There is a significant research element to the work that Cadence does that is truly innovative; we don’t know what the answers are when we start out!
+Experience in software estimations, scheduling and tracking.
   
   
-Mentoring and support will be provided to the successful candidate to both enable contribution to the large EDA problem domain and to develop their programming skills into professional software engineering skills.
+Must have a good oral and written communication ability.
   
   
-**Job Qualifications**
-BE/BTech/ME/MTech- Computer Science or others
+Familiarity with Container technology and Kubernetes is a plus.
   
   
-**Required Skills**
-The candidate should have hands-on experience in RTL Coding. The candidate should be able to
+Familiarity with healthcare domain is a plus.
+  
+  
+Familiarity with Agile practices is a plus.
+  
+  
+Software Architect for a scrum team developing a medical imaging software product.
+  
+  
+The position would entail the following
   
   
 
-* write, update, and optimize register-transfer level code using System Design Guide standards in VHDL or Verilog.
-* run functional simulations (using Xcelium), static timing analysis, and design-for-test checks to find bugs.
-* validate, test, and investigate performance/accuracy issues in the simulator.
+* Contribute to elaborate software requirements and devise technical solutions based on the requirements.
+* Responsible to conceptualize, design and develop product sub-systems.
+* Mentor/provide leadership for all technical aspects to the team.
+* Cross team and Cross location(international) team collaboration.
 
-Knowledge of Design-For-Test (DFT) and/or Memory-Built-In-Self-Test (MBIST) is a plus.
+**Work Experience**
+10+ years of hands-on experience in design and development using multiple technologies, test frameworks and programming languages, out of which at least 2+ years of experience working as a software architect.
   
   
-**We’re doing work that matters. Help us solve what others can’t.**","Software Development","https://www.linkedin.com/company/cadence","https://media.licdn.com/dms/image/v2/C560BAQFORFBYBIoPHQ/company-logo_100_100/company-logo_100_100/0/1630668285973?e=2147483647&v=beta&t=2J-kabPjQZhiv-NQmJBV5GTY1H_oVFa73HtuaA2-b0M","","","","","","","","","","",""
+Proficient in Angular, Java Script, HTML5, Web API, C#, WPF, WCF, .Net Technologies.
+  
+  
+Proficient in UML and UML modeling tools, experience with Enterprise Architect is a plus.
+  
+  
+Exposure to one or more source control tools, exposure to TFS is a plus.
+  
+  
+Strong fundamentals of Object-Oriented Analysis & Design (OOA/OOD).
+  
+  
+Strong understanding and hands on experience in handling NFRs.","Hospitals and Health Care","https://de.linkedin.com/company/siemens-healthineers","https://media.licdn.com/dms/image/v2/C4D0BAQE5hmEcQGYmLg/company-logo_100_100/company-logo_100_100/0/1635709402063/siemens_healthineers_logo?e=2147483647&v=beta&t=WzBCELa5qwxaNwIBJmDQ_TZZwSooZJPiv_BSin1QzGA","","","","","","","","","","",""
+"li-4473489758","linkedin","https://www.linkedin.com/jobs/view/4473489758","","Devops Technical Lead","Siemens Healthineers","Bengaluru, Karnataka, India","2026-10-04","fulltime","","","","","",False,"mid-senior level","","","","**Job Requirements**
+Lead and manage a team of DevOps engineers, fostering a high-performance, collaborative, and growth-oriented culture.
+  
+  
+Drive talent development, performance management, mentoring, and career progression.
+  
+  
+Ensure successful execution of Scrum ceremonies including Sprint Planning, Daily Stand-ups, Sprint Reviews, Retrospectives, and PI Planning activities.
+  
+  
+Collaborate closely with Product Owners, Architects, and stakeholders to align delivery priorities with business and technical objectives.
+  
+  
+Drive effective backlog refinement, capacity planning, and sprint execution to ensure predictable delivery outcomes.
+  
+  
+Oversee day-to-day project execution, proactively identifying and resolving risks, impediments, and dependencies.
+  
+  
+Ensure adherence to DevOps best practices, engineering standards, security requirements, and compliance obligations across the project.
+  
+  
+Coordinate cross-functional activities between development, testing, infrastructure, operations, and release management teams.
+  
+  
+Ensure monitoring project health through delivery metrics, operational KPIs, incident trends.
+  
+  
+Drive continuous improvement initiatives across automation, CI/CD, cloud platforms.
+  
+  
+Promote knowledge sharing, cross-skilling, and reduction of key-person dependencies within the team.
+  
+  
+Support release planning, deployment readiness, production support activities, and major incident management when required.
+  
+  
+Foster a culture of innovation and continuous learning, encouraging experimentation with emerging technologies including AI-driven DevOps practices.
+  
+  
+Act as the primary liaison between the project team and stakeholders, ensuring transparent communication and timely status reporting.
+  
+  
+Ensure effective onboarding, coaching, and integration of new team members into the project and organization.
+  
+  
+Contribute to resource planning, hiring activities, and workforce capability development to meet current and future project demands.
+  
+  
+Drive team engagement and participation in organizational initiatives, technical communities, and continuous improvement programs.
+  
+  
+Working knowledge on AzureDevOps, CI/CD, Cloud (preferably Azure), Kubernetes, Docker, deployment tools etc.
+  
+  
+Qualifications Required: BE, MSc, MCA, Computer Science or related discipline.
+  
+  
+Experience: Minimum 8-10 years experience in DevOps.
+  
+  
+**Work Experience**
+Working knowledge on AzureDevOps, CI/CD, Cloud (preferably Azure), Kubernetes, Docker, deployment tools etc.
+  
+  
+Qualifications Required: BE, MSc, MCA, Computer Science or related discipline.
+  
+  
+Experience: Minimum 8-10 years experience in DevOps.","Hospitals and Health Care","https://de.linkedin.com/company/siemens-healthineers","https://media.licdn.com/dms/image/v2/C4D0BAQE5hmEcQGYmLg/company-logo_100_100/company-logo_100_100/0/1635709402063/siemens_healthineers_logo?e=2147483647&v=beta&t=WzBCELa5qwxaNwIBJmDQ_TZZwSooZJPiv_BSin1QzGA","","","","","","","","","","",""
+"li-4473484915","linkedin","https://www.linkedin.com/jobs/view/4473484915","","Cloud Operations Professional","Siemens Healthineers","Bengaluru, Karnataka, India","2026-10-04","fulltime","","","","","",False,"mid-senior level","","","","****Job Requirements****
+**Job Description – Cloud Operations Engineer**
+****Role Overview****
+We are looking for an experienced
+**Cloud Operations Engineer**
+to manage and support complex IT Healthcare applications and cloud-based infrastructure in an international environment. The role requires strong technical expertise across
+**AWS/Azure Cloud, Windows/Linux, Kubernetes, monitoring, automation, ITIL operations, and information security**
+.
+  
+  
+The successful candidate will work closely with global stakeholders and international partners to ensure the
+**availability, reliability, performance, security, and continuous improvement of business-critical IT applications and infrastructure**
+.
+  
+  
+****Key Responsibilities****
+
+* Operate and support complex IT applications across production and non-production environments.
+* Provide operational support for AWS and Azure cloud environments, including infrastructure and cloud-native services.
+* Manage and troubleshoot Windows and Linux operating systems and infrastructure components.
+* Work hands-on with AWS services, including:
+
++ Amazon EC2, RDS , Dynamo DB, Lambda , S3 , IAM , VPC etc
+
+* Manage and support Kubernetes/containerized environments.
+
++ Hands-on experience with Kubernetes ECS .
+
+* Monitor application and infrastructure health using tools such as Dynatrace , Grafana etc
+* Analyze monitoring alerts, identify root causes, and drive incident resolution and preventive actions.
+* Perform ITIL-based operational activities including Incident, Problem, Change, Request, and Service Management.
+* Develop and maintain operating handbooks, SOPs, knowledge articles, and operational documentation.
+* Independently identify operational issues, risks, and improvement opportunities and drive them to resolution.
+* Collaborate with application, infrastructure, security, development, and project teams across different locations.
+* Support project implementation, transition, and operational readiness activities.
+* Contribute to cloud migration, application modernization, automation, and continuous improvement initiatives.
+* Ensure adherence to organizational IT Information Security requirements and applicable security standards.
+* Follow and support compliance with ISO 27001 and ISO 27017 requirements.
+* Develop automation and operational tooling using scripting and Infrastructure-as-Code technologies.
+* Work with international partners and stakeholders to coordinate technical activities and resolve cross-functional issues.
+* Continuously expand application and technology knowledge across multiple technical domains.
+* Experience preparing and maintaining Operating Handbooks, SOPs, runbooks, and knowledge documentation.
+
+****Required Technical Skills****
+**Cloud & Infrastructure**
+
+* 5+ years of experience in IT infrastructure, application operations, or a related technical role.
+* Strong hands-on experience with AWS Cloud.
+* Working knowledge of Microsoft Azure.
+* Strong understanding of infrastructure concepts including compute, storage, networking, security, and virtualization.
+* Experience with Windows and Linux administration.
+* Experience working with virtualized and cloud environments.
+
+**Automation & Scripting**
+**Practical Scripting/automation Experience With One Or More Of:**
+
+* PowerShell, Python, AWS Lambda, Terraform. IaC,
+
+****Qualifications****
+
+* University degree in Engineering, Computer Science, Information Technology, or a related discipline.
+* 5+ years of relevant IT experience.
+* Relevant cloud, ITIL, Kubernetes, or security certifications would be an advantage.
+
+****Work Experience****
+
+* Operate and support complex IT applications across production and non-production environments.
+* Provide operational support for AWS and Azure cloud environments, including infrastructure and cloud-native services.
+* Manage and troubleshoot Windows and Linux operating systems and infrastructure components.
+* Work hands-on with AWS services, including:
+
++ Amazon EC2, RDS , Dynamo DB, Lambda , S3 , IAM , VPC etc
+
+* Manage and support Kubernetes/containerized environments.
+
++ Hands-on experience with Kubernetes ECS .
+
+****Qualifications****
+**Benefits**
+
+* University degree in Engineering, Computer Science, Information Technology, or a related discipline.
+* 5+ years of relevant IT experience.
+* Relevant cloud, ITIL, Kubernetes, or security certifications would be an advantage.","Hospitals and Health Care","https://de.linkedin.com/company/siemens-healthineers","https://media.licdn.com/dms/image/v2/C4D0BAQE5hmEcQGYmLg/company-logo_100_100/company-logo_100_100/0/1635709402063/siemens_healthineers_logo?e=2147483647&v=beta&t=WzBCELa5qwxaNwIBJmDQ_TZZwSooZJPiv_BSin1QzGA","","","","","","","","","","",""
