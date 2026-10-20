@@ -1,1 +1,272 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"li-4480400948","linkedin","https://www.linkedin.com/jobs/view/4480400948","","Full Stack Engineer","VISEO ASIA","Hyderabad, Telangana, India","2026-10-20","fulltime","","","","","",False,"mid-senior level","","","","**RESPONSIBILITIES**
+
+* Spreadsheet Grid UI: Build a responsive, high-performance web grid (React / AG Grid) featuring Excel-like inline editing, multi-cell interactions, and responsive formula handling.
+* Calculation & Workflow Engine: Implement backend business logic (Python / REST APIs) for the Gross-to-Net (GTN) waterfall calculations, dynamic volume conversions, and multi-level approval workflows (L0 to L3).
+* AI-Assisted Engineering: Work with GitHub Copilot and AI pair-programming tools to accelerate build velocity from documented functional specs.
+* API & Database Integration: Connect the frontend application to centralized databases (Cloud SQL / BigQuery) and integrate with Azure AD / SSO.
+* Performance Tuning: Optimize complex grid rendering and backend calculation query response times.
+* Defect Resolution: Swiftly resolve bugs, calculation variances, and edge cases flagged during SIT and UAT cycles.
+* Deployment Support: Support production releases, CI/CD pipeline deployments, and cutover data freeze activities.
+* Hypercare Assistance: Provide second-line technical support and rapid code patches during initial live deployment.
+
+**PROFILE**
+
+* Minimum of a bachelor's degree or equivalent
+* Minimum 6 – 8 years of full-stack software engineering experience.
+* Frontend:
+  Strong proficiency in React, TypeScript, JavaScript (ES6+), HTML5/CSS3, and hands-on experience building complex spreadsheet-like grids (AG Grid or similar).
+* Backend:
+  Strong API and business logic implementation using Python (FastAPI/Flask) or Node.js.
+* Database & Cloud:
+  Hands-on experience with relational databases (PostgreSQL / Cloud SQL) and RESTful API architecture; familiarity with GCP (Cloud Run, IAM) and Docker containerization.
+* Strong Git/GitHub version control, CI/CD pipeline familiarity, and unit/integration testing discipline.
+* Good to have – Experience using GitHub Copilot / AI coding tools and building approval/workflow state machines.","IT Services and IT Consulting, Business Consulting and Services, and Information Services","https://sg.linkedin.com/company/viseo-asiapacific","https://media.licdn.com/dms/image/v2/D560BAQFjO9Tgq_m81Q/company-logo_100_100/B56ZmjVKjsJ8AQ-/0/1759381858968/viseo_asia_logo?e=2147483647&v=beta&t=uWzINPZxZ9ClIn6gtMeemtcZimDWpX1J2-hFcBTZ4Hs","","","","","","","","","","",""
+"li-4478647256","linkedin","https://www.linkedin.com/jobs/view/4478647256","","Founding Engineer – Full Stack (Compliance Automation)","Seclodian","Mumbai, Maharashtra, India","2026-10-20","fulltime","","","","","",False,"mid-senior level","","","","**About the Company**
+
+Seclodian develops secure, reliable, and user-friendly technology products. We are looking for an experienced Full Stack Developer who can contribute to both frontend and backend development while maintaining high standards for security, performance, scalability, and code quality.
+
+**About the role**
+
+You’ll be one of Seclodian’s first engineers. You’ll work directly with the founders to turn compliance requirements into a product that auditors trust and auditees actually like using. You’ll ship across the whole stack (Go, PostgreSQL, Next.js) and help decide how the platform grows.
+
+This role suits you if you’ve seen compliance from the inside. Maybe you built features for a GRC, audit, privacy or regtech product. Maybe you were the engineer who gathered the evidence and closed the findings during a SOC 2 or ISO 27001 audit. Either way, you now want to build the tool you wished you’d had.
+
+**What you’ll build**
+
+* Data models for frameworks, controls, tests and evidence, so one control can map across SOC 2, ISO 27001 and DPDP without duplicate work.
+* Auditor and auditee workflows: engagements, control assignment, evidence upload and review, remediation, and report approval.
+* PostgreSQL schemas, migrations and queries for multi-tenant data, where one customer must never see another customer’s data.
+* Secure Go APIs (chi, pgx) with authentication and role-based access for auditors, auditees and admins.
+* Fast, accessible Next.js and React screens (Tailwind, shadcn/ui) built from our Figma designs.
+* Audit trails that record who did what and when, in a form an auditor will accept.
+* One product shipped three ways: an on-prem binary on the client’s own server, Docker, and serverless on AWS.
+* Work with our AI document-intelligence service, which reads policies and evidence and suggests answers with citations, while people stay in control of what gets accepted.
+* Tests, code reviews, production fixes and better monitoring.
+* With the founders and compliance experts, turning framework language into clear product behaviour.
+
+**Must-have**
+
+* 2+ years of professional software engineering, building and shipping full-stack products.
+* Hands-on compliance experience, in at least one of these ways:
+* You built features for a compliance, GRC, audit, privacy or regtech product,
+  **or**
+* You worked as an engineer through a SOC 2, ISO 27001, PCI DSS, HIPAA, GDPR or DPDP audit or assessment, producing evidence, fixing findings or putting controls in place.
+* Working knowledge of at least one of those frameworks. You know what a control is, what counts as evidence and why auditors ask for it.
+* Production backend experience in Go. Strong engineers from Java, C# or TypeScript/Node are welcome if they’re ready to go deep on Go quickly.
+* Professional frontend experience with React and Next.js in TypeScript.
+* Strong PostgreSQL: schema design, indexes, transactions, constraints and migrations.
+* You’ve built authentication, authorization and input validation, and you know the OWASP Top 10.
+* You write automated tests and can debug problems you didn’t create.
+
+**Nice to have**
+
+* Experience in other regulated domains: fintech, healthtech, insurance.
+* Privacy features you’ve built: consent capture, data retention and deletion, or data subject requests under GDPR or DPDP.
+* Multi-tenant SaaS, audit logging, or append-only or tamper-evident records.
+* Integrations that pull evidence automatically from tools like AWS, Google Workspace, GitHub or Jira.
+* Docker, AWS, Terraform, CI/CD.
+* Background jobs and queues (Redis, SQS), structured logging, metrics and tracing.
+* LLM or RAG systems in production.
+* A certification or coursework in ISO 27001, CISA, CISSP or similar (not required).
+
+**Why join now**
+
+* Shape the core product and architecture as one of the first engineers.
+* Work directly with the founders on product and engineering decisions.
+* Work on a problem that’s growing fast in India as DPDP Act obligations come into force.
+
+**Equal Opportunity Statement**
+
+Seclodian is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. We are committed to fostering an inclusive and diverse workplace.","IT Services and IT Consulting","https://www.linkedin.com/company/seclodian","https://media.licdn.com/dms/image/v2/D4D0BAQGi_gyVJMSZUA/company-logo_100_100/B4DaFXUuCVJUAI-/0/1792466411950/seclodian_logo?e=2147483647&v=beta&t=XMxTJf78xfjgovW_7zSwxETx8PutIgFyQKPDL7PwdDU","","","","","","","","","","",""
+"li-4480294935","linkedin","https://www.linkedin.com/jobs/view/4480294935","","Senior Artificial Intelligence/Machine Learning Engineer","Jobgether","India","2026-10-20","","","","","","",False,"","","","","","","https://be.linkedin.com/company/jobgether","","","","","","","","","","","",""
+"li-4480412289","linkedin","https://www.linkedin.com/jobs/view/4480412289","","Enterprise Application Technical Lead","Jobgether","India","2026-10-20","","","","","","",False,"","","","","","","https://be.linkedin.com/company/jobgether","","","","","","","","","","","",""
+"li-4479693997","linkedin","https://www.linkedin.com/jobs/view/4479693997","","Java Technical Lead - 8+Years","RELIX HR Consulting Pvt Ltd - Recruitment Partner for Excellence","Chennai, Tamil Nadu, India","2026-10-20","","","","","","",False,"","","","","","","https://www.linkedin.com/company/relix-hr-consulting-pvt-ltd","","","","","","","","","","","",""
+"li-4476279091","linkedin","https://www.linkedin.com/jobs/view/4476279091","","Junior ITSM Developer – BMC Helix Platform","emagine","Pune Division, Maharashtra, India","2026-10-20","","","","","","",False,"","","","","","","https://dk.linkedin.com/company/emagine","","","","","","","","","","","",""
+"li-4478601268","linkedin","https://www.linkedin.com/jobs/view/4478601268","","Software Engineer Intern","Omnisys IT Solutions","Pune City, Maharashtra, India","2026-10-20","fulltime","","","","","",False,"internship","","","","**Company Description**
+Omnisys IT Solutions designs, builds, and supports IT infrastructure and database systems for organizations across IT, healthcare, manufacturing, hospitality, banking, and other sectors. With over 25 years of hands-on experience, the company focuses on dependable, secure, and scalable technology setups tailored to diverse business needs. Omnisys provides end-to-end services including infrastructure design and deployment, database development and management, and ongoing support and maintenance. The company is actively expanding into AI compute infrastructure to serve organizations preparing for AI workloads. Applicants can learn more about Omnisys and its services at omnisys.in.
+
+**Role Description**
+The Software Engineer Intern role is a full-time position based in Pune City with a hybrid work model, allowing some work-from-home flexibility. The intern will assist in designing, developing, and testing software components that support Omnisys’s IT and database solutions, working closely with senior engineers and technical leads. Daily tasks include writing and reviewing code for back-end web services, implementing object-oriented designs, debugging issues, and contributing to documentation and version control. The role also involves collaborating with cross-functional teams to understand requirements, participating in code reviews, and learning best practices in software development and deployment. This internship is designed to provide practical experience in real-world projects and exposure to modern infrastructure and AI-related initiatives.
+
+**Qualifications**
+
+* Foundational knowledge in Computer Science, including data structures, algorithms, and operating systems.
+* Skills in Software Development and Programming, with experience in at least one modern language (e.g., Java, Python, C#, or similar).
+* Understanding of Back-End Web Development, including APIs, databases, and server-side frameworks.
+* Proficiency in Object-Oriented Programming (OOP) principles and ability to apply them in code design.
+* Pursuing or recently completed a degree in Computer Science, Information Technology, or a related field.
+* Familiarity with version control systems (e.g., Git) and basic software development workflows.
+* Ability to work collaboratively in a hybrid environment, communicate clearly, and manage time effectively.
+* Interest in IT infrastructure, databases, and AI compute technologies; prior project or internship experience is an advantage.","IT Services and IT Consulting","https://in.linkedin.com/company/omnisys-it-solutions","https://media.licdn.com/dms/image/v2/D4D0BAQGj-jB5Olxtfw/company-logo_100_100/B4DaEPqmDKJMAM-/0/1791264186790/omnisys_it_solutions_logo?e=2147483647&v=beta&t=wW8kLywoMOl_rK6qSunwaaYMMJmBMPzEuteVC2GuZjk","","","","","","","","","","",""
+"li-4480406520","linkedin","https://www.linkedin.com/jobs/view/4480406520","","Salesforce CPQ Developer | Remote | India","OpsArmy Careers","Delhi, India","2026-10-20","","","","","","",True,"","","","","","","https://www.linkedin.com/company/opsarmycareers","","","","","","","","","","","",""
+"li-4480400913","linkedin","https://www.linkedin.com/jobs/view/4480400913","","Senior AI / Full-Stack Engineer - Azure & RAG","Vika Talent Solutions","India","2026-10-20","","","","","","",False,"","","","","","","https://www.linkedin.com/company/vika-talent-solutions","","","","","","","","","","","",""
+"li-4478630800","linkedin","https://www.linkedin.com/jobs/view/4478630800","","Architect","Virtusa","Hyderabad, Telangana, India","2026-10-20","fulltime","","","","","",False,"mid-senior level","","","","**Job Requirements**
+Site Reliability Engineer (SRE)
+  
+  
+The Role
+  
+  
+As a Site Reliability Engineer (SRE), you will be responsible for ensuring the reliability,
+  
+  
+availability, performance, and operability of production systems across our AI platforms and
+  
+  
+hosted applications.
+  
+  
+You will apply software engineering principles to operational challenges, with a strong focus on
+  
+  
+automation, observability, and proactive reliability management. Reliability is treated as a feature,
+  
+  
+measured objectively, and improved continuously through engineering best practices rather than
+  
+  
+reactive support.
+  
+  
+This role works closely with product engineering and platform teams to enable teams to ship
+  
+  
+changes safely, operate services at scale, and learn from incidents through a blameless culture.
+  
+  
+The role includes participation in a global oncall model supporting production systems across
+  
+  
+multiple time zones.
+  
+  
+Key Responsibilities
+  
+  
+Own and improve the reliability, availability, and performance of production services.
+  
+  
+Operate and evolve production cloud infrastructure at scale (primarily GCP).
+  
+  
+Participate in incident management, including detection, triage, mitigation, escalation,
+  
+  
+and recovery.
+  
+  
+Use and improve incident workflows and tooling (e.g. ServiceNow) to ensure clear
+  
+  
+ownership and timely communication.
+  
+  
+Design, implement, and operate observability solutions including monitoring, logging,
+  
+  
+tracing, synthetics, and dashboards (e.g. Splunk Observability, OpenTelemetry).
+  
+  
+Define, monitor, and report SLIs, SLOs, and error budgets for critical services.
+  
+  
+Reduce operational toil through automation and engineeringled solutions.
+  
+  
+Contribute to production readiness reviews, capacity planning, and deployment safety
+  
+  
+mechanisms.
+  
+  
+Perform rootcause analysis and lead or contribute to blameless postincident reviews.
+  
+  
+Communicate complex technical issues clearly to engineers, stakeholders, and
+  
+  
+leadership.
+  
+  
+**Requirements**
+Must haves:
+  
+  
+Strong experience with cloudnative concepts and technologies, preferably
+  
+  
+on GCP.
+  
+  
+Handson experience operating production cloud infrastructure at scale.
+  
+  
+Proven experience with incident management, ideally using platforms such
+  
+  
+as ServiceNow.
+  
+  
+**Work Experience**
+5-7Years","IT Services and IT Consulting","https://www.linkedin.com/company/virtusa","https://media.licdn.com/dms/image/v2/D4D0BAQE1wyZ0gd_P_w/company-logo_100_100/B4DZmf03PuJMAY-/0/1759323061531/virtusa_logo?e=2147483647&v=beta&t=BX2oukfWW-ynMINuDRbCIlfgg5xRn0BoZf9Mk-TS1t4","","","","","","","","","","",""
+"li-4480422050","linkedin","https://www.linkedin.com/jobs/view/4480422050","","DevOps Engineer, India","AlgoSec","New Delhi, Delhi, India","2026-10-20","","","","","","",False,"","","","","","","https://www.linkedin.com/company/algosec","","","","","","","","","","","",""
+"li-4480408531","linkedin","https://www.linkedin.com/jobs/view/4480408531","","Senior QA Automation Engineer","Netsmart","Bengaluru, Karnataka, India","2026-10-20","","","","","","",False,"","","","","","","https://www.linkedin.com/company/netsmart","","","","","","","","","","","",""
+"li-4470949627","linkedin","https://www.linkedin.com/jobs/view/4470949627","","AI Tech Lead - CB","Radial Inc.","Chennai, Tamil Nadu, India","2026-10-20","","","","","","",False,"","","","","","","https://www.linkedin.com/company/https-radial.my.salesforce-sites.com-careers","","","","","","","","","","","",""
+"li-4479044063","linkedin","https://www.linkedin.com/jobs/view/4479044063","","Manager Software Engineer","Caterpillar Inc.","Chennai, Tamil Nadu, India","2026-10-20","","","","","","",False,"","","","","","","https://www.linkedin.com/company/caterpillar-inc","","","","","","","","","","","",""
+"li-4480402604","linkedin","https://www.linkedin.com/jobs/view/4480402604","","Sr. Integration Engineer","Anaconda","Bengaluru, Karnataka, India","2026-10-20","","","","","","",False,"","","","","","","https://www.linkedin.com/company/anacondainc","","","","","","","","","","","",""
+"li-4480411435","linkedin","https://www.linkedin.com/jobs/view/4480411435","","Web Application Fire Wall & Application Security Engineer","CGT Solutions","Bengaluru, Karnataka, India","2026-10-20","","","","","","",False,"","","","","","","https://in.linkedin.com/company/cgtsolutions","","","","","","","","","","","",""
+"li-4480403814","linkedin","https://www.linkedin.com/jobs/view/4480403814","","Cyber Security Architect","CGT Solutions","Mumbai, Maharashtra, India","2026-10-20","fulltime","direct_data","yearly",1500000.0,3000000.0,"INR",False,"mid-senior level","","","","**Job Description: WAAP Platform Engineer**
+
+**The role**
+
+The WAAP Platform Engineer provides engineering leadership for HSBC’s Web Application and API Protection capability across multiple platforms and thousands of applications. The role translates capability strategy and cyber architecture into actionable engineering artefacts, platform standards, reusable templates, guardrails, and implementation guidance.
+
+Working closely with Cyber Architecture, the WAAP Capability Owner, Engineering, and Operations, the role ensures platform designs and controls are robust, scalable, supportable, and aligned with HSBC security and compliance requirements. It also evaluates non-standard business requirements, provides product-focused technical guidance, and ensures deviations are appropriately risk-assessed and documented.
+
+The successful candidate will combine strong WAAP engineering expertise with effective stakeholder leadership. They will drive continuous improvement, discovery, and efficacy testing; connect capability and architecture intent with platform delivery; and establish structured feedback loops so that operational lessons, engineering challenges, and improvement opportunities are captured and acted upon.
+
+**Key Responsibilities**
+
+* Engineering leadership for the WAAP capability: Act as a primary engineering lead, setting technical direction and promoting consistent engineering practices across the capability.
+* Collaborate with Cyber Architecture and the WAAP Capability Owner to translate strategy, target-state architecture, control requirements, and product priorities into actionable engineering artefacts and delivery plans.
+* Platform standards, templates, and guardrails: Partner with Operations to define and maintain platform standards, reference patterns, reusable engineering templates, configuration baselines, and guardrails for the seven Cyber-supported WAAP solutions.
+* Ensure engineering artefacts are secure, robust, scalable, automatable, supportable, and aligned with HSBC security, risk, and compliance requirements.
+* Business engagement for non-standard solutions: Engage business and technology stakeholders to assess requirements that fall outside approved patterns or standard platform capabilities.
+* Provide technical options and product guidance, challenge unnecessary variation, and ensure approved deviations are risk-assessed, documented, governed, and traceable.
+* Continuous improvement, discovery, and efficacy testing: Identify opportunities for new or enhanced WAAP functions, controls, automation, and operating practices.
+* Lead technical discovery, proofs of concept, and efficacy testing for platform capabilities, managed and custom controls, and emerging protection requirements.
+* Drive innovation, engineering quality, and delivery efficiency while keeping pace with evolving cyber threats, technology changes, and business needs.
+* Feedback loops across capability, architecture, platform, and operations: Provide structured feedback to Capability and Architecture teams so lessons learned, control gaps, and improvement opportunities inform roadmaps and design decisions.
+* Work with Engineering and Operations teams to understand delivery and support challenges, prioritize improvements, and provide clear product and engineering leadership through implementation and lifecycle management.
+
+**Key Accountabilities**
+
+* Own the quality, consistency, and technical integrity of engineering outputs for the WAAP capability.
+* Produce and maintain engineering standards, reference designs, patterns, configuration baselines, decision records, and implementation guidance.
+* Ensure requirements and architecture decisions are translated into deliverable, testable, and operationally sustainable solutions.
+* Define acceptance criteria and evidence for platform controls, including functional, security, resilience, performance, and efficacy outcomes.
+* Promote automation and repeatability through infrastructure-as-code, policy-as-code, APIs, and CI/CD integration where appropriate.
+* Assess non-standard designs and exceptions, documenting technical rationale, risks, compensating controls, ownership, and remediation or exit plans.
+* Coordinate technical discovery and evaluation of new WAAP capabilities, product features, and vendor solutions.
+* Use operational telemetry, incidents, tuning outcomes, engineering feedback, and threat intelligence to identify and prioritize platform improvements.
+* Facilitate design reviews and technical forums, communicating decisions and trade-offs clearly to technical and non-technical stakeholders.
+* Support the WAAP roadmap by identifying dependencies, technical debt, lifecycle risks, and opportunities to simplify or consolidate the platform estate.
+
+**Ideal Candidate Profile**
+
+* Demonstrable experience engineering enterprise WAAP, WAF, API security, bot management, DDoS protection, or related application-edge security platforms.
+* Experience providing technical leadership across complex, multi-platform environments and translating strategy and architecture into implementable engineering outcomes.
+* Strong understanding of web and API protocols, modern application architectures, common attack techniques, and layered mitigation strategies.
+* Practical experience defining platform standards, reusable patterns, configuration baselines, guardrails, and technical documentation.
+* Experience with several major WAAP or WAF technologies, such as AWS, Google Cloud, Azure, Akamai, F5, Cloudflare, and an understanding of their deployment and operating models.
+* Knowledge of cloud, network, application delivery, identity, observability, resilience, and DevSecOps principles relevant to WAAP services.
+* Experience with automation, APIs, infrastructure-as-code, policy-as-code, source control, and CI/CD pipelines.
+* Ability to design and execute proofs of concept, control validation, and efficacy testing, and to turn results into clear engineering recommendations.
+* Sound risk judgement with experience assessing exceptions, documenting technical decisions, and working within security, compliance, and governance frameworks.
+* Strong analytical and problem-solving skills, with the ability to balance security outcomes, business needs, operability, cost, and delivery constraints.
+* Excellent written and verbal communication skills, including the ability to influence architecture, capability, engineering, operations, and business stakeholders.
+* A collaborative, outcome-focused approach and a commitment to continuous learning, service improvement, and engineering excellence.","IT Services and IT Consulting","https://in.linkedin.com/company/cgtsolutions","https://media.licdn.com/dms/image/v2/D560BAQFRjMuV-NodVw/company-logo_100_100/B56ZVwUXTPGUAQ-/0/1741346141888/cgtsolutions_logo?e=2147483647&v=beta&t=NyPm3t69ke_o_yhwrHJtPYOsyG6crnILfVcktpFBl08","","","","","","","","","","",""
+"li-4480232517","linkedin","https://www.linkedin.com/jobs/view/4480232517","","Data Science","SWYNEX Technologies","Patna, Bihar, India","2026-10-20","","","","","","",False,"","","","","","","","","","","","","","","","","","",""
+"li-4480412458","linkedin","https://www.linkedin.com/jobs/view/4480412458","","Data Privacy Intern","Comply Ark","Bengaluru, Karnataka, India","2026-10-20","","","","","","",False,"","","","","","","https://in.linkedin.com/company/comply-ark","","","","","","","","","","","",""
+"li-4480416032","linkedin","https://www.linkedin.com/jobs/view/4480416032","","Microsoft Dynamics 365 CRM Specialist","Jobgether","India","2026-10-20","","","","","","",False,"","","","","","","https://be.linkedin.com/company/jobgether","","","","","","","","","","","",""
