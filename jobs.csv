@@ -1,358 +1,2135 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
-"li-4488804354","linkedin","https://www.linkedin.com/jobs/view/4488804354","","SDE I - Java","Flexiple","Bengaluru, Karnataka, India","2026-11-08","fulltime","","","","","",False,"associate","","","","**Hiring for Swiggy**
-— via Flexiple, the recruiting partner on this role.
+"li-4487670394","linkedin","https://www.linkedin.com/jobs/view/4487670394","","Software Engineer II (SDE 2) - Backend","Nudge","Bengaluru, Karnataka, India","2026-11-09","fulltime","","","","","",False,"mid-senior level","","","","* Title: Software Engineer II (SDE 2) - (Backend - Golang)
+* Department: Technology / Core Platform Engineering
+* Location: Bangalore Corporate Office
+* Employment Type: Full Time
+* Experience: 3 – 5 years Experience
 
-**About the Company**
-
-Swiggy is India's leading on-demand convenience platform, spanning food delivery, Instamart quick commerce, Dineout and more. Its engineering team builds the real-time systems behind millions of daily orders, and Swiggy is built on microservices with Java as its core backend language. Swiggy is adding backend engineers in Bengaluru to keep these services fast and reliable as the business scales.
-
-**About the Role**
-
-As an SDE I on the backend team, you'll build and own Java and Spring Boot microservices used by millions of customers, partners and delivery executives. You'll ship APIs, improve performance and reliability, and work closely with engineering and cross-functional teams. This is a hybrid role based in Bengaluru, with 2–3 days a week in the office.
-
-**What you'll do**
-
-* Build backend components and microservices in Java and Spring Boot
-* Design and implement RESTful APIs and integrations across Swiggy's services
-* Tune Java applications (JVM, multithreading, caching) to improve response times and stability
-* Maintain, refactor and troubleshoot backend codebases for high availability
-* Take part in code reviews, deployments and service monitoring
-* Work with product and cross-functional teams, and suggest Java-related improvements
-
-**What you bring**
-
-* 1.5–4 years of professional software engineering experience, with at least 1 year of backend development in Java and Spring Boot
-* A solid grasp of REST APIs, microservices architecture and backend system design
-* Hands-on experience with performance tuning, multithreading and JVM optimisation
-* Familiarity with CI/CD, Git and cloud-native practices
-* You have shipped a Spring Boot service or API to production and supported it after release
-* Clear communication about API behaviour, and comfort moving quickly in a dynamic environment
-
-**Nice to have**
-
-* Experience with Kafka, Redis, SQL/NoSQL databases, AWS, Docker or Kubernetes
-* Backend work at a consumer-internet or high-traffic product company
-* Immediate availability or a short notice period
-
-**Originally posted on:**
-3 Nov 2026","Staffing and Recruiting","https://www.linkedin.com/company/flexipletech","https://media.licdn.com/dms/image/v2/D560BAQGgWu7mPc9m1Q/company-logo_100_100/company-logo_100_100/0/1724216885400/flexiple_logo?e=2147483647&v=beta&t=zfUBYQ07CTdm0T4IG-m6Uv6S9XTB313H4QUPEwEJpvs","","","","","","","","","","",""
-"li-4488805303","linkedin","https://www.linkedin.com/jobs/view/4488805303","","Founding Full Stack Staff Engineer - Frontier Cyber Security","Flexiple","Delhi, India","2026-11-08","fulltime","","","","","",False,"associate","","","","**Hiring for Lean SuperIntelligence**
-— via Flexiple, the recruiting partner on this role.
-
-**ABOUT US**
-
-Lean SuperIntelligence (LSI) is an AI lab building self-improving cybersecurity foundation models for enterprises. LSI publicly announced LSI-Offense-1 and LSI-Defense-1 on October 9, 2026, alongside the closing of its initial pre-seed financing.
-
-LSI-Offense-1 discovers, exploits and validates vulnerabilities; LSI-Defense-1 detects, investigates and responds to threats. The models improve through an offense-defense feedback loop inside LSI Cyber World Models, simulated enterprise environments that turn attack and defense outcomes into training signals.
-
-The models are designed for enterprise-controlled deployment, including on-premises and air-gapped environments, with customization on private enterprise data. Access is currently limited to selected design partners.
-
-Founded by Chandra Khatri, LSI brings together foundation-model builders and security researchers. Its announced backers include investors and angels with AI and security leadership experience at OpenAI, CrowdStrike, SentinelOne, Zscaler, Commvault and Gruve AI. These affiliations do not imply corporate investment by those organizations.
-
-Learn more: LSI website | Launch announcement | Financing and model news.
-
-**ABOUT THE ROLE**
-
-We are hiring a Founding Full Stack Staff Engineer to build the product surface of our frontier security platform, from data model and services through to the interfaces security teams work in every day.
-
-You will own features end to end: backend services, agent-facing APIs, and the front end where findings, exploit evidence, and remediation workflows are reviewed and acted on. This is a senior individual-contributor role with broad architectural ownership and a direct line to design partners.
-
-**RESPONSIBILITIES**
-
-* Own features end to end across data model, backend services, APIs, front end, telemetry, and rollout.
-* Build the interfaces security teams work in daily: finding triage, exploit evidence review, remediation and retest tracking, agent run inspection, and reporting.
-* Design backend services and APIs for scanning, agent execution, evidence storage, and integrations with code hosts, CI/CD, ticketing systems, and cloud accounts.
-* Build product surfaces on top of LLMs and autonomous agents, including streaming output, long-running task state, human approval steps, partial results, and graceful failure.
-* Turn AppSec workflows into product: finding deduplication, severity and reachability context, ownership routing, SLA tracking, and verification that fixes actually close the vulnerability.
-* Design schemas and pipelines for findings, agent trajectories, evidence artifacts, and audit trails.
-* Build multi-tenant foundations including authentication, authorization, RBAC, org and project scoping, audit logging, secrets handling, and tenant isolation.
-* Make agent behavior legible in the interface: what the agent did, what it proved, what it could not, and where a human needs to decide.
-* Own performance, reliability, latency, and cost across the stack, including inference and tool-execution cost surfaced to the user.
-* Set engineering standards for code review, testing, CI/CD, observability, incident response, and secure-by-default patterns, and treat our own attack surface as a first-class concern.
-* Prototype quickly with design partners, put working software in front of practitioners early, and decide what is ready to ship.
-* Partner with security researchers, agent-harness engineers, and product to move research capability into product without losing rigor.
-
-**QUALIFICATIONS**
-
-* At least five years building and shipping production software, with meaningful time spent on cybersecurity products.
-* Strong full-stack ability: modern TypeScript and React on the front end, plus backend work in Go, Python, TypeScript, Java, or Rust.
-* Hands-on experience building application-security products, or closely adjacent ones such as code security, vulnerability management, attack-surface management, DevSecOps, offensive-security tooling, or SOC platforms.
-* Working security knowledge across common vulnerability classes, authentication and authorization, and secure design, with the ability to reason about the attack surface of what you build.
-* Experience designing APIs, data models, and asynchronous or long-running workflows.
-* Front-end craft on data-dense technical interfaces, including state management, streaming and real-time updates, and performance under large result sets.
-* Experience with cloud infrastructure, containers, CI/CD, and production operations.
-* Ability to scope ambiguous problems, make architectural decisions, and raise the bar for other engineers through code and review rather than process.
-* Clear technical writing and comfort working directly with security practitioners and design partners.
-* We value demonstrated ability over formal credentials, certifications, or a fixed number of years of experience.
-
-**PREFERRED QUALIFICATIONS**
-
-* Experience building products on LLMs or agents, including tool use, streaming, evaluations, prompt and model versioning, and latency and cost tradeoffs.
-* Product experience in autonomous pentesting, code security, SAST/DAST/SCA, vulnerability management, CTEM, EDR/XDR, or SOC automation.
-* Personal offensive-security depth such as CVEs, bug-bounty findings, advanced CTF performance, or published research.
-* Experience integrating with GitHub or GitLab, CI systems, Jira or ServiceNow, SIEM and EDR platforms, or cloud provider APIs.
-* Experience meeting enterprise requirements such as SSO, SAML, SCIM, audit logging, VPC or on-premise deployment, and air-gapped installs.
-* Experience with real-time systems, websockets, job queues, or event-driven architectures.
-* Design sensibility and the ability to own the user experience for technical workflows without a dedicated designer.
-* Understanding of AI and agent security risks including prompt injection, tool poisoning or misuse, excessive permissions, untrusted content, and sandbox boundaries.
-* Open-source contributions, technical writing, or prior founding-engineer and early-stage experience.
-
-**Interview Preparation**
-
-Round 1 - https://docs.google.com/document/d/1wqWTTuXbRs7nRuT0chTlJJEutpDaJjRqClfGUIwS2d8/edit?usp=sharing
-  
-Round 2 - https://docs.google.com/document/d/1goGVQ3nomLj43Zwy9qpOYFrBEUuA5BfyWMJFUYHgHhw/edit?usp=sharing
-
-**Originally posted on:**
-8 Oct 2026","Staffing and Recruiting","https://www.linkedin.com/company/flexipletech","https://media.licdn.com/dms/image/v2/D560BAQGgWu7mPc9m1Q/company-logo_100_100/company-logo_100_100/0/1724216885400/flexiple_logo?e=2147483647&v=beta&t=zfUBYQ07CTdm0T4IG-m6Uv6S9XTB313H4QUPEwEJpvs","","","","","","","","","","",""
-"li-4487112100","linkedin","https://www.linkedin.com/jobs/view/4487112100","","Full-Stack Engineer Intern","Yumingo","New Delhi, Delhi, India","2026-11-08","contract","","","","","",False,"internship","","","","**About Yumingo**
-
-Yumingo builds modern, user-focused digital products and services. We value innovation, reliability, and continuous learning, and we’re looking for an enthusiastic intern to contribute to real software projects alongside our team.
-
-**About the role**
-
-As a Full-Stack Engineer Intern, you’ll help design, build, test, and improve web applications. You’ll work with experienced teammates across front-end and back-end development, APIs, and databases. This opportunity is suitable for students in their final year of study as well as recent graduates and others with equivalent practical skills.
-
-**What you’ll do**
-
-* Help build responsive, accessible user interfaces.
-* Contribute to back-end services and RESTful or GraphQL APIs.
-* Work with databases and application data flows.
-* Write and test code, fix bugs, and improve existing features.
-* Participate in code reviews, planning, and team discussions.
-* Help document technical decisions and support deployment and monitoring.
-
-**What we’re looking for**
-
-* Familiarity with full-stack or web development through coursework, projects, internships, or other experience.
-* Basic knowledge of JavaScript and a modern front-end framework.
-* Understanding of HTML, CSS, server-side development, APIs, and databases.
-* Familiarity with Git and software testing—or eagerness to learn.
-* Good problem-solving, communication, and collaboration skills.
-* A willingness to learn, ask questions, and take ownership of tasks.
-
-Experience with cloud platforms or tools such as Docker and Kubernetes is a plus, but not required.
-
-**Eligibility**
-
-Students in their final year of a relevant degree program are welcome to apply. A degree in Computer Science, Engineering, or a related field is helpful, but practical skills and a strong interest in software development matter too.
-
-**Internship and future opportunity**
-
-During the internship, we’ll review your progress, contributions, and the quality of your work. Interns who demonstrate strong performance may be considered for a full-time opportunity with Yumingo. Any full-time offer will depend on the intern’s performance and the company’s hiring needs.
-
-**How to apply**
-
-* Send your résumé and a brief note about your projects, coursework, or experience if have any to the job post directly or
-  in a message through my LinkedIn profile
-  linkedin.com/in/karan-choudhary-23b756186 Include links to a portfolio, GitHub profile, or relevant project work if available.","Software Development","https://fi.linkedin.com/company/yumingo","https://media.licdn.com/dms/image/v2/D4D0BAQGtW7xyxMyNKw/company-logo_100_100/B4DaAv0I9kHgAI-/0/1787508592718?e=2147483647&v=beta&t=rb4ecLuN4dJNKumtV7zTNpGlFRBokFBS4-Iu47GINqg","","","","","","","","","","",""
-"li-4488815101","linkedin","https://www.linkedin.com/jobs/view/4488815101","","Senior Solutions Architect","AIFISE","Bhilai, Chhattisgarh, India","2026-11-08","fulltime","","","","","",False,"mid-senior level","","","","**Overview**
-AIFISE partners with fintechs, banks, and regulated businesses to streamline identity verification and compliance workflows. We are looking for a Senior Solutions Architect who can bridge deep technical expertise with customer facing clarity. If you enjoy designing scalable solutions, guiding implementation, and helping customers get the most value from a product platform, this role is ideal.
+**The Opportunity**
+Nudge is building India’s ultimate commerce rewards platform. Users earn rewards by scanning and uploading shopping bills, linking accounts like Gmail or consumer apps (e.g., Swiggy, Zepto), and playing casual games on the platform.
   
   
-Key Responsibilities
+Behind that experience sit Go microservices handling bill ingestion, transaction parsing, fraud checks and real-time reward distribution. We are looking for an
+**SDE 2 (Backend, Golang)**
+who can own features and services end to end: take a problem from design doc to production, and keep it healthy once it ships.
   
   
-You will work closely with customers, product teams, and engineering to translate business requirements into robust technical solutions. Your responsibilities include platform configuration, integration mapping, API enablement, and ensuring smooth deployment. You will also support scalability planning, security alignment, and best practice architecture for long term success.
+You will work closely with senior engineers on architecture, while independently owning the services and features you build.
   
   
-**Required Skills & Qualifications**
+**What You’ll Achieve**
+**Own Services End to End**
 
-* Proven experience in solution architecture supporting SaaS or enterprise deployments
-* Strong understanding of integration patterns, APIs, data flows, and cloud native architecture
-* Experience working with Node.js, RESTful services, and modern infrastructure environments
-* Ability to analyze requirements, create system designs, and validate implementation approaches
-* Strong communication and documentation skills for both technical and non technical stakeholders
-* Experience working with regulated industries such as fintech, banking, or compliance is a strong advantage
+* Design, build and ship Go microservices and RESTful APIs for bill processing, third-party app integrations and gaming backends.
+* Write design docs for the features you own, and take them from design through rollout and monitoring.
 
-Submit your Application for
+**Build for Concurrency & Correctness**
+
+* Implement reward and ledger flows that stay consistent under concurrent uploads, retries and partial failures.
+* Apply idempotency, locking and rate-limiting patterns to prevent double-crediting and abuse.
+* Design schemas, indexes and caching strategies for heavy read/write workloads on PostgreSQL and Redis.
+
+**Integrate with the Outside World**
+
+* Build reliable integrations with third-party platforms, handling auth, retries, rate limits and messy data.
+* Work on event-driven pipelines that move user activity from ingestion to reward.
+
+**Raise the Engineering Bar**
+
+* Review code with care and help junior engineers through pairing, reviews and clear feedback.
+* Improve test coverage, tooling and the maintainability of the services you touch.
+
+**Production Ownership**
+
+* Own the uptime and performance of your services: logging, metrics, alerts and dashboards.
+* Take part in on-call, debug production issues and contribute to postmortems.
+
+**Build Faster with AI**
+
+* Use AI coding tools (e.g., Claude Code, Cursor, GitHub Copilot) to design, build, test and debug faster, while owning the quality of everything you ship.
+* Help the team use AI well: share workflows, set review standards for AI-generated code, and spot where AI can speed up our engineering.
+
+**What You’ll Bring**
+
+* 3–5 years of backend engineering experience building and running production systems.
+* Strong hands-on production experience in Golang (mandatory), including goroutines, channels, context and concurrency patterns.
+* Solid grasp of microservices, RESTful API design and event-driven systems.
+* Good working knowledge of PostgreSQL (schema design, indexing, query tuning) and Redis (caching, distributed locks).
+* Experience with Docker and CI/CD; exposure to Kubernetes and cloud platforms (GCP/AWS).
+* A track record of owning a service or major feature from design to production, not just implementing tickets.
+* Strong debugging skills across logs, metrics and profiles.
+* Hands-on use of AI coding tools in day-to-day work, with the judgement to review, test and correct AI-generated code before it ships.
+* Startup mindset: high ownership, comfort with ambiguity, and real drive to build something from early stage.
+
+**Why You’ll Love Working Here**
+
+* Real Ownership Early: Own services that sit on the critical path of rewards for millions of transactions.
+* Hard, Interesting Problems: Concurrency, ledger consistency, OCR pipelines and third-party integrations, not CRUD.
+* Growth to Senior: Work directly with senior engineers and founders on architecture, with a clear path to Senior Engineer.
+* Product-First Culture: A fast-paced team where shipping and user impact come first.
+* AI-First Workflow: Modern AI coding tools are part of how we build, every day.","Mobile Gaming Apps, Technology, Information and Media, and Technology, Information and Internet","https://in.linkedin.com/company/justnudge","https://media.licdn.com/dms/image/v2/D4D0BAQGlkxmVdeQKYA/company-logo_100_100/B4DaCFLnOaHcAI-/0/1788940809488?e=2147483647&v=beta&t=JXJ6LLDEZ4Wh7DufdXTFAi97LLJwSx0rsxBOlcoRa04","","","","","","","","","","",""
+"li-4445468560","linkedin","https://www.linkedin.com/jobs/view/4445468560","","Principal Member of Technical Staff – AI Platform & ValueOps Financial Intelligence Solution","Broadcom","Bengaluru, Karnataka, India","2026-11-09","fulltime","","","","","",False,"mid-senior level","","","","**Job Description:**
+****Position Overview****
+**We are seeking a highly technical individual contributor to help build the next generation of the
+**ValueOps Financial Intelligence Solution**
+. As a Principal Member of Technical Staff, you will partner closely with Product Management, Engineering Leadership, AI Platform teams, and Cloud Operations to design and deliver AI-powered capabilities that transform cloud financial management, engineering productivity, and enterprise decision making.**
+**This role combines deep software engineering expertise with AI, cloud, and enterprise platform experience. The ideal candidate is passionate about building intelligent enterprise software and enjoys solving complex business problems using modern AI technologies.**
+**Responsibilities**
+
+* Design and develop enterprise-scale cloud-native services supporting Unified Hybrid FinOps.
+* Build AI-powered capabilities using LLMs, Agentic AI, MCP, RAG, and enterprise knowledge platforms.
+* Develop intelligent services for:
+
++ Cloud cost optimization
++ Tokenomics
++ Capacity forecasting
++ Budget recommendations
++ Executive insights
++ Portfolio analytics
++ AI copilots
+
+* Partner with Product Management to translate business requirements into scalable technical solutions.
+* Collaborate with DevOps teams to improve engineering productivity through AI-assisted software development.
+* Develop APIs, microservices, data pipelines, and AI orchestration services.
+* Mentor engineers on modern AI engineering practices and software architecture.
+
+**Qualifications**
+
+* 8+ years developing enterprise SaaS applications.
+* Strong Java, Spring Boot, Kubernetes, and distributed systems experience.
+* Experience with Generative AI, AI Agents, LLM integration, Prompt Engineering, MCP, and RAG.
+* Experience building cloud-native applications on AWS, Azure, GCP, or VMware Cloud Foundation.
+* Strong understanding of APIs, microservices, event-driven architectures, and DevOps.
+* Excellent collaboration and problem-solving skills.
+
+****Success Measures****
+
+* Deliver scalable AI services that become foundational capabilities of the ValueOps Financial Intelligence Solution
+* Improve engineering productivity through AI-enabled development.
+* Build reusable AI services that accelerate product innovation across the ValueOps portfolio.
+
+R026465","Semiconductor Manufacturing","https://www.linkedin.com/company/broadcom","https://media.licdn.com/dms/image/v2/C4E0BAQGDwy-AGAu-Hg/company-logo_100_100/company-logo_100_100/0/1631307574919?e=2147483647&v=beta&t=TEuRbKzkiYWzSUhnGev1Qwup66NHYtn8f5XoSmWIbpk","","","","","","","","","","",""
+"li-4487675289","linkedin","https://www.linkedin.com/jobs/view/4487675289","","Engineering Lead - AI","EY","Gurugram, Haryana, India","2026-11-09","fulltime","","","","","",False,"associate","","","","At EY, we’re all in to shape your future with confidence.
   
   
-Full Name
+We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go.
   
   
-Email
+Join EY and help to build a better working world.
   
   
-Phone Number
+**EY Job Description**
+**Job Title: Engineering Lead – AI**
+**Job Rank (must note a single rank only for each job description): Associate Director**
+**Function: EY Technology – Enterprise Technology**
+**Scope (indicate either “global/cross-border” or “local/country”):Global**
+**Sub Function: EY Technology | CBS Technology | Intelligent Automation**
+**Reports to (Job Title): Service Delivery Lead: AI & Automation**
+**Job Summary:**
+The Engineering Lead is responsible for hands-on engineering delivery of enterprise AI/ML/GenAI and automation solutions, coding standards, design patterns, ensuring production-grade security, scalability, reliability, and supportability. It is not a solution advisory, PoC, or platform administration role. Success is measured by the quality, reliability, scalability, and operability of AI systems in production.
   
   
-Message
+Operating as a player–coach, the Engineering Lead works alongside AI Engineers to design and build ML Models, LLM pipelines and agentic workflows, while also setting engineering standards, coaching teams, and ensuring delivery.
   
   
-Enable JavaScript to submit this form.","Software Development","https://in.linkedin.com/company/aifise","https://media.licdn.com/dms/image/v2/D4D0BAQE6wjUiY0FriA/company-logo_100_100/B4DZ9at_XuI4AI-/0/1783933433539/aifise_logo?e=2147483647&v=beta&t=G5t0fltu3HQRZuEKiKoXUaNBqeVtYWXcmUh4u95dFsE","","","","","","","","","","",""
-"li-4488817039","linkedin","https://www.linkedin.com/jobs/view/4488817039","","Product Manager","AIFISE","Bhilai, Chhattisgarh, India","2026-11-08","fulltime","","","","","",False,"mid-senior level","","","","**Overview**
-At AIFISE, product thinking shapes how financial institutions experience automation and compliance. We are looking for a Product Manager who can connect user insights, business goals, and technical capability into clear product direction. If you enjoy solving real problems, prioritizing with intent, and guiding teams toward meaningful outcomes, this role is a strong fit.
+**The ideal candidate will possess:**
+
+* Extensive, hands-on software engineering experience, with a proven track record of building and operating complex systems in production environments.
+* Strong executive communication and stakeholder management skills, with the ability to translate complex technical concepts into clear, business-relevant outcomes.
+* Ability to independently design and code across multiple technical components, while guiding and elevating the work of senior engineers.
+* Deep technical expertise across the full stack, including cloud-native architectures, distributed systems, and data-intensive platforms.
+* Strong command of non-functional requirements, including reliability, availability, scalability, performance, and cost optimization, and the ability to make sound technology and architecture decisions as systems evolve over time.
+* Demonstrated experience delivering production-grade Generative AI and Agentic AI solutions, including:
+* LLM-powered applications and services
+* Agentic workflows and orchestration frameworks
+* Model integration, evaluation, and lifecycle management
+* MLOps / LLMOps pipelines and operational practices
+* Proven experience partnering with Data Science and AI Research teams to operationalize models and AI capabilities at enterprise scale.
+* Ability to drive the design and delivery of AI-first architectures, including LLM-powered services, agentic workflows, orchestration layers, and human-in-the-loop systems.
+* Experience building robust data and software foundations that enable advanced analytics, real-time AI inference, and intelligent decisioning at scale.
+
+**Essential Functions of the Job:**
+
+* Engineering Ownership & Delivery Accountability
+
++ Own end-to-end technical delivery of AI and GenAI solutions—from design through production and BAU support.
++ Act as the technical authority for the build team, accountable for:
+
+- Code quality and engineering standards
+- Security, privacy, and compliance
+- Reliability, scalability, performance, and cost
+- Operational readiness and supportability
+
++ Make hard engineering trade-offs balancing latency, accuracy, cost, reliability, and scale.
++ Own production systems post go-live, including incident analysis, performance tuning, and architectural evolution.
+
+* Hands-on GenAI & AI Systems Engineering
+
+
++ Collaborate with solution architecture on design and own build production-grade GenAI systems, including:
+
+- Retrieval-Augmented Generation (RAG) pipelines
+- Agentic workflows and tool-based orchestration
+- Prompt pipelines, routing, and integration layers
+- Human-in-the-loop and safety guardrails
+
++ Work shoulder-to-shoulder with AI Engineers and Data Scientists to:
+
+- Productionize models and LLM pipelines
+- Implement evaluation, monitoring, and observability
+- Optimize inference cost, performance, and reliability
+
++ Ensure experimental AI capabilities are engineered into real systems, not isolated prototypes.
+
+* Architecture & Engineering Standards
+
++ Define and enforce reference architectures and engineering standards for AI and GenAI systems.
++ Drive consistent adoption of:
+
+- Clean and modular architecture patterns
+- Reusable components and shared frameworks
+- CI/CD, DevOps, and cloud-native practices
+
++ Partner with architecture, platform, security, and data teams while retaining final accountability for build quality.
+
+* AI Platform Engineering & MLOps / LLMOps
+
++ Build and evolve AI platforms that support:
+
+- Model lifecycle management
+- LLMOps / MLOps pipelines
+- Evaluation, monitoring, and drift detection
+- Secure access, auditability, and governance
+
++ Ensure AI systems meet enterprise non-functional requirements over time, not just at launch.
+
+* Team Leadership & Capability Building
+
++ Lead and grow a team of senior engineers within the AI & Automation build function.
++ Coach engineers on:
+
+- Backend and distributed systems engineering
+- GenAI application design and implementation
+- Writing maintainable, testable, production-quality code
+
++ Set a strong engineering culture focused on ownership, rigor, and continuous improvement.
++ Support hiring and skills development aligned to future AI engineering needs.
+
+* Stakeholder & Cross-Functional Collaboration
+
++ Partner closely with:
+
+- AI/ML Engineering and Data Science teams
+- Platform, security, and operations teams
+- Architecture and governance forums
+
++ Translate business and functional requirements into robust technical designs.
++ Act as a senior technical voice in design authorities and delivery governance.
+
+**Engineering Expectations (Non Negotiable)**
+
+* Has built and operated complex, distributed backend systems in production.
+* Comfortable debugging production incidents involving AI/LLM pipelines.
+* Writes, reviews, and maintains production-quality code, not just prototypes.
+* Understands failure modes of AI systems and designs for resilience.
+* Takes ownership for systems after go-live, including reliability and cost optimization.
+
+**Analytical/Decision Making Responsibilities:**
+This role is critical to ensuring the enterprise’s AI ambition translates into
+**real, reliable, and scalable systems**
+—not just innovation theater. You will define how AI is built, shipped, and operated across the organization.
   
   
-Key Responsibilities
+**Knowledge and Skills Requirements:**
+**Core Engineering Skills**
+
+* Strong hands-on experience in Python, Java, C#, or similar backend languages.
+* Proven experience building API-driven, cloud-native systems.
+* Strong understanding of distributed systems, scalability, and reliability patterns.
+
+**GenAI / AI Engineering (Essential)**
+
+* Hands-on experience building LLM-powered applications, including:
+
++ RAG pipelines
++ Agentic or tool-augmented workflows
++ Prompt orchestration and integration layers
+
+* Experience with:
+
++ Vector databases and embeddings
++ LLM evaluation, observability, and monitoring
++ Guardrails, safety, and cost controls
+
+* Experience operationalizing AI models at scale in enterprise environments.
+
+**Nice to Have (Not Core Identity)**
+
+* Experience integrating AI services into enterprise automation platforms (e.g., Power Platform, ServiceNow).
+* Familiarity with Azure AI services and data platforms.
+
+**Detailed Responsibilities:**
+
+* Solution Development: Design, develop, and implement automation solutions using Microsoft Power Platform (Power Automate, Power Apps) and ServiceNow. Create custom workflows, forms, and applications to automate business processes and enhance user experience.
+* Integration Management: Integrate Microsoft and ServiceNow platforms with other enterprise applications using APIs, web services, and middleware. Ensure seamless data flow between systems and maintain data integrity across integrated applications.
+* Testing and Quality Assurance: Conduct thorough testing of automation solutions to ensure functionality, performance, and compliance with business requirements. Implement best practices for code quality, documentation, and version control.
+* Observability and Maintenance: Monitor the performance of automation solutions and troubleshoot issues as they arise. Perform regular maintenance and updates to ensure optimal functionality and security of automation applications.
+* Documentation: Create and maintain comprehensive documentation for automation solutions, including design specifications, user guides, and technical manuals. Document processes, workflows, and integration points for future reference and knowledge transfer.
+* User Training and Support: Provide training and support to end-users and team members on automation tools and processes.Develop training materials and conduct workshops to facilitate user adoption of automation solutions.
+* Collaboration and Stakeholder Engagement: Work closely with cross-functional teams, including business analysts, project managers, and IT staff, to ensure alignment on automation initiatives. Engage with stakeholders to gather feedback and make necessary adjustments to automation solutions.
+* Performance Metrics and Reporting: Define and track key performance indicators (KPIs) to measure the effectiveness of automation solutions. Generate reports and dashboards to communicate the impact of automation on business processes and operational efficiency.
+* Continuous Improvement: Stay updated on the latest trends and advancements in automation, AI, and relevant technologies.Identify areas for continuous improvement and propose enhancements to existing automation solutions.
+* Governance and Compliance: Ensure that automation solutions adhere to organizational policies, governance frameworks, and compliance requirements. Participate in risk assessments and audits related to automation initiatives.
+* Innovation and Research: Explore and evaluate new technologies, tools, and methodologies to enhance automation capabilities. Conduct research on industry best practices and competitor strategies to inform decision-making and innovation.
+* Change Management: Analyze the impact of automation on organizational processes and culture, making recommendations for change management strategies. Assist in developing communication plans to inform stakeholders about automation initiatives and their benefits.
+
+**Other Requirements:**
+
+* Familiarity with Python practices and tools.
+* Strong communication, stakeholder management and influence
+* Strong leadership and conflict resolution capability
+* Leading virtual teams
+
+**Job Requirements:**
+**Education:**
+
+* A degree in Computer Science / Engineering or a related discipline; or equivalent work experience
+
+**Experience:**
+
+* 10+ years in a Global IT environment working with multiple disciplines to deliver projects in line with customer needs
+* 3+ Years Global delivery or transformation preferably in large scale infrastructure programs
+* 3+ Years in a global operations environment
+
+**Certification Requirements:**
+
+* Relevant certifications in MS Power Platform and ServiceNow RPA
+* Python Certification
+* Azure AI Services
+* Azure Data Services
+
+**EY | Building a better working world**
+EY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets.
   
   
-You will work closely with engineering leadership, product managers, and cross functional teams to architect, build, and maintain both frontend and backend systems. Your work will include feature development, system optimization, performance improvements, and ensuring high standards of security and code quality across the stack.
+Enabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow.
   
   
-**Required Skills & Qualifications**
-
-* Proven experience building and shipping digital products in SaaS or fintech environments
-* Strong understanding of product discovery, prioritization frameworks, and agile execution
-* Ability to write clear specifications, user flows, and acceptance criteria
-* Comfortable working with technical teams and understanding architecture trade offs
-* Strong analytical mindset with experience using data and research to guide decisions
-* Excellent communication skills with the ability to align cross functional teams and stakeholders
-
-Submit your Application for
+EY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multi-disciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories.","Professional Services","https://uk.linkedin.com/company/ernstandyoung","https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo","","","","","","","","","","",""
+"li-4487657604","linkedin","https://www.linkedin.com/jobs/view/4487657604","","Principal Consultant - ServiceNow","Sunlife","Gurugram, Haryana, India","2026-11-09","fulltime","","","","","",False,"not applicable","","","","You are as unique as your background, experience and point of view. Here, you’ll be encouraged, empowered and challenged to be your best self. You'll work with dynamic colleagues - experts in their fields - who are eager to share their knowledge with you. Your leaders will inspire and help you reach your potential and soar to new heights. Every day, you'll have new and exciting opportunities to make life brighter for our Clients - who are at the heart of everything we do.
   
   
-Full Name
+At Sun Life, we're driven by our Purpose: helping our Clients achieve lifetime financial security and live healthier lives. Our values shape how we work: caring, authentic, bold, inspiring, and impactful.
   
   
-Email
+When you join Sun Life, you'll work with passionate colleagues and empowering leaders who support your growth and celebrate your contributions, so you can make a meaningful difference in our Clients' lives.
   
   
-Phone Number
+Discover how you can make a difference in the lives of individuals, families and communities around the world.
   
   
-Message
+**Job Description:**
+At Sun Life we’re hiring ServiceNow Developer who has a great technical background with ServiceNow. In this role you will be working closely with the existing technical, operational and business teams in Asia and Canada. The ServiceNow Developer has a software development background that will be enhanced by Scripting in ServiceNow, and Application Creation in ServiceNow. The person will be responsible for design, build and configure applications to meet business process and application requirements. As a ServiceNow developer you will need to works across applications, deliver new functionality and innovative solutions, and supports the entire development lifecycle.
   
   
-Enable JavaScript to submit this form.","Software Development","https://in.linkedin.com/company/aifise","https://media.licdn.com/dms/image/v2/D4D0BAQE6wjUiY0FriA/company-logo_100_100/B4DZ9at_XuI4AI-/0/1783933433539/aifise_logo?e=2147483647&v=beta&t=G5t0fltu3HQRZuEKiKoXUaNBqeVtYWXcmUh4u95dFsE","","","","","","","","","","",""
-"li-4487104759","linkedin","https://www.linkedin.com/jobs/view/4487104759","","Sr Snowflake DBT Data Engineer","KHEYDIGIT","India","2026-11-08","contract","","","","","",False,"mid-senior level","","","hiring@khey-digit.com","Job Title: Senior Snowflake/DBT Data Engineer
+**Preferred Skills :**
 
-Experience: 8+ years
+* Proficiency with ServiceNow applications such as Change / Incident / Problem Management, Knowledge, Service portal etc.
+* Working knowledge on Integrating ServiceNow with other 3rd party tools·
+* Should have experience related to Custom Applications and Studio based applications.
+* Proficiency with HTML, JavaScript-Angular JS, XML, AJAX, Jelly, CSS, SOAP, REST etc.
+* Strong working knowledge with different scripts of Service Now like Client Scripts, Business Rules, Script Include, UI Action, UI Policy, and UI Pages·
+* Strong understanding of Developing the Complex Catalog items, Workflows, Order Guides, Record producers etc.
+* Ability to work both independently and as part of a team.
 
-Location: Remote (Hyderabad/Bengaluru/Pune/Chennai)
+**Qualification & Experience :**
 
-Contract Duration: 6+ months
+* Bachelor’s/Master's degree in computer science or software engineering·
+* 9-14 years of experience in ServiceNow Development role·
+* Strong knowledge of JavaScript, Java, REST, XML, HTML and CSS·
+* Strong problem-solving, debugging skills and an aptitude for learning new technologies.
+* Knowledge of ITSM and ITIL
 
-Dual Employment: Not allowed; must be terminated if applicable
+**Responsibilities :**
 
-Required Qualifications:
+* Develops the technical solutions, implements and performs the component integration tests
 
-Master’s degree in Computer Science, Information Technology or a related field.
++ Custom / Scoped Application Development
++ Extensive experience on ITSM and ServiceNow Scripting
++ ovide expertise on all technical questions related to development on of SNOW.
++ Troubleshoot technical/application problems and provide ServiceNow Administration and Functional/Development support to user queries and issues·
++ Perform Systems Integration Testing and manage/coordinate user acceptance testing.
++ Creation of technical and functional documents for ongoing maintenance items and projects.
++ Participate in testing when needed (platform upgrades).
++ To work with Business Analyst to verify acceptance criteria meets customer requirements.
++ Understand the business needs and the needs to standardize processes, and build this into the design·
++ Capable of working to deadline dates.
++ Experience on 3rd party Integrations
 
-Minimum 8 years overall experience in data engineering, with at least 5–6 years of hands-on experience working with Snowflake and dbt;
+**Job Category:**
+IT - Digital Development
+  
+  
+**Posting End Date:**
+11/11/2026","Financial Services and Insurance","https://ca.linkedin.com/company/sun-life-financial","https://media.licdn.com/dms/image/v2/D4E0BAQF6LRIkshx5Rw/company-logo_100_100/B4EaE_Ntb8JAAQ-/0/1792061921290/sun_life_financial_logo?e=2147483647&v=beta&t=vXRvx4WB1C0_uShWnfqRhSseQjGFTBGLBj_F5QsXidg","","","","","","","","","","",""
+"li-4487664514","linkedin","https://www.linkedin.com/jobs/view/4487664514","","Engineering Lead - AI","EY","Kochi, Kerala, India","2026-11-09","fulltime","","","","","",False,"associate","","","","At EY, we’re all in to shape your future with confidence.
+  
+  
+We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go.
+  
+  
+Join EY and help to build a better working world.
+  
+  
+**EY Job Description**
+**Job Title: Engineering Lead – AI**
+**Job Rank (must note a single rank only for each job description): Associate Director**
+**Function: EY Technology – Enterprise Technology**
+**Scope (indicate either “global/cross-border” or “local/country”):Global**
+**Sub Function: EY Technology | CBS Technology | Intelligent Automation**
+**Reports to (Job Title): Service Delivery Lead: AI & Automation**
+**Job Summary:**
+The Engineering Lead is responsible for hands-on engineering delivery of enterprise AI/ML/GenAI and automation solutions, coding standards, design patterns, ensuring production-grade security, scalability, reliability, and supportability. It is not a solution advisory, PoC, or platform administration role. Success is measured by the quality, reliability, scalability, and operability of AI systems in production.
+  
+  
+Operating as a player–coach, the Engineering Lead works alongside AI Engineers to design and build ML Models, LLM pipelines and agentic workflows, while also setting engineering standards, coaching teams, and ensuring delivery.
+  
+  
+**The ideal candidate will possess:**
 
-At least 6 years proven experience as a Snowflake Developer or in a similar role.
+* Extensive, hands-on software engineering experience, with a proven track record of building and operating complex systems in production environments.
+* Strong executive communication and stakeholder management skills, with the ability to translate complex technical concepts into clear, business-relevant outcomes.
+* Ability to independently design and code across multiple technical components, while guiding and elevating the work of senior engineers.
+* Deep technical expertise across the full stack, including cloud-native architectures, distributed systems, and data-intensive platforms.
+* Strong command of non-functional requirements, including reliability, availability, scalability, performance, and cost optimization, and the ability to make sound technology and architecture decisions as systems evolve over time.
+* Demonstrated experience delivering production-grade Generative AI and Agentic AI solutions, including:
+* LLM-powered applications and services
+* Agentic workflows and orchestration frameworks
+* Model integration, evaluation, and lifecycle management
+* MLOps / LLMOps pipelines and operational practices
+* Proven experience partnering with Data Science and AI Research teams to operationalize models and AI capabilities at enterprise scale.
+* Ability to drive the design and delivery of AI-first architectures, including LLM-powered services, agentic workflows, orchestration layers, and human-in-the-loop systems.
+* Experience building robust data and software foundations that enable advanced analytics, real-time AI inference, and intelligent decisioning at scale.
 
-Proven experience integrating and operating Fivetran (or similar ELT tools) with dbt and Snowflake for automated data ingestion and transformations.
+**Essential Functions of the Job:**
 
-Advanced SQL expertise with experience authoring complex queries and optimising SQL for large-scale datasets.
+* Engineering Ownership & Delivery Accountability
 
-Strong Python skills for data processing, automation and orchestration tasks.
++ Own end-to-end technical delivery of AI and GenAI solutions—from design through production and BAU support.
++ Act as the technical authority for the build team, accountable for:
 
-Deep understanding of data warehousing concepts, methodologies and data modelling techniques (OLTP, OLAP, Data Vault 2.0).
+- Code quality and engineering standards
+- Security, privacy, and compliance
+- Reliability, scalability, performance, and cost
+- Operational readiness and supportability
 
-Experience implementing and maintaining CI/CD pipelines for data transformations and deployments (Azure DevOps experience preferred).
++ Make hard engineering trade-offs balancing latency, accuracy, cost, reliability, and scale.
++ Own production systems post go-live, including incident analysis, performance tuning, and architectural evolution.
 
-Proven experience with Snowflake performance tuning, query optimisation and cost-conscious design.
+* Hands-on GenAI & AI Systems Engineering
 
-Excellent analytical, problem-solving and communication skills; able to work effectively in a fully remote team.
 
-Demonstrated ability to lead workstreams, mentor junior engineers and deliver outcomes in an agile environment.
++ Collaborate with solution architecture on design and own build production-grade GenAI systems, including:
 
-Nice to have
+- Retrieval-Augmented Generation (RAG) pipelines
+- Agentic workflows and tool-based orchestration
+- Prompt pipelines, routing, and integration layers
+- Human-in-the-loop and safety guardrails
 
-Experience with cloud provider services (AWS, Azure or GCP) and their integration with Snowflake.
++ Work shoulder-to-shoulder with AI Engineers and Data Scientists to:
 
-Familiarity with Infrastructure as Code (IaC) tools such as Terraform or AWS CloudFormation.
+- Productionize models and LLM pipelines
+- Implement evaluation, monitoring, and observability
+- Optimize inference cost, performance, and reliability
 
-Experience with orchestration tools (e.g., Airflow, Prefect) for complex workflow management.
++ Ensure experimental AI capabilities are engineered into real systems, not isolated prototypes.
 
-Knowledge of data governance, lineage and metadata tooling (e.g., Collibra, Amundsen, Great Expectations).
+* Architecture & Engineering Standards
 
-Experience working in regulated industries or with sensitive/PII datasets (compliance-aware data practices).
++ Define and enforce reference architectures and engineering standards for AI and GenAI systems.
++ Drive consistent adoption of:
 
-Apply now! Share your profile with us at hiring@khey-digit.com","IT Services and IT Consulting","https://in.linkedin.com/company/kheydigit-key-to-digital-solutions","https://media.licdn.com/dms/image/v2/D4D0BAQHM-5q_QuU69Q/img-crop_100/B4DaFlZgmkIwAM-/0/1792702548752?e=2147483647&v=beta&t=9VxqMet30DuP6ZsHcwLk_p3DHxr4_cLI0uP8iaqNMIs","","","","","","","","","","",""
-"li-4488803413","linkedin","https://www.linkedin.com/jobs/view/4488803413","","AI Engineer","Flexiple","Noida, Uttar Pradesh, India","2026-11-08","fulltime","","","","","",False,"associate","","","","**Hiring for J&F**
-— via Flexiple, the recruiting partner on this role.
+- Clean and modular architecture patterns
+- Reusable components and shared frameworks
+- CI/CD, DevOps, and cloud-native practices
 
-**About Company**
++ Partner with architecture, platform, security, and data teams while retaining final accountability for build quality.
 
-J&F is building an AI product that generates construction drawings from a 3D building model, beginning with data centres. A human detailer approves the drawings. The CTO and product design are in place; hires build and operate the product.
+* AI Platform Engineering & MLOps / LLMOps
 
-**Job Roles & Responsibilities**
++ Build and evolve AI platforms that support:
 
-* AI career from the start; backend-to-AI switchers excluded.
-* Production-deployed AI work with ownership of technical decisions.
-* Build multi-agent workflows extracting geometry, drawing rules and conventions from 3D building models.
+- Model lifecycle management
+- LLMOps / MLOps pipelines
+- Evaluation, monitoring, and drift detection
+- Secure access, auditability, and governance
 
-**Ideal Candidate Profile**
++ Ensure AI systems meet enterprise non-functional requirements over time, not just at launch.
 
-* 3-5 years of experience.
-* AI career from the start; backend-to-AI switchers excluded.
-* Production-deployed AI work with ownership of technical decisions.
-* Build multi-agent workflows extracting geometry, drawing rules and conventions from 3D building models.
-* Must own projects independently. Small-team leadership is preferred.
-* Required role skills: Multi-agent AI, LangChain, LangGraph.
+* Team Leadership & Capability Building
 
-**Originally posted on:**
-14 Oct 2026","Staffing and Recruiting","https://www.linkedin.com/company/flexipletech","https://media.licdn.com/dms/image/v2/D560BAQGgWu7mPc9m1Q/company-logo_100_100/company-logo_100_100/0/1724216885400/flexiple_logo?e=2147483647&v=beta&t=zfUBYQ07CTdm0T4IG-m6Uv6S9XTB313H4QUPEwEJpvs","","","","","","","","","","",""
-"li-4488802404","linkedin","https://www.linkedin.com/jobs/view/4488802404","","AI Engineer (Forward Deployed)","Flexiple","India","2026-11-08","fulltime","","","","","",False,"associate","","","","**Hiring for Smart Bricks**
-— via Flexiple, the recruiting partner on this role.
++ Lead and grow a team of senior engineers within the AI & Automation build function.
++ Coach engineers on:
 
-**About Company**
+- Backend and distributed systems engineering
+- GenAI application design and implementation
+- Writing maintainable, testable, production-quality code
 
-Smart Bricks is the applied AI lab for real assets. It builds frontier AI systems and autonomous agents for the global real estate and AI infrastructure industries, so institutions can do in minutes what used to take months of manual work. Smart Bricks is backed by a16z Speedrun, Techstars, 500 Global, HBS Angels and others, supported by Balderton Capital, and was selected for the Palantir Startup Fellowship (Cohort 003). It works with institutional investors, fund managers and family offices across the UK, Middle East and US.
++ Set a strong engineering culture focused on ownership, rigor, and continuous improvement.
++ Support hiring and skills development aligned to future AI engineering needs.
 
-**Job Roles & Responsibilities**
+* Stakeholder & Cross-Functional Collaboration
 
-* Build agentic systems: multi-step agents, tool use and workflows for sourcing, underwriting, due diligence, IC memos and portfolio monitoring
-* Own the AI stack: RAG and document pipelines, model routing across frontier and open models, prompt and context engineering, structured outputs into Excel and IC formats
-* Build evals and observability for accuracy, cost, latency and reliability so every number traces back to source
-* Build reusable connectors, data pipelines and components that make each new deployment faster
-* Embed with clients (real estate PE funds, institutional investors, family offices) to learn their data, workflows and decisions
-* Partner with GTM on discovery and scoping calls, turn messy client problems into a technical plan, and help close and expand accounts
-* Prototype within days, iterate on client feedback and take solutions to production; own the technical relationship through rollout
-* Turn one-off client builds into platform features
++ Partner closely with:
 
-**Ideal Candidate Profile**
+- AI/ML Engineering and Data Science teams
+- Platform, security, and operations teams
+- Architecture and governance forums
 
-* 3+ years shipping production software, ideally in Python and/or TypeScript
-* Deep hands-on experience building with LLMs in production: agents, RAG, tool use, evals and context engineering (LangGraph, LlamaIndex, MCP or similar)
-* Strong grasp of the AI model landscape and accuracy/cost/speed trade-offs; solid ML fundamentals, including knowing when not to use an LLM
-* A builder's track record: founding engineer, early startup hire, ex-founder/CTO, or a top engineering team where you owned outcomes end to end
-* Comfortable in front of clients and able to explain technical trade-offs to a fund partner
-* Cloud fundamentals (AWS, GCP or Azure), data pipelines, and awareness of enterprise security (data isolation, access controls)
-* Comfortable working across UK and GCC hours; available to join immediately
-* Strong plus: finance, real estate, private markets or consulting exposure; forward-deployed or solutions engineering experience; document-heavy AI (PDFs, spreadsheets, data rooms); quantitative degree
++ Translate business and functional requirements into robust technical designs.
++ Act as a senior technical voice in design authorities and delivery governance.
 
-**Originally posted on:**
-13 Oct 2026","Staffing and Recruiting","https://www.linkedin.com/company/flexipletech","https://media.licdn.com/dms/image/v2/D560BAQGgWu7mPc9m1Q/company-logo_100_100/company-logo_100_100/0/1724216885400/flexiple_logo?e=2147483647&v=beta&t=zfUBYQ07CTdm0T4IG-m6Uv6S9XTB313H4QUPEwEJpvs","","","","","","","","","","",""
-"li-4488796643","linkedin","https://www.linkedin.com/jobs/view/4488796643","","SDE I - SDET","Flexiple","Bengaluru, Karnataka, India","2026-11-08","fulltime","","","","","",False,"associate","","","","**Hiring for Swiggy**
-— via Flexiple, the recruiting partner on this role.
+**Engineering Expectations (Non Negotiable)**
 
-**About Company**
+* Has built and operated complex, distributed backend systems in production.
+* Comfortable debugging production incidents involving AI/LLM pipelines.
+* Writes, reviews, and maintains production-quality code, not just prototypes.
+* Understands failure modes of AI systems and designs for resilience.
+* Takes ownership for systems after go-live, including reliability and cost optimization.
 
-Swiggy is a leading consumer internet and food-commerce platform operating at high transaction scale across India. This Full Stack SDET role supports product-quality work across Java services, APIs, web/mobile automation, data validation, and debugging workflows that protect customer and partner experience.
+**Analytical/Decision Making Responsibilities:**
+This role is critical to ensuring the enterprise’s AI ambition translates into
+**real, reliable, and scalable systems**
+—not just innovation theater. You will define how AI is built, shipped, and operated across the organization.
+  
+  
+**Knowledge and Skills Requirements:**
+**Core Engineering Skills**
 
-**Job Roles & Responsibilities**
+* Strong hands-on experience in Python, Java, C#, or similar backend languages.
+* Proven experience building API-driven, cloud-native systems.
+* Strong understanding of distributed systems, scalability, and reliability patterns.
 
-* Design, implement, and maintain Java-based automated tests for APIs, services, web flows, and mobile flows across Swiggy product systems.
-* Build and execute Selenium and Appium automation while improving reliability, maintainability, and coverage of critical user journeys.
-* Validate backend behavior using strong API testing, SQL queries, test data setup, and debugging of failures across application, database, cache, and AWS layers.
-* Partner with developers, product owners, and QA stakeholders to reproduce issues, isolate root causes, and drive defects to closure with clear evidence.
-* Contribute to test strategy, regression suites, and release readiness so high-scale product features ship with confidence and measurable quality.
+**GenAI / AI Engineering (Essential)**
 
-**Ideal Candidate Profile**
+* Hands-on experience building LLM-powered applications, including:
 
-* 1-3 years of SDET, QA automation, or software-testing experience with Java as a must-have hands-on language.
-* Strong API testing depth, including request/response validation, edge cases, test data handling, and debugging failed service behavior.
-* Practical Selenium and Appium experience for web and mobile automation, with awareness of automation stability and framework quality.
-* Comfort with SQL, AWS basics, cache/Redis concepts, and systematic debugging across full-stack product environments.
-* Python exposure is a plus, but Java testing expertise, ownership, and clear problem-solving communication are the primary screening bar.
++ RAG pipelines
++ Agentic or tool-augmented workflows
++ Prompt orchestration and integration layers
+
+* Experience with:
+
++ Vector databases and embeddings
++ LLM evaluation, observability, and monitoring
++ Guardrails, safety, and cost controls
+
+* Experience operationalizing AI models at scale in enterprise environments.
+
+**Nice to Have (Not Core Identity)**
+
+* Experience integrating AI services into enterprise automation platforms (e.g., Power Platform, ServiceNow).
+* Familiarity with Azure AI services and data platforms.
+
+**Detailed Responsibilities:**
+
+* Solution Development: Design, develop, and implement automation solutions using Microsoft Power Platform (Power Automate, Power Apps) and ServiceNow. Create custom workflows, forms, and applications to automate business processes and enhance user experience.
+* Integration Management: Integrate Microsoft and ServiceNow platforms with other enterprise applications using APIs, web services, and middleware. Ensure seamless data flow between systems and maintain data integrity across integrated applications.
+* Testing and Quality Assurance: Conduct thorough testing of automation solutions to ensure functionality, performance, and compliance with business requirements. Implement best practices for code quality, documentation, and version control.
+* Observability and Maintenance: Monitor the performance of automation solutions and troubleshoot issues as they arise. Perform regular maintenance and updates to ensure optimal functionality and security of automation applications.
+* Documentation: Create and maintain comprehensive documentation for automation solutions, including design specifications, user guides, and technical manuals. Document processes, workflows, and integration points for future reference and knowledge transfer.
+* User Training and Support: Provide training and support to end-users and team members on automation tools and processes.Develop training materials and conduct workshops to facilitate user adoption of automation solutions.
+* Collaboration and Stakeholder Engagement: Work closely with cross-functional teams, including business analysts, project managers, and IT staff, to ensure alignment on automation initiatives. Engage with stakeholders to gather feedback and make necessary adjustments to automation solutions.
+* Performance Metrics and Reporting: Define and track key performance indicators (KPIs) to measure the effectiveness of automation solutions. Generate reports and dashboards to communicate the impact of automation on business processes and operational efficiency.
+* Continuous Improvement: Stay updated on the latest trends and advancements in automation, AI, and relevant technologies.Identify areas for continuous improvement and propose enhancements to existing automation solutions.
+* Governance and Compliance: Ensure that automation solutions adhere to organizational policies, governance frameworks, and compliance requirements. Participate in risk assessments and audits related to automation initiatives.
+* Innovation and Research: Explore and evaluate new technologies, tools, and methodologies to enhance automation capabilities. Conduct research on industry best practices and competitor strategies to inform decision-making and innovation.
+* Change Management: Analyze the impact of automation on organizational processes and culture, making recommendations for change management strategies. Assist in developing communication plans to inform stakeholders about automation initiatives and their benefits.
+
+**Other Requirements:**
+
+* Familiarity with Python practices and tools.
+* Strong communication, stakeholder management and influence
+* Strong leadership and conflict resolution capability
+* Leading virtual teams
+
+**Job Requirements:**
+**Education:**
+
+* A degree in Computer Science / Engineering or a related discipline; or equivalent work experience
+
+**Experience:**
+
+* 10+ years in a Global IT environment working with multiple disciplines to deliver projects in line with customer needs
+* 3+ Years Global delivery or transformation preferably in large scale infrastructure programs
+* 3+ Years in a global operations environment
+
+**Certification Requirements:**
+
+* Relevant certifications in MS Power Platform and ServiceNow RPA
+* Python Certification
+* Azure AI Services
+* Azure Data Services
+
+**EY | Building a better working world**
+EY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets.
+  
+  
+Enabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow.
+  
+  
+EY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multi-disciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories.","Professional Services","https://uk.linkedin.com/company/ernstandyoung","https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo","","","","","","","","","","",""
+"li-4487655731","linkedin","https://www.linkedin.com/jobs/view/4487655731","","Software Engineering Intern - Client (Mobile)","Nudge","Bengaluru, Karnataka, India","2026-11-09","fulltime","","","","","",False,"entry level","","","","* Title: Software Engineering Intern - (Client / Mobile - Android, iOS)
+* Department: Technology / Mobile Engineering
+* Location: Bangalore Corporate Office
+* Employment Type: Internship
+* Eligibility: Final-year students or recent graduates (B.Tech / B.E. / MCA or equivalent)
+
+**The Opportunity**
+Nudge is building India’s ultimate commerce rewards platform. For most users, Nudge
+*is*
+the mobile app: it is where they scan shopping bills, link accounts like Gmail or Swiggy and Zepto, play games, and watch their rewards grow.
+  
+  
+Our Android and iOS apps share a codebase built with
+**Kotlin Multiplatform (KMP)**
+and
+**Compose Multiplatform**
+. As a
+**Client Intern**
+, you will build features in this app alongside our mobile engineers, with a mentor reviewing your work.
+  
+  
+You don’t need prior KMP experience. If you have built apps on any mobile platform and want to go deep on modern cross-platform development, this role is for you.
+  
+  
+**What You’ll Achieve**
+**Build Features Users Touch Every Day**
+
+* Build screens and flows for bill scanning, account linking, rewards and in-app games.
+* Turn designs into polished, responsive UI with smooth animations and clear states (loading, empty, error).
+
+**Work Across the Mobile Stack**
+
+* Integrate with backend REST APIs, handle networking, caching and offline behaviour.
+* Work with device capabilities like the camera, permissions, notifications and deep links.
+* Learn how shared Kotlin code runs on both Android and iOS, and where platform-specific code is needed.
+
+**Ship with Quality**
+
+* Write tests, profile for performance and fix crashes and UI bugs.
+* Go through code reviews and learn the release process from build to Play Store and App Store.
+
+**Build Faster with AI**
+
+* Use AI coding tools (e.g., Claude Code, Cursor, GitHub Copilot) to build screens, write tests and debug faster, while understanding and owning every line you ship.
+* Use AI to explore the codebase, turn designs into UI scaffolding, and prototype ideas quickly.
+
+**What You’ll Bring**
+
+* Hands-on experience building apps on at least one mobile platform: Android (Kotlin/Java), iOS (Swift), Flutter or React Native.
+* Kotlin experience, or a clear willingness to learn it fast. Exposure to Jetpack Compose, SwiftUI or KMP is a strong plus.
+* Understanding of app architecture basics (MVVM or similar), app lifecycle and state management.
+* Comfort consuming REST/JSON APIs and handling async work (coroutines, async/await or similar).
+* Strong fundamentals in Data Structures and Algorithms, and familiarity with Git.
+* At least one app you built: on the Play Store / App Store, on GitHub, or a demo you can walk us through.
+* Hands-on experience using AI tools in your own projects, and the judgement to review, test and correct what they generate.
+* An eye for UI detail, curiosity, and the drive to learn fast in a startup environment.
+
+**Why You’ll Love Working Here**
+
+* Ship to Real Users: Your features go out to users on both Android and iOS.
+* Modern Stack: Learn Kotlin Multiplatform and Compose Multiplatform on a production app, a skill few engineers have yet.
+* Direct Mentorship: Work closely with the engineers who built the app.
+* Path to Full Time: Strong interns may be offered a full-time mobile engineering role.
+* AI-First Workflow: Modern AI coding tools are part of how we build, every day.","Technology, Information and Media, Technology, Information and Internet, and Mobile Gaming Apps","https://in.linkedin.com/company/justnudge","https://media.licdn.com/dms/image/v2/D4D0BAQGlkxmVdeQKYA/company-logo_100_100/B4DaCFLnOaHcAI-/0/1788940809488?e=2147483647&v=beta&t=JXJ6LLDEZ4Wh7DufdXTFAi97LLJwSx0rsxBOlcoRa04","","","","","","","","","","",""
+"li-4486672556","linkedin","https://www.linkedin.com/jobs/view/4486672556","","Associate Platform Engineer - Data Storage","Brevo","Noida, Uttar Pradesh, India","2026-11-09","fulltime","","","","","",False,"not applicable","","","","At Brevo, we’re not just building a CRM. With our technology,
+**we’re helping millions of organizations build lasting relationships with their customers.**
+From emails and SMS to WhatsApp, Chat, and Marketing Automation,
+**our tools are intuitive, powerful, and built to scale with every ambition.**
+We give businesses a clear view of the customer journey, so they can focus on what matters: connection.
+  
+  
+As a
+**certified B Corp**
+, we’re proud to grow with purpose, committed to high standards of social and environmental impact, not just performance.
+  
+  
+Today, more than
+**500,000 businesses**
+across
+**180 countries**
+—from NGOs like Amnesty International to global brands like Carrefour, eBay, Louis Vuitton, and Michelin—trust Brevo to engage their audiences, cut through complexity, and deliver results. Our
+**reliable technology**
+and
+**75+ integrations**
+help them create
+**unparalleled customer experiences,**
+without the usual tech headaches.
+  
+  
+We recently exceeded 200m ARR and reached a major milestone by
+**becoming a Unicorn**
+, backed by strong growth and global expansion - and we’re just getting started!
+  
+  
+Join us as an
+**Associate Platform Engineer**
+in our
+**Data Storage**
+team. This role is ideal for early-career engineers eager to build a strong foundation in database systems, infrastructure automation, and distributed platforms while working alongside experienced platform engineers.
+  
+  
+**Your Impact at Brevo:**
+
+* Install, Configure, tune, and monitor database technologies such as PostgreSQL, MongoDB, ClickHouse, etc
+* Assist in operating data storage systems that meet performance, reliability, security, and scalability requirements
+* Actively participate in automation efforts using tools like Ansible, Terraform, or scripts to reduce manual operational work
+* Monitor system health and performance, and participate in routine optimisation tasks
+* Contribute to implementing and maintaining data backup and disaster recovery processes
+* Collaborate actively with senior engineers and internal teams to understand infrastructure and hosting requirements
+* Assist in diagnosing and resolving production issues under guidance, ensuring service stability
+* Maintain and update technical documentation related to systems, processes, and runbooks
+
+**Who you are:**
+
+* Between 2-3 years of professional experience
+* Solid fundamentals in Linux and basic system administration
+* Exposure to at least one data storage system (SQL, NoSQL, RDBMS, or distributed storage), such as PostgreSQL, MongoDB, ClickHouse, ScyllaDB, MinIO, etc
+* Basic understanding of data backup concepts and disaster recovery principles
+* Familiarity with automation or scripting tools such as Ansible, Bash, or Terraform (hands-on experience is a plus, not mandatory)
+* Good troubleshooting mindset with the ability to analyse issues and learn from incidents
+* Exposure to cloud platforms or containerised environments
+* Academic or personal projects involving databases, automation, or infrastructure
+* Interest in scalability, reliability, and platform engineering best practices
+
+**Why people love working at Brevo:**
+
+* A place to grow, together: Join a diverse, international team in a modern office buzzing with energy and ideas
+* Practical perks for everyday balance: Cab Facility and per-day meal vouchers; Employee-friendly salary structure; 1.4x pay on holidays/weekends for critical work; excellent referral program with high-value gift options (e.g., bike, flight tickets)
+* Learning, every step of the way: Over 1,55,000 courses on Udemy, along with facilitator-led sessions, and personalised training programs tailored to individual and team needs
+* Flexible for life: A hybrid setup (2 days WFH), budget for your home workspace, and a generous leave policy to help you balance life and work effortlessly
+* Wellbeing that works: INR 10 Lakh medical insurance, maternity support, childcare facilities, and wellness bonuses to keep you and your family covered
+* A culture that cares: Annual company off-sites, inter-office trips, team outings, active social, green, and LGBTQIA+ communities, along with festive celebrations - all making Brevo a vibrant and inclusive workplace
+
+**Your candidate journey:**
+
+* Round 1 - Screening call with the Talent Acquisition team
+* Round 2 - Face-to-Face Interview with our Deputy Platform Manager
+* Round 3 - Virtual Interview with the Hiring Manager
+* Round 4 - Virtual Interview with the VP of Platform
+
+Whoever you are, wherever you’re from, if this role speaks to you, we’d love to hear from you.
+  
+  
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.","Hospitality, Food and Beverage Services, and Retail","https://fr.linkedin.com/company/brevo","https://media.licdn.com/dms/image/v2/D4E0BAQHOnSMcHt2tyA/company-logo_100_100/company-logo_100_100/0/1719256306370/brevo_logo?e=2147483647&v=beta&t=g-aTmpausvdnUd2kuBV20IRcR8r1bedhtDh6m5xwMvw","","","","","","","","","","",""
+"li-4488806649","linkedin","https://www.linkedin.com/jobs/view/4488806649","","Cyber Security Engineer, Asssistant Vice President","State Street","Bengaluru, Karnataka, India","2026-11-09","fulltime","","","","","",False,"not applicable","","","","****Role Summary & Role Description****
+The lead engineering role will serve as a GCS (Global Cyber Security) subject matter expert collaborating with the development, platform and architecture teams to implement and support various security related products. The Lead Security Engineering (AVP) role will engage with business and support personnel to design, implement and maintain robust, secure and user friendly solutions. Technologies include Identity and Access management, Multi-Factor Authentication and Single SignOn.
+  
+  
+****Responsibilities Include:****
+
+* Leading the development, deployment and management of Access Management solutions.
+* Designing highly resilient Authentication infrastructure
+* Designing and developing secure integration between Authentication security tools and the application layer. Designs will include both on-prem and SaaS applications and the supporting infrastructure.
+* Designing and developing integration of MFA through Single SignOn solutions using SAML, OIDC, OAuth and Session management tools
+* Assisting application teams with integration of MFA access control tools to ensure compliance
+* Serving as subject matter expert and point of escalation for security product operations team
+* Developing standard operating procedures and technical guidelines for security product operations team
+* Working with multiple vendors on product integration issues
+* Developing operating workflows, reporting tools, and utilities
+* Collaborating with other areas of the corporation to help create effective MFA security practices
+
+****Core/Must Have Skills****
+
+* 13+ years of work experience and has been part of a large-scale Access Management implementations involving Forgerock/Entra ID/Transmit/RSA
+* Strong leadership skills
+* Experience with complex software integrations and migrations
+* Ability to define and manage complex projects
+* Strong Knowledge of RSA, Transmit, ForgeRock, MFA and SSO
+* Expertise with SAML and OIDC / OAuth
+* Expertise with Microsoft Entra ID and Single Sign On
+* Expertise with RSA Authentication Manager and MicroSoft Authenticator
+* Expertise with LDAP protocol and directory design
+* Experience in working on Agentic AI integrations involving authentication
+* Ability to perform light programming and scripting using tools such as java, javascript, unix shell scripting, powershell, python, perl
+* Strong knowledge of secure configuration management
+* Strong knowledge of identity and access management controls and principles
+* Knowledge of cloud technologies and common technology stacks. Understanding of AWS and Azure public cloud deployments
+* Knowledge of common web servers, operating systems and network security
+* Understanding of Kubernetes and Docker
+* Strong knowledge on Devops and CI/CD
+* Ability to think out of the box
+* Strong communication skills
+
+****Good To Have Skills****
+
+* Jira expérience , SIEM, Change management
+* Scripting and Automation experience
+
+**Work Schedule**
+Hybrid work model in Regular time in Bangalore
+  
+  
+**Keywords (If any)**
+Access Management, Authentication Services, RSA, Transmit, Forgerock, Entra ID
+  
+  
+**Why this role is important to us**
+Our technology function, Global Technology Services (GTS), is vital to State Street and is the key enabler for our business to deliver data and insights to our clients. We’re driving the company’s digital transformation and expanding business capabilities using industry best practices and advanced technologies such as cloud, artificial intelligence and robotics process automation.
+  
+  
+We offer a collaborative environment where technology skills and innovation are valued in a global organization. We’re looking for top technical talent to join our team and deliver creative technology solutions that help us become an end-to-end, next-generation financial services company.
+  
+  
+Join us if you want to grow your technical skills, solve real problems and make your mark on our industry.
+  
+  
+****About State Street****
+**What we do.**
+State Street is one of the largest custodian banks, asset managers and asset intelligence companies in the world. From technology to product innovation, we’re making our mark on the financial services industry. For more than two centuries, we’ve been helping our clients safeguard and steward the investments of millions of people. We provide investment servicing, data & analytics, investment research & trading and investment management to institutional clients.
+  
+  
+**Work, Live and Grow.**
+We make all efforts to create a great work environment. Our benefits packages are competitive and comprehensive. Details vary by location, but you may expect generous medical care, insurance and savings plans, among other perks. You’ll have access to flexible Work Programs to help you match your needs. And our wealth of development programs and educational support will help you reach your full potential.
+  
+  
+**Inclusion, Diversity and Social Responsibility.**
+We truly believe our employees’ diverse backgrounds, experiences and perspectives are a powerful contributor to creating an inclusive environment where everyone can thrive and reach their maximum potential while adding value to both our organization and our clients. We warmly welcome candidates of diverse origin, background, ability, age, sexual orientation, gender identity and personality. Another fundamental value at State Street is active engagement with our communities around the world, both as a partner and a leader. You will have tools to help balance your professional and personal life, paid volunteer days, matching gift programs and access to employee networks that help you stay connected to what matters to you.
+  
+  
+State Street is an equal opportunity and affirmative action employer.
+  
+  
+Discover more at StateStreet.com/careers
+  
+  
+****About State Street****
+Across the globe, institutional investors rely on us to help them manage risk, respond to challenges, and drive performance and profitability. We keep our clients at the heart of everything we do, and smart, engaged employees are essential to our continued success.
+  
+  
+We are committed to fostering an environment where every employee feels valued and empowered to reach their full potential. As an essential partner in our shared success, you’ll benefit from inclusive development opportunities, flexible work-life support, paid volunteer days, and vibrant employee networks that keep you connected to what matters most. Join us in shaping the future.
+  
+  
+As an Equal Opportunity Employer, we consider all qualified applicants for all positions without regard to race, creed, color, religion, national origin, ancestry, ethnicity, age, disability, genetic information, sex, sexual orientation, gender identity or expression, citizenship, marital status, domestic partnership or civil union status, familial status, military and veteran status, and other characteristics protected by applicable law.
+  
+  
+Discover more information on jobs at StateStreet.com/careers
+  
+  
+Read our CEO Statement
+  
+  
+Job ID: R-800273","Financial Services, Investment Banking, and Investment Management","https://www.linkedin.com/company/state-street","https://media.licdn.com/dms/image/v2/D4E0BAQG2I4b6RVexFg/company-logo_100_100/company-logo_100_100/0/1695040265658/state_street_logo?e=2147483647&v=beta&t=Ub0oPMS_tj_W9kGjLa872fLM4oluGO4xV84-AjisJbo","","","","","","","","","","",""
+"li-4488801840","linkedin","https://www.linkedin.com/jobs/view/4488801840","","Software Development Manager, Just Walk Out","Amazon Web Services (AWS)","Bengaluru, Karnataka, India","2026-11-09","fulltime","","","","","",False,"mid-senior level","","","","**Description**
+Lead a new India-based embedded and firmware engineering team for Just Walk Out's edge devices: the cameras, sensors, RFID, gates and networking hardware in our stores, and the device-side software that connects them to the cloud. This is a hands-on technical leadership role. You'll manage 8-12 engineers, set technical direction across firmware, embedded Linux and embedded Android, and partner closely with the US engineering team that owns this charter today.
+  
+  
+Key job responsibilities
+  
+  
+
+* Hire, coach and develop a high-judgment team of embedded, firmware and edge software engineers, and build an inclusive, high-ownership culture as the team grows in India
+* Own the technical roadmap, delivery and operational excellence for your team's firmware and embedded software, from requirements and architecture through release and field support
+* Set engineering standards across the embedded stack: firmware and RTOS/bare-metal code, embedded Linux and Android, drivers and board bring-up, secure boot and OTA updates, and on-device diagnostics
+* Own the device-to-cloud boundary with cloud teams: provisioning and identity, connectivity, telemetry and remote management, including the device's AWS IoT / embedded-Linux connectivity stack
+* Build the test infrastructure, staged rollouts and telemetry needed to ship firmware safely across a large fleet of deployed devices
+* Lead the response to field issues, telling firmware from hardware, connectivity or sensor faults, and drive root cause and lasting fixes
+* Drive execution with the US engineering team, product and program management, hardware/ODM partners, and cloud, data and UI/UX teams across time zones
+
+A day in the life
+  
+  
+You might start with 1:1s and a design review, helping an engineer reason through an OTA rollback path or a latency budget on a constrained target. Later you agree scope for the next release with product and the US partner team, and re-plan the sprint because a hardware revision changed what's possible. In the afternoon you join your engineers on a field issue affecting a few devices at one store, get them the telemetry and a plan, and keep the fix moving.
+  
+  
+**About The Team**
+Just Walk Out builds the technology behind checkout-free shopping: the devices, networking and cloud software that let shoppers walk out without stopping to pay. . This India team will take direct ownership of part of that charter, working closely with the US engineering team, hardware partners and the operations teams who rely on what we ship.
+  
+  
+**About AWS**
+Diverse Experiences: AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job below, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+  
+  
+Why AWS? Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+  
+  
+Inclusive Team Culture - Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon conferences, inspire us to never stop embracing our uniqueness.
+  
+  
+Mentorship & Career Growth - We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+  
+  
+Work/Life Balance - We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+  
+  
+**Basic Qualifications**
+
+* 3+ years of engineering team management experience
+* Knowledge of engineering practices and patterns for the full software/hardware/networks development life cycle, including coding standards, code reviews, source control management, build processes, testing, certification, and livesite operations
+* Experience partnering with product or program management teams
+* Experience designing or architecting (design patterns, reliability and scaling) of new and existing systems
+* 7+ years of software engineering experience, including embedded systems or firmware development
+* Experience leading the development of embedded, real-time, or hardware-interfacing systems delivered on physical hardware
+
+**Preferred Qualifications**
+
+* Experience in communicating with users, other technical teams, and senior leadership to collect requirements, describe software product features, technical designs, and product strategy
+* Experience in recruiting, hiring, mentoring/coaching and managing teams of Software Engineers to improve their skills, and make them more effective, product software engineers
+* Hands-on embedded Linux (including Yocto) and/or embedded Android, with Linux kernel or driver development and low-level debugging
+* Sustaining a large fleet of deployed devices: OTA firmware updates, telemetry, and remote diagnostics at scale
+* Experience at the device-to-cloud boundary (connectivity, provisioning, fleet management), ideally with AWS IoT / Greengrass and MQTT
+* Depth in Android/Linux firmware, secure boot, wireless connectivity, or RFID/sensor devices, plus hardware-in-the-loop testing
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+  
+  
+  
+**Company**
+- ADCI - Karnataka
+  
+  
+Job ID: A10599451","IT Services and IT Consulting","https://www.linkedin.com/company/amazon-web-services","https://media.licdn.com/dms/image/v2/D4E0BAQFqdm1TZ-RZKQ/company-logo_100_100/B4EZgOay6gHEAY-/0/1752588562343/amazon_web_services_logo?e=2147483647&v=beta&t=813v--p_AS7bme1J7PlAyB2BEU4-c9ba9AUzyuGb5Wg","","","","","","","","","","",""
+"li-4487671384","linkedin","https://www.linkedin.com/jobs/view/4487671384","","Senior Technical Release Manager","Sureify","Hyderabad, Telangana, India","2026-11-09","fulltime","","","","","",False,"mid-senior level","","","","**About Sureify**
+Sureify is dedicated to modernizing the life insurance and annuity industry. We provide cutting-edge digital solutions that empower insurers to easily engage with, sell to, and service their customers. Our mission is to drive meaningful digital transformation by offering scalable technology that enhances customer engagement and streamlines carrier operations. Sureify's products deliver the advanced digital experiences that life insurance carriers, agents, employees, and consumers now expect in this rapidly evolving technological landscape. At Sureify, we cultivate a culture that prioritizes innovation, collaboration, and continuous learning.
+  
+  
+**Role Overview**
+We are looking for a
+**Senior Technical Release Manager**
+to join our Hyderabad office. This role will be responsible for managing all production releases across our enterprise platform and customer-specific solutions. Unlike traditional release roles, this position serves as a
+**Technical Release Governor**
+in a complex hybrid environment consisting of both
+**multi-tenant**
+products and
+**multi-instance**
+siloed environments.
+  
+  
+As we scale our
+**carrier customer**
+base, we are looking to adopt best of the breed release practices. You will be the single point of accountability for replacing high-intensity manual interventions in releases with a systematic, technically rigorous process. You will ensure releases are delivered with quality, predictability, and efficiency while bridging the gap between engineering, QA, product, and client support teams.
+  
+  
+**Key Responsibilities**
+**Release Lifecycle Leadership:**
+Own and manage the end-to-end release lifecycle for all production deployments, including core platform production updates and customer-specific customizations. Define, document, and enforce
+**release management processes and standards**
+. Create and maintain the
+**release calendar**
+, ensuring transparency and alignment across teams.
+  
+  
+**Technical Gatekeeping:**
+Conduct deep-dive release readiness reviews. You will audit ""Release Manifests"" by validating steps such as SQL migrations or PDF template migrations, Temporal workflow versioning, Kafka schemas, and AWS resource configurations. A good overall understanding of deployment architecture in AWS is essential for this role.
+  
+  
+**Environment Governance:**
+Manage ""Instance Parity"" across our
+**AWS**
+multi-instance architecture to prevent ""Environmental Drift"" and ensure customer-specific secrets and variables match our global standards.
+  
+  
+**Cross-Functional Orchestration:**
+Facilitate formal ""Go/No-Go"" decisions by tracking a global checklist that includes technical and non-technical readiness.
+  
+  
+**Risk Mitigation:**
+Identify, document, and mitigate technical sequencing risks (e.g., database locks or stateful workflow conflicts) associated with production releases.
+  
+  
+**Continuous Improvement:**
+Monitor release performance, generate and provide metrics and reports and drive the transition from manual coordination to
+**Automated Production Quality Gates**
+within our release pipelines.
+  
+  
+**Required Qualifications & Experience**
+**10+ years of overall technical experience**
+, with a background in software engineering, SRE, or backend operations.
+  
+  
+**5+ years of direct release management experience**
+in a complex, enterprise hybrid SaaS environment (Multi-tenant & Multi-instance).
+  
+  
+**Cloud-Native Expertise:**
+Expert-level knowledge of
+**AWS**
+(EKS, RDS, Secrets Manager, IAM, S3, MSK) and the ability to audit infrastructure-level configurations.
+  
+  
+**Stack Fluency:**
+Demonstrated familiarity with
+**Typescript**
+,
+**PHP, Go-lang, and Node.js**
+ecosystems. You must understand the deployment nuances of each.
+  
+  
+**Modern Orchestration:**
+Hands-on experience or strong knowledge of
+**Temporal**
+(stateful workflows) and
+**Kafka**
+(event streaming). You understand the risks of deploying to ""in-flight"" asynchronous processes.
+  
+  
+**Database Proficiency:**
+Strong proficiency in
+**MySQL and Postgres**
+, specifically in auditing complex migration scripts and data sequencing.
+  
+  
+**Containerization Mastery:**
+Deep understanding of
+**Kubernetes (K8s)**
+manifest auditing and deployment patterns (Canary, Blue-Green, or Rolling Updates).
+  
+  
+**Communication & Gravitas:**
+Excellent stakeholder management skills with the professional authority to enforce discipline and halt releases if technical or business criteria are not met.
+  
+  
+**Preferred / Nice-to-Have Skills**
+Experience in the insurance or financial services domain (or other regulated industries).
+  
+  
+Knowledge of security, compliance (SOC2/ISO), or audit processes as they relate to release operations.
+  
+  
+Experience with
+**Infrastructure as Code (IaC)**
+tools like Terraform or CloudFormation.
+  
+  
+Familiarity with Site Reliability Engineering (SRE) principles such as Error Budgets and SLIs/SLOs.
+  
+  
+**Why Join Sureify?**
+At Sureify, you’ll be part of a collaborative, innovation-driven culture where your expertise will directly influence the quality and success of products, transforming the life insurance landscape. You’ll work alongside passionate technologists and industry experts, tackling complex challenges with cutting-edge technologies while helping shape the future of digital insurance.
+  
+  
+**Our Guiding Principles**
+Our products are for nothing if their creators are not fulfilled in their work. We want our employees to flourish at Sureify. We do not fawn over status or titles; instead, we honour effort and intelligence. The best idea wins, no matter which colleague proposed it. We do not shortcut our mission with overblown claims or false promises. Sticking to the truth is both a strategy and a principle for us.
+  
+  
+Sureify is an Equal Opportunity Employer committed to diversity. Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, sex, sexual orientation, gender perception or identity, age, disability, veteran or military status, or any other basis prohibited by law.","Insurance","https://www.linkedin.com/company/sureify-com","https://media.licdn.com/dms/image/v2/D4E0BAQHhAvhT0sEzJw/company-logo_100_100/company-logo_100_100/0/1727553023248/sureify_com_logo?e=2147483647&v=beta&t=1ryaZR24XK2TV4ou-meo_XewV688cj_KMhnGuc3dgmw","","","","","","","","","","",""
+"li-4475220418","linkedin","https://www.linkedin.com/jobs/view/4475220418","","Workday & HR Technology Systems Expert Talent and Performance","The Magnum Ice Cream Company","Pune/Pimpri-Chinchwad Area","2026-11-09","fulltime","","","","","",False,"mid-senior level","","","","**Life tastes better with ice cream**
+With 19.000 expert ice cream colleagues and iconic brands like Wall’s, Cornetto and Ben & Jerry’s, loved in 76 countries, we are the world’s largest Ice Cream company leading the industry.
+  
+  
+We create iconic ice cream brands that are part of everyday life, bringing moments of joy to millions of people around the world. Everybody loves ice cream. And as the world’s biggest pure‑play ice cream company, we have the scale and ambition to make a real difference.
+  
+  
+**What Truly Sets Us Apart Is How We Work.**
+We move fast and keep things simple. We turn ideas into action, trust people to take ownership, and work as one team to win together with integrity. Our culture is high‑performance, collaborative and focused on getting things done.
+  
+  
+We’re curious and ready for what’s next. We embrace digital, use data to make better decisions, and keep learning, including how AI can help us work smarter and serve consumers better.
+  
+  
+The role This role will be responsible for the successful enablement of a standalone Ice Cream company that is geared for future success as ‘the best HR Technology team in the industry’. The role will be part of a dedicated, multi-disciplinary team led by the Ice Cream HR Technology Lead. What you'll be responsible for Talent & Performance System Ownership: Act as the functional and technical owner of Workday Talent & Performance modules, including Goal Management and Performance Review, Talent Reviews (9-box, succession inputs, feedback & Check-ins). Configure and maintain Review templates and rating scales, Goal frameworks (cascading, alignment, visibility), Talent pools, grid definitions, and profile data. Ensure alignment with global Talent and Performance strategy. Configure and optimise advanced features: Continuous performance (check-ins, feedback flows). Calibration logic and constraints. Talent review dashboards (e.g., 9-box grids, potential vs performance. Partner with Talent/COE teams to translate frameworks (e.g., leadership models, rating philosophy) into scalable Workday solutions. Improve user experience and adoption (simplification, automation, UX improvements). Stakeholder Collaboration Serve as the primary liaison between technical support teams and global HR process owners. Translate business requirements into scalable system solutions. Collaborate with HR COEs, IT, and external vendors to deliver robust and future-ready HR technology. Project & Change Management Lead HR technology initiatives including module rollouts, upgrades, and process improvements. Support change management and training efforts to ensure smooth adoption. Monitor system performance and proactively identify opportunities for enhancement. Performance Cycle Execution (Critical Requirement). Lead the end-to-end execution of performance management cycles in Workday, including Goal plan launches (annual / quarterly), Mid-year and year-end performance reviews, Talent review and calibration sessions. Own key Workday components such as Performance Review Templates, Business Process Framework (BPs) for performance and talent workflows and Calibration configuration and facilitator experiences. Act as the primary SME during live cycles, supporting HRBPs, managers, and employees. Execute Cycle setup and configuration, testing (including end-to-end scenarios) and Data validation and troubleshooting. Monitor cycle progress and proactively resolve issues. Integration, Reporting & Audit Ensure accurate integration of Talent data with Compensation and Learning Systems. Build and maintain reporting on performance and talent data (e.g. performance completion rates, rating distributions, talent pipeline and succession insights) We're looking for someone who Has a minimum of 5+ years in HR with at least 5 years in a workday deployment role. 3+ years of experience in HRIS or HR Technology roles. Proven experience with system integrations, data governance, and stakeholder management. Proven experience in setting up and executing end-to-end performance management cycles in Workday, designing performance workflows and business processes and configuring calibration sessions and talent reviews. Deep expertise in Workday Talent and Performance with hands-on configuration experience. Strong track record of supporting global, multi-country performance cycles, acting as primary system owner during live performance cycles and Understanding of modern performance practices (continuous performance, reduced ratings, calibration governance, etc.). Thinks end-to-end and takes ownership of results. Is comfortable working in a fast-moving, evolving organisation. Values collaboration, clarity and low-ego ways of working. What you'll get Alongside meaningful work and strong development, we offer a reward package that typically includes Market-competitive pay and performance-related rewards. Flexible ways of working. Support for health, wellbeing and life outside of work. Time off to rest and recharge. Ongoing learning and development opportunities.
+  
+  
+**Why join us?**
+This is a place for people who are passionate about ice cream and are growth obsessed - both for the business and for themselves. People who act like an owner and drive our business end-to-end. People who are driven by success to deliver more than we ever thought we could!
+  
+  
+You’ll thrive here if you value an inclusive culture, with low ego and hierarchy - and if you’re excited to continuously learn and challenge how we work, using digital, data, and new thinking to push us forward.
+  
+  
+
+* Roles with real accountability and visible impact
+* Free to move fast, experiment and challenge how things are done
+* Continuous learning and development as the business grows
+* Reward linked to performance and contribution.
+
+Your career here is shaped by what you deliver, as you work across functions and markets and grow with the business.
+  
+  
+**Ready to build the future of Ice Cream?**
+If this sounds like the place where you'd thrive, we'd love to hear from you. Apply online and share your CV. We'll review your application and be in touch with the next steps.
+  
+  
+If you are an individual with a disability and require assistance at any time during our recruitment process, please let your Talent Acquisition Partner know.
+  
+  
+**Additional Information**
+The Magnum Ice Cream Company is an Equal Opportunity Employer. We embrace diversity and are committed to creating an inclusive environment where everyone can do their best work regardless of age, disability, gender identity, race, religion, sexual orientation, or any other protected characteristic.","Food and Beverage Services","https://nl.linkedin.com/company/the-magnum-ice-cream-company","https://media.licdn.com/dms/image/v2/D4E0BAQGgaU6nWgZS_g/company-logo_100_100/B4EZfLpU6AHwAg-/0/1751468299517/magnum_ice_cream_co_logo?e=2147483647&v=beta&t=0NI1RYSN6XFvBFRN3wOMD7ypaQVVr2eELVD4JqGIjTk","","","","","","","","","","",""
+"li-4487653834","linkedin","https://www.linkedin.com/jobs/view/4487653834","","Engineering Lead - AI","EY","Trivandrum, Kerala, India","2026-11-09","fulltime","","","","","",False,"associate","","","","At EY, we’re all in to shape your future with confidence.
+  
+  
+We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go.
+  
+  
+Join EY and help to build a better working world.
+  
+  
+**EY Job Description**
+**Job Title: Engineering Lead – AI**
+**Job Rank (must note a single rank only for each job description): Associate Director**
+**Function: EY Technology – Enterprise Technology**
+**Scope (indicate either “global/cross-border” or “local/country”):Global**
+**Sub Function: EY Technology | CBS Technology | Intelligent Automation**
+**Reports to (Job Title): Service Delivery Lead: AI & Automation**
+**Job Summary:**
+The Engineering Lead is responsible for hands-on engineering delivery of enterprise AI/ML/GenAI and automation solutions, coding standards, design patterns, ensuring production-grade security, scalability, reliability, and supportability. It is not a solution advisory, PoC, or platform administration role. Success is measured by the quality, reliability, scalability, and operability of AI systems in production.
+  
+  
+Operating as a player–coach, the Engineering Lead works alongside AI Engineers to design and build ML Models, LLM pipelines and agentic workflows, while also setting engineering standards, coaching teams, and ensuring delivery.
+  
+  
+**The ideal candidate will possess:**
+
+* Extensive, hands-on software engineering experience, with a proven track record of building and operating complex systems in production environments.
+* Strong executive communication and stakeholder management skills, with the ability to translate complex technical concepts into clear, business-relevant outcomes.
+* Ability to independently design and code across multiple technical components, while guiding and elevating the work of senior engineers.
+* Deep technical expertise across the full stack, including cloud-native architectures, distributed systems, and data-intensive platforms.
+* Strong command of non-functional requirements, including reliability, availability, scalability, performance, and cost optimization, and the ability to make sound technology and architecture decisions as systems evolve over time.
+* Demonstrated experience delivering production-grade Generative AI and Agentic AI solutions, including:
+* LLM-powered applications and services
+* Agentic workflows and orchestration frameworks
+* Model integration, evaluation, and lifecycle management
+* MLOps / LLMOps pipelines and operational practices
+* Proven experience partnering with Data Science and AI Research teams to operationalize models and AI capabilities at enterprise scale.
+* Ability to drive the design and delivery of AI-first architectures, including LLM-powered services, agentic workflows, orchestration layers, and human-in-the-loop systems.
+* Experience building robust data and software foundations that enable advanced analytics, real-time AI inference, and intelligent decisioning at scale.
+
+**Essential Functions of the Job:**
+
+* Engineering Ownership & Delivery Accountability
+
++ Own end-to-end technical delivery of AI and GenAI solutions—from design through production and BAU support.
++ Act as the technical authority for the build team, accountable for:
+
+- Code quality and engineering standards
+- Security, privacy, and compliance
+- Reliability, scalability, performance, and cost
+- Operational readiness and supportability
+
++ Make hard engineering trade-offs balancing latency, accuracy, cost, reliability, and scale.
++ Own production systems post go-live, including incident analysis, performance tuning, and architectural evolution.
+
+* Hands-on GenAI & AI Systems Engineering
+
+
++ Collaborate with solution architecture on design and own build production-grade GenAI systems, including:
+
+- Retrieval-Augmented Generation (RAG) pipelines
+- Agentic workflows and tool-based orchestration
+- Prompt pipelines, routing, and integration layers
+- Human-in-the-loop and safety guardrails
+
++ Work shoulder-to-shoulder with AI Engineers and Data Scientists to:
+
+- Productionize models and LLM pipelines
+- Implement evaluation, monitoring, and observability
+- Optimize inference cost, performance, and reliability
+
++ Ensure experimental AI capabilities are engineered into real systems, not isolated prototypes.
+
+* Architecture & Engineering Standards
+
++ Define and enforce reference architectures and engineering standards for AI and GenAI systems.
++ Drive consistent adoption of:
+
+- Clean and modular architecture patterns
+- Reusable components and shared frameworks
+- CI/CD, DevOps, and cloud-native practices
+
++ Partner with architecture, platform, security, and data teams while retaining final accountability for build quality.
+
+* AI Platform Engineering & MLOps / LLMOps
+
++ Build and evolve AI platforms that support:
+
+- Model lifecycle management
+- LLMOps / MLOps pipelines
+- Evaluation, monitoring, and drift detection
+- Secure access, auditability, and governance
+
++ Ensure AI systems meet enterprise non-functional requirements over time, not just at launch.
+
+* Team Leadership & Capability Building
+
++ Lead and grow a team of senior engineers within the AI & Automation build function.
++ Coach engineers on:
+
+- Backend and distributed systems engineering
+- GenAI application design and implementation
+- Writing maintainable, testable, production-quality code
+
++ Set a strong engineering culture focused on ownership, rigor, and continuous improvement.
++ Support hiring and skills development aligned to future AI engineering needs.
+
+* Stakeholder & Cross-Functional Collaboration
+
++ Partner closely with:
+
+- AI/ML Engineering and Data Science teams
+- Platform, security, and operations teams
+- Architecture and governance forums
+
++ Translate business and functional requirements into robust technical designs.
++ Act as a senior technical voice in design authorities and delivery governance.
+
+**Engineering Expectations (Non Negotiable)**
+
+* Has built and operated complex, distributed backend systems in production.
+* Comfortable debugging production incidents involving AI/LLM pipelines.
+* Writes, reviews, and maintains production-quality code, not just prototypes.
+* Understands failure modes of AI systems and designs for resilience.
+* Takes ownership for systems after go-live, including reliability and cost optimization.
+
+**Analytical/Decision Making Responsibilities:**
+This role is critical to ensuring the enterprise’s AI ambition translates into
+**real, reliable, and scalable systems**
+—not just innovation theater. You will define how AI is built, shipped, and operated across the organization.
+  
+  
+**Knowledge and Skills Requirements:**
+**Core Engineering Skills**
+
+* Strong hands-on experience in Python, Java, C#, or similar backend languages.
+* Proven experience building API-driven, cloud-native systems.
+* Strong understanding of distributed systems, scalability, and reliability patterns.
+
+**GenAI / AI Engineering (Essential)**
+
+* Hands-on experience building LLM-powered applications, including:
+
++ RAG pipelines
++ Agentic or tool-augmented workflows
++ Prompt orchestration and integration layers
+
+* Experience with:
+
++ Vector databases and embeddings
++ LLM evaluation, observability, and monitoring
++ Guardrails, safety, and cost controls
+
+* Experience operationalizing AI models at scale in enterprise environments.
+
+**Nice to Have (Not Core Identity)**
+
+* Experience integrating AI services into enterprise automation platforms (e.g., Power Platform, ServiceNow).
+* Familiarity with Azure AI services and data platforms.
+
+**Detailed Responsibilities:**
+
+* Solution Development: Design, develop, and implement automation solutions using Microsoft Power Platform (Power Automate, Power Apps) and ServiceNow. Create custom workflows, forms, and applications to automate business processes and enhance user experience.
+* Integration Management: Integrate Microsoft and ServiceNow platforms with other enterprise applications using APIs, web services, and middleware. Ensure seamless data flow between systems and maintain data integrity across integrated applications.
+* Testing and Quality Assurance: Conduct thorough testing of automation solutions to ensure functionality, performance, and compliance with business requirements. Implement best practices for code quality, documentation, and version control.
+* Observability and Maintenance: Monitor the performance of automation solutions and troubleshoot issues as they arise. Perform regular maintenance and updates to ensure optimal functionality and security of automation applications.
+* Documentation: Create and maintain comprehensive documentation for automation solutions, including design specifications, user guides, and technical manuals. Document processes, workflows, and integration points for future reference and knowledge transfer.
+* User Training and Support: Provide training and support to end-users and team members on automation tools and processes.Develop training materials and conduct workshops to facilitate user adoption of automation solutions.
+* Collaboration and Stakeholder Engagement: Work closely with cross-functional teams, including business analysts, project managers, and IT staff, to ensure alignment on automation initiatives. Engage with stakeholders to gather feedback and make necessary adjustments to automation solutions.
+* Performance Metrics and Reporting: Define and track key performance indicators (KPIs) to measure the effectiveness of automation solutions. Generate reports and dashboards to communicate the impact of automation on business processes and operational efficiency.
+* Continuous Improvement: Stay updated on the latest trends and advancements in automation, AI, and relevant technologies.Identify areas for continuous improvement and propose enhancements to existing automation solutions.
+* Governance and Compliance: Ensure that automation solutions adhere to organizational policies, governance frameworks, and compliance requirements. Participate in risk assessments and audits related to automation initiatives.
+* Innovation and Research: Explore and evaluate new technologies, tools, and methodologies to enhance automation capabilities. Conduct research on industry best practices and competitor strategies to inform decision-making and innovation.
+* Change Management: Analyze the impact of automation on organizational processes and culture, making recommendations for change management strategies. Assist in developing communication plans to inform stakeholders about automation initiatives and their benefits.
+
+**Other Requirements:**
+
+* Familiarity with Python practices and tools.
+* Strong communication, stakeholder management and influence
+* Strong leadership and conflict resolution capability
+* Leading virtual teams
+
+**Job Requirements:**
+**Education:**
+
+* A degree in Computer Science / Engineering or a related discipline; or equivalent work experience
+
+**Experience:**
+
+* 10+ years in a Global IT environment working with multiple disciplines to deliver projects in line with customer needs
+* 3+ Years Global delivery or transformation preferably in large scale infrastructure programs
+* 3+ Years in a global operations environment
+
+**Certification Requirements:**
+
+* Relevant certifications in MS Power Platform and ServiceNow RPA
+* Python Certification
+* Azure AI Services
+* Azure Data Services
+
+**EY | Building a better working world**
+EY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets.
+  
+  
+Enabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow.
+  
+  
+EY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multi-disciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories.","Professional Services","https://uk.linkedin.com/company/ernstandyoung","https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo","","","","","","","","","","",""
+"li-4487665504","linkedin","https://www.linkedin.com/jobs/view/4487665504","","Engineering Lead - AI","EY","Bengaluru, Karnataka, India","2026-11-09","fulltime","","","","","",False,"associate","","","","At EY, we’re all in to shape your future with confidence.
+  
+  
+We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go.
+  
+  
+Join EY and help to build a better working world.
+  
+  
+**EY Job Description**
+**Job Title: Engineering Lead – AI**
+**Job Rank (must note a single rank only for each job description): Associate Director**
+**Function: EY Technology – Enterprise Technology**
+**Scope (indicate either “global/cross-border” or “local/country”):Global**
+**Sub Function: EY Technology | CBS Technology | Intelligent Automation**
+**Reports to (Job Title): Service Delivery Lead: AI & Automation**
+**Job Summary:**
+The Engineering Lead is responsible for hands-on engineering delivery of enterprise AI/ML/GenAI and automation solutions, coding standards, design patterns, ensuring production-grade security, scalability, reliability, and supportability. It is not a solution advisory, PoC, or platform administration role. Success is measured by the quality, reliability, scalability, and operability of AI systems in production.
+  
+  
+Operating as a player–coach, the Engineering Lead works alongside AI Engineers to design and build ML Models, LLM pipelines and agentic workflows, while also setting engineering standards, coaching teams, and ensuring delivery.
+  
+  
+**The ideal candidate will possess:**
+
+* Extensive, hands-on software engineering experience, with a proven track record of building and operating complex systems in production environments.
+* Strong executive communication and stakeholder management skills, with the ability to translate complex technical concepts into clear, business-relevant outcomes.
+* Ability to independently design and code across multiple technical components, while guiding and elevating the work of senior engineers.
+* Deep technical expertise across the full stack, including cloud-native architectures, distributed systems, and data-intensive platforms.
+* Strong command of non-functional requirements, including reliability, availability, scalability, performance, and cost optimization, and the ability to make sound technology and architecture decisions as systems evolve over time.
+* Demonstrated experience delivering production-grade Generative AI and Agentic AI solutions, including:
+* LLM-powered applications and services
+* Agentic workflows and orchestration frameworks
+* Model integration, evaluation, and lifecycle management
+* MLOps / LLMOps pipelines and operational practices
+* Proven experience partnering with Data Science and AI Research teams to operationalize models and AI capabilities at enterprise scale.
+* Ability to drive the design and delivery of AI-first architectures, including LLM-powered services, agentic workflows, orchestration layers, and human-in-the-loop systems.
+* Experience building robust data and software foundations that enable advanced analytics, real-time AI inference, and intelligent decisioning at scale.
+
+**Essential Functions of the Job:**
+
+* Engineering Ownership & Delivery Accountability
+
++ Own end-to-end technical delivery of AI and GenAI solutions—from design through production and BAU support.
++ Act as the technical authority for the build team, accountable for:
+
+- Code quality and engineering standards
+- Security, privacy, and compliance
+- Reliability, scalability, performance, and cost
+- Operational readiness and supportability
+
++ Make hard engineering trade-offs balancing latency, accuracy, cost, reliability, and scale.
++ Own production systems post go-live, including incident analysis, performance tuning, and architectural evolution.
+
+* Hands-on GenAI & AI Systems Engineering
+
+
++ Collaborate with solution architecture on design and own build production-grade GenAI systems, including:
+
+- Retrieval-Augmented Generation (RAG) pipelines
+- Agentic workflows and tool-based orchestration
+- Prompt pipelines, routing, and integration layers
+- Human-in-the-loop and safety guardrails
+
++ Work shoulder-to-shoulder with AI Engineers and Data Scientists to:
+
+- Productionize models and LLM pipelines
+- Implement evaluation, monitoring, and observability
+- Optimize inference cost, performance, and reliability
+
++ Ensure experimental AI capabilities are engineered into real systems, not isolated prototypes.
+
+* Architecture & Engineering Standards
+
++ Define and enforce reference architectures and engineering standards for AI and GenAI systems.
++ Drive consistent adoption of:
+
+- Clean and modular architecture patterns
+- Reusable components and shared frameworks
+- CI/CD, DevOps, and cloud-native practices
+
++ Partner with architecture, platform, security, and data teams while retaining final accountability for build quality.
+
+* AI Platform Engineering & MLOps / LLMOps
+
++ Build and evolve AI platforms that support:
+
+- Model lifecycle management
+- LLMOps / MLOps pipelines
+- Evaluation, monitoring, and drift detection
+- Secure access, auditability, and governance
+
++ Ensure AI systems meet enterprise non-functional requirements over time, not just at launch.
+
+* Team Leadership & Capability Building
+
++ Lead and grow a team of senior engineers within the AI & Automation build function.
++ Coach engineers on:
+
+- Backend and distributed systems engineering
+- GenAI application design and implementation
+- Writing maintainable, testable, production-quality code
+
++ Set a strong engineering culture focused on ownership, rigor, and continuous improvement.
++ Support hiring and skills development aligned to future AI engineering needs.
+
+* Stakeholder & Cross-Functional Collaboration
+
++ Partner closely with:
+
+- AI/ML Engineering and Data Science teams
+- Platform, security, and operations teams
+- Architecture and governance forums
+
++ Translate business and functional requirements into robust technical designs.
++ Act as a senior technical voice in design authorities and delivery governance.
+
+**Engineering Expectations (Non Negotiable)**
+
+* Has built and operated complex, distributed backend systems in production.
+* Comfortable debugging production incidents involving AI/LLM pipelines.
+* Writes, reviews, and maintains production-quality code, not just prototypes.
+* Understands failure modes of AI systems and designs for resilience.
+* Takes ownership for systems after go-live, including reliability and cost optimization.
+
+**Analytical/Decision Making Responsibilities:**
+This role is critical to ensuring the enterprise’s AI ambition translates into
+**real, reliable, and scalable systems**
+—not just innovation theater. You will define how AI is built, shipped, and operated across the organization.
+  
+  
+**Knowledge and Skills Requirements:**
+**Core Engineering Skills**
+
+* Strong hands-on experience in Python, Java, C#, or similar backend languages.
+* Proven experience building API-driven, cloud-native systems.
+* Strong understanding of distributed systems, scalability, and reliability patterns.
+
+**GenAI / AI Engineering (Essential)**
+
+* Hands-on experience building LLM-powered applications, including:
+
++ RAG pipelines
++ Agentic or tool-augmented workflows
++ Prompt orchestration and integration layers
+
+* Experience with:
+
++ Vector databases and embeddings
++ LLM evaluation, observability, and monitoring
++ Guardrails, safety, and cost controls
+
+* Experience operationalizing AI models at scale in enterprise environments.
+
+**Nice to Have (Not Core Identity)**
+
+* Experience integrating AI services into enterprise automation platforms (e.g., Power Platform, ServiceNow).
+* Familiarity with Azure AI services and data platforms.
+
+**Detailed Responsibilities:**
+
+* Solution Development: Design, develop, and implement automation solutions using Microsoft Power Platform (Power Automate, Power Apps) and ServiceNow. Create custom workflows, forms, and applications to automate business processes and enhance user experience.
+* Integration Management: Integrate Microsoft and ServiceNow platforms with other enterprise applications using APIs, web services, and middleware. Ensure seamless data flow between systems and maintain data integrity across integrated applications.
+* Testing and Quality Assurance: Conduct thorough testing of automation solutions to ensure functionality, performance, and compliance with business requirements. Implement best practices for code quality, documentation, and version control.
+* Observability and Maintenance: Monitor the performance of automation solutions and troubleshoot issues as they arise. Perform regular maintenance and updates to ensure optimal functionality and security of automation applications.
+* Documentation: Create and maintain comprehensive documentation for automation solutions, including design specifications, user guides, and technical manuals. Document processes, workflows, and integration points for future reference and knowledge transfer.
+* User Training and Support: Provide training and support to end-users and team members on automation tools and processes.Develop training materials and conduct workshops to facilitate user adoption of automation solutions.
+* Collaboration and Stakeholder Engagement: Work closely with cross-functional teams, including business analysts, project managers, and IT staff, to ensure alignment on automation initiatives. Engage with stakeholders to gather feedback and make necessary adjustments to automation solutions.
+* Performance Metrics and Reporting: Define and track key performance indicators (KPIs) to measure the effectiveness of automation solutions. Generate reports and dashboards to communicate the impact of automation on business processes and operational efficiency.
+* Continuous Improvement: Stay updated on the latest trends and advancements in automation, AI, and relevant technologies.Identify areas for continuous improvement and propose enhancements to existing automation solutions.
+* Governance and Compliance: Ensure that automation solutions adhere to organizational policies, governance frameworks, and compliance requirements. Participate in risk assessments and audits related to automation initiatives.
+* Innovation and Research: Explore and evaluate new technologies, tools, and methodologies to enhance automation capabilities. Conduct research on industry best practices and competitor strategies to inform decision-making and innovation.
+* Change Management: Analyze the impact of automation on organizational processes and culture, making recommendations for change management strategies. Assist in developing communication plans to inform stakeholders about automation initiatives and their benefits.
+
+**Other Requirements:**
+
+* Familiarity with Python practices and tools.
+* Strong communication, stakeholder management and influence
+* Strong leadership and conflict resolution capability
+* Leading virtual teams
+
+**Job Requirements:**
+**Education:**
+
+* A degree in Computer Science / Engineering or a related discipline; or equivalent work experience
+
+**Experience:**
+
+* 10+ years in a Global IT environment working with multiple disciplines to deliver projects in line with customer needs
+* 3+ Years Global delivery or transformation preferably in large scale infrastructure programs
+* 3+ Years in a global operations environment
+
+**Certification Requirements:**
+
+* Relevant certifications in MS Power Platform and ServiceNow RPA
+* Python Certification
+* Azure AI Services
+* Azure Data Services
+
+**EY | Building a better working world**
+EY is building a better working world by creating new value for clients, people, society and the planet, while building trust in capital markets.
+  
+  
+Enabled by data, AI and advanced technology, EY teams help clients shape the future with confidence and develop answers for the most pressing issues of today and tomorrow.
+  
+  
+EY teams work across a full spectrum of services in assurance, consulting, tax, strategy and transactions. Fueled by sector insights, a globally connected, multi-disciplinary network and diverse ecosystem partners, EY teams can provide services in more than 150 countries and territories.","Professional Services","https://uk.linkedin.com/company/ernstandyoung","https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo","","","","","","","","","","",""
+"li-4487658644","linkedin","https://www.linkedin.com/jobs/view/4487658644","","Software Engineering Intern - Server (Backend)","Nudge","Bengaluru, Karnataka, India","2026-11-09","fulltime","","","","","",False,"entry level","","","","* Title: Software Engineering Intern - (Server / Backend)
+* Department: Technology / Core Platform Engineering
+* Location: Bangalore Corporate Office
+* Employment Type: Internship
+* Eligibility: Final-year students or recent graduates (B.Tech / B.E. / MCA or equivalent)
+
+**The Opportunity**
+Nudge is building India’s ultimate commerce rewards platform. Users earn rewards by scanning shopping bills, linking accounts like Gmail or apps like Swiggy and Zepto, and playing games on our platform.
+  
+  
+As a
+**Server Intern**
+, you will join our Core Platform Engineering team and ship real code to production. You will work on backend microservices alongside senior engineers, with a mentor guiding your work and reviewing your code.
+  
+  
+This is not a shadowing internship. You will own small, well-scoped features and see them used by real users.
+  
+  
+**What You’ll Achieve**
+**Ship Real Features**
+
+* Build and extend RESTful APIs for bill uploads, app integrations and in-app games.
+* Take a scoped task from understanding the problem to a merged, deployed change.
+
+**Learn How Production Backends Work**
+
+* Get hands-on with PostgreSQL, Redis, Docker and cloud deployments.
+* Learn how real systems handle concurrency, caching, retries and data consistency.
+
+**Build Good Engineering Habits**
+
+* Write unit and integration tests, and document what you build.
+* Go through code reviews, and help debug issues using logs and metrics.
+
+**Build Faster with AI**
+
+* Use AI coding tools (e.g., Claude Code, Cursor, GitHub Copilot) to write, test and debug code faster, while understanding and owning every line you ship.
+* Use AI to explore unfamiliar codebases, draft tests and documentation, and prototype ideas quickly.
+
+**What You’ll Bring**
+
+* Strong fundamentals in Data Structures, Algorithms and core CS concepts (OS, networking, databases).
+* Comfort coding in at least one programming language such as Go, Java, Python, JavaScript/TypeScript or C++, and the ability to pick up new languages quickly.
+* Basic understanding of how web APIs work (HTTP, REST, JSON) and of SQL databases.
+* Familiarity with Git and a Linux/command-line environment.
+* Projects that show you build things: college projects, hackathons, open source or personal backend projects (share GitHub links).
+* Hands-on experience using AI tools in your own projects, and the judgement to review, test and correct what they generate.
+* Curiosity, ownership and the drive to learn fast in a startup environment.
+
+**Why You’ll Love Working Here**
+
+* Production Impact: Your code goes live and serves real users, not a sandbox.
+* Direct Mentorship: Learn from senior engineers building distributed, high-concurrency systems.
+* Path to Full Time: Strong interns may be offered a full-time Junior Software Engineer role.
+* Product-First Culture: A fast-paced, high-ownership team where good work is noticed.
+* AI-First Workflow: Modern AI coding tools are part of how we build, every day.","Mobile Gaming Apps, Mobile Computing Software Products, and Technology, Information and Media","https://in.linkedin.com/company/justnudge","https://media.licdn.com/dms/image/v2/D4D0BAQGlkxmVdeQKYA/company-logo_100_100/B4DaCFLnOaHcAI-/0/1788940809488?e=2147483647&v=beta&t=JXJ6LLDEZ4Wh7DufdXTFAi97LLJwSx0rsxBOlcoRa04","","","","","","","","","","",""
+"li-4487657626","linkedin","https://www.linkedin.com/jobs/view/4487657626","","Security Engineer","EY","Bengaluru, Karnataka, India","2026-11-09","fulltime","","","","","",False,"associate","","","","At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+  
+  
+Ernst &Young
+  
+  
+**Job Description**
+**Job Title:**
+Credential Protection Solution Design AI Engineer
+  
+  
+**Function:**
+Information Security
+  
+  
+Scope (indicate either “global/cross-border” or “local/country”):
+  
+  
+Global/cross-border
+  
+  
+**Sub Function:**
+Identity and Access Management
+  
+  
+**Job Summary:**
+The Information Security Engineer will be responsible for the design, implementation, operation, and security of technologies related to the protection of privileged credentials. The ideal candidate will have prior experience in developing and operating CyberArk’s Privileged Account Security Solution. The Engineer will be responsible for participating in projects to extend the capabilities of the CyberArk service along with the continued operation and maturation of the service. The engineer will also create and enhance documentation related to configuration, standard operating procedures, workflow diagrams, and service intake forms.. We are seeking an experienced AI Solutions Engineer to design and develop intelligent agents that automate and enhance CyberArk Solution Design, onboarding, compliance validation, documentation, and operational processes. The role will focus on leveraging Generative AI, Agentic Frameworks, and enterprise automation technologies to improve efficiency, consistency, and scalability across privileged access management services.
+  
+  
+We seek someone who is proactive and takes ownership of the service. The candidate is expected to review various sources for best practices, security information, and threat vectors in order to determine the potential impact to the environment and recommend configurations and solutions accordingly. Risk assessment techniques, scripting, linux and Windows administration, and cloud technology experience are desired
+  
+  
+Acts as the technical owner for solution design activities, driving requirements analysis, architecture decisions, implementation planning, and continuous service improvement.
+  
+  
+**Essential Functions of the Job:**
+
+* Develop and manage CyberArk’s Privileged Account Security Solution including the following:
+* Configure and operate CyberArk Enterprise Password Vault component and Safe design
+* Configure and operate CPM and PVWA components
+* Configure and operate High Availability and DR components
+* Configure and operate PSM, AAM, and CCP products
+* Lead solution and design reviews for privileged access onboarding initiatives.
+* Develop repeatable solution patterns and reference architectures for credential protection capabilities.
+* Create standards for credential protection integrations.
+* Partner with application teams to assess requirements and define privileged access onboarding strategies.
+* Provide technical leadership and guidance on PAM design decisions.
+* Design and develop AI agents for solution assessment, pattern recommendation, design document generation, compliance validation, and knowledge management.
+* Design, build, test, and maintain AI agents using enterprise-approved frameworks.
+* Develop Retrieval Augmented Generation (RAG) solutions leveraging PAM documentation and knowledge repositories.
+* Build workflow automation integrating ServiceNow, CyberArk, Active Directory, and cloud platforms.
+* Develop prompt engineering standards and AI governance controls.
+* Measure and report AI solution effectiveness through KPIs and adoption metrics.
+* Facilitate design workshops with stakeholders, translate business requirements into technical solution designs, present recommendations to senior leadership, and drive alignment across security, application, infrastructure, and operations teams.
+* Configure and operate Multi-factor authentication
+* Configure and operate LDAP, RADIUS, and SAML integration
+* Integrating various target platforms such as operating system, network device, service accounts, etc
+* Document, report, and present on CyberArk design, performance metrics, security and operational log activity
+* Develop working knowledge for extended global team on all matters related to CyberArk technology
+* Follow ITIL process for incident and change management
+* Excellent English language skills, both written and verbal
+* Excellent interpersonal, communication, consultative and project management skills
+* Must be self-motivated and able to work independently, often unsupervised
+
+**Analytical/Decision Making Responsibilities:**
+
+* Ability to recognize and research attacks and attack patterns
+* Ability to work effectively with clients, management staff members, vendors and consultants
+* Demonstrated creative problem-solving skills including defining and resolving issues.
+* Identify and escalate project risks to management.
+* Superior skill in organizing, managing and interpreting data and reports.
+* Ability to interface with cross-functional technology teams
+* Project planning and project leadership skills
+* Communicates proactively and often with counselees and team members to drive open and honest development and career conversations for the purpose of building trust, authentic meaningful relationships and exceptional career experiences.
+
+**Knowledge and Skills Requirements:**
+
+* Experience with CyberArk Privileged Account Security Solution
+* Experience with server operating system technologies
+* Strong network and/or system administration background
+* Packet capture analysis
+* Strong knowledge of Active Directory
+* Strong knowledge of cloud technologies
+* Experience producing solution designs, high-level designs (HLDs), and low-level designs (LLDs).
+* Experience performing threat modeling and security architecture reviews.
+* Cloud architecture experience, preferably with Microsoft Azure.
+* Experience with integration architecture and API design.
+* Experience mapping security controls to NIST, ISO 27001, CIS, and related frameworks.
+* Experience with Generative AI, LLMs, Agentic Frameworks.
+* Familiarity with Microsoft Copilot, Azure AI.
+* Experience with Microsoft Copilot Studio.
+* Experience with scripting languages, especially PowerShell
+* Strong knowledge of information security concepts and technologies
+* Understanding of cryptography standards
+* Knowledgeable in all ISO and/or ISC2 defined domains of security
+* Strong research skills
+* Experience with ServiceNow IT Service Management system desired
+* Experience with applying industry security standards such as NIST, ISO
+* Developing and testing execution of disaster recovery plans
+* Experience with 24x7 support a plus
+* Demonstrated team skills and integrity in a professional environment
+* Exceptional social, communication, and technical and general writing skills
+
+**Supervision Responsibilities:**
+
+* Applies a global mindset when leading teams, taking into consideration cultural differences, time zones and any other factors that may impede effective teaming.
+* Responsible for providing guidance to colleagues in global dispersed team where required through established coaching and feedback processes
+* Build and deploy high performance teams
+* Act as a visible role model
+* Establish process and standards for our team to follow as it pertains to service operation and continuity
+* Drive strategic initiatives
+* Demonstrate business acumen
+* Realize operational excellence
+* Support the foundations of service quality – be professional and consistent
+* Provide exceptional service to clients and stakeholders – be connected, responsive, and insightful
+* Promote and sustain effective risk management and compliance
+* On call with ability to work flexible schedule as needed to provide 24x7 support coverage
+
+**Job Requirements:**
+**Education:**
+
+* Bachelors or Masters Degree in Computer Science, Information Systems, Engineering or related field.
+
+**Experience:**
+**Required Qualifications**
+
+* 5–7+ years of IAM/PAM experience.
+* CyberArk design and implementation experience.
+* PowerShell or automation development experience.
+* Active Directory and cloud security experience.
+* Developing and maintaining privilege account management platforms, especially CyberArk
+* Developing and maintaining security application platforms, especially related to Identity and Access Management
+* Active Directory configuration, administration, and troubleshooting
+* Windows Server platform administration
+* Cloud technology configuration and administration
+* Scripting and writing PowerShell Cmdlets
+* Experience implementing AI solutions within regulated enterprise environments.
+
+**Preferred Qualifications**
+
+* AI solution development experience.
+* Enterprise architecture experience.
+* Microsoft Copilot Studio or Azure AI experience.
+* ServiceNow workflow development experience.
+
+**Certification Requirements:**
+
+* MCSA, CISSP, CISM or CISA, Cyberark Certifications is a plus
+
+**EY | Building a better working world**
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+  
+  
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+  
+  
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.","Professional Services","https://uk.linkedin.com/company/ernstandyoung","https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo","","","","","","","","","","",""
+"li-4487671371","linkedin","https://www.linkedin.com/jobs/view/4487671371","","Production Services Analyst","EY","Kochi, Kerala, India","2026-11-09","fulltime","","","","","",False,"associate","","","","At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+  
+  
+**Ernst &Young**
+**Job Description Support Role**
+**Job Title:**
+Production Services Analyst
+  
+  
+**Job Rank (must note a single rank only for each job description):**
+Senior Associate
+  
+  
+**Job Summary:**
+(Briefly describe the main objectives and purpose of the job. Why does the job exist? What is it expected to accomplish?)
+  
+  
+We are looking for an Application Operations/Product Specialist. As the Application Specialist, you will be responsible to perform operational and Level 3 supports for production applications. You will also involve the daily management of incidents, operational maintenance and support, development support, and proactive or preventative analysis of systems. You should able to demonstrate knowledge of key business processes, products and services, within agreed areas of expertise. The role also includes coordinating with application teams to remediate system and application vulnerabilities identified by the Global Vulnerability Management team.
+  
+  
+**Essential Functions of the Job:**
+**(Identify and describe essential functions, or primary duties and responsibilities. Assume that the reader does not know the role or function of the job.)**
+In your role as an Application Operations/Product Specialist you will be involved in:
+  
+  
+
+* Re-creation, analysis, troubleshooting, and diagnosis of incidents relating to off-the-shelf and proprietary applications and/or platforms;
+* To determine root cause of incidents (configuration vs defect);
+* Liaison with appropriate teams for the development of corrective actions or viable workarounds to resolve incidents;
+* Installation of applications in supported environments;
+* Deployment of application upgrades and fixes;
+* Responding to automated alerts on the health of systems;
+* Executing scheduled or unscheduled tasks relating to operational maintenance and monitoring of applications;
+* Performing routine audits of systems for the purpose of preventative maintenance of applications and reporting on their status;
+* Adhere to EY and ITIL guidelines for Incident, Problem and Change Management;
+* Effective call management including logging, monitoring/updating, prioritizing and resolving calls in a timely fashion;
+* Ensures all work is carried out and documented in accordance with required standards, methods and procedures;
+* Selects appropriately from applicable standards, methods, tools and applications and use accordingly;
+* Demonstrates analytical and systematic approach to problem solving;
+* Communicates fluently orally and in writing and can present complex technical information to both technical and non-technical audiences;
+* Plan, schedule and monitor work activities in order to meet time and quality targets;
+* Absorb rapidly new technical information, business acumen, and apply it effectively;
+* Address system and application vulnerabilities identified by the Global Vulnerability Management team, working collaboratively with the application team to remediate them in a timely manner;
+
+**Analytical/Decision Making Responsibilities:**
+**(Describe the kind of problems and challenges typically faced, and decisions required to perform the job, as well as recommendations made to supervisors or others. Focus on the nature of existing policies, precedents and procedures used to guide decisions, and the degree to which the incumbent is free to make decisions requiring interpretation and judgment. Provide an example.)**
+
+* Applies judgment in implementing application support tasks
+* Sound analytical skills and problem-solving skills needed to manage multiple technical challenges simultaneously when needed.
+* Ability to understand business requirements and their relation to support activities
+* Proactively identifies and addresses technical strengths, weaknesses, opportunities, and threats.
+* Takes accountability for quality technical deliverables and responsibilities.
+
+**Knowledge and Skills Requirements:**
+**(Describe the knowledge or skills needed to perform this job; these may be technical, managerial or behavioral in nature.)**
+
+* Knowledge of .NET framework 4.0 and above
+* Full stack front end Technology : HTML , Jquery , java script
+* Experience with web development frameworks - C# ,MVC and Bootstrap
+* Demonstrable Intermediate to Advanced knowledge of web platform such as IIS, SSL, SFTP, etc
+* Good knowledge in SQL Server 2019, SSIS, SQL Reporting Services
+* General knowledge of Oracle 19c
+* Familiarity with SQL DBMS interface and integrated tools
+* Demonstrable knowledge of Windows 2019 server O/S
+* Knowledge of troubleshooting tools and techniques related to networks and systems i.e. remote access tools, Windows Support tools, connectivity tests, etc
+* Experience in supporting applications in shared or virtual environments
+* Ability to make appropriate technical decisions regarding service restoration i.e. rebooting servers, engaging other teams, etc
+
+**Other Requirements:**
+(Describe other functions or expectations of the job such as whether overtime is regularly required (e.g., during busy season?), whether there are particular times of the year that vacation may not be taken, whether there is frequent travel, whether there are any physical requirements beyond those expected in a normal office environment or any other miscellaneous things about the job that should be made known.)
+  
+  
+**Requirements of this role;**
+
+* Flexibility in scheduling with a willingness to work extra non-standard hours.
+* Ability to work well within a multi-disciplinary team structure, but also independently
+* Strong interpersonal and verbal and written communication skills
+* Ability to meet agreed deadlines, with demonstrable Productivity (Incident Completions etc)
+* Culturally diverse and inclusive
+* Required to work in a virtual Environment
+
+**Job Requirements:**
+**Education:**
+(What is the minimum level of education needed/suggested to perform this job?)
+  
+  
+
+* Degree in Computer Science or related discipline.
+* Further or Higher education standard qualification.
+* Fluent in English language, written and verbal
+
+**Experience:**
+(What is minimum number of years needed/suggested to perform this job?)
+  
+  
+
+* 3+ years of experience in Operational Support environment/discipline
+
+**Certification Requirements:**
+(Describe and explain any certifications and/or licenses needed or helpful to perform this job).
+  
+  
+**EY | Building a better working world**
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+  
+  
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+  
+  
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.","Professional Services","https://uk.linkedin.com/company/ernstandyoung","https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo","","","","","","","","","","",""
+"li-4487662558","linkedin","https://www.linkedin.com/jobs/view/4487662558","","Production Services Analyst","EY","Trivandrum, Kerala, India","2026-11-09","fulltime","","","","","",False,"associate","","","","At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+  
+  
+**Ernst &Young**
+**Job Description Support Role**
+**Job Title:**
+Production Services Analyst
+  
+  
+**Job Rank (must note a single rank only for each job description):**
+Senior Associate
+  
+  
+**Job Summary:**
+(Briefly describe the main objectives and purpose of the job. Why does the job exist? What is it expected to accomplish?)
+  
+  
+We are looking for an Application Operations/Product Specialist. As the Application Specialist, you will be responsible to perform operational and Level 3 supports for production applications. You will also involve the daily management of incidents, operational maintenance and support, development support, and proactive or preventative analysis of systems. You should able to demonstrate knowledge of key business processes, products and services, within agreed areas of expertise. The role also includes coordinating with application teams to remediate system and application vulnerabilities identified by the Global Vulnerability Management team.
+  
+  
+**Essential Functions of the Job:**
+**(Identify and describe essential functions, or primary duties and responsibilities. Assume that the reader does not know the role or function of the job.)**
+In your role as an Application Operations/Product Specialist you will be involved in:
+  
+  
+
+* Re-creation, analysis, troubleshooting, and diagnosis of incidents relating to off-the-shelf and proprietary applications and/or platforms;
+* To determine root cause of incidents (configuration vs defect);
+* Liaison with appropriate teams for the development of corrective actions or viable workarounds to resolve incidents;
+* Installation of applications in supported environments;
+* Deployment of application upgrades and fixes;
+* Responding to automated alerts on the health of systems;
+* Executing scheduled or unscheduled tasks relating to operational maintenance and monitoring of applications;
+* Performing routine audits of systems for the purpose of preventative maintenance of applications and reporting on their status;
+* Adhere to EY and ITIL guidelines for Incident, Problem and Change Management;
+* Effective call management including logging, monitoring/updating, prioritizing and resolving calls in a timely fashion;
+* Ensures all work is carried out and documented in accordance with required standards, methods and procedures;
+* Selects appropriately from applicable standards, methods, tools and applications and use accordingly;
+* Demonstrates analytical and systematic approach to problem solving;
+* Communicates fluently orally and in writing and can present complex technical information to both technical and non-technical audiences;
+* Plan, schedule and monitor work activities in order to meet time and quality targets;
+* Absorb rapidly new technical information, business acumen, and apply it effectively;
+* Address system and application vulnerabilities identified by the Global Vulnerability Management team, working collaboratively with the application team to remediate them in a timely manner;
+
+**Analytical/Decision Making Responsibilities:**
+**(Describe the kind of problems and challenges typically faced, and decisions required to perform the job, as well as recommendations made to supervisors or others. Focus on the nature of existing policies, precedents and procedures used to guide decisions, and the degree to which the incumbent is free to make decisions requiring interpretation and judgment. Provide an example.)**
+
+* Applies judgment in implementing application support tasks
+* Sound analytical skills and problem-solving skills needed to manage multiple technical challenges simultaneously when needed.
+* Ability to understand business requirements and their relation to support activities
+* Proactively identifies and addresses technical strengths, weaknesses, opportunities, and threats.
+* Takes accountability for quality technical deliverables and responsibilities.
+
+**Knowledge and Skills Requirements:**
+**(Describe the knowledge or skills needed to perform this job; these may be technical, managerial or behavioral in nature.)**
+
+* Knowledge of .NET framework 4.0 and above
+* Full stack front end Technology : HTML , Jquery , java script
+* Experience with web development frameworks - C# ,MVC and Bootstrap
+* Demonstrable Intermediate to Advanced knowledge of web platform such as IIS, SSL, SFTP, etc
+* Good knowledge in SQL Server 2019, SSIS, SQL Reporting Services
+* General knowledge of Oracle 19c
+* Familiarity with SQL DBMS interface and integrated tools
+* Demonstrable knowledge of Windows 2019 server O/S
+* Knowledge of troubleshooting tools and techniques related to networks and systems i.e. remote access tools, Windows Support tools, connectivity tests, etc
+* Experience in supporting applications in shared or virtual environments
+* Ability to make appropriate technical decisions regarding service restoration i.e. rebooting servers, engaging other teams, etc
+
+**Other Requirements:**
+(Describe other functions or expectations of the job such as whether overtime is regularly required (e.g., during busy season?), whether there are particular times of the year that vacation may not be taken, whether there is frequent travel, whether there are any physical requirements beyond those expected in a normal office environment or any other miscellaneous things about the job that should be made known.)
+  
+  
+**Requirements of this role;**
+
+* Flexibility in scheduling with a willingness to work extra non-standard hours.
+* Ability to work well within a multi-disciplinary team structure, but also independently
+* Strong interpersonal and verbal and written communication skills
+* Ability to meet agreed deadlines, with demonstrable Productivity (Incident Completions etc)
+* Culturally diverse and inclusive
+* Required to work in a virtual Environment
+
+**Job Requirements:**
+**Education:**
+(What is the minimum level of education needed/suggested to perform this job?)
+  
+  
+
+* Degree in Computer Science or related discipline.
+* Further or Higher education standard qualification.
+* Fluent in English language, written and verbal
+
+**Experience:**
+(What is minimum number of years needed/suggested to perform this job?)
+  
+  
+
+* 3+ years of experience in Operational Support environment/discipline
+
+**Certification Requirements:**
+(Describe and explain any certifications and/or licenses needed or helpful to perform this job).
+  
+  
+**EY | Building a better working world**
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+  
+  
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+  
+  
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.","Professional Services","https://uk.linkedin.com/company/ernstandyoung","https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo","","","","","","","","","","",""
+"li-4487660657","linkedin","https://www.linkedin.com/jobs/view/4487660657","","Production Services Analyst","EY","Gurugram, Haryana, India","2026-11-09","","","","","","",False,"","","","","","","https://uk.linkedin.com/company/ernstandyoung","","","","","","","","","","","",""
+"li-4487659581","linkedin","https://www.linkedin.com/jobs/view/4487659581","","Production Services Analyst","EY","Bengaluru, Karnataka, India","2026-11-09","fulltime","","","","","",False,"associate","","","","At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+  
+  
+**Ernst &Young**
+**Job Description Support Role**
+**Job Title:**
+Production Services Analyst
+  
+  
+**Job Rank (must note a single rank only for each job description):**
+Senior Associate
+  
+  
+**Job Summary:**
+(Briefly describe the main objectives and purpose of the job. Why does the job exist? What is it expected to accomplish?)
+  
+  
+We are looking for an Application Operations/Product Specialist. As the Application Specialist, you will be responsible to perform operational and Level 3 supports for production applications. You will also involve the daily management of incidents, operational maintenance and support, development support, and proactive or preventative analysis of systems. You should able to demonstrate knowledge of key business processes, products and services, within agreed areas of expertise. The role also includes coordinating with application teams to remediate system and application vulnerabilities identified by the Global Vulnerability Management team.
+  
+  
+**Essential Functions of the Job:**
+**(Identify and describe essential functions, or primary duties and responsibilities. Assume that the reader does not know the role or function of the job.)**
+In your role as an Application Operations/Product Specialist you will be involved in:
+  
+  
+
+* Re-creation, analysis, troubleshooting, and diagnosis of incidents relating to off-the-shelf and proprietary applications and/or platforms;
+* To determine root cause of incidents (configuration vs defect);
+* Liaison with appropriate teams for the development of corrective actions or viable workarounds to resolve incidents;
+* Installation of applications in supported environments;
+* Deployment of application upgrades and fixes;
+* Responding to automated alerts on the health of systems;
+* Executing scheduled or unscheduled tasks relating to operational maintenance and monitoring of applications;
+* Performing routine audits of systems for the purpose of preventative maintenance of applications and reporting on their status;
+* Adhere to EY and ITIL guidelines for Incident, Problem and Change Management;
+* Effective call management including logging, monitoring/updating, prioritizing and resolving calls in a timely fashion;
+* Ensures all work is carried out and documented in accordance with required standards, methods and procedures;
+* Selects appropriately from applicable standards, methods, tools and applications and use accordingly;
+* Demonstrates analytical and systematic approach to problem solving;
+* Communicates fluently orally and in writing and can present complex technical information to both technical and non-technical audiences;
+* Plan, schedule and monitor work activities in order to meet time and quality targets;
+* Absorb rapidly new technical information, business acumen, and apply it effectively;
+* Address system and application vulnerabilities identified by the Global Vulnerability Management team, working collaboratively with the application team to remediate them in a timely manner;
+
+**Analytical/Decision Making Responsibilities:**
+**(Describe the kind of problems and challenges typically faced, and decisions required to perform the job, as well as recommendations made to supervisors or others. Focus on the nature of existing policies, precedents and procedures used to guide decisions, and the degree to which the incumbent is free to make decisions requiring interpretation and judgment. Provide an example.)**
+
+* Applies judgment in implementing application support tasks
+* Sound analytical skills and problem-solving skills needed to manage multiple technical challenges simultaneously when needed.
+* Ability to understand business requirements and their relation to support activities
+* Proactively identifies and addresses technical strengths, weaknesses, opportunities, and threats.
+* Takes accountability for quality technical deliverables and responsibilities.
+
+**Knowledge and Skills Requirements:**
+**(Describe the knowledge or skills needed to perform this job; these may be technical, managerial or behavioral in nature.)**
+
+* Knowledge of .NET framework 4.0 and above
+* Full stack front end Technology : HTML , Jquery , java script
+* Experience with web development frameworks - C# ,MVC and Bootstrap
+* Demonstrable Intermediate to Advanced knowledge of web platform such as IIS, SSL, SFTP, etc
+* Good knowledge in SQL Server 2019, SSIS, SQL Reporting Services
+* General knowledge of Oracle 19c
+* Familiarity with SQL DBMS interface and integrated tools
+* Demonstrable knowledge of Windows 2019 server O/S
+* Knowledge of troubleshooting tools and techniques related to networks and systems i.e. remote access tools, Windows Support tools, connectivity tests, etc
+* Experience in supporting applications in shared or virtual environments
+* Ability to make appropriate technical decisions regarding service restoration i.e. rebooting servers, engaging other teams, etc
+
+**Other Requirements:**
+(Describe other functions or expectations of the job such as whether overtime is regularly required (e.g., during busy season?), whether there are particular times of the year that vacation may not be taken, whether there is frequent travel, whether there are any physical requirements beyond those expected in a normal office environment or any other miscellaneous things about the job that should be made known.)
+  
+  
+**Requirements of this role;**
+
+* Flexibility in scheduling with a willingness to work extra non-standard hours.
+* Ability to work well within a multi-disciplinary team structure, but also independently
+* Strong interpersonal and verbal and written communication skills
+* Ability to meet agreed deadlines, with demonstrable Productivity (Incident Completions etc)
+* Culturally diverse and inclusive
+* Required to work in a virtual Environment
+
+**Job Requirements:**
+**Education:**
+(What is the minimum level of education needed/suggested to perform this job?)
+  
+  
+
+* Degree in Computer Science or related discipline.
+* Further or Higher education standard qualification.
+* Fluent in English language, written and verbal
+
+**Experience:**
+(What is minimum number of years needed/suggested to perform this job?)
+  
+  
+
+* 3+ years of experience in Operational Support environment/discipline
+
+**Certification Requirements:**
+(Describe and explain any certifications and/or licenses needed or helpful to perform this job).
+  
+  
+**EY | Building a better working world**
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+  
+  
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+  
+  
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.","Professional Services","https://uk.linkedin.com/company/ernstandyoung","https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo","","","","","","","","","","",""
+"li-4487659572","linkedin","https://www.linkedin.com/jobs/view/4487659572","","GDS Microsoft Frontier Innovation Solution Architect - Associate Director - India","EY","Kochi, Kerala, India","2026-11-09","fulltime","","","","","",False,"director","","","","At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+  
+  
+**Role Title: GDS Microsoft Frontier Innovation Solution Architect - Associate Director - India**
+**The opportunity**
+The Microsoft Alliance is one of EY’s most strategic ecosystem relationships, helping clients accelerate transformation through cloud, data, AI, automation, security and emerging technologies. Within this agenda, the Frontier Innovation team brings together EY’s industry knowledge and Microsoft’s technology capabilities to shape scalable, market-relevant solutions that respond to priority client needs and create new growth opportunities across global markets.
+  
+  
+We are seeking a senior, highly collaborative, technology-led and business-oriented Solution Architect / Strategist to provide global support to the Microsoft Frontier Innovation agenda. This role will help shape architecture direction, solution strategy, technical design standards, readiness criteria and scalable build approaches for prioritized Frontier Innovation initiatives. The individual will be expected to translate innovation concepts, alliance priorities and market opportunities into structured, technically sound and commercially relevant solution designs that can progress from ideation to build, activation and scale.
+  
+  
+This role is designed for an experienced professional who can connect business strategy with practical technology architecture and provide senior-level direction across complex, matrixed stakeholder groups. You will work closely with global alliance leadership, Microsoft stakeholders, regional teams, solution owners, service line and sector teams, architects, engineering teams, sales, marketing and GDS teams to ensure Frontier Innovation solutions are technically feasible, commercially relevant, governance-ready and positioned for market activation.
+  
+  
+This is an opportunity for a senior professional who enjoys working at the intersection of AI, cloud architecture, Microsoft technologies, alliances, solution design, global innovation and go-to-market growth. The role offers the opportunity to influence how EY and Microsoft shape, mature and scale the next generation of Frontier Innovation solutions across global priority markets.
+  
+  
+**Your Key Responsibilities**
+**Provide senior solution architecture leadership and strategic technical direction**
+
+* Lead architecture direction for the global Frontier Innovation portfolio, ensuring each solution has a clear strategic intent, technical scope, design assumptions, dependencies, integration considerations, delivery pathway and ownership model.
+* Translate global market priorities, client challenges and business requirements into pragmatic solution strategies, architecture choices and scalable implementation approaches.
+* Develop architecture blueprints, solution patterns, design principles and reusable components that support consistent solution build, adaptation and scale across regions.
+* Partner with solution owners, architects and technology stakeholders to validate technical feasibility, scalability, security, integration readiness, commercialization potential and operational handover requirements.
+* Ensure key technical and strategic decisions are supported by clear documentation, rationale, ownership, risks, assumptions and aligned next steps.
+
+**Shape AI, cloud and Microsoft solution strategy and architecture focus**
+
+* Shape the strategy, architecture and design of solutions powered by Microsoft technologies, including Azure, Copilot, AI Business Solutions, Cloud and AI Platforms, Security, data, automation and emerging technology priorities.
+* Evaluate Microsoft technology capabilities, platform patterns and architecture options to identify practical opportunities for global Frontier Innovation solutions.
+* Build visibility into AI-enabled solution concepts, including use cases, accelerators, demos, client-zero examples, architecture artifacts, solution assets and go-to-market readiness.
+* Promote responsible and practical adoption of AI by ensuring solution architecture discussions consider business value, risk, governance, data requirements, privacy, security, compliance and adoption needs.
+* Translate complex Microsoft architecture and technology themes into compelling, business-friendly narratives that can be used with global leadership, regional teams, sales and broader stakeholder groups.
+
+**Strengthen solution design governance and technical assurance**
+
+* Support solution design reviews, architecture walkthroughs and technical governance checkpoints across prioritized global Frontier Innovation initiatives.
+* Assess architecture readiness across key areas including solution scope, integration approach, data flow, security, scalability, performance, support model and operational handover.
+* Coordinate with alliance, technology, solution, delivery and commercial teams to maintain visibility across technical decisions, dependencies, risks and required actions.
+* Help assess whether solutions are progressing toward intended outcomes, including maturity, activation readiness, adoption potential, implementation feasibility and global market relevance.
+* Prepare concise, executive-ready leadership summaries on architecture status, technical risks, design decisions required, readiness gaps and recommended actions.
+
+**Lead global stakeholder alignment and senior collaboration**
+
+* Act as a senior connector across global alliance leadership, Microsoft field teams, regional stakeholders, solution owners, architects, service line leaders, sector stakeholders, sales, marketing and GDS support teams.
+* Support alignment across business, technology, delivery and go-to-market stakeholders so global priorities are translated into executable solution architecture actions.
+* Coordinate solution design workshops, architecture forums and leadership check-ins to ensure progress is visible, decision points are clear and follow-through is disciplined.
+* Proactively identify stakeholder gaps, ownership ambiguities, technical dependencies and cross-team risks that could impact solution build, readiness or market activation across regions.
+* Build trusted relationships across a complex global and regional stakeholder network, influencing senior outcomes through clarity, structure, credibility and practical problem solving.
+
+**Drive strategic architecture reporting, insights and readiness tracking**
+
+* Develop and maintain architecture trackers, solution readiness summaries and executive views that provide clear visibility into global Frontier Innovation solution health and technical progress.
+* Monitor key indicators related to solution maturity, architecture readiness, integration dependencies, technical risk, asset completeness, activation readiness and business outcomes.
+* Analyze trends across solution architecture activities and provide practical recommendations to improve solution design, governance, reuse and go-to-market impact.
+* Prepare materials for leadership reviews, monthly business reviews, quarterly business reviews and other global governance forums.
+* Use data, architecture inputs and stakeholder feedback to tell a clear executive story on where solutions are progressing well, where support is required and where leadership decisions are needed.
+
+**Enable global Frontier Innovation activation readiness and market outcomes**
+
+* Work with sales, marketing, regional and solution teams to support activation planning for prioritized Frontier Innovation solutions.
+* Track readiness of key technical and solution assets such as demos, architecture diagrams, credentials, case studies, sales collateral, enablement material, marketplace content and client-facing narratives.
+* Help identify opportunities to scale successful Microsoft-powered solutions across priority accounts, sectors, service lines and regions.
+* Support coordination of global and region-specific enablement activities so client-facing teams understand the solution architecture, value proposition and activation pathway.
+* Ensure architecture-level insights and lessons learned are fed back into solution teams to strengthen commercialization, adoption, reuse and governance discipline.
+
+**Skills And Attributes For Success**
+We are looking for someone who brings a strong balance of technical depth, solution architecture discipline, strategic thinking, senior stakeholder influence and execution orientation. The successful candidate will be comfortable working across leadership audiences, evolving Microsoft technologies and complex global solution landscapes while maintaining a practical focus on scalable design, decision clarity, execution readiness and measurable outcomes.
+  
+  
+
+* Deep solution architecture, technical design and architecture governance experience, preferably across cloud, AI, data, automation, security or digital transformation solution portfolios.
+* Ability to translate global business priorities, client needs and market opportunities into scalable Microsoft-powered solution architectures and practical implementation approaches.
+* Strong understanding of Microsoft solution areas and ecosystem themes, including Azure, Copilot, AI Business Solutions, Cloud and AI Platforms, Security, data, automation and emerging technologies.
+* Strong communication skills, including the ability to simplify complex architecture and technology information for senior leadership, business stakeholders and client-facing teams.
+* Ability to influence without authority and build alignment across senior, matrixed alliance, technology, delivery, regional and commercial teams.
+* Strong analytical capability with experience developing architecture artifacts, readiness trackers, executive summaries, technical narratives, decision papers and governance materials.
+* High attention to detail, strong follow-through and the ability to manage multiple priorities in a fast-paced, ambiguous and globally matrixed environment.
+* Curiosity, adaptability and a genuine interest in innovation-led growth, responsible AI and Microsoft technology transformation.
+
+**To qualify for the role, you must have**
+
+* 15+ years of relevant professional experience in solution architecture, technology consulting, enterprise architecture, cloud architecture, digital transformation, innovation management, technology program enablement or strategic technology operations.
+* Experience designing, shaping or advising on complex cross-functional technology solutions across regional or global stakeholder groups.
+* Experience with architecture governance, technical design documentation, solution readiness tracking, architecture reviews, risk identification and performance management.
+* Strong stakeholder management and communication skills, including experience preparing executive-ready materials, leadership updates and business-friendly technical narratives.
+* Ability to manage multiple priorities, identify technical risks early and drive structured follow-through in a fast-paced global environment.
+* Experience working with technology-enabled transformation, cloud, AI, automation, data, security or digital solution portfolios.
+* Graduate or postgraduate degree in technology, engineering, computer science, business, innovation management or a related discipline.
+
+**Preferred Experience**
+
+* Strong exposure to Microsoft ecosystem programs and solution areas, including Azure, Copilot, AI Business Solutions, Cloud and AI Platforms, Security, data, automation or related technologies.
+* Experience in alliance management, co-sell motions, Frontier Innovation programs, solution strategy, marketplace offerings or technology partner ecosystems.
+* Experience supporting global, multi-region or cross-market business priorities in a professional services, consulting, technology or global delivery environment.
+* Experience working with architecture patterns, solution blueprints, reusable assets, demos, accelerators, solution readiness frameworks or technical governance models.
+* Experience engaging senior business and technology stakeholders to shape priorities, resolve design trade-offs and drive decisions across global programs.
+* Understanding solution commercialization, go-to-market activation, architecture governance, innovation lifecycle management and market readiness.
+* Familiarity with responsible AI, data privacy, security, compliance and governance considerations in solution design and technology activation.
 
 **What We Offer**
+EY Global Delivery Services (GDS) is a dynamic global delivery network that plays a vital role in advancing EY’s growth strategy. Working across locations including Argentina, China, India, the Philippines, Poland and the UK, GDS teams collaborate with EY service lines, geographies and sectors to deliver high-quality work for clients around the world. In GDS, you will have the opportunity to contribute to meaningful projects, collaborate with diverse teams and build capabilities across an expanding ecosystem of people, learning, technology and insights that support long-term career growth.
+  
+  
 
-* Opportunity to work on high-scale consumer product systems where testing quality directly impacts customer, delivery-partner, and merchant experience.
-* A hands-on SDET track covering APIs, services, web/mobile automation, SQL validation, cloud-aware debugging, and release-quality ownership.
-* Close collaboration with engineering and product stakeholders on real debugging and quality-engineering problems rather than only manual test execution.
-* Compensation aligned to the approved budget band, with final offer subject to Swiggy and Flexiple screening outcomes.
+* Continuous learning: Develop the mindset, skills and confidence to adapt, grow and navigate what comes next.
+* Success, as defined by you: Access the tools, flexibility and support to make a meaningful impact in the way that works best for you.
+* Transformative leadership: Gain insights, coaching and experiences that help you grow into the leader the world needs.
+* Diverse and inclusive culture: Be valued for who you are and empowered to use your voice to help others find theirs.
 
-**Hiring Process**
-
-* Internal HM Review assesses your Java automation, API testing and product-quality experience.
-* Flexiple Interview discusses your hands-on test implementation, debugging approach, web/mobile automation and collaboration examples.
-* Profile Shortlisting reviews alignment with the SDE I - SDET requirements.
-
-**Originally posted on:**
-14 Oct 2026","Staffing and Recruiting","https://www.linkedin.com/company/flexipletech","https://media.licdn.com/dms/image/v2/D560BAQGgWu7mPc9m1Q/company-logo_100_100/company-logo_100_100/0/1724216885400/flexiple_logo?e=2147483647&v=beta&t=zfUBYQ07CTdm0T4IG-m6Uv6S9XTB313H4QUPEwEJpvs","","","","","","","","","","",""
+**EY | Building a better working world**
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+  
+  
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+  
+  
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.","Professional Services","https://uk.linkedin.com/company/ernstandyoung","https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_100_100/company-logo_100_100/0/1630570672166/ernstandyoung_logo?e=2147483647&v=beta&t=b0upZAfAhCLoq3ru166xwEzp681OHwS_p2jRguRs5Fo","","","","","","","","","","",""
